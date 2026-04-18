@@ -1,0 +1,12 @@
+node_modules/
+mobile/node_modules/
+.expo/
+mobile/.expo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+__pycache__/
+*.pyc
+mobile/android/
+mobile/ios/

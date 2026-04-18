@@ -1,0 +1,46 @@
+name: News Update Pipeline
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r pipeline/requirements.txt
+        
+    - name: Run pipeline
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        python pipeline/main.py
+        
+    - name: Commit and Push static JSON
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git fetch origin
+        
+        # Checkout gh-pages branch or create it if not exists.
+        git checkout --orphan gh-pages || git checkout gh-pages
+        
+        # Remove everything in the branch except the new json
+        git rm -rf . || true
+        cp public_data/latest_news.json ./latest_news.json
+        git add latest_news.json
+        
+        git commit -m "chore: auto-update latest news [skip ci]" || echo "No changes to commit"
+        git push -f origin gh-pages
