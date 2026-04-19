@@ -1,0 +1,101 @@
+{
+  "last_updated": "2026-04-19T00:06:39.437882+00:00",
+  "articles": [
+    {
+      "category": "정치",
+      "outlet": "연합뉴스",
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260419085906bnU",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:59:07 +0900"
+    },
+    {
+      "category": "정치",
+      "outlet": "연합뉴스",
+      "title": "다음 주 영국서 '호르무즈 다국적군' 회의…군 \"참여 검토\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260419084506vOF",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:45:38 +0900"
+    },
+    {
+      "category": "정치",
+      "outlet": "연합뉴스",
+      "title": "이 대통령, 인도·베트남 순방…경제안보 영토 확장 시동",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604190824540mt",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:25:28 +0900"
+    },
+    {
+      "category": "경제",
+      "outlet": "매일경제",
+      "title": "“여드름 싹 사라졌다?” SNS에서 추천한 그 연고…정말 좋을까 [MK약국x약들약]",
+      "link": "https://www.mk.co.kr/news/it/12020885",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:59:12 +09:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "매일경제",
+      "title": "이 대통령, 인도·베트남 순방 출국…에너지·공급망 협력 집중",
+      "link": "https://www.mk.co.kr/news/politics/12020879",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:36:59 +09:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "매일경제",
+      "title": "“5분만 40억 팔았다”…여에스더, 중국서 영양제 완판",
+      "link": "https://www.mk.co.kr/news/culture/12020874",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 08:08:40 +09:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "[FDE 급부상] 팔란티어 시작하고 오픈AI·구글 가세…채용공고 800% 증가",
+      "link": "https://www.etnews.com/20260419000009",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 09:00:00 +0900"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "[FDE 급부상] 'FDE' 도입이 AX 필승 전략?…“성공 조건 따로 있다”",
+      "link": "https://www.etnews.com/20260419000008",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 09:00:00 +0900"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "AX 현장에 엔지니어 '전진배치'…팔란티어가 띄운 'FDE', 韓도 확산",
+      "link": "https://www.etnews.com/20260417000277",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 19 Apr 2026 09:00:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 18 Apr 2026 21:19:46 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 18 Apr 2026 18:09:57 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 18 Apr 2026 16:44:39 GMT"
+    }
+  ]
+}
