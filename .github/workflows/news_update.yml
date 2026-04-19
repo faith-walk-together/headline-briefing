@@ -2,18 +2,23 @@ name: News Update Pipeline
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '0 */12 * * *' # Every 12 hours
   workflow_dispatch: # Allow manual trigger
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
         
@@ -28,19 +33,11 @@ jobs:
       run: |
         python pipeline/main.py
         
-    - name: Commit and Push static JSON
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git fetch origin
-        
-        # Checkout gh-pages branch or create it if not exists.
-        git checkout --orphan gh-pages || git checkout gh-pages
-        
-        # Remove everything in the branch except the new json
-        git rm -rf . || true
-        cp public_data/latest_news.json ./latest_news.json
-        git add latest_news.json
-        
-        git commit -m "chore: auto-update latest news [skip ci]" || echo "No changes to commit"
-        git push -f origin gh-pages
+    - name: Deploy static JSON to gh-pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public_data
+        publish_branch: gh-pages
+        keep_files: false
+        commit_message: "chore: auto-update latest news [skip ci]"
