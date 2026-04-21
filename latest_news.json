@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-20T13:21:23.418830+00:00",
+  "last_updated": "2026-04-21T02:08:44.266913+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김혜경 여사, 인도 K팝 축제 참석…\"K팝으로 하나 되길\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260420213813TBA",
+      "title": "한중 경제공동위 개최…\"공급망 관리 필요\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260421110719Rn8",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 21:38:15 +0900"
+      "pub_date": "Tue, 21 Apr 2026 11:07:33 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 신현송 한국은행 총재 임명안 재가…내일자 발령",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260420211156KLL",
+      "title": "외교·국방 미주지역 방산협력 논의…'캐나다 잠수함' 선정 노력",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260421110710cGs",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 21:11:57 +0900"
+      "pub_date": "Tue, 21 Apr 2026 11:07:10 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"구성 핵시설 이미 알려진 사실…정동영 누설 주장 잘못\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260420210242JIP",
+      "title": "민주, 재보선 전략배치 주목…장동혁 방미 후폭풍",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260421110450gB1",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 21:02:44 +0900"
+      "pub_date": "Tue, 21 Apr 2026 11:05:36 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] “쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓”",
-      "link": "https://www.mk.co.kr/news/world/12022274",
+      "title": "한병도 원내대표 원내대책회의 발언",
+      "link": "https://www.mk.co.kr/news/politics/12022662",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 22:15:02 +09:00"
+      "pub_date": "Tue, 21 Apr 2026 11:07:54 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘포토샵’ 어도비의 AI 에이전트 승부수… 챗GPT·클로드·제미나이 다 품었다",
-      "link": "https://www.mk.co.kr/news/it/12021660",
+      "title": "한병도 원내대표 원내대책회의 발언",
+      "link": "https://www.mk.co.kr/news/politics/12022661",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 22:00:00 +09:00"
+      "pub_date": "Tue, 21 Apr 2026 11:07:37 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "직접 세일즈 나선 이재용 … 배터리 영토 넓혔다",
-      "link": "https://www.mk.co.kr/news/business/12022260",
+      "title": "장기보유특별공제 폐지 움직임 비판 발언하는 송언석 원내대표",
+      "link": "https://www.mk.co.kr/news/politics/12022660",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 21:43:13 +09:00"
+      "pub_date": "Tue, 21 Apr 2026 11:06:56 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "한-인도 포럼, 전기차 공동개발·72.9억 달러 철강 합작",
-      "link": "https://www.etnews.com/20260420000496",
+      "title": "송언석 “장특공 폐지는 재산 강탈…즉각 중단하라”",
+      "link": "https://www.etnews.com/20260421000163",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 21:27:13 +0900"
+      "pub_date": "Tue, 21 Apr 2026 10:59:48 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“호르무즈 봉쇄 뚫은 100만배럴 유조선, 내달 8일 한국 입항”",
-      "link": "https://www.etnews.com/20260420000493",
+      "title": "코스피, 6355선 돌파…반도체·2차전지 강세에 새 역사",
+      "link": "https://www.etnews.com/20260421000131",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 20:55:38 +0900"
+      "pub_date": "Tue, 21 Apr 2026 10:38:47 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "일본 혼슈 동쪽 해역서 규모 7.5 강진…“쓰나미, 도망가라” 긴급 방송",
-      "link": "https://www.etnews.com/20260420000492",
+      "title": "中 산안광전, '애플 공급망' 루미레즈 인수 무산",
+      "link": "https://www.etnews.com/20260421000129",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 20:49:54 +0900"
+      "pub_date": "Tue, 21 Apr 2026 10:37:18 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+      "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 12:56:03 GMT"
+      "pub_date": "Mon, 20 Apr 2026 21:52:12 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "title": "Apple names new chief executive to replace Tim Cook",
+      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 20 Apr 2026 11:23:04 GMT"
+      "pub_date": "Mon, 20 Apr 2026 22:55:39 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 19 Apr 2026 21:09:06 GMT"
+      "pub_date": "Mon, 20 Apr 2026 23:22:17 GMT"
     }
   ]
 }
