@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-21T13:16:25.897449+00:00",
+  "last_updated": "2026-04-22T02:07:05.007746+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주, 조작기소 특검 추진 예고…국힘, 이종석 위증 고발",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260421212303mKA",
+      "title": "정청래 \"김경수, 필승카드\"…장동혁 면전서 또 '쓴소리'",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260422105820D58",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 21:23:46 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:58:56 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[현장영상] 이 대통령, 베트남 도착…3박 4일 일정 시작",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260421210802oBQ",
+      "title": "김진태, 장동혁 면전 쓴소리…\"뉴스 보면 가슴 철렁\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260422104805oyE",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 21:08:35 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:48:06 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 공관위 \"전북지사 후보 추가 공모에 1명 신청\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260421205504Wnx",
+      "title": "장동혁 측 \"밴스 만나려 백악관 들어갔지만 회의로 불발\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260422102807Peb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 20:55:05 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:28:09 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "중국의 20배 ‘대박’…충북 영동에 ‘세계 최대 규모’ 희귀 광물 매장",
-      "link": "https://www.mk.co.kr/news/society/12023412",
+      "title": "“늑구 밥을 왜 그릇에 안주냐”…누리꾼 극성에 해명 나선 오월드 [영상]",
+      "link": "https://www.mk.co.kr/news/society/12023835",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 22:09:15 +09:00"
+      "pub_date": "Wed, 22 Apr 2026 11:03:09 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "8개월만에 '또럼' 또 만나는 李 … 인프라·방산 협력",
-      "link": "https://www.mk.co.kr/news/politics/12023382",
+      "title": "신소재로 B2B 시장 공략…LG전자, 악취·오염 막는 ‘퓨로텍’ 생산 확대",
+      "link": "https://www.mk.co.kr/news/business/12023832",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 22:00:00 +09:00"
+      "pub_date": "Wed, 22 Apr 2026 11:00:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "성인물 배우, 변호사 됐다…멘사회원·교육석사 의외의 이력 눈길",
-      "link": "https://www.mk.co.kr/news/society/12023402",
+      "title": "외국인 필수 코스된 ‘K패션 성지’ 무신사, 이젠 K뷰티도 나선다",
+      "link": "https://www.mk.co.kr/news/business/12023831",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 21:50:59 +09:00"
+      "pub_date": "Wed, 22 Apr 2026 10:59:47 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“중동발 유가쇼크” 세계가 기름값 올릴때…中, 휘발유·경유 가격 내렸다",
-      "link": "https://www.etnews.com/20260421000458",
+      "title": "“코끼리 쏘느니 죽겠다더니”… 사파리 운영자, 결국 코끼리 돌진에 숨져",
+      "link": "https://www.etnews.com/20260421000410",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 21:23:14 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:45:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "귀에 거는 이어폰?… 삼성, 클립형 이어폰 출시하나",
-      "link": "https://www.etnews.com/20260421000383",
+      "title": "“기름값 폭등에 허리 휘는데”…펫 목걸이에 2억 쓰는 뉴욕 상류층",
+      "link": "https://www.etnews.com/20260422000123",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 17:15:00 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:31:03 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "중기부, 중소제조·스타트업에 GPU 264장 공급…“물량 부족” 업계 지적도",
-      "link": "https://www.etnews.com/20260421000264",
+      "title": "이스라엘군, '예수상' 망치로 부순 병사에 '보직 해임·구금'",
+      "link": "https://www.etnews.com/20260422000109",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 17:00:00 +0900"
+      "pub_date": "Wed, 22 Apr 2026 10:17:24 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 11:37:11 GMT"
+      "pub_date": "Wed, 22 Apr 2026 00:32:10 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+      "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 12:28:31 GMT"
+      "pub_date": "Wed, 22 Apr 2026 01:10:49 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran sees mass redundancies from war with US and Israel",
+      "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 21 Apr 2026 10:13:54 GMT"
+      "pub_date": "Tue, 21 Apr 2026 16:05:51 GMT"
     }
   ]
 }
