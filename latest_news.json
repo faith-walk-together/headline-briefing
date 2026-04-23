@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-23T02:10:46.774885+00:00",
+  "last_updated": "2026-04-23T13:18:25.360600+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주, 재보선 전략공천 주목…장동혁 '기강' 잡기",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260423110729Ytf",
+      "title": "외교부, 美 의원 '쿠팡 서한'에 \"차별 없어\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604232130075Lb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:08:12 +0900"
+      "pub_date": "Thu, 23 Apr 2026 21:30:28 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 \"대북송금 사건, 조작 넘어 창작…끝까지 밝혀내겠다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260423110300Z9Z",
+      "title": "인천 연수갑에 송영길 전략공천…계양을 김남준 낙점",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260423212507TdV",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:03:01 +0900"
+      "pub_date": "Thu, 23 Apr 2026 21:25:35 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주, '실수로 해약한 예적금 복구' 등 '착!붙 공약' 추가 발표",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260423110047XaQ",
+      "title": "이 대통령 국정 지지율 69%…국힘 15% 역대 최저치",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260423212142P49",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:00:49 +0900"
+      "pub_date": "Thu, 23 Apr 2026 21:21:59 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "김부겸 대구시장 후보 “2028년 총선서 통합단체장 선출, 행정통합 주민투표할 것”",
-      "link": "https://www.mk.co.kr/news/politics/12025062",
+      "title": "두산에너빌리티, 베트남 신규원전 참여 교두보 마련...공급망 구축 본격화",
+      "link": "https://www.mk.co.kr/news/business/12025793",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:08:08 +09:00"
+      "pub_date": "Thu, 23 Apr 2026 22:00:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 이 대통령 지지율 69%…민주 48%·국힘 15% [NBS]",
-      "link": "https://www.mk.co.kr/news/politics/12025058",
+      "title": "포스코퓨처엠 베트남 음극재 투자 본격화...하노이서 투자 승인 확보",
+      "link": "https://www.mk.co.kr/news/business/12025231",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:03:51 +09:00"
+      "pub_date": "Thu, 23 Apr 2026 22:00:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "수영만 요트경기장 길냥이들 새집 마련… 민관협력으로 의미 더해",
-      "link": "https://www.mk.co.kr/news/society/12025059",
+      "title": "8년간 10조어치 해먹은 식품업계…소비자 등치고 “휴대폰 파쇄기 넣자”",
+      "link": "https://www.mk.co.kr/news/society/12025840",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:03:51 +09:00"
+      "pub_date": "Thu, 23 Apr 2026 21:57:30 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[마켓트렌드] “경험을 팝니다” 유통업계, 팝업스토어 전성시대",
-      "link": "https://www.etnews.com/20260423000103",
+      "title": "30억 받는다더디, 이란에 호르무즈 통행료 첫 예치…“돈 안 내면 나포”",
+      "link": "https://www.etnews.com/20260423000500",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 11:00:00 +0900"
+      "pub_date": "Thu, 23 Apr 2026 20:57:54 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "아이폰18, 결국 스펙 후퇴…GPU·디스플레이 동시 축소설",
-      "link": "https://www.etnews.com/20260423000169",
+      "title": "또 마스크 대란 올라…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려",
+      "link": "https://www.etnews.com/20260423000499",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 10:30:39 +0900"
+      "pub_date": "Thu, 23 Apr 2026 20:55:47 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "트럼프 “내 요청이 이란 여성 8명 처형 막았다”… 이란 “날조로 체면 그만 세워라”",
-      "link": "https://www.etnews.com/20260423000158",
+      "title": "석유 최고가격 동결…LPG 유류세 25% 확대·먹거리 할인 병행",
+      "link": "https://www.etnews.com/20260423000352",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 23 Apr 2026 10:21:50 +0900"
+      "pub_date": "Thu, 23 Apr 2026 19:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+      "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+      "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 22 Apr 2026 16:19:36 GMT"
+      "pub_date": "Thu, 23 Apr 2026 11:08:56 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 22 Apr 2026 18:10:42 GMT"
+      "pub_date": "Thu, 23 Apr 2026 04:25:30 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
-      "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+      "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 22 Apr 2026 17:04:33 GMT"
+      "pub_date": "Thu, 23 Apr 2026 08:37:14 GMT"
     }
   ]
 }
