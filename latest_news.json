@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-04-24T13:14:24.615020+00:00",
+  "last_updated": "2026-04-25T02:01:01.185466+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑 민정비서관·공직기강비서관, 이례적 보직 맞교대",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260424220656MHj",
+      "title": "'말레이시아 피랍' 한국인 구조…납치범들도 한국인",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260425101652Gtt",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 22:06:57 +0900"
+      "pub_date": "Sat, 25 Apr 2026 10:17:11 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래·유시민, 정원오 지원사격…오세훈, 장동혁 직격",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604242115160Bi",
+      "title": "北, 日 다카이치 '야스쿠니 공물 봉납'에 \"노골적 역사 왜곡\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260425094557o9n",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:15:54 +0900"
+      "pub_date": "Sat, 25 Apr 2026 09:45:57 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 탕롱황성서 친교…정상들에 선물외교",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604242111574s5",
+      "title": "北, 빨치산 창건일 맞아 \"수령 결사옹위…김정은 사상 받들어야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260425093206eaF",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:12:12 +0900"
+      "pub_date": "Sat, 25 Apr 2026 09:32:08 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "백악관·부통령까지 접촉한 쿠팡...“안보사안은 美로비 포함 안돼” 반박",
-      "link": "https://www.mk.co.kr/news/business/12027043",
+      "title": "부하 여직원과 연인인 척…카톡 ‘프사’ 올린 공무원, 재판행",
+      "link": "https://www.mk.co.kr/news/society/12027205",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 22:08:06 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 10:42:57 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 크렘린궁 “G20 정상회의 참석…푸틴, 마이애미 방문 가능성” <러 매체>",
-      "link": "https://www.mk.co.kr/news/world/12027036",
+      "title": "‘천조국’ 미국 스텔스 미사일, 절반 뚝…이란전쟁에 영향력도 뚝?",
+      "link": "https://www.mk.co.kr/news/world/12027204",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:57:40 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 10:42:45 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "헤어진 연인 프로필 괜히 클릭했다 ‘화들짝’…또 바뀐 카톡 기능에 혼란만",
-      "link": "https://www.mk.co.kr/news/society/12027034",
+      "title": "암 수술 끝나자마자 이혼 통보한 남편...“3년간 몰래 바람 펴왔더라”",
+      "link": "https://www.mk.co.kr/news/society/12027199",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:51:38 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 10:09:08 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이란 “호르무즈 통행료는 현금…암호화폐 아니다”",
-      "link": "https://www.etnews.com/20260424000364",
+      "title": "황지현 켄텍 교수 'HYLOT 연구실', 국가 대형 실증 과제 4건 수주…40억 연구비",
+      "link": "https://www.etnews.com/20260424000026",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:50:12 +0900"
+      "pub_date": "Sat, 25 Apr 2026 09:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "美, 이미 준비 끝냈나…“휴전 붕괴시 타격 0순위는 호르무즈 주변 이란군”",
-      "link": "https://www.etnews.com/20260424000363",
+      "title": "실체 드러난 '수상한 베팅, 그리고 잭팟'...“트럼프, 전 세계가 도박판인데 어쩌라고?”",
+      "link": "https://www.etnews.com/20260425000003",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 21:50:03 +0900"
+      "pub_date": "Sat, 25 Apr 2026 08:22:18 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이란은 기뢰 늘리고 美는 세번째 항모 배치…트럼프 “주저말고 격침하라”",
-      "link": "https://www.etnews.com/20260424000311",
+      "title": "27일 협상 재개설…트럼프 “이란 제안 지켜보겠다”",
+      "link": "https://www.etnews.com/20260425000002",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 16:47:03 +0900"
+      "pub_date": "Sat, 25 Apr 2026 07:33:50 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
+      "link": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 24 Apr 2026 22:02:50 GMT"
     },
     {
       "category": "세계",
@@ -79,23 +87,15 @@
       "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
       "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 10:14:37 GMT"
+      "pub_date": "Fri, 24 Apr 2026 16:04:29 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 12:20:55 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 10:41:32 GMT"
+      "pub_date": "Sat, 25 Apr 2026 00:10:51 GMT"
     }
   ]
 }
