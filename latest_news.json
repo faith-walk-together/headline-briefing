@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-25T02:01:01.185466+00:00",
+  "last_updated": "2026-04-25T12:55:57.321789+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "'말레이시아 피랍' 한국인 구조…납치범들도 한국인",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260425101652Gtt",
+      "title": "충청부터 대구까지 與 민심행보…경기 공천 '고심'",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260425192846fov",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 10:17:11 +0900"
+      "pub_date": "Sat, 25 Apr 2026 19:29:14 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北, 日 다카이치 '야스쿠니 공물 봉납'에 \"노골적 역사 왜곡\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260425094557o9n",
+      "title": "이진숙, 대구시장 출마 포기…공천 갈등 일단락",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604251838444Iq",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 09:45:57 +0900"
+      "pub_date": "Sat, 25 Apr 2026 18:39:12 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北, 빨치산 창건일 맞아 \"수령 결사옹위…김정은 사상 받들어야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260425093206eaF",
+      "title": "이 대통령, 순방 마치고 '국정모드' 돌입…중동 대응 전념",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260425183800b9s",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 09:32:08 +0900"
+      "pub_date": "Sat, 25 Apr 2026 18:38:40 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "부하 여직원과 연인인 척…카톡 ‘프사’ 올린 공무원, 재판행",
-      "link": "https://www.mk.co.kr/news/society/12027205",
+      "title": "미국도 받아들일까…“이란, 파키스탄 키맨에 ‘종전 고려사항’ 전달”",
+      "link": "https://www.mk.co.kr/news/world/12027332",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 10:42:57 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 21:54:56 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘천조국’ 미국 스텔스 미사일, 절반 뚝…이란전쟁에 영향력도 뚝?",
-      "link": "https://www.mk.co.kr/news/world/12027204",
+      "title": "늑구, 유퀴즈까지 출연?…탈출극에 공포 대신 응원, ‘팬덤’으로 진화",
+      "link": "https://www.mk.co.kr/news/society/12027331",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 10:42:45 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 21:34:25 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "암 수술 끝나자마자 이혼 통보한 남편...“3년간 몰래 바람 펴왔더라”",
-      "link": "https://www.mk.co.kr/news/society/12027199",
+      "title": "“빨강머리 앤·포켓몬·미피, 누구랑 커피 마실래?”…캐릭터 IP 컬래버 경쟁",
+      "link": "https://www.mk.co.kr/news/business/12027330",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 10:09:08 +09:00"
+      "pub_date": "Sat, 25 Apr 2026 21:34:24 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "황지현 켄텍 교수 'HYLOT 연구실', 국가 대형 실증 과제 4건 수주…40억 연구비",
-      "link": "https://www.etnews.com/20260424000026",
+      "title": "“담배 피우는 것과 똑같다”…의사들도 집에 절대 두지 않는다는 물건은",
+      "link": "https://www.etnews.com/20260425000027",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 09:30:00 +0900"
+      "pub_date": "Sat, 25 Apr 2026 18:38:43 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "실체 드러난 '수상한 베팅, 그리고 잭팟'...“트럼프, 전 세계가 도박판인데 어쩌라고?”",
-      "link": "https://www.etnews.com/20260425000003",
+      "title": "75명과 성관계 불법촬영한 판사아들…'30일 구금형' 특혜 처벌에도 우는 소리",
+      "link": "https://www.etnews.com/20260425000005",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 08:22:18 +0900"
+      "pub_date": "Sat, 25 Apr 2026 16:50:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "27일 협상 재개설…트럼프 “이란 제안 지켜보겠다”",
-      "link": "https://www.etnews.com/20260425000002",
+      "title": "범죄자들의 공범은 AI?… 美 검찰, 플로리다 총격범 사용 '챗GPT' 형사 수사",
+      "link": "https://www.etnews.com/20260424000281",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 07:33:50 +0900"
+      "pub_date": "Sat, 25 Apr 2026 16:50:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-      "link": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 22:02:50 GMT"
+      "pub_date": "Sat, 25 Apr 2026 11:21:03 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 24 Apr 2026 16:04:29 GMT"
+      "pub_date": "Sat, 25 Apr 2026 12:29:37 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 00:10:51 GMT"
+      "pub_date": "Sat, 25 Apr 2026 10:52:27 GMT"
     }
   ]
 }
