@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-04-26T02:23:09.878682+00:00",
+  "last_updated": "2026-04-26T12:57:23.661270+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[여의도풍향계] '기회' 정청래·'위기' 장동혁…엇갈린 여야 대표",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260425142951guW",
+      "title": "이 대통령, 오는 29일 비교섭단체·무소속 의원 초청 오찬",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260426201208b87",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:01:02 +0900"
+      "pub_date": "Sun, 26 Apr 2026 20:12:08 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 \"이 대통령, '장특공' 혼란의 시초…세금 약탈\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260426101141Q66",
+      "title": "한동훈·박민식 어색한 첫 대면…하정우 행사 불참",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260426193826AbP",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 10:11:44 +0900"
+      "pub_date": "Sun, 26 Apr 2026 19:38:58 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "유엔사 부사령관, 한국 'DMZ 분할관리' 제안에 부정적 입장…\"신중해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260426101041EHc",
+      "title": "방북 러시아 하원 의장, 김정은 만나 '파병'에 사의",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260426183955Olv",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 10:10:43 +0900"
+      "pub_date": "Sun, 26 Apr 2026 18:40:19 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "변영주 “故 이선균, 내 편 같았던 배우…검경 평생 용서 못해”",
-      "link": "https://www.mk.co.kr/news/society/12027443",
+      "title": "“엄마, 주식 이런 거였어요”…불장에 ‘돈맛’ 본 아이들, 보유주식 3조 육박",
+      "link": "https://www.mk.co.kr/news/economy/12027808",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:22:23 +09:00"
+      "pub_date": "Sun, 26 Apr 2026 21:50:11 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“날 할퀴어서 화났다”…전 여친 집 몰래 들어가 반려묘 때려죽인 20대",
-      "link": "https://www.mk.co.kr/news/society/12027442",
+      "title": "“너희가 AI 투자한다고 되겠어?”...8천명 날려도 주가 힘 못쓰는 메타",
+      "link": "https://www.mk.co.kr/news/stock/12027807",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:15:22 +09:00"
+      "pub_date": "Sun, 26 Apr 2026 21:37:53 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "대출 막히니 ‘부모 찬스’ 껑충…서울서 내집 장만 30대, 증여·상속으로 1조 조달",
-      "link": "https://www.mk.co.kr/news/realestate/12027440",
+      "title": "연명치료 유보·중단, 8년 새 50만건 넘어…“남성이 여성보다 많아”",
+      "link": "https://www.mk.co.kr/news/society/12027804",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:03:45 +09:00"
+      "pub_date": "Sun, 26 Apr 2026 21:05:03 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "통신 3사, 안면인증 집중 운영 대리점 지정…7월 의무화 예고",
-      "link": "https://www.etnews.com/20260424000166",
+      "title": "의사가 극찬한 '천연 위고비'…“계란 먹고 살찌는 건 불가능”",
+      "link": "https://www.etnews.com/20260426000098",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:01:00 +0900"
+      "pub_date": "Sun, 26 Apr 2026 18:01:05 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "백악관 기자단 만찬행사 총성에 트럼프 피신…총격범 체포",
-      "link": "https://www.etnews.com/20260426000061",
+      "title": "[단독] SK, AI 연합군 'K-AI 얼라이언스' 그룹서 직접 챙긴다",
+      "link": "https://www.etnews.com/20260424000266",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 11:00:34 +0900"
+      "pub_date": "Sun, 26 Apr 2026 17:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "식약처, 주사기 매점매석 '2차 특별단속' 돌입",
-      "link": "https://www.etnews.com/20260426000053",
+      "title": "'한의약AX' 중장기 전략 세운다",
+      "link": "https://www.etnews.com/20260424000246",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 10:46:20 +0900"
+      "pub_date": "Sun, 26 Apr 2026 17:00:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+      "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 26 Apr 2026 04:22:59 GMT"
     },
     {
       "category": "세계",
@@ -84,18 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 21:13:49 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
-      "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 25 Apr 2026 17:40:51 GMT"
+      "pub_date": "Sun, 26 Apr 2026 00:34:21 GMT"
     }
   ]
 }
