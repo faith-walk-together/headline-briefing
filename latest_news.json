@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-04-26T12:57:23.661270+00:00",
+  "last_updated": "2026-04-27T02:25:54.646744+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 오는 29일 비교섭단체·무소속 의원 초청 오찬",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260426201208b87",
+      "title": "[뉴스포커스] 김부겸·추경호 '빅매치'…하정우·전은수 금주 사퇴",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260427110837aHM",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 20:12:08 +0900"
+      "pub_date": "Mon, 27 Apr 2026 11:12:32 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한동훈·박민식 어색한 첫 대면…하정우 행사 불참",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260426193826AbP",
+      "title": "정청래, 하정우 만나 출마 설득…장동혁, 대여공세 고삐",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260427110329FiI",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 19:38:58 +0900"
+      "pub_date": "Mon, 27 Apr 2026 11:04:06 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "방북 러시아 하원 의장, 김정은 만나 '파병'에 사의",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260426183955Olv",
+      "title": "민주 \"원유 5월 필요 물량 80% 확보…나프타도 문제 없어\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202604271053445V3",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 18:40:19 +0900"
+      "pub_date": "Mon, 27 Apr 2026 10:53:45 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“엄마, 주식 이런 거였어요”…불장에 ‘돈맛’ 본 아이들, 보유주식 3조 육박",
-      "link": "https://www.mk.co.kr/news/economy/12027808",
+      "title": "당정, 5월부터 차량 5부제 특약 내놓는다…영업용 차량도 포함",
+      "link": "https://www.mk.co.kr/news/politics/12028133",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 21:50:11 +09:00"
+      "pub_date": "Mon, 27 Apr 2026 11:24:32 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“너희가 AI 투자한다고 되겠어?”...8천명 날려도 주가 힘 못쓰는 메타",
-      "link": "https://www.mk.co.kr/news/stock/12027807",
+      "title": "“적발시 30배 부과도 안통했다”…지하철 부정 승차 3년간 16만건 육박",
+      "link": "https://www.mk.co.kr/news/society/12028129",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 21:37:53 +09:00"
+      "pub_date": "Mon, 27 Apr 2026 11:23:10 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "연명치료 유보·중단, 8년 새 50만건 넘어…“남성이 여성보다 많아”",
-      "link": "https://www.mk.co.kr/news/society/12027804",
+      "title": "텔레그램 ‘박제방’ 10대 운영자 3명 적발…성착취물 유포도",
+      "link": "https://www.mk.co.kr/news/society/12028118",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 21:05:03 +09:00"
+      "pub_date": "Mon, 27 Apr 2026 11:20:21 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "의사가 극찬한 '천연 위고비'…“계란 먹고 살찌는 건 불가능”",
-      "link": "https://www.etnews.com/20260426000098",
+      "title": "“초코파이 먹으며 버텼다”… 조난당한 베트남 대학생, 37시간 만에 극적 구조",
+      "link": "https://www.etnews.com/20260427000157",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 18:01:05 +0900"
+      "pub_date": "Mon, 27 Apr 2026 10:54:27 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[단독] SK, AI 연합군 'K-AI 얼라이언스' 그룹서 직접 챙긴다",
-      "link": "https://www.etnews.com/20260424000266",
+      "title": "LG전자 AI·로봇·첨단 소재 사내벤처, 독립한다",
+      "link": "https://www.etnews.com/20260427000124",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 17:00:00 +0900"
+      "pub_date": "Mon, 27 Apr 2026 10:29:40 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'한의약AX' 중장기 전략 세운다",
-      "link": "https://www.etnews.com/20260424000246",
+      "title": "민주당 의원 69명, 김용 공개 지지…“회복·공천 통해 당 통합 기대”",
+      "link": "https://www.etnews.com/20260427000112",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 17:00:00 +0900"
+      "pub_date": "Mon, 27 Apr 2026 10:21:14 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Mon, 27 Apr 2026 00:06:54 GMT"
     },
     {
       "category": "세계",
@@ -88,14 +96,6 @@
       "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
       "pub_date": "Sat, 25 Apr 2026 21:34:12 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 26 Apr 2026 00:34:21 GMT"
     }
   ]
 }
