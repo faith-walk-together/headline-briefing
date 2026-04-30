@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-29T13:46:49.421257+00:00",
+  "last_updated": "2026-04-30T02:33:59.937772+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "하남갑 사수 나선 민주당…국힘, 대항마 찾기 고심",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260429212241LoF",
+      "title": "러시아 주재 통일안보관, 1년 반 만에 복원…8월 파견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430110821niZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 21:23:07 +0900"
+      "pub_date": "Thu, 30 Apr 2026 11:08:21 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주, 하정우·전은수 인재영입…달아오르는 부산 북갑",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260429211535705",
+      "title": "국방부, 트럼프 주독미군 감축 언급에 \"주한미군은 감축 논의 없다\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430110425cLn",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 21:16:08 +0900"
+      "pub_date": "Thu, 30 Apr 2026 11:04:26 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 투톱, 갈등설 일축했지만…선대위 구성 '동상이몽'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202604292107591yL",
+      "title": "민주 \"조작기소 특검 조속발의\"…국힘 지도부 별도 행보",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260430110333x7t",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 21:08:37 +0900"
+      "pub_date": "Thu, 30 Apr 2026 11:04:14 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "부인 콘서트 온 트럼프 주니어 직접 맞이한 정용진…웃으며 포옹, 친분 과시",
-      "link": "https://www.mk.co.kr/news/business/12031510",
+      "title": "“반중 외치더니 中 쇼핑몰 드레스?”…美 국방장관 부인 의상 논란",
+      "link": "https://www.mk.co.kr/news/world/12032131",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 22:40:44 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 11:32:20 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“몽둥이질에 바닥 기어라”…권오중, 희귀병 아들 ‘학폭 지옥’에 오열",
-      "link": "https://www.mk.co.kr/news/society/12031507",
+      "title": "카카오페이증권 신호철 대표 ‘청소년 불법도박 근절’ 릴레이 캠페인 동참",
+      "link": "https://www.mk.co.kr/news/stock/12032129",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 22:32:11 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 11:30:49 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "월급 15만원, 계란 9000원…이란 서민층 생활고 ‘허덕’",
-      "link": "https://www.mk.co.kr/news/world/12031503",
+      "title": "하정우, 시장상인과 악수 후 손 털기?…국힘·韓 “유권자가 벌레냐” [영상]",
+      "link": "https://www.mk.co.kr/news/politics/12032128",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 22:30:29 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 11:30:46 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "버튼 누르면 슈퍼카가 내려온다…초대형 '자동차 자판기' 화제",
-      "link": "https://www.etnews.com/20260429000476",
+      "title": "산업생산 두 달 연속 증가…소비·투자 동반 회복",
+      "link": "https://www.etnews.com/20260430000174",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 22:30:00 +0900"
+      "pub_date": "Thu, 30 Apr 2026 11:15:12 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "부자아빠 “폭락장 다가온다…더 부자가 될 계획”…“금·은·비트코인 사라”",
-      "link": "https://www.etnews.com/20260429000477",
+      "title": "前 FBI 국장, 트럼프 살해 위협으로 기소… SNS에 올린 '86 47' 뜻은?",
+      "link": "https://www.etnews.com/20260430000171",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 17:48:10 +0900"
+      "pub_date": "Thu, 30 Apr 2026 11:12:11 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“김치 남기면 재사용하겠습니다”…“테토 사장이네” 식당 셀프바 경고문 갑론을박",
-      "link": "https://www.etnews.com/20260429000467",
+      "title": "현대차, 제조 SW·AI 경력직 집중 채용…미래 경쟁력 확보",
+      "link": "https://www.etnews.com/20260430000139",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 17:08:05 +0900"
+      "pub_date": "Thu, 30 Apr 2026 10:45:48 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 02:01:50 GMT"
+      "pub_date": "Wed, 29 Apr 2026 20:24:48 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Five takeaways from the King's historic address to Congress",
-      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "title": "Royal commission into Bondi shooting says gun reform should be prioritised",
+      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 08:48:08 GMT"
+      "pub_date": "Thu, 30 Apr 2026 01:26:28 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Comey charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
+      "link": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 00:24:05 GMT"
+      "pub_date": "Wed, 29 Apr 2026 22:22:18 GMT"
     }
   ]
 }
