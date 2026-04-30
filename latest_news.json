@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-30T02:33:59.937772+00:00",
+  "last_updated": "2026-04-30T13:45:32.828543+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "러시아 주재 통일안보관, 1년 반 만에 복원…8월 파견",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430110821niZ",
+      "title": "김민석 총리, 카타르 국무장관 면담…\"LNG 공급 약속 높이 평가\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430221252WkZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:08:21 +0900"
+      "pub_date": "Thu, 30 Apr 2026 22:12:55 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국방부, 트럼프 주독미군 감축 언급에 \"주한미군은 감축 논의 없다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430110425cLn",
+      "title": "정부, 외교장관 특사 쿠웨이트·바레인·이라크 파견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430220437zuQ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:04:26 +0900"
+      "pub_date": "Thu, 30 Apr 2026 22:04:38 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 \"조작기소 특검 조속발의\"…국힘 지도부 별도 행보",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260430110333x7t",
+      "title": "\"여객기 참사 부실 수습하고 장기간 방치\"…12명 문책 요구",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260430212238cSD",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:04:14 +0900"
+      "pub_date": "Thu, 30 Apr 2026 21:23:09 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“반중 외치더니 中 쇼핑몰 드레스?”…美 국방장관 부인 의상 논란",
-      "link": "https://www.mk.co.kr/news/world/12032131",
+      "title": "한화솔루션 유증 또 제동 … 금감원, 2차 정정 요구",
+      "link": "https://www.mk.co.kr/news/stock/12032964",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:32:20 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 22:36:33 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "카카오페이증권 신호철 대표 ‘청소년 불법도박 근절’ 릴레이 캠페인 동참",
-      "link": "https://www.mk.co.kr/news/stock/12032129",
+      "title": "靑 “삼성전자 성과는 국민과 사회 전체의 결실”…파업 경제충격 우려",
+      "link": "https://www.mk.co.kr/news/politics/12032955",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:30:49 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 22:29:25 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "하정우, 시장상인과 악수 후 손 털기?…국힘·韓 “유권자가 벌레냐” [영상]",
-      "link": "https://www.mk.co.kr/news/politics/12032128",
+      "title": "연휴 첫날 ‘노동절’ 낮 최고 26도 맑은 날씨…“일교차 유의하세요”",
+      "link": "https://www.mk.co.kr/news/society/12032950",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:30:46 +09:00"
+      "pub_date": "Thu, 30 Apr 2026 22:21:21 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "산업생산 두 달 연속 증가…소비·투자 동반 회복",
-      "link": "https://www.etnews.com/20260430000174",
+      "title": "美 스쿨버스 운전기사 발작 일으키자…운전대 잡은 '중학생 영웅들'",
+      "link": "https://www.etnews.com/20260430000417",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:15:12 +0900"
+      "pub_date": "Thu, 30 Apr 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "前 FBI 국장, 트럼프 살해 위협으로 기소… SNS에 올린 '86 47' 뜻은?",
-      "link": "https://www.etnews.com/20260430000171",
+      "title": "5대 금융그룹, 1조원 투·융자 지원…벤처·스타트업 성장 본격 뒷받침",
+      "link": "https://www.etnews.com/20260430000414",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 11:12:11 +0900"
+      "pub_date": "Thu, 30 Apr 2026 17:12:14 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "현대차, 제조 SW·AI 경력직 집중 채용…미래 경쟁력 확보",
-      "link": "https://www.etnews.com/20260430000139",
+      "title": "1인칭 슈팅게임 즐기는 스님?… “게임 속 상대 제거하는 것, 불교적 허용”",
+      "link": "https://www.etnews.com/20260430000396",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 10:45:48 +0900"
+      "pub_date": "Thu, 30 Apr 2026 16:45:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 20:24:48 GMT"
+      "pub_date": "Thu, 30 Apr 2026 12:59:04 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Royal commission into Bondi shooting says gun reform should be prioritised",
-      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 01:26:28 GMT"
+      "pub_date": "Thu, 30 Apr 2026 03:25:51 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
-      "link": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+      "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 29 Apr 2026 22:22:18 GMT"
+      "pub_date": "Thu, 30 Apr 2026 12:24:12 GMT"
     }
   ]
 }
