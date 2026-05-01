@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-04-30T13:45:32.828543+00:00",
+  "last_updated": "2026-05-01T02:39:46.058301+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김민석 총리, 카타르 국무장관 면담…\"LNG 공급 약속 높이 평가\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430221252WkZ",
+      "title": "청와대서 노동절 기념식…이 대통령 \"상생으로 진짜 성장\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260501113640IFJ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:12:55 +0900"
+      "pub_date": "Fri, 01 May 2026 11:37:05 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정부, 외교장관 특사 쿠웨이트·바레인·이라크 파견",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260430220437zuQ",
+      "title": "[현장연결] 청와대, 노동절 기념식…이 대통령 기념사",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260501102402AW9",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:04:38 +0900"
+      "pub_date": "Fri, 01 May 2026 10:25:40 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "\"여객기 참사 부실 수습하고 장기간 방치\"…12명 문책 요구",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260430212238cSD",
+      "title": "이 대통령 \"'친노동은 반기업' 이분법 깨야…상생으로 진짜 성장\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260501102113q3w",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 21:23:09 +0900"
+      "pub_date": "Fri, 01 May 2026 10:21:14 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "한화솔루션 유증 또 제동 … 금감원, 2차 정정 요구",
-      "link": "https://www.mk.co.kr/news/stock/12032964",
+      "title": "7년 만에 미국·베네수엘라 직항노선 재개…“환승 불편함 해소”",
+      "link": "https://www.mk.co.kr/news/world/12033438",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:36:33 +09:00"
+      "pub_date": "Fri, 01 May 2026 11:28:18 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "靑 “삼성전자 성과는 국민과 사회 전체의 결실”…파업 경제충격 우려",
-      "link": "https://www.mk.co.kr/news/politics/12032955",
+      "title": "강남 테헤란로변에 최고 20층 오피스 생긴다",
+      "link": "https://www.mk.co.kr/news/realestate/12033426",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:29:25 +09:00"
+      "pub_date": "Fri, 01 May 2026 11:18:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "연휴 첫날 ‘노동절’ 낮 최고 26도 맑은 날씨…“일교차 유의하세요”",
-      "link": "https://www.mk.co.kr/news/society/12032950",
+      "title": "“15만원 내면 수직이착륙기 타고 남해안 관광”…4년 뒤 민간상용화 목표",
+      "link": "https://www.mk.co.kr/news/society/12033435",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:21:21 +09:00"
+      "pub_date": "Fri, 01 May 2026 11:14:09 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "美 스쿨버스 운전기사 발작 일으키자…운전대 잡은 '중학생 영웅들'",
-      "link": "https://www.etnews.com/20260430000417",
+      "title": "63년만에 제 이름을 찾은 '노동절'…청와대 영빈관서 '기념식' 개최",
+      "link": "https://www.etnews.com/20260501000010",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 22:30:00 +0900"
+      "pub_date": "Fri, 1 May 2026 10:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "5대 금융그룹, 1조원 투·융자 지원…벤처·스타트업 성장 본격 뒷받침",
-      "link": "https://www.etnews.com/20260430000414",
+      "title": "머스크 '9년 집념' 결실…테슬라, 장거리 화물 운송용 전기 트럭 '세미' 첫 양산",
+      "link": "https://www.etnews.com/20260501000023",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 17:12:14 +0900"
+      "pub_date": "Fri, 1 May 2026 10:05:55 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "1인칭 슈팅게임 즐기는 스님?… “게임 속 상대 제거하는 것, 불교적 허용”",
-      "link": "https://www.etnews.com/20260430000396",
+      "title": "英 '얼굴 없는 작가' 뱅크시, 런던 한복판 '깃발에 얼굴 가린 남자' 동상 기습 설치",
+      "link": "https://www.etnews.com/20260501000021",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 16:45:00 +0900"
+      "pub_date": "Fri, 1 May 2026 10:02:12 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 12:59:04 GMT"
+      "pub_date": "Fri, 01 May 2026 02:21:03 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 03:25:51 GMT"
+      "pub_date": "Thu, 30 Apr 2026 16:38:58 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+      "title": "Venice Biennale jury resigns days before start of exhibition",
+      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 30 Apr 2026 12:24:12 GMT"
+      "pub_date": "Thu, 30 Apr 2026 23:44:00 GMT"
     }
   ]
 }
