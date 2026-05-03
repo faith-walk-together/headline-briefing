@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-03T02:31:30.896956+00:00",
+  "last_updated": "2026-05-03T13:00:12.866002+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김정은, 청년들에 \"강철 전투력이 국가 자부심\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260503112826TxI",
+      "title": "지방선거 D-31...이 대통령 국정운영 분수령",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260503191013bX3",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:28:42 +0900"
+      "pub_date": "Sun, 03 May 2026 19:10:44 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "송언석, 與 조작기소 특검에 \"도둑이 경찰 임명\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260503110952cnO",
+      "title": "정청래·하정우 '오빠' 발언에 국힘 \"아동 성희롱\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260503175910tpz",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:09:52 +0900"
+      "pub_date": "Sun, 03 May 2026 17:59:12 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[여의도풍향계] 과거의 나와 싸운다…당적 변경 후보 운명은?",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260501145740Yiy",
+      "title": "민주 \"특검법은 '진실 돋보기'…국힘, 저급 프레임에 불과\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260503175537h71",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:01:00 +0900"
+      "pub_date": "Sun, 03 May 2026 17:55:39 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“한국 올해 성장률 2.7%로 0.8%p 상향”…현대硏 “반도체 수출 호조”",
-      "link": "https://www.mk.co.kr/news/society/12034389",
+      "title": "항공 운항도 제한...필리핀 마욘 화산 터져 수천명 주민 대피",
+      "link": "https://www.mk.co.kr/news/world/12034672",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:29:57 +09:00"
+      "pub_date": "Sun, 03 May 2026 21:29:53 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "조정식, 정무특보직 사퇴…이재명 대통령 “언제나 함께해줘서 감사”",
-      "link": "https://www.mk.co.kr/news/politics/12034386",
+      "title": "“회사 폭주 멈춰라”...‘사흘째 파업’ 삼성바이오 노조, 공정한 인사 기준 요구",
+      "link": "https://www.mk.co.kr/news/business/12034668",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:24:01 +09:00"
+      "pub_date": "Sun, 03 May 2026 20:54:04 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "이재명 대통령 “법정 허용치 초과 불법대부는 무효”",
-      "link": "https://www.mk.co.kr/news/politics/12034385",
+      "title": "[속보] OPEC+ 7개국 “6월부터 일일 18.8만 배럴 증산 결정”",
+      "link": "https://www.mk.co.kr/news/world/12034667",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 11:23:29 +09:00"
+      "pub_date": "Sun, 03 May 2026 20:44:25 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "새내기株 11곳 중 9곳 공모가 웃돌아…케이뱅크·한패스만 '쓴웃음'",
-      "link": "https://www.etnews.com/20260430000130",
+      "title": "日 히타치, 정년 후 재고용 직원에도 '동일임금' 도입",
+      "link": "https://www.etnews.com/20260503000104",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 3 May 2026 10:00:00 +0900"
+      "pub_date": "Sun, 3 May 2026 20:14:22 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[지선 D-30]여야, 16개 광역단체장 대진표 확정…재보선 14곳도 격전",
-      "link": "https://www.etnews.com/20260503000017",
+      "title": "[속보] 러·사우디 등 OPEC+ 7개국, 6월부터 감산 완화키로",
+      "link": "https://www.etnews.com/20260503000103",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 3 May 2026 09:39:40 +0900"
+      "pub_date": "Sun, 3 May 2026 20:06:01 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "공연하던 학생에 돌진한 中 로봇…“여학생 끌어안아” 안전성 문제 도마위",
-      "link": "https://www.etnews.com/20260430000334",
+      "title": "차세대중형위성 2호 발사 성공…'민간 주도 우주산업' 전환 신호탄",
+      "link": "https://www.etnews.com/20260430000181",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 3 May 2026 06:00:00 +0900"
+      "pub_date": "Sun, 3 May 2026 19:08:34 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 02 May 2026 23:13:55 GMT"
+      "pub_date": "Sun, 03 May 2026 08:41:23 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 02 May 2026 23:19:27 GMT"
+      "pub_date": "Sun, 03 May 2026 12:05:59 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 02 May 2026 23:17:17 GMT"
+      "pub_date": "Sun, 03 May 2026 10:16:01 GMT"
     }
   ]
 }
