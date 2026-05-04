@@ -1,93 +1,85 @@
 {
-  "last_updated": "2026-05-04T02:29:42.133086+00:00",
+  "last_updated": "2026-05-04T13:48:53.593444+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "수원 방문 北 '내고향여자축구단'은 누구?…\"4·25팀 꺾은 신흥 강호\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260504112717hTH",
+      "title": "[투나잇이슈] 지방선거 D-30…여야, '진검 승부' 돌입",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605042242303H4",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:27:19 +0900"
+      "pub_date": "Mon, 04 May 2026 22:47:04 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] 지방선거 D-30…與 싹쓸이냐, 野 막판 뒤집기냐",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260504110704QAf",
+      "title": "[속보] 정부 \"호르무즈서 韓선박 피격 여부 확인 중…인명피해 없어\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605042220528IA",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:10:53 +0900"
+      "pub_date": "Mon, 04 May 2026 22:21:09 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北, 日 3대 안보문서 개정 추진에 \"전쟁국가 직행\" 비난",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260504110541V3k",
+      "title": "靑 \"장특공제 당연히 유지…6만호 예고대로 착수\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605042114563Dr",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:06:02 +0900"
+      "pub_date": "Mon, 04 May 2026 21:15:15 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "메모리 값 치솟는데 아이폰18 가격 그대로?…애플, 시작가격 동결로 승부수",
-      "link": "https://www.mk.co.kr/news/business/12034980",
+      "title": "“겉옷 챙기세요”…어린이날, 맑고 일교차 큰 봄날씨",
+      "link": "https://www.mk.co.kr/news/society/12035571",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:27:55 +09:00"
+      "pub_date": "Mon, 04 May 2026 22:47:55 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“연구자라면 연구에만 집중해야죠, 나머지는 AI에 맡기세요”",
-      "link": "https://www.mk.co.kr/news/society/12034975",
+      "title": "“울릉도 왜 이러나”…‘마른 오징어 8~9미 17만원’에 관광객 깜짝",
+      "link": "https://www.mk.co.kr/news/society/12035559",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:25:06 +09:00"
+      "pub_date": "Mon, 04 May 2026 22:39:55 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“현장학습이요? 사고 나면 다 교사 책임인데”…초등교사 96% ‘부정적’",
-      "link": "https://www.mk.co.kr/news/politics/12034974",
+      "title": "“제주로 놀러오세요”…2박 이상 체류 땐 지역화폐 지급",
+      "link": "https://www.mk.co.kr/news/society/12035555",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 11:24:34 +09:00"
+      "pub_date": "Mon, 04 May 2026 22:24:36 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "자전거 무리에 경적 울리더니 자동차가 그대로 들이받아…美 라이더 척추 골절",
-      "link": "https://www.etnews.com/20260504000100",
+      "title": "흥분한 코끼리 통제불능…SUV·오토바이 내던지고 사람까지 밟혀 사망",
+      "link": "https://www.etnews.com/20260504000256",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 4 May 2026 10:49:02 +0900"
+      "pub_date": "Mon, 4 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "대서양 한복판 크루즈서 '한타 바이러스' 발생… 3명 사망에 WHO 긴급 조사",
-      "link": "https://www.etnews.com/20260504000088",
+      "title": "호르무즈 갇힌 '韓유조선 7척 1400만배럴' 빠져나오나…트럼프 승부수에 기대",
+      "link": "https://www.etnews.com/20260504000249",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 4 May 2026 10:33:46 +0900"
+      "pub_date": "Mon, 4 May 2026 19:35:15 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "사이코패스, '이 몸짓'만 보면 안다…“특정 자세만 고집”",
-      "link": "https://www.etnews.com/20260504000087",
+      "title": "AI로 전 연인 복제본 만드는 中… 헤어졌는데 계속 만난다?",
+      "link": "https://www.etnews.com/20260504000137",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 4 May 2026 10:31:52 +0900"
+      "pub_date": "Mon, 4 May 2026 19:20:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 21:28:09 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 02 May 2026 23:19:27 GMT"
+      "pub_date": "Mon, 04 May 2026 09:49:05 GMT"
     },
     {
       "category": "세계",
@@ -95,7 +87,15 @@
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 03 May 2026 22:13:36 GMT"
+      "pub_date": "Mon, 04 May 2026 13:29:22 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+      "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Mon, 04 May 2026 08:43:06 GMT"
     }
   ]
 }
