@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-06T02:28:44.256807+00:00",
+  "last_updated": "2026-05-06T13:58:28.545508+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] D-28 지선 총력전…부울경 ‘보수결집’ 시작?",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506111723jIy",
+      "title": "북한 헌법서 통일 삭제·'영토조항' 신설…'적대국' 표현 없어",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506224318D3m",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:21:35 +0900"
+      "pub_date": "Wed, 06 May 2026 22:43:43 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 與, 군산·김제·부안을 박지원 최고위원 공천…광주 광산을 임문영",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260506111953LaO",
+      "title": "[투나잇이슈] 지방선거 D-28…여야, 조작기소 특검 연일 충돌",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506223516ZWC",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:19:55 +0900"
+      "pub_date": "Wed, 06 May 2026 22:39:55 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"주사기 등 매점매석 처벌 미비…전량 압수하라\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260506111407T34",
+      "title": "국힘, 조작기소 특검법 맹공…계파 갈등 불씨 여전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506211237O0n",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:14:08 +0900"
+      "pub_date": "Wed, 06 May 2026 21:13:09 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“유니클로의 나라서도 통한 K베이직”…일본서 커지는 K패션 존재감",
-      "link": "https://www.mk.co.kr/news/business/12037229",
+      "title": "[속보] 이란 “전쟁종식 위한 미국 제안 검토중…파키스탄에 전달할 것”",
+      "link": "https://www.mk.co.kr/news/world/12038170",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:28:15 +09:00"
+      "pub_date": "Wed, 06 May 2026 22:50:54 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "세 번째 한국 유조선 홍해 무사 통과…해수부, 24시간 감시망 가동",
-      "link": "https://www.mk.co.kr/news/world/12037224",
+      "title": "“장비 안 묶였어요” 외쳤는데…‘안전부실’ 中 절벽그네 추락사 충격",
+      "link": "https://www.mk.co.kr/news/world/12038166",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:26:11 +09:00"
+      "pub_date": "Wed, 06 May 2026 22:49:52 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘수천만원 받고 가벼운 형 선고’ 혐의…공수처, 현직 판사·변호사 기소",
-      "link": "https://www.mk.co.kr/news/society/12037219",
+      "title": "해방 작전 하루만에 전격 중단 … 美매체 \"한 장짜리 합의 임박\"",
+      "link": "https://www.mk.co.kr/news/world/12038163",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:23:23 +09:00"
+      "pub_date": "Wed, 06 May 2026 22:42:17 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "실손보험 개편 마무리…車보험, '8주룰' 도입은 지지부진",
-      "link": "https://www.etnews.com/20260506000113",
+      "title": "“넌 살빼면 유명 여배우처럼 보일거야”…친구 말만 믿고 한 다이어트 효과",
+      "link": "https://www.etnews.com/20260506000448",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 11:00:00 +0900"
+      "pub_date": "Wed, 6 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“페달 오조작 사고 기술로 막는다”…방지 장치 상용화한 '스카이오토넷'",
-      "link": "https://www.etnews.com/20260506000131",
+      "title": "[단독] 업스테이지, 포털 '다음' 인수 초읽기…카카오 이사회 승인",
+      "link": "https://www.etnews.com/20260506000461",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 10:35:19 +0900"
+      "pub_date": "Wed, 6 May 2026 19:00:57 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "춘천, 中 우시와 바이오 협력 확대…글로벌 산업 네트워크 강화",
-      "link": "https://www.etnews.com/20260506000128",
+      "title": "삼성전자, 中 TV·가전 판매 사업 철수",
+      "link": "https://www.etnews.com/20260506000460",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 10:32:46 +0900"
+      "pub_date": "Wed, 6 May 2026 19:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 02:18:45 GMT"
+      "pub_date": "Wed, 06 May 2026 12:54:37 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-      "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+      "title": "Massive Alaska megatsunami was second largest ever recorded",
+      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 16:38:50 GMT"
+      "pub_date": "Wed, 06 May 2026 12:00:25 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+      "title": "German police raid neo-Nazi criminal youth groups",
+      "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 01:55:26 GMT"
+      "pub_date": "Wed, 06 May 2026 11:34:56 GMT"
     }
   ]
 }
