@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-05T02:24:33.634700+00:00",
+  "last_updated": "2026-05-06T02:28:44.256807+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 어린이들과 온라인 소통 행보…\"댓글 언제든\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260505112314pYM",
+      "title": "[뉴스포커스] D-28 지선 총력전…부울경 ‘보수결집’ 시작?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506111723jIy",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 11:23:15 +0900"
+      "pub_date": "Wed, 06 May 2026 11:21:35 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "외교부 \"韓 선박 화재 완진…예인 뒤 원인 파악\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260505111451UU9",
+      "title": "[속보] 與, 군산·김제·부안을 박지원 최고위원 공천…광주 광산을 임문영",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260506111953LaO",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 11:15:27 +0900"
+      "pub_date": "Wed, 06 May 2026 11:19:55 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여 \"모든 어린이 존엄 보장\"…야 \"안전 최우선·공정한 기회\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260505104050Nlw",
+      "title": "이 대통령 \"주사기 등 매점매석 처벌 미비…전량 압수하라\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260506111407T34",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 10:40:52 +0900"
+      "pub_date": "Wed, 06 May 2026 11:14:08 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "호주의 아이러니…“트럼프·중국 덕분에 FTA 챔피언”",
-      "link": "https://www.mk.co.kr/news/world/12035901",
+      "title": "“유니클로의 나라서도 통한 K베이직”…일본서 커지는 K패션 존재감",
+      "link": "https://www.mk.co.kr/news/business/12037229",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 11:21:30 +09:00"
+      "pub_date": "Wed, 06 May 2026 11:28:15 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“불법 파업 땐 노조 전원 상대 손배소”…‘뿔난’ 삼성전자 주주단체 경고",
-      "link": "https://www.mk.co.kr/news/business/12035900",
+      "title": "세 번째 한국 유조선 홍해 무사 통과…해수부, 24시간 감시망 가동",
+      "link": "https://www.mk.co.kr/news/world/12037224",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 11:20:08 +09:00"
+      "pub_date": "Wed, 06 May 2026 11:26:11 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "밴스 부통령 노렸나…백악관 근처서 경호국-무장괴한 총격전",
-      "link": "https://www.mk.co.kr/news/world/12035899",
+      "title": "‘수천만원 받고 가벼운 형 선고’ 혐의…공수처, 현직 판사·변호사 기소",
+      "link": "https://www.mk.co.kr/news/society/12037219",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 11:19:25 +09:00"
+      "pub_date": "Wed, 06 May 2026 11:23:23 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[르포] LG유플러스 부산지하철 '5G 와이파이' 속도 재보니…“1초에 사진 10장도 거뜬”",
-      "link": "https://www.etnews.com/20260430000328",
+      "title": "실손보험 개편 마무리…車보험, '8주룰' 도입은 지지부진",
+      "link": "https://www.etnews.com/20260506000113",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 5 May 2026 11:00:00 +0900"
+      "pub_date": "Wed, 6 May 2026 11:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "택배사 '원픽' 사라진 이커머스… 쪼개고 갈아타는 '모듈형 물류' 가속",
-      "link": "https://www.etnews.com/20260430000265",
+      "title": "“페달 오조작 사고 기술로 막는다”…방지 장치 상용화한 '스카이오토넷'",
+      "link": "https://www.etnews.com/20260506000131",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 5 May 2026 11:00:00 +0900"
+      "pub_date": "Wed, 6 May 2026 10:35:19 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "SKT, 삼성 'MX 프로젝트' 착수…AIOps 플랫폼 구축",
-      "link": "https://www.etnews.com/20260430000309",
+      "title": "춘천, 中 우시와 바이오 협력 확대…글로벌 산업 네트워크 강화",
+      "link": "https://www.etnews.com/20260506000128",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 5 May 2026 10:30:00 +0900"
+      "pub_date": "Wed, 6 May 2026 10:32:46 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 01:50:39 GMT"
+      "pub_date": "Wed, 06 May 2026 02:18:45 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-      "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+      "link": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 04 May 2026 21:33:17 GMT"
+      "pub_date": "Tue, 05 May 2026 16:38:50 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+      "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 05 May 2026 01:14:04 GMT"
+      "pub_date": "Wed, 06 May 2026 01:55:26 GMT"
     }
   ]
 }
