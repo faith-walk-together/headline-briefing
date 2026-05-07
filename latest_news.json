@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-06T13:58:28.545508+00:00",
+  "last_updated": "2026-05-07T02:30:54.391960+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "북한 헌법서 통일 삭제·'영토조항' 신설…'적대국' 표현 없어",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506224318D3m",
+      "title": "국가책임형 부상 장병 통합지원서비스 구축…'원스톱' 지원",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605071125322TX",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 22:43:43 +0900"
+      "pub_date": "Thu, 07 May 2026 11:25:33 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 지방선거 D-28…여야, 조작기소 특검 연일 충돌",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506223516ZWC",
+      "title": "민주 \"지역 선거연대에 중앙당 개입 안 해\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260507110420RlZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 22:39:55 +0900"
+      "pub_date": "Thu, 07 May 2026 11:04:21 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘, 조작기소 특검법 맹공…계파 갈등 불씨 여전",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260506211237O0n",
+      "title": "국산 전투기 KF-21 '전투용 적합' 판정…양산 1호기 하반기 공군 인도",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260507110309obm",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 21:13:09 +0900"
+      "pub_date": "Thu, 07 May 2026 11:03:12 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 이란 “전쟁종식 위한 미국 제안 검토중…파키스탄에 전달할 것”",
-      "link": "https://www.mk.co.kr/news/world/12038170",
+      "title": "대법 “경찰서 자진출석했는데 체포영장 집행, 위법”",
+      "link": "https://www.mk.co.kr/news/society/12038983",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 22:50:54 +09:00"
+      "pub_date": "Thu, 07 May 2026 11:28:40 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“장비 안 묶였어요” 외쳤는데…‘안전부실’ 中 절벽그네 추락사 충격",
-      "link": "https://www.mk.co.kr/news/world/12038166",
+      "title": "與 신임 원내대표 한병도 “국회 공백 없다…후반기 원구성 빈틈없이 준비”",
+      "link": "https://www.mk.co.kr/news/politics/12038982",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 22:49:52 +09:00"
+      "pub_date": "Thu, 07 May 2026 11:28:18 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "해방 작전 하루만에 전격 중단 … 美매체 \"한 장짜리 합의 임박\"",
-      "link": "https://www.mk.co.kr/news/world/12038163",
+      "title": "삼전·현중은 담고, 하닉·전력주는 팔고 [주식 초고수는 지금]",
+      "link": "https://www.mk.co.kr/news/stock/12038979",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 22:42:17 +09:00"
+      "pub_date": "Thu, 07 May 2026 11:27:19 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“넌 살빼면 유명 여배우처럼 보일거야”…친구 말만 믿고 한 다이어트 효과",
-      "link": "https://www.etnews.com/20260506000448",
+      "title": "삼성 “'갤럭시 워치'로 미주신경성 실신 조기 예측 가능성 확인”",
+      "link": "https://www.etnews.com/20260507000149",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 22:30:00 +0900"
+      "pub_date": "Thu, 7 May 2026 10:31:56 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[단독] 업스테이지, 포털 '다음' 인수 초읽기…카카오 이사회 승인",
-      "link": "https://www.etnews.com/20260506000461",
+      "title": "“학교폭력엔 '매'가 답”… 싱가포르, 9세부터 교사가 '회초리' 든다",
+      "link": "https://www.etnews.com/20260507000137",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 19:00:57 +0900"
+      "pub_date": "Thu, 7 May 2026 10:24:30 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "삼성전자, 中 TV·가전 판매 사업 철수",
-      "link": "https://www.etnews.com/20260506000460",
+      "title": "“자전거 타며 스마트폰 봤다가 벌금 11만원”…日, 단속 보름 만에 842건 적발",
+      "link": "https://www.etnews.com/20260507000125",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 6 May 2026 19:00:00 +0900"
+      "pub_date": "Thu, 7 May 2026 10:20:12 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran considering US proposal to end war, official says",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 12:54:37 GMT"
+      "pub_date": "Wed, 06 May 2026 21:27:59 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's hopes for an Iran peace deal come with caveats",
+      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 12:00:25 GMT"
+      "pub_date": "Wed, 06 May 2026 17:32:04 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "German police raid neo-Nazi criminal youth groups",
-      "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 06 May 2026 11:34:56 GMT"
+      "pub_date": "Wed, 06 May 2026 19:58:04 GMT"
     }
   ]
 }
