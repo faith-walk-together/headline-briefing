@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-07T13:55:48.355387+00:00",
+  "last_updated": "2026-05-08T02:37:28.537045+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "러 전승절 앞두고 공격우려 제기…외교부, 국민안전대책 점검",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605072231591qf",
+      "title": "[뉴스포커스] 국회 개헌안 표결 재시도…부산북갑 ‘원로’ 영입전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605081127320tw",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 22:32:01 +0900"
+      "pub_date": "Fri, 08 May 2026 11:33:18 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "2차 종합특검, 김관영에 내란 방조 등 무혐의 통보",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260507215124FFl",
+      "title": "청해부대 왕건함, 다음 주 부산서 출항…'대드론체계 강화'",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260508112517fIC",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 21:51:26 +0900"
+      "pub_date": "Fri, 08 May 2026 11:25:18 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국산 전투기 KF-21 '전투용 적합' 판정…체계개발 완료",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260507211805VQP",
+      "title": "권익위 \"'김건희 명품백 사건' 처리 미흡…정승윤 전 부위원장, 윤석열과 심야 회동\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605081124194cD",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 21:18:30 +0900"
+      "pub_date": "Fri, 08 May 2026 11:24:21 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "여고생 묻지마 살해범 스토킹 전력 확인",
-      "link": "https://www.mk.co.kr/news/society/12040018",
+      "title": "모델솔루션, ‘산업용 AI 스마트 고글’로 2026 레드닷 어워드 ‘본상’",
+      "link": "https://www.mk.co.kr/news/business/12040952",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 22:55:21 +09:00"
+      "pub_date": "Fri, 08 May 2026 11:30:12 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“위대한 미국 애국자가 세운 것”…트럼프, 본인 골프장 6ｍ 금빛 동상 자랑",
-      "link": "https://www.mk.co.kr/news/world/12040017",
+      "title": "안철수,  李 대통령 향해 “공소취소법안통과돼도 되나”",
+      "link": "https://www.mk.co.kr/news/politics/12040948",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 22:48:13 +09:00"
+      "pub_date": "Fri, 08 May 2026 11:26:18 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“박탈감 느끼니 막아달라”…놀이공원 ‘패스권’ 두고 갑론을박",
-      "link": "https://www.mk.co.kr/news/society/12040015",
+      "title": "“거짓말쟁이들”…美 토크쇼 전설, 콜베어 퇴출한 CBS에 격노",
+      "link": "https://www.mk.co.kr/news/world/12040947",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 22:37:29 +09:00"
+      "pub_date": "Fri, 08 May 2026 11:25:53 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“'아바타' 나비족은 내 얼굴”… 페루 원주민 배우, 제임스 카메론에 소송",
-      "link": "https://www.etnews.com/20260507000305",
+      "title": "김태흠 충남지사, 재선 출마 공식 선언…“충청 씨감자만이 진영 틀 깬다”",
+      "link": "https://www.etnews.com/20260508000112",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 7 May 2026 22:30:00 +0900"
+      "pub_date": "Fri, 8 May 2026 10:53:46 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "39년 만에 개헌 시도, 국힘 집단 불참에 좌초",
-      "link": "https://www.etnews.com/20260507000386",
+      "title": "트럼프, 이란 군시설에 보복하더니… “가벼운 타격(Love Tap)일 뿐”",
+      "link": "https://www.etnews.com/20260508000108",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 7 May 2026 19:00:00 +0900"
+      "pub_date": "Fri, 8 May 2026 10:49:28 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'꿈의배터리' 전고체 개발 앞당긴다...전고체 소재 전문기업 나온다",
-      "link": "https://www.etnews.com/20260507000265",
+      "title": "BMW 코리아, 5월 온라인 한정 에디션 9종 출시…M2부터 XM까지",
+      "link": "https://www.etnews.com/20260508000101",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 7 May 2026 17:00:00 +0900"
+      "pub_date": "Fri, 8 May 2026 10:39:23 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Race to trace passengers who left hantavirus cruise ship at island",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 08 May 2026 02:07:54 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
       "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 13:33:10 GMT"
+      "pub_date": "Thu, 07 May 2026 17:55:08 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 04:06:33 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
-      "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 07 May 2026 12:23:45 GMT"
+      "pub_date": "Thu, 07 May 2026 18:13:11 GMT"
     }
   ]
 }
