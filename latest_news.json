@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-08T13:22:57.367349+00:00",
+  "last_updated": "2026-05-09T02:30:34.363891+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "39년 만의 개헌 불발…눈물 훔친 우 의장",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260508210239n1l",
+      "title": "이 대통령 \"사법·흉기·명예 살해 위협서 국민이 살려\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260509111540ZZn",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 21:03:05 +0900"
+      "pub_date": "Sat, 09 May 2026 11:16:06 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정원오·오세훈 나란히 어버이날 공약…부동산 연일 대립",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605082059393gW",
+      "title": "\"민생 안정 최우선\"…이 대통령, 전방위 총력전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260509102202GjK",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 21:00:12 +0900"
+      "pub_date": "Sat, 09 May 2026 10:22:50 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘, 내홍 수습 국면?…한동훈발 뇌관 잔존",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260508205553rT2",
+      "title": "北, 日 '역대 최대' 방위비 예산에 \"군국주의 종착점은 수치스런 패망\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260509094029z2Y",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 20:56:18 +0900"
+      "pub_date": "Sat, 09 May 2026 09:40:31 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "병든 아버지 방치해 숨지게 한 아들…시신 유기 후 생계급여 몰래 받기도",
-      "link": "https://www.mk.co.kr/news/society/12041853",
+      "title": "“위성 사진에 다 찍혔다”…이란 하르그섬에 포착된 검은 액체의 정체",
+      "link": "https://www.mk.co.kr/news/world/12042264",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 22:04:13 +09:00"
+      "pub_date": "Sat, 09 May 2026 11:20:59 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“母 떠난 뒤 멈춘 세상”…임수정, 백상 울린 눈물의 수상소감",
-      "link": "https://www.mk.co.kr/news/culture/12041823",
+      "title": "“주식 투자가 더 이득일 것 같다”…코스피 급등에 보험마저 깨고 투자?",
+      "link": "https://www.mk.co.kr/news/economy/12042263",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 21:47:34 +09:00"
+      "pub_date": "Sat, 09 May 2026 11:17:27 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“매달 2200만원”…온·오프라인서 같은 번호, 모두 당첨된 남성",
-      "link": "https://www.mk.co.kr/news/society/12041815",
+      "title": "“성적 매력은 자발적일 때”…60년만에 공개된 마릴린 먼로의 마지막 인터뷰",
+      "link": "https://www.mk.co.kr/news/world/12042261",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 21:43:34 +09:00"
+      "pub_date": "Sat, 09 May 2026 11:10:52 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "카카오, 이달 이례적 임원급 승진 인사 단행…내부선 성과 보상 불만도",
-      "link": "https://www.etnews.com/20260508000283",
+      "title": "“북극 군사기밀 노렸다”…노르웨이, 중국 여성 전격 체포",
+      "link": "https://www.etnews.com/20260509000007",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 8 May 2026 17:40:43 +0900"
+      "pub_date": "Sat, 9 May 2026 10:04:56 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "법원, HD현대重 가처분 기각…공정성 훼손·영업기밀 유출 판단 공백 지적",
-      "link": "https://www.etnews.com/20260508000276",
+      "title": "“트럼프께 감사하라”…워싱턴 뒤덮은 초대형 현수막 논란",
+      "link": "https://www.etnews.com/20260508000141",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 8 May 2026 16:48:16 +0900"
+      "pub_date": "Sat, 9 May 2026 09:25:19 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "삼성전자 초기업노조 “11~12일, 사후조정 절차 돌입”",
-      "link": "https://www.etnews.com/20260508000269",
+      "title": "“중국 욕하면 돈 된다”…日 뒤덮은 혐중 AI 영상 충격",
+      "link": "https://www.etnews.com/20260509000002",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 8 May 2026 16:39:01 +0900"
+      "pub_date": "Sat, 9 May 2026 09:25:10 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 05:57:08 GMT"
+      "pub_date": "Fri, 08 May 2026 16:11:06 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
       "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 13:17:15 GMT"
+      "pub_date": "Fri, 08 May 2026 18:59:58 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 08 May 2026 12:44:51 GMT"
+      "pub_date": "Sat, 09 May 2026 00:15:58 GMT"
     }
   ]
 }
