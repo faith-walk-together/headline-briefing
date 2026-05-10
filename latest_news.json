@@ -1,85 +1,93 @@
 {
-  "last_updated": "2026-05-10T02:34:13.014279+00:00",
+  "last_updated": "2026-05-10T13:08:34.964208+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[여의도풍향계] 격전지 판세 안갯속…'내가 적통' 집안싸움도",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026050913064979v",
+      "title": "靑 \"해수부 등 관계부처와 NSC 실무위 개최\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260510215657T8f",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:00:57 +0900"
+      "pub_date": "Sun, 10 May 2026 21:56:59 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주당, '국가정상화 선대위' 오늘 출범",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260510104554GD0",
+      "title": "주한이란대사, '미상 비행체 나무호 타격' 조사결과에 묵묵부답",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260510202721M3P",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 10:46:07 +0900"
+      "pub_date": "Sun, 10 May 2026 20:27:21 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "안규백, 오늘 전격 방미…내일 한미 국방장관회담",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260510102646tve",
+      "title": "정부 \"HMM 나무호 화재원인, 미상 비행체 타격\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605102021232Zr",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 10:27:09 +0900"
+      "pub_date": "Sun, 10 May 2026 20:21:53 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "갑자기 공항 활주로 뛰어든 보행자…여객기와 충돌해 숨져",
-      "link": "https://www.mk.co.kr/news/world/12042473",
+      "title": "“젓가락 올린 맥주잔에 소주잔 살짝”…미국 토크쇼에 ‘소맥’이 왜 나와",
+      "link": "https://www.mk.co.kr/news/world/12042824",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:27:11 +09:00"
+      "pub_date": "Sun, 10 May 2026 21:49:59 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“친딸 8년간 성폭행? 사람인가”…50대 남성 “징역 20년 과하다” 항소했지만",
-      "link": "https://www.mk.co.kr/news/society/12042472",
+      "title": "[속보] “이란, 미국 종전안에 대한 답변 파키스탄에 전달”< IRNA>",
+      "link": "https://www.mk.co.kr/news/world/12042822",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:21:47 +09:00"
+      "pub_date": "Sun, 10 May 2026 21:30:41 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“마시고 죽자” 월 1회 이상 폭음…남성은 40대, 여성은 20대가 최고",
-      "link": "https://www.mk.co.kr/news/it/12042471",
+      "title": "‘나무호 비행체 타격’ 청와대 “해수부 등 관계부처와 NSC 실무위 개최”",
+      "link": "https://www.mk.co.kr/news/politics/12042820",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:19:56 +09:00"
+      "pub_date": "Sun, 10 May 2026 21:11:27 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "공공 AI 시장 '3조원 시대' 성큼…대형 사업·대기업 수주 쏠림은 과제",
-      "link": "https://www.etnews.com/20260510000035",
+      "title": "외교부, 호르무즈 韓선박 화재 원인 '미상 비행체' 타격 확인",
+      "link": "https://www.etnews.com/20260510000083",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:32:30 +0900"
+      "pub_date": "Sun, 10 May 2026 19:12:17 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "8만달러 지키던 비트코인, 이란 리스크에 하락…온체인도 냉각",
-      "link": "https://www.etnews.com/20260508000135",
+      "title": "韓美 조선 동맹 거점, 워싱턴D.C.에 세워진다",
+      "link": "https://www.etnews.com/20260510000042",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:30:00 +0900"
+      "pub_date": "Sun, 10 May 2026 18:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[ET 시론] 모빌리티 혁명에 뒤처진 한국, '제도적 활주로'를 깔아야 할 때",
-      "link": "https://www.etnews.com/20260510000034",
+      "title": "펀진 “전쟁 승패는 속도…AI 참모 '킬웹매칭', SDW로 고도화”",
+      "link": "https://www.etnews.com/20260508000243",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 11:29:40 +0900"
+      "pub_date": "Sun, 10 May 2026 17:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 09 May 2026 21:23:14 GMT"
+      "pub_date": "Sun, 10 May 2026 10:57:22 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sun, 10 May 2026 12:52:31 GMT"
     },
     {
       "category": "세계",
@@ -88,14 +96,6 @@
       "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
       "pub_date": "Sun, 10 May 2026 00:46:07 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 01:08:51 GMT"
     }
   ]
 }
