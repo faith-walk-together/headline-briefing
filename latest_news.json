@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-10T13:08:34.964208+00:00",
+  "last_updated": "2026-05-11T02:43:33.980728+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑 \"해수부 등 관계부처와 NSC 실무위 개최\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260510215657T8f",
+      "title": "민주, 강원서 중앙선대위 첫 회의…\"우상호, 강원 발전 적임자\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260511114231gMP",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 21:56:59 +0900"
+      "pub_date": "Mon, 11 May 2026 11:42:32 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "주한이란대사, '미상 비행체 나무호 타격' 조사결과에 묵묵부답",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260510202721M3P",
+      "title": "이 대통령 \"동학농민혁명, 대한민국 민주주의 첫 발걸음\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605111113106OR",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 20:27:21 +0900"
+      "pub_date": "Mon, 11 May 2026 11:13:13 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정부 \"HMM 나무호 화재원인, 미상 비행체 타격\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605102021232Zr",
+      "title": "[뉴스특보] 나무호 화재, 외부공격 확인…외교 파장 불가피?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260511110746tx5",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 20:21:53 +0900"
+      "pub_date": "Mon, 11 May 2026 11:11:24 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“젓가락 올린 맥주잔에 소주잔 살짝”…미국 토크쇼에 ‘소맥’이 왜 나와",
-      "link": "https://www.mk.co.kr/news/world/12042824",
+      "title": "한국타이어, 소비자·딜러 초청 ‘벤투스 익스피리언스 데이’ 개최",
+      "link": "https://www.mk.co.kr/news/business/12043121",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 21:49:59 +09:00"
+      "pub_date": "Mon, 11 May 2026 11:39:12 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] “이란, 미국 종전안에 대한 답변 파키스탄에 전달”< IRNA>",
-      "link": "https://www.mk.co.kr/news/world/12042822",
+      "title": "[속보] 챗GPT 파일 업로드 오류…오픈AI “조사 중”",
+      "link": "https://www.mk.co.kr/news/world/12043120",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 21:30:41 +09:00"
+      "pub_date": "Mon, 11 May 2026 11:35:47 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘나무호 비행체 타격’ 청와대 “해수부 등 관계부처와 NSC 실무위 개최”",
-      "link": "https://www.mk.co.kr/news/politics/12042820",
+      "title": "이 대통령 “동학농민혁명, 한국 민주주의의 위대한 첫 발걸음”",
+      "link": "https://www.mk.co.kr/news/politics/12043119",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 21:11:27 +09:00"
+      "pub_date": "Mon, 11 May 2026 11:32:10 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "외교부, 호르무즈 韓선박 화재 원인 '미상 비행체' 타격 확인",
-      "link": "https://www.etnews.com/20260510000083",
+      "title": "트럼프 뒤통수 친 이란·러시아…호르무즈 막히자 카스피해 통해 뒷거래",
+      "link": "https://www.etnews.com/20260511000209",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 19:12:17 +0900"
+      "pub_date": "Mon, 11 May 2026 11:10:23 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "韓美 조선 동맹 거점, 워싱턴D.C.에 세워진다",
-      "link": "https://www.etnews.com/20260510000042",
+      "title": "현대차 시뮬레이터 LG전자 OLED 탑재한다",
+      "link": "https://www.etnews.com/20260511000146",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 18:30:00 +0900"
+      "pub_date": "Mon, 11 May 2026 10:35:31 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "펀진 “전쟁 승패는 속도…AI 참모 '킬웹매칭', SDW로 고도화”",
-      "link": "https://www.etnews.com/20260508000243",
+      "title": "전쟁집착 네타냐후 “이란전 아직 안 끝나… 고농축 우라늄 제거해야”",
+      "link": "https://www.etnews.com/20260511000134",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 17:00:00 +0900"
+      "pub_date": "Mon, 11 May 2026 10:30:06 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 10:57:22 GMT"
+      "pub_date": "Mon, 11 May 2026 01:55:13 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 12:52:31 GMT"
+      "pub_date": "Sun, 10 May 2026 19:56:45 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 10 May 2026 00:46:07 GMT"
+      "pub_date": "Sun, 10 May 2026 19:43:57 GMT"
     }
   ]
 }
