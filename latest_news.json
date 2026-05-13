@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-13T02:42:38.361170+00:00",
+  "last_updated": "2026-05-13T14:23:34.185081+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] 여야, 지방선거 주도권 경쟁…'감사의 정원' 공방",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513110425onl",
+      "title": "초과이윤 활용 비판에…이 대통령 \"음해성 가짜뉴스\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513231131iWb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:08:45 +0900"
+      "pub_date": "Wed, 13 May 2026 23:11:59 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"지선서 혹독 심판\"…국힘 선대위 발족",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513110224Ar5",
+      "title": "[투나잇이슈] 6·3 지방선거 3주 앞으로…제3지대 표심은?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513224558cAn",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:03:01 +0900"
+      "pub_date": "Wed, 13 May 2026 22:50:09 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑, 안보 3차장 주재 사이버안보 현안점검회의 개최",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260513110220Yp9",
+      "title": "조현, 주한 중국·일본 대사에 \"3국 협력 확대\" 역할 당부",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605132220284Fg",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:02:22 +0900"
+      "pub_date": "Wed, 13 May 2026 22:20:29 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“한국 불장서 96억 대박, 하이닉스 생큐”…일본인 계좌 인증에 ‘술렁’",
-      "link": "https://www.mk.co.kr/news/stock/12046026",
+      "title": "“물에 엎드린 상태로 떠 있다”…목욕탕서 60~70대 남성 잇단 사망 사고, 왜?",
+      "link": "https://www.mk.co.kr/news/society/12046790",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:40:27 +09:00"
+      "pub_date": "Wed, 13 May 2026 23:03:34 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“이원택 중심으로”…與 ‘텃밭’ 초접전 비상에 또 전북 찾은 한병도",
-      "link": "https://www.mk.co.kr/news/politics/12046019",
+      "title": "美 생산자물가 4년來 최대 상승",
+      "link": "https://www.mk.co.kr/news/world/12046768",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:28:11 +09:00"
+      "pub_date": "Wed, 13 May 2026 22:53:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "망고는 기본, 토마토·애사비까지 올렸다…카페업계 ‘이색 컵빙수’ 경쟁",
-      "link": "https://www.mk.co.kr/news/economy/12046016",
+      "title": "“평균 27.7% 체중 감량 효과”…고용량 위고비, 근육은 그대로 유지한다는데",
+      "link": "https://www.mk.co.kr/news/world/12046764",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:25:07 +09:00"
+      "pub_date": "Wed, 13 May 2026 22:44:31 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "트럼프 “휴전 위태로워”… 이란 “미국이 공격하면 본때 보여줄 것”",
-      "link": "https://www.etnews.com/20260513000160",
+      "title": "“산길·눈길도 스스로 달린다”…美 오프로드 자율주행 공개",
+      "link": "https://www.etnews.com/20260513000389",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:28:47 +0900"
+      "pub_date": "Wed, 13 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "풍미 사라지고 쓴맛 강해져…기후위기가 '차' 맛까지 바꿨다",
-      "link": "https://www.etnews.com/20260512000448",
+      "title": "“코스피 연말 1만도 가능”…모건스탠리가 콕 찍은 종목은?",
+      "link": "https://www.etnews.com/20260513000404",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:20:00 +0900"
+      "pub_date": "Wed, 13 May 2026 20:51:18 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "韓-UAE, AI 동맹 본격화…반도체·데이터센터 투자 협력",
-      "link": "https://www.etnews.com/20260513000153",
+      "title": "베개 두개 베고 자면 위험?… 녹내장 환자에 뜻밖의 경고 나왔다",
+      "link": "https://www.etnews.com/20260513000382",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 11:08:50 +0900"
+      "pub_date": "Wed, 13 May 2026 17:40:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 22:07:51 GMT"
+      "pub_date": "Wed, 13 May 2026 13:51:13 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency",
-      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "title": "What to know as Trump visits Xi in China",
+      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 17:55:12 GMT"
+      "pub_date": "Wed, 13 May 2026 13:01:51 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
-      "link": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+      "title": "Philippine Senate in lockdown after gunshots fired",
+      "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 20:28:03 GMT"
+      "pub_date": "Wed, 13 May 2026 13:58:14 GMT"
     }
   ]
 }
