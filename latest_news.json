@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-12T14:11:40.346626+00:00",
+  "last_updated": "2026-05-13T02:42:38.361170+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한미, 전작권 전환 '목표 연도' 이견 좁혔나…KIDD 주목",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260512225119jVl",
+      "title": "[뉴스포커스] 여야, 지방선거 주도권 경쟁…'감사의 정원' 공방",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513110425onl",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 22:51:48 +0900"
+      "pub_date": "Wed, 13 May 2026 11:08:45 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 실종 초등생 사망에 \"불행한 사고 나지 않게\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260512211642uGX",
+      "title": "정청래 \"지선서 혹독 심판\"…국힘 선대위 발족",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260513110224Ar5",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 21:16:57 +0900"
+      "pub_date": "Wed, 13 May 2026 11:03:01 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "'국민 배당금' 화두 꺼낸 정책실장…靑 \"개인 의견\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260512210218U8b",
+      "title": "靑, 안보 3차장 주재 사이버안보 현안점검회의 개최",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260513110220Yp9",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 21:02:46 +0900"
+      "pub_date": "Wed, 13 May 2026 11:02:22 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "美 4월 소비자물가 3.8%↑…고유가에 3년來 최대 상승",
-      "link": "https://www.mk.co.kr/news/world/12045436",
+      "title": "“한국 불장서 96억 대박, 하이닉스 생큐”…일본인 계좌 인증에 ‘술렁’",
+      "link": "https://www.mk.co.kr/news/stock/12046026",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 23:01:08 +09:00"
+      "pub_date": "Wed, 13 May 2026 11:40:27 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“자금 조달계획 의문”…이베이, 게임스톱 83조원 인수제안 거절",
-      "link": "https://www.mk.co.kr/news/world/12045434",
+      "title": "“이원택 중심으로”…與 ‘텃밭’ 초접전 비상에 또 전북 찾은 한병도",
+      "link": "https://www.mk.co.kr/news/politics/12046019",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 22:54:45 +09:00"
+      "pub_date": "Wed, 13 May 2026 11:28:11 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "국내 1위 다이아몬드 공구사…IMM PE, 4000억원에 품는다",
-      "link": "https://www.mk.co.kr/news/stock/12045428",
+      "title": "망고는 기본, 토마토·애사비까지 올렸다…카페업계 ‘이색 컵빙수’ 경쟁",
+      "link": "https://www.mk.co.kr/news/economy/12046016",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 22:52:09 +09:00"
+      "pub_date": "Wed, 13 May 2026 11:25:07 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“사람 대신 벽 오른다?”…中 고공 작업 로봇 주목",
-      "link": "https://www.etnews.com/20260512000289",
+      "title": "트럼프 “휴전 위태로워”… 이란 “미국이 공격하면 본때 보여줄 것”",
+      "link": "https://www.etnews.com/20260513000160",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 22:30:00 +0900"
+      "pub_date": "Wed, 13 May 2026 11:28:47 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“지금이 유리” 44% 급락한 유럽 내 항공권…“여름이면 표 없다”",
-      "link": "https://www.etnews.com/20260512000530",
+      "title": "풍미 사라지고 쓴맛 강해져…기후위기가 '차' 맛까지 바꿨다",
+      "link": "https://www.etnews.com/20260512000448",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 21:44:56 +0900"
+      "pub_date": "Wed, 13 May 2026 11:20:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "김용범 “AI 반도체 호황→국민배당금제”에…靑 “개인 의견” 선 그어",
-      "link": "https://www.etnews.com/20260512000500",
+      "title": "韓-UAE, AI 동맹 본격화…반도체·데이터센터 투자 협력",
+      "link": "https://www.etnews.com/20260513000153",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 18:01:03 +0900"
+      "pub_date": "Wed, 13 May 2026 11:08:50 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "title": "A decade on, Trump returns to a stronger and more assertive China",
+      "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 00:59:12 GMT"
+      "pub_date": "Tue, 12 May 2026 22:07:51 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "title": "No sign of larger hantavirus outbreak, says UN health agency",
+      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 14:06:08 GMT"
+      "pub_date": "Tue, 12 May 2026 17:55:12 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Uganda's president sworn in for record seventh term",
-      "link": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+      "link": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 12 May 2026 13:19:47 GMT"
+      "pub_date": "Tue, 12 May 2026 20:28:03 GMT"
     }
   ]
 }
