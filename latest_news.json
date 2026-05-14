@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-14T02:43:43.010009+00:00",
+  "last_updated": "2026-05-14T13:59:52.076869+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "시민단체 200여 개, 남북 여자축구 응원단 결성…통일부 \"3억 지원\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514113948qtO",
+      "title": "[투나잇이슈] 6·3 지방선거 후보 등록 시작…본격 선거전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260514224314d8P",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:39:49 +0900"
+      "pub_date": "Thu, 14 May 2026 22:47:17 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "조현 \"나무호 피격 정부 추가조사…필요한 대응 조치\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514113815WCl",
+      "title": "이 대통령, 모란민속 5일장 방문…성남시장 시절 정비한 시장서 민생 행보",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514221246std",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:38:18 +0900"
+      "pub_date": "Thu, 14 May 2026 22:12:48 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국방부, 기술분석팀 두바이 파견…나무호 현장 감식 지원",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260514110318ZAz",
+      "title": "이 대통령 \"사회적 약자 대상 범죄 전면전 선포…대응체계 강화\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260514211626sVB",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:03:20 +0900"
+      "pub_date": "Thu, 14 May 2026 21:16:46 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "세운4구역 주민들 “세계유산영향평가 강제 중단해야”",
-      "link": "https://www.mk.co.kr/news/realestate/12047419",
+      "title": "6·3 지방선거 후보등록 첫날 6833명 신청…경쟁률 1.4대 1",
+      "link": "https://www.mk.co.kr/news/politics/12048284",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:41:59 +09:00"
+      "pub_date": "Thu, 14 May 2026 22:54:16 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "미국 개미도 삼전닉스 투자에 혈안…“비트코인 ETF 광풍 때보다 돈 더 몰린다”",
-      "link": "https://www.mk.co.kr/news/stock/12047418",
+      "title": "미중 정상회담 첫날 뉴욕증시 일제히 상승 출발…다우·나스닥 각각 0.51%↑",
+      "link": "https://www.mk.co.kr/news/economy/12048283",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:40:46 +09:00"
+      "pub_date": "Thu, 14 May 2026 22:52:34 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“사전청약 제외 물량 대상”…우미건설 ‘고양 창릉 우미린 그레니티’ 14일 분양일정 돌입",
-      "link": "https://www.mk.co.kr/news/realestate/12047417",
+      "title": "“치맥회동 그때라도 주식 샀어야”…젠슨 황, 한미가교상 받는다",
+      "link": "https://www.mk.co.kr/news/world/12048264",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:40:44 +09:00"
+      "pub_date": "Thu, 14 May 2026 22:39:52 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[르포] 원전 폐기물 따라가보니…경주 방폐장, 동굴 넘어 표층 시대로",
-      "link": "https://www.etnews.com/20260514000192",
+      "title": "“비둘기 보이면 자동 조준”…AI 퇴치 장치 등장",
+      "link": "https://www.etnews.com/20260514000493",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:17:56 +0900"
+      "pub_date": "Thu, 14 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "車생태계, 미래차로 전환한다…정부, 올해만 18조 투입",
-      "link": "https://www.etnews.com/20260514000179",
+      "title": "SKT, 국방부와 AX 협력…소버린 AI로 자주국방 지원",
+      "link": "https://www.etnews.com/20260514000061",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:00:00 +0900"
+      "pub_date": "Thu, 14 May 2026 17:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "4월 ICT 수출, '역대급' 질주…증가율 125.9% '사상 최고'",
-      "link": "https://www.etnews.com/20260514000145",
+      "title": "MS, 100여개 AI 에이전트 기반 보안AI 공개…“미토스보다 뛰어나”",
+      "link": "https://www.etnews.com/20260514000464",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 11:00:00 +0900"
+      "pub_date": "Thu, 14 May 2026 16:59:30 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-      "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 17:00:12 GMT"
+      "pub_date": "Thu, 14 May 2026 13:02:13 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "title": "'Floating armoury' ship reportedly hijacked by Iran",
+      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 14 May 2026 00:38:56 GMT"
+      "pub_date": "Thu, 14 May 2026 13:33:20 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
-      "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 13 May 2026 13:37:53 GMT"
+      "pub_date": "Thu, 14 May 2026 11:44:22 GMT"
     }
   ]
 }
