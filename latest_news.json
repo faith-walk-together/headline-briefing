@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-15T13:56:37.382969+00:00",
+  "last_updated": "2026-05-16T02:33:22.552298+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 6·3 후보등록 마감…여야, 선거 채비 속도전",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260515224213MTx",
+      "title": "재보선 최대 변수는 단일화…가능성은 미지수",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260516104420jhx",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:46:31 +0900"
+      "pub_date": "Sat, 16 May 2026 10:44:59 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑, 블룸버그 'AI 초과이익 배분' 보도에 항의·사과요구",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026051522260581d",
+      "title": "국힘 박형준 '장애인 비하' 유튜브 출연 논란…민주 \"부끄럽지 않나\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260516102447QGi",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:26:07 +0900"
+      "pub_date": "Sat, 16 May 2026 10:24:49 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "검찰, '이동재 명예훼손' 혐의 김어준에 징역 1년 구형",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260515220037T0N",
+      "title": "북한 조용원, 베트남 외교장관과 회동…\"친선적인 분위기 속 담화\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260516100400bRI",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:00:38 +0900"
+      "pub_date": "Sat, 16 May 2026 10:04:01 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "검찰, ‘前 채널A 기자’ 명예훼손 혐의 김어준에 징역 1년 구형",
-      "link": "https://www.mk.co.kr/news/society/12049692",
+      "title": "[속보] 6·3 지방선거서 기초단체장 3명·지방의원 510명 무투표 당선",
+      "link": "https://www.mk.co.kr/news/politics/12049967",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:55:39 +09:00"
+      "pub_date": "Sat, 16 May 2026 11:32:03 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“트럼프 처단하면 870억?”…이란 의회서 ‘초강경 법안’ 나왔다",
-      "link": "https://www.mk.co.kr/news/world/12049683",
+      "title": "노블로지스, 이탈리아·캐나다 기업과 AI 기술동맹",
+      "link": "https://www.mk.co.kr/news/it/12049964",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:52:57 +09:00"
+      "pub_date": "Sat, 16 May 2026 11:28:35 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "초등학생이 교사 때려 ‘전치 2주’…주먹질·발길질 다 했다",
-      "link": "https://www.mk.co.kr/news/society/12049663",
+      "title": "중고차 200만원 싸게 샀다가 청탁금지법 기소…무죄받은 공무원, 이유는",
+      "link": "https://www.mk.co.kr/news/society/12049960",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:42:44 +09:00"
+      "pub_date": "Sat, 16 May 2026 11:16:48 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "몸이 '15m 상공'까지 날아가…강풍에 휩쓸렸다 극적 생존한 남성",
-      "link": "https://www.etnews.com/20260515000342",
+      "title": "“美와 동급” 트럼프에 굴욕 안긴 시진핑…곧바로 푸틴 만나 '힘의 중국' 과시",
+      "link": "https://www.etnews.com/20260516000002",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:30:00 +0900"
+      "pub_date": "Sat, 16 May 2026 11:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "시진핑 “대만 공격시 美가 방어?” 트럼프 “대답 안했지만 대만 무기 판매 결정 내릴 것”",
-      "link": "https://www.etnews.com/20260515000383",
+      "title": "초3 여학생 물통에 '몹쓸짓' 하고…체포때 얼굴 감추려 '표정 비트는' 日교사",
+      "link": "https://www.etnews.com/20260515000339",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:23:56 +0900"
+      "pub_date": "Sat, 16 May 2026 11:15:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“中서 받은 물건 모두 쓰레기통에 버려라”…美방중단 귀국길 '철통보안'",
-      "link": "https://www.etnews.com/20260515000382",
+      "title": "임신 전후 엄마 직업이 아이 뇌에 영향…자녀 자폐증 위험 달라진다?",
+      "link": "https://www.etnews.com/20260514000468",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 22:15:56 +0900"
+      "pub_date": "Sat, 16 May 2026 11:15:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 15 May 2026 21:28:25 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
       "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 13:00:24 GMT"
+      "pub_date": "Fri, 15 May 2026 21:50:14 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 02:40:50 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 15 May 2026 13:23:53 GMT"
+      "pub_date": "Fri, 15 May 2026 21:17:05 GMT"
     }
   ]
 }
