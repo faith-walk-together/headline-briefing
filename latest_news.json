@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-18T02:51:48.585820+00:00",
+  "last_updated": "2026-05-18T15:19:57.729835+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[현장연결] 이 대통령 \"5·18 정신 이어받아 국민이 주인인 나라로\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260518113657Roz",
+      "title": "이 대통령, '5·18 탱크데이' 논란에 \"비인간적 막장행태 분노\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260518230722mpM",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:39:01 +0900"
+      "pub_date": "Mon, 18 May 2026 23:07:44 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이재명 정부 첫 통일백서 발간…부제 '한반도 평화공존 기록들'",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260518112713Qdx",
+      "title": "[투나잇이슈] 여야, 5·18 기념식 집결…개헌안 무산 공방도",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260518224701yeB",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:27:14 +0900"
+      "pub_date": "Mon, 18 May 2026 22:50:43 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"5·18 헌법 수록 실패 죄송…지선서 내란세력 심판\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260518105658qcn",
+      "title": "이 대통령 \"5·18 헌법수록 최선\"…여객기 참사 현장 점검",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260518210513kZe",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 10:56:59 +0900"
+      "pub_date": "Mon, 18 May 2026 21:05:45 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“매립지 가스로 수소 생산”…현대차그룹, 홍콩서 수소 밸류체인 구축",
-      "link": "https://www.mk.co.kr/news/business/12050822",
+      "title": "\"챗GPT서 상품 검색하세요\"…롯데홈쇼핑 연동서비스 출시",
+      "link": "https://www.mk.co.kr/news/economy/12051529",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:41:37 +09:00"
+      "pub_date": "Mon, 18 May 2026 23:03:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“천세·구류면류관 제후국 의미”…반크, 디즈니+에 ‘21세기 대군부인’ 오류 시정 촉구",
-      "link": "https://www.mk.co.kr/news/culture/12050821",
+      "title": "5·18에 '탱크데이' '책상에탁'…도넘은 스타벅스 행사에 부글",
+      "link": "https://www.mk.co.kr/news/society/12051528",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:38:25 +09:00"
+      "pub_date": "Mon, 18 May 2026 23:03:33 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "정원오 후보 관련 피켓 제거하는 국민의힘",
-      "link": "https://www.mk.co.kr/news/politics/12050818",
+      "title": "카카오 노사 조정 연장…본사 첫 파업 불씨 여전",
+      "link": "https://www.mk.co.kr/news/business/12051523",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:36:03 +09:00"
+      "pub_date": "Mon, 18 May 2026 23:01:28 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "코스피, 매도 사이드카 딛고 상승 전환…7500선 회복",
-      "link": "https://www.etnews.com/20260518000178",
+      "title": "美 에어쇼 중 전투기 2대 공중 충돌… 조종사 전원 '비상 탈출'",
+      "link": "https://www.etnews.com/20260518000327",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:20:42 +0900"
+      "pub_date": "Mon, 18 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "미국 FAST 시장…삼성 4위·LG 6위",
-      "link": "https://www.etnews.com/20260518000177",
+      "title": "삼성 노사, 입장차만 확인…19일 종료 시한 없이 최종 담판",
+      "link": "https://www.etnews.com/20260518000440",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:19:12 +0900"
+      "pub_date": "Mon, 18 May 2026 19:20:19 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“3천만원 명품 시계를 60만원에?”…전세계 스와치 매장 '오픈런 대혼란'",
-      "link": "https://www.etnews.com/20260518000173",
+      "title": "가천대 길병원, 국내 첫 '중증응급병원' 가동",
+      "link": "https://www.etnews.com/20260518000429",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 11:14:20 +0900"
+      "pub_date": "Mon, 18 May 2026 17:41:29 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial",
+      "link": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 17 May 2026 19:23:20 GMT"
+      "pub_date": "Mon, 18 May 2026 15:10:00 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
+      "link": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 01:10:06 GMT"
+      "pub_date": "Mon, 18 May 2026 14:51:53 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "How worrying is the Ebola outbreak in DR Congo?",
-      "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
+      "link": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 17 May 2026 18:06:31 GMT"
+      "pub_date": "Mon, 18 May 2026 15:16:00 GMT"
     }
   ]
 }
