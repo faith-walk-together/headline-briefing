@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-19T02:48:35.149775+00:00",
+  "last_updated": "2026-05-19T14:51:17.567182+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오늘 안동서 한일 정상회담…'고향' 셔틀외교",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260519114624i8R",
+      "title": "김 총리, 민주 원내대표단 만나 \"개혁적 여당 역할 유지해달라\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260519230749DNk",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:46:58 +0900"
+      "pub_date": "Tue, 19 May 2026 23:07:50 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 \"민주, 선거 직후 특검법 추진 확신\"…공소취소 공세",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260519114239H9L",
+      "title": "학교 선후배·복수혈전…지방선거 이색 맞대결",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260519230609iBT",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:42:40 +0900"
+      "pub_date": "Tue, 19 May 2026 23:06:45 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北축구단, 방남 심사 당시 전원 여권 제시…'남북 두 국가 기조' 드러내",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260519114232RsH",
+      "title": "[투나잇이슈] 한일 셔틀외교 순항…여야, 선거전 총력",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260519224322mrK",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:42:33 +0900"
+      "pub_date": "Tue, 19 May 2026 22:51:41 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "美 정부가 주는 공권력 피해 보상금, 트럼프 주머니로?",
-      "link": "https://www.mk.co.kr/news/world/12051961",
+      "title": "삼성전자 노사, 중노위 최종 시한 넘긴 채 협상 지속",
+      "link": "https://www.mk.co.kr/news/business/12052654",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:44:26 +09:00"
+      "pub_date": "Tue, 19 May 2026 23:18:05 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "日 언론 “한일 정상회담, 에너지 안보 협력에 중점”",
-      "link": "https://www.mk.co.kr/news/world/12051958",
+      "title": "韓日정상 \"LNG 이어 원유도 스왑\"",
+      "link": "https://www.mk.co.kr/news/politics/12052649",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:42:53 +09:00"
+      "pub_date": "Tue, 19 May 2026 23:02:45 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "두산로보틱스 PRS 추가 블록딜... 5376억원 규모",
-      "link": "https://www.mk.co.kr/news/stock/12051956",
+      "title": "학폭 피해 초등학생 2년새 2.5배…신체폭력 비율이 확 늘었다",
+      "link": "https://www.mk.co.kr/news/society/12052638",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:42:31 +09:00"
+      "pub_date": "Tue, 19 May 2026 22:45:29 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "KIOST, '한-ACS 해양과학공동연구센터' 개소",
-      "link": "https://www.etnews.com/20260519000063",
+      "title": "'거리의 영웅견' 샤오바이, '페트병' 때문에 독살 표적 됐다",
+      "link": "https://www.etnews.com/20260519000415",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:02:20 +0900"
+      "pub_date": "Tue, 19 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이란전 특수 노린 큰손들 베팅…에너지 주식 대거 사들였다",
-      "link": "https://www.etnews.com/20260519000180",
+      "title": "하회탈부터 전계아까지…日 다카이치 사로잡은 李대통령의 '안동 풀코스'",
+      "link": "https://www.etnews.com/20260519000371",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:00:57 +0900"
+      "pub_date": "Tue, 19 May 2026 22:20:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "IBM “양자컴퓨팅, 이미 산업에 활용되는 '유용성' 단계”",
-      "link": "https://www.etnews.com/20260519000179",
+      "title": "韓·日, 에너지 공급망 위기극복 협력강화",
+      "link": "https://www.etnews.com/20260519000442",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 11:00:02 +0900"
+      "pub_date": "Tue, 19 May 2026 18:47:44 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 22:30:58 GMT"
+      "pub_date": "Tue, 19 May 2026 14:20:15 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+      "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 01:35:30 GMT"
+      "pub_date": "Tue, 19 May 2026 12:30:48 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-      "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+      "link": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 18 May 2026 19:31:18 GMT"
+      "pub_date": "Tue, 19 May 2026 10:58:23 GMT"
     }
   ]
 }
