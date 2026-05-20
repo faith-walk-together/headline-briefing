@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-20T02:48:52.070560+00:00",
+  "last_updated": "2026-05-20T14:52:46.096224+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한국인 탑승 가자구호선 또 나포…외교부 \"조속한 석방 요청\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520114718a3d",
+      "title": "국힘, 李대통령 '네타냐후 체포영장' 언급에 \"경솔·외교 자해\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520232132n24",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:47:19 +0900"
+      "pub_date": "Wed, 20 May 2026 23:21:33 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 \"조국 당선과 합당 연결은 억지…김관영' 당원명부 입수' 조치해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520112731ulm",
+      "title": "[투나잇이슈] 21일 선거운동 시작…여야, 서울·충청 첫 유세",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260520230613REf",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:27:33 +0900"
+      "pub_date": "Wed, 20 May 2026 23:06:16 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 오늘 대통령 소속 자문회의·위원회 간담회 주재",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520111615HD0",
+      "title": "정청래 \"후보들 스타벅스 출입 자제\"…정치권도 불매 움직임",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605202135067U0",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:16:16 +0900"
+      "pub_date": "Wed, 20 May 2026 21:35:08 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "SC제일은행, 박세리와 함께하는 ‘마스터클래스’ 성황리 개최",
-      "link": "https://www.mk.co.kr/news/economy/12053037",
+      "title": "① 재직보너스 변질된 K성과급 … 무임승차만 양산",
+      "link": "https://www.mk.co.kr/news/business/12053823",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:46:20 +09:00"
+      "pub_date": "Wed, 20 May 2026 23:35:24 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 삼성전자 노조 “사후조정 결렬…내일부터 파업돌입”",
-      "link": "https://www.mk.co.kr/news/business/12053032",
+      "title": "[속보] 삼성전자 임금 6.2% 인상…DX부문에 600만원 상당 자사주",
+      "link": "https://www.mk.co.kr/news/business/12053822",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:43:15 +09:00"
+      "pub_date": "Wed, 20 May 2026 23:33:12 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "관훈토론회, 발언하는 정원오",
-      "link": "https://www.mk.co.kr/news/politics/12053031",
+      "title": "김영훈 노동장관 “삼성전자 노사 한발씩 양보…‘K-저력’ 보여줘”",
+      "link": "https://www.mk.co.kr/news/business/12053821",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:42:43 +09:00"
+      "pub_date": "Wed, 20 May 2026 23:32:08 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "車 수출·생산 '급제동'…친환경차 버텼지만 현대차 '트리플 부진'에 '털썩'",
-      "link": "https://www.etnews.com/20260520000177",
+      "title": "삼성전자 총파업 피했다…노사, 성과급 절충안 잠정 합의",
+      "link": "https://www.etnews.com/20260520000533",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:00:00 +0900"
+      "pub_date": "Wed, 20 May 2026 23:22:07 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'역대 최저 지지율' 경신한 트럼프 “이란 전쟁은 인기 만점”",
-      "link": "https://www.etnews.com/20260520000195",
+      "title": "경총 “삼성전자 노조 합의안 특수 상황, 산업 전반 확산 안돼”",
+      "link": "https://www.etnews.com/20260520000532",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 10:55:34 +0900"
+      "pub_date": "Wed, 20 May 2026 23:18:37 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "李대통령, 스타벅스 이어 '7년 전 무신사'도 정조준…“사람 탈 쓰고 이럴 수가”",
-      "link": "https://www.etnews.com/20260520000167",
+      "title": "삼성전자 “임금 협약 잠정 합의…건설적인 노사관계 구축”",
+      "link": "https://www.etnews.com/20260520000529",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 10:41:55 +0900"
+      "pub_date": "Wed, 20 May 2026 23:14:39 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 18:05:26 GMT"
+      "pub_date": "Wed, 20 May 2026 11:42:44 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 19:32:22 GMT"
+      "pub_date": "Wed, 20 May 2026 09:49:33 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Key people smuggler arrested after BBC uncovered identity",
-      "link": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+      "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
+      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 19 May 2026 17:05:41 GMT"
+      "pub_date": "Wed, 20 May 2026 13:52:17 GMT"
     }
   ]
 }
