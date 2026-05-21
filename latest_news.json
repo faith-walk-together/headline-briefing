@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-20T14:52:46.096224+00:00",
+  "last_updated": "2026-05-21T02:52:13.988118+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘, 李대통령 '네타냐후 체포영장' 언급에 \"경솔·외교 자해\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260520232132n24",
+      "title": "靑 \"이스라엘, 선박 나포로 체포된 한국 국민 2명 석방…환영\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521115139b9g",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:21:33 +0900"
+      "pub_date": "Thu, 21 May 2026 11:51:40 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 21일 선거운동 시작…여야, 서울·충청 첫 유세",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260520230613REf",
+      "title": "민주, 선거운동 첫날 수도권·중원 공략…\"'윤어게인' 몰아내야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521114937jxK",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:06:16 +0900"
+      "pub_date": "Thu, 21 May 2026 11:49:37 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"후보들 스타벅스 출입 자제\"…정치권도 불매 움직임",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605202135067U0",
+      "title": "[속보] 이 대통령 \"삼성역 GTX 철근누락 사태, 엄정 실태파악 지시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521114341QPf",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 21:35:08 +0900"
+      "pub_date": "Thu, 21 May 2026 11:43:44 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "① 재직보너스 변질된 K성과급 … 무임승차만 양산",
-      "link": "https://www.mk.co.kr/news/business/12053823",
+      "title": "“공공주도 재생에너지 확대”…서부발전, 서산시와 공공부지 태양광발전 구축 맞손",
+      "link": "https://www.mk.co.kr/news/business/12054306",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:35:24 +09:00"
+      "pub_date": "Thu, 21 May 2026 11:49:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 삼성전자 임금 6.2% 인상…DX부문에 600만원 상당 자사주",
-      "link": "https://www.mk.co.kr/news/business/12053822",
+      "title": "“전월세 매물이 안보여요”…최장 8년 거주 양재 청년안심주택 보니",
+      "link": "https://www.mk.co.kr/news/realestate/12054302",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:33:12 +09:00"
+      "pub_date": "Thu, 21 May 2026 11:44:42 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "김영훈 노동장관 “삼성전자 노사 한발씩 양보…‘K-저력’ 보여줘”",
-      "link": "https://www.mk.co.kr/news/business/12053821",
+      "title": "김치가 일본·중국 음식?…끊이지 않는 ‘표기’ 논란",
+      "link": "https://www.mk.co.kr/news/society/12054299",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:32:08 +09:00"
+      "pub_date": "Thu, 21 May 2026 11:41:49 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "삼성전자 총파업 피했다…노사, 성과급 절충안 잠정 합의",
-      "link": "https://www.etnews.com/20260520000533",
+      "title": "KT, 피지컬 AI 대응 본격화…실증 인프라 구축",
+      "link": "https://www.etnews.com/20260521000125",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:22:07 +0900"
+      "pub_date": "Thu, 21 May 2026 11:01:17 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "경총 “삼성전자 노조 합의안 특수 상황, 산업 전반 확산 안돼”",
-      "link": "https://www.etnews.com/20260520000532",
+      "title": "쿠바 압박 강화하는 미국… 30년 전 사건으로 라울 카스트로 '살인죄' 기소",
+      "link": "https://www.etnews.com/20260521000120",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:18:37 +0900"
+      "pub_date": "Thu, 21 May 2026 10:55:34 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "삼성전자 “임금 협약 잠정 합의…건설적인 노사관계 구축”",
-      "link": "https://www.etnews.com/20260520000529",
+      "title": "배민 노조, 매각설 속 반발…“구성원 희생으로 기업가치 높이나”",
+      "link": "https://www.etnews.com/20260521000107",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:14:39 +0900"
+      "pub_date": "Thu, 21 May 2026 10:39:11 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 11:42:44 GMT"
+      "pub_date": "Wed, 20 May 2026 23:28:07 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 09:49:33 GMT"
+      "pub_date": "Wed, 20 May 2026 16:34:40 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
-      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 13:52:17 GMT"
+      "pub_date": "Wed, 20 May 2026 23:28:28 GMT"
     }
   ]
 }
