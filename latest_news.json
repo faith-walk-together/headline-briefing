@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-21T02:52:13.988118+00:00",
+  "last_updated": "2026-05-21T14:56:13.974154+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑 \"이스라엘, 선박 나포로 체포된 한국 국민 2명 석방…환영\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521115139b9g",
+      "title": "민주 '코인 의혹' 녹취 공개…유정복 측 \"일방 주장\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260521230547ETO",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:51:40 +0900"
+      "pub_date": "Thu, 21 May 2026 23:05:49 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주, 선거운동 첫날 수도권·중원 공략…\"'윤어게인' 몰아내야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521114937jxK",
+      "title": "[투나잇이슈] 공식 선거운동 개막…여야, 표심 공략 총력전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260521224312iYr",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:49:37 +0900"
+      "pub_date": "Thu, 21 May 2026 22:43:14 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 이 대통령 \"삼성역 GTX 철근누락 사태, 엄정 실태파악 지시\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521114341QPf",
+      "title": "이 대통령, 서울 돈의동 쪽방촌 방문…취약계층 생활 점검",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521213547j6p",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:43:44 +0900"
+      "pub_date": "Thu, 21 May 2026 21:35:49 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“공공주도 재생에너지 확대”…서부발전, 서산시와 공공부지 태양광발전 구축 맞손",
-      "link": "https://www.mk.co.kr/news/business/12054306",
+      "title": "“거기 커피는 아니죠?”…이재명 대통령, 익선동 야장 깜짝 방문, 왜?",
+      "link": "https://www.mk.co.kr/news/politics/12055033",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:49:38 +09:00"
+      "pub_date": "Thu, 21 May 2026 22:56:51 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“전월세 매물이 안보여요”…최장 8년 거주 양재 청년안심주택 보니",
-      "link": "https://www.mk.co.kr/news/realestate/12054302",
+      "title": "‘책상에 탁!’ 스타벅스 마시는 전두환 합성사진 논란…“명백한 5·18 폄훼”",
+      "link": "https://www.mk.co.kr/news/society/12055025",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:44:42 +09:00"
+      "pub_date": "Thu, 21 May 2026 22:41:30 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "김치가 일본·중국 음식?…끊이지 않는 ‘표기’ 논란",
-      "link": "https://www.mk.co.kr/news/society/12054299",
+      "title": "90대 노모 손으로 삭발한 박민식…“한동훈과 단일화 없다”",
+      "link": "https://www.mk.co.kr/news/politics/12055005",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:41:49 +09:00"
+      "pub_date": "Thu, 21 May 2026 21:54:33 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "KT, 피지컬 AI 대응 본격화…실증 인프라 구축",
-      "link": "https://www.etnews.com/20260521000125",
+      "title": "러 전투기, 흑해 상공서 英 정찰기에 밀착… “6m 근접 비행”",
+      "link": "https://www.etnews.com/20260521000369",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:01:17 +0900"
+      "pub_date": "Thu, 21 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "쿠바 압박 강화하는 미국… 30년 전 사건으로 라울 카스트로 '살인죄' 기소",
-      "link": "https://www.etnews.com/20260521000120",
+      "title": "곰 때문에 난리난 日…“얼굴·목까지 덮는 헬멧” 경찰관 보호장비도 교체",
+      "link": "https://www.etnews.com/20260521000286",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 10:55:34 +0900"
+      "pub_date": "Thu, 21 May 2026 17:20:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "배민 노조, 매각설 속 반발…“구성원 희생으로 기업가치 높이나”",
-      "link": "https://www.etnews.com/20260521000107",
+      "title": "가상자산 이어 은행권도 특금법 개정안 우려…“의심거래보고·거래중단 연계 과도”",
+      "link": "https://www.etnews.com/20260521000440",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 10:39:11 +0900"
+      "pub_date": "Thu, 21 May 2026 17:11:41 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:28:07 GMT"
+      "pub_date": "Thu, 21 May 2026 14:37:29 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 16:34:40 GMT"
+      "pub_date": "Thu, 21 May 2026 11:22:18 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 20 May 2026 23:28:28 GMT"
+      "pub_date": "Thu, 21 May 2026 13:07:02 GMT"
     }
   ]
 }
