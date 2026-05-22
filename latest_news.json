@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-22T02:52:26.464977+00:00",
+  "last_updated": "2026-05-22T14:29:42.495288+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "공식 선거운동 이틀째…여야 유세전 치열",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522112314ITc",
+      "title": "靑 \"소방청장 감찰 착수…이 대통령 진상확인 지시\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522230708Y6J",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:23:16 +0900"
+      "pub_date": "Fri, 22 May 2026 23:07:09 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "주한중국대사 \"李 대통령 '중국 혐오 정서' 가짜뉴스 비판 높이 평가\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260522111419vv9",
+      "title": "[투나잇이슈] 'D-12' 총력 유세…여야, 표심 경쟁 총력전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522224034qZ5",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:14:20 +0900"
+      "pub_date": "Fri, 22 May 2026 22:40:36 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] 여야 ‘13일간 열전’ 돌입…‘박빙 표심’ 어디로",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522111003MMj",
+      "title": "강훈식, 내달 캐나다행 검토…잠수함 수주전 총력",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605222103538Ds",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:10:05 +0900"
+      "pub_date": "Fri, 22 May 2026 21:03:55 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "불스원, 라방으로 ‘EZ클린 1초 TPE 카매트’ 판매",
-      "link": "https://www.mk.co.kr/news/business/12055450",
+      "title": "“수표 어디서 났어요?”…보이스피싱 수거책, 은행원 촉에 딱 걸렸다",
+      "link": "https://www.mk.co.kr/news/society/12055993",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:45:53 +09:00"
+      "pub_date": "Fri, 22 May 2026 22:55:59 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "경기관광공사, ‘안중근 평화센터’ 9월 19일 개관",
-      "link": "https://www.mk.co.kr/news/politics/12055443",
+      "title": "UAE 대통령 고문 “종전 합의 확률 50대50…이란, 과도한 협상 시도 말길”",
+      "link": "https://www.mk.co.kr/news/world/12055988",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:31:04 +09:00"
+      "pub_date": "Fri, 22 May 2026 22:51:17 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "스타벅스 ‘세이렌’의 역설…‘탈벅’에 메가·투썸 반사이익 얻나",
-      "link": "https://www.mk.co.kr/news/business/12055441",
+      "title": "‘이차전지 테마주 주가조작’ 알에프세미 전·현직 대표 구속",
+      "link": "https://www.mk.co.kr/news/society/12055979",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:28:21 +09:00"
+      "pub_date": "Fri, 22 May 2026 22:36:03 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“에볼라는 거짓말”… 격리소에 '화염병' 던진 민주 콩고 주민",
-      "link": "https://www.etnews.com/20260522000162",
+      "title": "“쉬지 않고 9일 내내 일했다”…24만개 택배 처리한 로봇",
+      "link": "https://www.etnews.com/20260522000317",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 11:07:08 +0900"
+      "pub_date": "Fri, 22 May 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“끓는 훠궈 그대로 삼켰다가…” 8㎝ 식도 궤양 생긴 40대 中 여성",
-      "link": "https://www.etnews.com/20260522000150",
+      "title": "LG, 3500억원 규모 자사주 전량 소각…“주주가치 제고”",
+      "link": "https://www.etnews.com/20260522000363",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 10:50:04 +0900"
+      "pub_date": "Fri, 22 May 2026 18:04:07 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "트럼프 “60년 만의 쿠바 문제 개입, 내가 하겠다”… 군사 개입 가능성 시사",
-      "link": "https://www.etnews.com/20260522000135",
+      "title": "쿠팡이츠, '무료배달비 업주 전가' 주장 반박…“업주 매출 98% 증가”",
+      "link": "https://www.etnews.com/20260522000361",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 10:28:46 +0900"
+      "pub_date": "Fri, 22 May 2026 17:54:28 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 00:10:44 GMT"
+      "pub_date": "Fri, 22 May 2026 14:18:14 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
-      "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 18:40:12 GMT"
+      "pub_date": "Fri, 22 May 2026 13:50:19 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "link": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 01:37:02 GMT"
+      "pub_date": "Fri, 22 May 2026 09:32:42 GMT"
     }
   ]
 }
