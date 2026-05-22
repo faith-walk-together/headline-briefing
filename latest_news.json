@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-21T14:56:13.974154+00:00",
+  "last_updated": "2026-05-22T02:52:26.464977+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 '코인 의혹' 녹취 공개…유정복 측 \"일방 주장\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260521230547ETO",
+      "title": "공식 선거운동 이틀째…여야 유세전 치열",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522112314ITc",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 23:05:49 +0900"
+      "pub_date": "Fri, 22 May 2026 11:23:16 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 공식 선거운동 개막…여야, 표심 공략 총력전",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260521224312iYr",
+      "title": "주한중국대사 \"李 대통령 '중국 혐오 정서' 가짜뉴스 비판 높이 평가\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260522111419vv9",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 22:43:14 +0900"
+      "pub_date": "Fri, 22 May 2026 11:14:20 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 서울 돈의동 쪽방촌 방문…취약계층 생활 점검",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260521213547j6p",
+      "title": "[뉴스포커스] 여야 ‘13일간 열전’ 돌입…‘박빙 표심’ 어디로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260522111003MMj",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 21:35:49 +0900"
+      "pub_date": "Fri, 22 May 2026 11:10:05 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“거기 커피는 아니죠?”…이재명 대통령, 익선동 야장 깜짝 방문, 왜?",
-      "link": "https://www.mk.co.kr/news/politics/12055033",
+      "title": "불스원, 라방으로 ‘EZ클린 1초 TPE 카매트’ 판매",
+      "link": "https://www.mk.co.kr/news/business/12055450",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 22:56:51 +09:00"
+      "pub_date": "Fri, 22 May 2026 11:45:53 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘책상에 탁!’ 스타벅스 마시는 전두환 합성사진 논란…“명백한 5·18 폄훼”",
-      "link": "https://www.mk.co.kr/news/society/12055025",
+      "title": "경기관광공사, ‘안중근 평화센터’ 9월 19일 개관",
+      "link": "https://www.mk.co.kr/news/politics/12055443",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 22:41:30 +09:00"
+      "pub_date": "Fri, 22 May 2026 11:31:04 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "90대 노모 손으로 삭발한 박민식…“한동훈과 단일화 없다”",
-      "link": "https://www.mk.co.kr/news/politics/12055005",
+      "title": "스타벅스 ‘세이렌’의 역설…‘탈벅’에 메가·투썸 반사이익 얻나",
+      "link": "https://www.mk.co.kr/news/business/12055441",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 21:54:33 +09:00"
+      "pub_date": "Fri, 22 May 2026 11:28:21 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "러 전투기, 흑해 상공서 英 정찰기에 밀착… “6m 근접 비행”",
-      "link": "https://www.etnews.com/20260521000369",
+      "title": "“에볼라는 거짓말”… 격리소에 '화염병' 던진 민주 콩고 주민",
+      "link": "https://www.etnews.com/20260522000162",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 22:30:00 +0900"
+      "pub_date": "Fri, 22 May 2026 11:07:08 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "곰 때문에 난리난 日…“얼굴·목까지 덮는 헬멧” 경찰관 보호장비도 교체",
-      "link": "https://www.etnews.com/20260521000286",
+      "title": "“끓는 훠궈 그대로 삼켰다가…” 8㎝ 식도 궤양 생긴 40대 中 여성",
+      "link": "https://www.etnews.com/20260522000150",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 17:20:00 +0900"
+      "pub_date": "Fri, 22 May 2026 10:50:04 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "가상자산 이어 은행권도 특금법 개정안 우려…“의심거래보고·거래중단 연계 과도”",
-      "link": "https://www.etnews.com/20260521000440",
+      "title": "트럼프 “60년 만의 쿠바 문제 개입, 내가 하겠다”… 군사 개입 가능성 시사",
+      "link": "https://www.etnews.com/20260522000135",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 17:11:41 +0900"
+      "pub_date": "Fri, 22 May 2026 10:28:46 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 14:37:29 GMT"
+      "pub_date": "Fri, 22 May 2026 00:10:44 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+      "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 11:22:18 GMT"
+      "pub_date": "Thu, 21 May 2026 18:40:12 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 21 May 2026 13:07:02 GMT"
+      "pub_date": "Fri, 22 May 2026 01:37:02 GMT"
     }
   ]
 }
