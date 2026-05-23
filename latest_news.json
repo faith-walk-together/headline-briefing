@@ -1,93 +1,93 @@
 {
-  "last_updated": "2026-05-23T02:37:16.065446+00:00",
+  "last_updated": "2026-05-23T13:15:22.834081+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "靑, '中지도 보안시설 노출' 논란에 \"보안처리 즉시 요청\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260523095415Gmf",
+      "title": "이 대통령 '스타벅스 4월16일 세이렌 이벤트'에 \"조롱코드 감춘 행사로 국민 우롱\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260523220354M37",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 09:54:18 +0900"
+      "pub_date": "Sat, 23 May 2026 22:03:55 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "'바다의 패트리엇' SM-6 2034년까지 도입",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605230953586tD",
+      "title": "이 대통령, 북한 여자축구단에 '우승 축하' 메시지",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260523195851Fun",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 09:53:59 +0900"
+      "pub_date": "Sat, 23 May 2026 19:58:51 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "갤럽 \"이 대통령 지지도 64%…3%p 상승\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260523095040cVb",
+      "title": "정원오, 서울 북부 집중…'아침 러닝' 오세훈",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260523193020406",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 09:50:40 +0900"
+      "pub_date": "Sat, 23 May 2026 19:30:21 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“노무현의 ‘노’자만 봐도 낄낄”…스벅 논란 뒤엔 10·20대 ‘영 일베’있다",
-      "link": "https://www.mk.co.kr/news/society/12056183",
+      "title": "이란 혁명수비대 “지난 하룻동안 상선 25척 호르무즈 통과”",
+      "link": "https://www.mk.co.kr/news/business/12056340",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 11:28:59 +09:00"
+      "pub_date": "Sat, 23 May 2026 22:12:23 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“걸리면 둘 중 하나 죽는다”…생존해도 시력·청력 손실 위험 ‘바이러스’ 정체는",
-      "link": "https://www.mk.co.kr/news/world/12056181",
+      "title": "호르무즈 봉쇄 후 韓 유조선 다섯번째로 홍해 통과",
+      "link": "https://www.mk.co.kr/news/business/12056339",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 11:27:26 +09:00"
+      "pub_date": "Sat, 23 May 2026 22:06:50 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "2차 고유가지원금 신청률, 5일 만에 76%…1·2차 누적 5조 지급",
-      "link": "https://www.mk.co.kr/news/society/12056179",
+      "title": "위기의 젠슨 황에 손 내민 日 게임기업…“우리 대기업은 후려쳤다”",
+      "link": "https://www.mk.co.kr/news/business/12056338",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 11:10:25 +09:00"
+      "pub_date": "Sat, 23 May 2026 21:43:38 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“다우, 이틀 연속 최고치”… 뉴욕증시, 중동 훈풍에 다시 불장",
-      "link": "https://www.etnews.com/20260523000020",
+      "title": "“가구 긁는다고 고양이 발톱 절단”…클로이 카다시안, 반려묘 학대 고백에 전 세계 분노",
+      "link": "https://www.etnews.com/20260523000075",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 10:45:05 +0900"
+      "pub_date": "Sat, 23 May 2026 21:38:48 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“머스크, 스페이스X IPO 앞두고 초대박”…스타십 V3 완벽 귀환에 우주 패권",
-      "link": "https://www.etnews.com/20260523000015",
+      "title": "“트럼프, 장남 결혼식 참석도 포기했다”…이스라엘, 며칠 내 美 군사행동 재개에 대비",
+      "link": "https://www.etnews.com/20260523000067",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 10:28:34 +0900"
+      "pub_date": "Sat, 23 May 2026 20:56:21 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“이란 공습 재개 초읽기?”…이스라엘 공항에 美 공중급유기 최소 50대 집결",
-      "link": "https://www.etnews.com/20260523000014",
+      "title": "“생지옥 된 中 탄광”…가스 폭발로 90명 사망·9명 실종",
+      "link": "https://www.etnews.com/20260523000062",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 08:57:13 +0900"
+      "pub_date": "Sat, 23 May 2026 20:47:18 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 23 May 2026 11:23:10 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 19:40:14 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 22 May 2026 15:18:30 GMT"
+      "pub_date": "Sat, 23 May 2026 07:44:14 GMT"
     },
     {
       "category": "세계",
@@ -95,7 +95,7 @@
       "title": "SpaceX launches massive Starship V3 rocket on test flight",
       "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 01:32:46 GMT"
+      "pub_date": "Sat, 23 May 2026 03:53:20 GMT"
     }
   ]
 }
