@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-24T02:48:56.777377+00:00",
+  "last_updated": "2026-05-24T13:15:59.241609+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이회창 전 총재 부인 한인옥 여사 별세…향년 88세",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605241140243ds",
+      "title": "김용범 \"고금리·고물가·고환율, 위기 전조 아닌 도약의 마찰음\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524220644xOF",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:40:26 +0900"
+      "pub_date": "Sun, 24 May 2026 22:06:45 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"원융회통 정신 깊이 새겨…'국민 목숨 살리는 정부' 최선\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524110418Aqh",
+      "title": "중기부, 스타벅스 총리표창 취소요건 미부합 결론",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260524203150H8x",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:04:19 +0900"
+      "pub_date": "Sun, 24 May 2026 20:31:51 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "도산안창호함, 한국 잠수함 최초 태평양 횡단…역대 최장 항해기록 경신",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260524110342Ynn",
+      "title": "與 '울산시장 단일화' 진통…평택을 '대부업 의혹' 공방",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260524202151yjy",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:03:42 +0900"
+      "pub_date": "Sun, 24 May 2026 20:21:51 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“고액성과급, 남의 일”청년 위해…정부 ‘청년 자산형성 지원’ 나선다",
-      "link": "https://www.mk.co.kr/news/economy/12056450",
+      "title": "플랫폼 수수료·배달료만 연 1300만원…남는 게 없는 외식업 사장님들",
+      "link": "https://www.mk.co.kr/news/economy/12056721",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:38:04 +09:00"
+      "pub_date": "Sun, 24 May 2026 22:07:19 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“빚투, 정말 무서운 건데”…‘포모’ 휩싸인 개미, 은행 마통 뚫어 주식투자 ‘경고음’",
-      "link": "https://www.mk.co.kr/news/economy/12056449",
+      "title": "‘쾅쾅쾅’ 서해안고속도로서 승용차, 화물차 3중 추돌…6명 사상",
+      "link": "https://www.mk.co.kr/news/society/12056719",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:36:42 +09:00"
+      "pub_date": "Sun, 24 May 2026 21:50:17 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“대전은요” 물었던 박근혜…이장우 후보 유세 지원 나선다",
-      "link": "https://www.mk.co.kr/news/politics/12056448",
+      "title": "5·18 가짜 신문기사 유포한 50대 여성 붙잡혀…경찰 “엄정 대응할 터”",
+      "link": "https://www.mk.co.kr/news/society/12056718",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:33:10 +09:00"
+      "pub_date": "Sun, 24 May 2026 21:33:25 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "금융 망분리 규제 푼다…AI 보안체계 구축 속도",
-      "link": "https://www.etnews.com/20260522000097",
+      "title": "“월급 99%가 월세”… 스페인 집값 폭등에 민심 폭발",
+      "link": "https://www.etnews.com/20260524000058",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 11:30:00 +0900"
+      "pub_date": "Sun, 24 May 2026 21:39:51 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "여름 냉방비 아끼려면 지금이 타이밍…삼성 에어컨 세척 20% 싸진다",
-      "link": "https://www.etnews.com/20260524000031",
+      "title": "[미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…'2026 데이터센터 서밋' 개최",
+      "link": "https://www.etnews.com/20260522000287",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 10:00:00 +0900"
+      "pub_date": "Sun, 24 May 2026 21:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "LG다문화학교 16년, 졸업생 7000명…중등 몰입캠프 강릉 개최",
-      "link": "https://www.etnews.com/20260524000030",
+      "title": "“수술 장갑도 없다”…의료용품·비료값 폭등에 일본열도 패닉",
+      "link": "https://www.etnews.com/20260524000057",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 10:00:00 +0900"
+      "pub_date": "Sun, 24 May 2026 19:55:12 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 24 May 2026 01:18:31 GMT"
+      "pub_date": "Sun, 24 May 2026 06:15:32 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 23:34:33 GMT"
+      "pub_date": "Sun, 24 May 2026 13:02:02 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 23 May 2026 23:24:03 GMT"
+      "pub_date": "Sun, 24 May 2026 10:34:52 GMT"
     }
   ]
 }
