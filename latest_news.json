@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-05-26T14:57:59.697241+00:00",
+  "last_updated": "2026-05-27T02:56:34.896245+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"동남권, 충분한 잠재력…공공기관·기업 신속 추가 이전\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526231701ITw",
+      "title": "'지선 D-7' 박근혜 등판·단일화 난항…서울선거 ‘일시 중단’",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527115247QP7",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 23:17:04 +0900"
+      "pub_date": "Wed, 27 May 2026 11:52:49 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北, 탄도미사일·방사포 등 발사…'섞어쏘기' 훈련?",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260526231217ySR",
+      "title": "北, 탄도·순항미사일에 방사포까지 시험…김정은 참관",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527112245IjU",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 23:12:18 +0900"
+      "pub_date": "Wed, 27 May 2026 11:22:46 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 서소문 붕괴에 유세 중단…'안전' 쟁점 부상하나",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202605262251260Ib",
+      "title": "[뉴스포커스] 지방선거 D-7…서소문 붕괴사고에 유세 전면 중단",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527112227dDz",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 22:51:28 +0900"
+      "pub_date": "Wed, 27 May 2026 11:22:28 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 코레일 “27일도 서울∼행신 운행중지…경의선 문산∼수색 운행”",
-      "link": "https://www.mk.co.kr/news/society/12058333",
+      "title": "한국타이어, 북미서 ‘품질·납기 우수 공급업체’ 선정",
+      "link": "https://www.mk.co.kr/news/business/12058628",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 23:06:32 +09:00"
+      "pub_date": "Wed, 27 May 2026 11:35:16 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 코레일 “서소문 사고 서울시 복구 작업 상당 시간 소요될 듯”",
-      "link": "https://www.mk.co.kr/news/society/12058326",
+      "title": "SK하이닉스에 40억 올인한 투자자…3주 만에 ‘51억 계좌’ 인증",
+      "link": "https://www.mk.co.kr/news/society/12058627",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 22:58:12 +09:00"
+      "pub_date": "Wed, 27 May 2026 11:33:56 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“손 씻고 기다렸어요”…환대받은 이대통령 부부, 부산 자갈치시장서 소통 행보",
-      "link": "https://www.mk.co.kr/news/politics/12058324",
+      "title": "“또 속는 거 아냐?” 탈모인들이 뽑은 1위 탈모 샴푸 ‘이것’",
+      "link": "https://www.mk.co.kr/news/business/12058626",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 22:43:31 +09:00"
+      "pub_date": "Wed, 27 May 2026 11:33:34 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "집 앞으로 헬스장이 온다…美 '출장형 PT 서비스' 화제",
-      "link": "https://www.etnews.com/20260526000464",
+      "title": "삼성 잠정합의안 가결됐지만…전삼노 찬성률 21%, 노노갈등 불씨",
+      "link": "https://www.etnews.com/20260527000180",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 22:30:00 +0900"
+      "pub_date": "Wed, 27 May 2026 11:01:07 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "라인교육개발, NICE D&B 기업신용등급 'A0' 획득…디지털 전환 교육 경쟁력 입증",
-      "link": "https://www.etnews.com/20260526000020",
+      "title": "입술 시술에만 수천만원 쓴 美 성형스타…“입이 안 벌어져” 결국 재수술",
+      "link": "https://www.etnews.com/20260527000179",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 22:00:00 +0900"
+      "pub_date": "Wed, 27 May 2026 10:58:39 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "전기자전거가 시각장애인 뺑소니?…中 공분한 1억뷰 영상, 동정심 악용한 가짜였다",
-      "link": "https://www.etnews.com/20260526000422",
+      "title": "[속보] 삼성전자 임금 협약 잠정 합의안 찬반투표 가결",
+      "link": "https://www.etnews.com/20260527000147",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 17:25:00 +0900"
+      "pub_date": "Wed, 27 May 2026 10:26:53 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Wed, 27 May 2026 00:10:03 GMT"
     },
     {
       "category": "세계",
@@ -79,23 +87,15 @@
       "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
       "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 14:44:28 GMT"
+      "pub_date": "Tue, 26 May 2026 15:15:29 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "link": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 12:29:14 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 26 May 2026 12:44:57 GMT"
+      "pub_date": "Tue, 26 May 2026 03:06:06 GMT"
     }
   ]
 }
