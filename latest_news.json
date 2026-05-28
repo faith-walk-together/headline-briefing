@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-27T15:28:23.024377+00:00",
+  "last_updated": "2026-05-28T02:43:59.447689+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北, 이례적 '섞어 쏘기'…'최전방 무기' 현대화 집중",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527225133An0",
+      "title": "우의장 \"개헌 불발 아쉬워…후반기 개헌특위 구성해야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260528112842YCb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 22:51:34 +0900"
+      "pub_date": "Thu, 28 May 2026 11:28:44 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 28일부터 여론조사 공표 금지…여야, 총력전 돌입",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260527224003Jtz",
+      "title": "'쿼드' 공동성명 비난한 北…\"美 비중 줄이고 中 옹호\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202605281127036Xt",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 22:40:05 +0900"
+      "pub_date": "Thu, 28 May 2026 11:27:04 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여야, 나무호 발표에 온도차…\"이란 즉각 사과해야\"·\"늑장 발표\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260527220545L8P",
+      "title": "[뉴스포커스] 여론조사 깜깜이 돌입…격전지 막판 민심 어디로",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260528111827KkH",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 22:05:48 +0900"
+      "pub_date": "Thu, 28 May 2026 11:18:29 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "카카오 본사 파업 현실화···2차 조정도 ‘중지’ 결정",
-      "link": "https://www.mk.co.kr/news/business/12059372",
+      "title": "남부발전, 말레이시아 국제발명전시회서 금상·특별상 수상",
+      "link": "https://www.mk.co.kr/news/business/12059750",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 23:28:42 +09:00"
+      "pub_date": "Thu, 28 May 2026 11:42:30 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "경찰, ‘흉기 난동’ LG전자 협력업체 직원 구속영장 검토",
-      "link": "https://www.mk.co.kr/news/society/12059366",
+      "title": "“외국인 투자자가 개미들보다 더 챙겼다고?”…배당금 외인 비중 30% 넘어",
+      "link": "https://www.mk.co.kr/news/stock/12059747",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 23:10:39 +09:00"
+      "pub_date": "Thu, 28 May 2026 11:38:24 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 카카오 노사 2차 조정 결렬…창사 이래 첫 파업 현실되나",
-      "link": "https://www.mk.co.kr/news/society/12059365",
+      "title": "[단독] 검찰, DI동일 압수수색…‘1000억 동원’ 시세조종 세력 정조준",
+      "link": "https://www.mk.co.kr/news/society/12059743",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 23:06:17 +09:00"
+      "pub_date": "Thu, 28 May 2026 11:34:42 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“월드컵 보며 축구 배운다?”…현대차 로봇 '아틀라스' 화제",
-      "link": "https://www.etnews.com/20260527000273",
+      "title": "내부 정보로 예측 시장 베팅… '18억 수익' 구글 직원 사기죄로 기소",
+      "link": "https://www.etnews.com/20260528000187",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 22:30:00 +0900"
+      "pub_date": "Thu, 28 May 2026 11:22:58 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "정부 “나무호 타격 비행체, 이란 대함미사일 가능성 크다 결론”",
-      "link": "https://www.etnews.com/20260527000451",
+      "title": "트럼프 “중·러가 이란의 고농축우라늄 가져가면 불편할 것…협상 만족 못해”",
+      "link": "https://www.etnews.com/20260528000176",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 17:39:17 +0900"
+      "pub_date": "Thu, 28 May 2026 11:07:22 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "카톡 인스타처럼 바꾼 카카오 홍민택 CPO, 퇴사한다",
-      "link": "https://www.etnews.com/20260527000438",
+      "title": "주차된 트럭서 발사된 '엽총'에 여성 부상… 美 총격범 정체는 '개'",
+      "link": "https://www.etnews.com/20260527000454",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 17:03:46 +0900"
+      "pub_date": "Thu, 28 May 2026 11:05:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "title": "US carries out new strikes on Iran military site",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 10:40:29 GMT"
+      "pub_date": "Thu, 28 May 2026 02:30:24 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 13:15:26 GMT"
+      "pub_date": "Wed, 27 May 2026 20:26:03 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Five people found alive after week trapped in flooded Laos cave",
-      "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 27 May 2026 11:52:46 GMT"
+      "pub_date": "Thu, 28 May 2026 00:28:45 GMT"
     }
   ]
 }
