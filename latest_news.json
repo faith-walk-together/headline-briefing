@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-29T14:54:13.467346+00:00",
+  "last_updated": "2026-05-30T02:40:47.593539+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "조현 \"싱가포르 통해 대화 의지 전달\"…北 반응은?",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260529225055yih",
+      "title": "이 대통령 \"투표 포기는 미래 포기\"…투표 독려",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530113012o53",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 22:50:56 +0900"
+      "pub_date": "Sat, 30 May 2026 11:30:13 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 첫날 사전투표율 11.6%…막판 지지층 결집 총력",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260529224044ORK",
+      "title": "선거 전 마지막 주말…정원오·오세훈, 온종일 유세",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530112931Z63",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 22:40:48 +0900"
+      "pub_date": "Sat, 30 May 2026 11:29:34 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "美 대표단 내주 방한…핵잠·원자력 협상 '첫 삽'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260529211814rRE",
+      "title": "지방선거 첫날 사전투표율 11.60%…역대 지선 최고",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530112707QEj",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 21:18:15 +0900"
+      "pub_date": "Sat, 30 May 2026 11:27:09 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "삼성·하나 줄이은 투자 결정, 금융권 디지털자산 경쟁 본격화[엠블록레터]",
-      "link": "https://www.mk.co.kr/news/stock/12061706",
+      "title": "“잊을 수 없는 경험될 것이다”…남교사가 여학생 안고 번쩍, 홍콩 발칵",
+      "link": "https://www.mk.co.kr/news/world/12061860",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 23:10:09 +09:00"
+      "pub_date": "Sat, 30 May 2026 11:36:10 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "엘베 ‘문 열림’ 버튼 눌러줬는데…대뜸 여성 뺨 때린 40대",
-      "link": "https://www.mk.co.kr/news/society/12061698",
+      "title": "평택을서 ‘의외의 공개지지’ 등장…황교안 “사전투표 하지 말라” 호소, 왜?",
+      "link": "https://www.mk.co.kr/news/politics/12061858",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 22:52:16 +09:00"
+      "pub_date": "Sat, 30 May 2026 11:34:17 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "시험지 빼돌리게 시켜 딸 전교 1등 만든 엄마…감형 “잘못 뉘우쳐”",
-      "link": "https://www.mk.co.kr/news/society/12061695",
+      "title": "“스토킹한 사람 잡아놓았다”…유명 유튜버 찾아간 40대 여성이 한 짓",
+      "link": "https://www.mk.co.kr/news/society/12061857",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 22:50:41 +09:00"
+      "pub_date": "Sat, 30 May 2026 11:22:29 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“오른손으로 폰 보셨죠”… 美 경찰, 오른손 없는 장애 운전자 허위 단속 논란",
-      "link": "https://www.etnews.com/20260529000308",
+      "title": "국립목포대, 5년 연속 '소상공인 디지털 특성화대학' 선정",
+      "link": "https://www.etnews.com/20260529000043",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 22:30:00 +0900"
+      "pub_date": "Sat, 30 May 2026 09:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“트럼프에 성추행 당해” 승소한 80대女…美법무부 수사 타깃됐다, 왜?",
-      "link": "https://www.etnews.com/20260529000273",
+      "title": "3000조→2700조…상장 앞두고 몸값 낮춘 스페이스X, 왜?",
+      "link": "https://www.etnews.com/20260530000007",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 21:50:00 +0900"
+      "pub_date": "Sat, 30 May 2026 09:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "트럼프도 이거 사라고 공개 추천했다…하룻밤에 38% 폭등한 이 종목",
-      "link": "https://www.etnews.com/20260529000312",
+      "title": "토요타, 2027년 양산 예정 렉서스 전기차 개발 중단",
+      "link": "https://www.etnews.com/20260529000362",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 21:30:00 +0900"
+      "pub_date": "Sat, 30 May 2026 09:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
       "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 14:35:43 GMT"
+      "pub_date": "Fri, 29 May 2026 21:40:45 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
       "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 12:56:30 GMT"
+      "pub_date": "Fri, 29 May 2026 17:27:09 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 13:55:04 GMT"
+      "pub_date": "Fri, 29 May 2026 23:30:33 GMT"
     }
   ]
 }
