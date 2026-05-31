@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-30T13:19:17.022285+00:00",
+  "last_updated": "2026-05-31T02:57:49.943433+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "골목 누빈 정원오…'88시간 유세' 오세훈",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530200929ety",
+      "title": "해병대사령관, 내일부터 방미…\"연합훈련 등 군사협력 강화 논의\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260531114702IWF",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 20:09:30 +0900"
+      "pub_date": "Sun, 31 May 2026 11:47:02 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "최종 사전투표율 23.51%…지선 기준 최고치",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260530200142UgP",
+      "title": "장동혁 \"정권 향한 분노 보여달라…2030 투표장에\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260531114524lXh",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 20:01:44 +0900"
+      "pub_date": "Sun, 31 May 2026 11:45:25 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한일, 내달 7일 해군 수색구조훈련 실시…9년 만에 재개",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260530194400NWE",
+      "title": "이 대통령 \"투표 포기, 권력남용한 자들에 기회\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260531112737SKC",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 19:44:01 +0900"
+      "pub_date": "Sun, 31 May 2026 11:27:37 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“아이돌 이목구비까지 선명”…샤오미 17T, 콘서트 필수템 노리는 이유",
-      "link": "https://www.mk.co.kr/news/business/12061953",
+      "title": "대구지역 롯데백화점, 군 장병 위한 ‘아너스 클럽’ 운영",
+      "link": "https://www.mk.co.kr/news/society/12062052",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 22:08:58 +09:00"
+      "pub_date": "Sun, 31 May 2026 11:56:09 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“최고 수준 경계 유지하라”…호르무즈 선박에 경고한 오만, 무슨일이",
-      "link": "https://www.mk.co.kr/news/world/12061951",
+      "title": "미모의 여성 사진으로 ‘여성 행세’…캄보디아 ‘로맨스스캠’ 유인책 30대 남성 징역형",
+      "link": "https://www.mk.co.kr/news/society/12062051",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 21:57:43 +09:00"
+      "pub_date": "Sun, 31 May 2026 11:55:47 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "로또 1등 10명, 28억1천만원씩…당첨번호 ‘4, 6, 13, 17, 26, 28’",
-      "link": "https://www.mk.co.kr/news/society/12061949",
+      "title": "부천서 기표소 재입장 가로막자 투표용지 찢은 60대 검거",
+      "link": "https://www.mk.co.kr/news/society/12062050",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 21:02:09 +09:00"
+      "pub_date": "Sun, 31 May 2026 11:55:05 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "6·3 지선 사전투표율 23.51%…지방선거 최고치 경신",
-      "link": "https://www.etnews.com/20260530000037",
+      "title": "“이젠 글로벌이 기본값”…스타트업·VC 덮친 생태계 대전환",
+      "link": "https://www.etnews.com/20260531000017",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 19:13:13 +0900"
+      "pub_date": "Sun, 31 May 2026 11:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“걸리면 돌이킬 수 없다”…“믿는 건 미군” 식별장치 끄고 '암흑항해' 호르무즈 탈출 사투",
-      "link": "https://www.etnews.com/20260530000034",
+      "title": "[정희수의 이메일 해킹과 방어] 〈8〉 BEC 공격",
+      "link": "https://www.etnews.com/20260529000092",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 18:47:18 +0900"
+      "pub_date": "Sun, 31 May 2026 10:01:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "1000만원짜리 호텔 식사에 물까지 돈내라고?…이탈리아 생수 소송 결말은",
-      "link": "https://www.etnews.com/20260529000307",
+      "title": "“자기자본 충분해야 PF대출 가능”…여신협회, 모범규준 개정",
+      "link": "https://www.etnews.com/20260529000088",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 18:45:00 +0900"
+      "pub_date": "Sun, 31 May 2026 10:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds arrested in France after wild Champions League celebrations",
+      "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 11:39:32 GMT"
+      "pub_date": "Sun, 31 May 2026 02:04:18 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-      "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 30 May 2026 12:16:40 GMT"
+      "pub_date": "Sat, 30 May 2026 12:16:26 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 29 May 2026 21:40:45 GMT"
+      "pub_date": "Sat, 30 May 2026 21:10:06 GMT"
     }
   ]
 }
