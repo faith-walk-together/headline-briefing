@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-05-31T13:26:36.669217+00:00",
+  "last_updated": "2026-06-01T03:34:48.261470+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 양천구청장 후보 '아기 뽀뽀 강요' 논란…\"고개 숙여 사과\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260531204703Ow2",
+      "title": "[속보] 김 총리, 대전 유성구 '한화에어로스페이스' 사고에…\"인명구조 최선\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260601120933o4I",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 20:47:04 +0900"
+      "pub_date": "Mon, 01 Jun 2026 12:09:35 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "강훈식, 오늘 캐나다 출국…에너지·공급망 협력 등 논의",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260531201853jzg",
+      "title": "[속보] 이 대통령, 한화에어로스페이스 사고에 \"구조·수습 가용 자원 총동원 대처\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260601120419CvU",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 20:18:53 +0900"
+      "pub_date": "Mon, 01 Jun 2026 12:04:22 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "전남 최고·대구 최저…사전투표 '동상이몽'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260531195547SCA",
+      "title": "이 대통령, 한화에어로스페이스 사고에 \"인명구조·사고수습 자원 총동원\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606011202115Lm",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 19:55:50 +0900"
+      "pub_date": "Mon, 01 Jun 2026 12:02:13 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "주가 급등했는데 기적의 ‘녹아웃’…연 10% 내걸고 2% 주는 은행상품",
-      "link": "https://www.mk.co.kr/news/economy/12062401",
+      "title": "고객 마음을 읽는다…어센트 AI, ‘리스닝마인드.AI’ 출시",
+      "link": "https://www.mk.co.kr/news/it/12062723",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 22:21:43 +09:00"
+      "pub_date": "Mon, 01 Jun 2026 12:19:19 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "트럼프 기대와 달랐다…CNN “이란, 지하 미사일 터널 입구 69개 중 50개 복구”",
-      "link": "https://www.mk.co.kr/news/world/12062400",
+      "title": "‘글로벌 역물류’ 스타트업 케이존, 63억원 규모 시리즈 B 투자 유치",
+      "link": "https://www.mk.co.kr/news/business/12062722",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 22:21:20 +09:00"
+      "pub_date": "Mon, 01 Jun 2026 12:14:13 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "여의도 알아주는 ‘선수’에 물었더니… AI산업혁명, 세 가지 업종 찍었다",
-      "link": "https://www.mk.co.kr/news/stock/12062398",
+      "title": "[속보] 경찰 “한화에어로스페이스 폭발로 4명 사망·2명 부상”",
+      "link": "https://www.mk.co.kr/news/society/12062721",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 22:11:19 +09:00"
+      "pub_date": "Mon, 01 Jun 2026 12:13:41 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“사막 모래 맨손으로 파헤쳐”…대만 관광객 휴대전화 찾아준 중국 경찰",
-      "link": "https://www.etnews.com/20260529000341",
+      "title": "SK하이닉스 청주공장서 불…불화수소 누출 6명 부상",
+      "link": "https://www.etnews.com/20260601000225",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 18:10:00 +0900"
+      "pub_date": "Mon, 1 Jun 2026 12:07:49 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'수염'이 美 선거판 표심 흔든다…콧수염에 반응하자 경쟁하듯 턱수염 길러",
-      "link": "https://www.etnews.com/20260531000103",
+      "title": "물·대기 넘어 수소·폐배터리까지…한중 기후테크 협력 확대",
+      "link": "https://www.etnews.com/20260601000165",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 17:23:17 +0900"
+      "pub_date": "Mon, 1 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이억원 금융위원장, “국민참여성장펀드 2차분 출시할 것”",
-      "link": "https://www.etnews.com/20260531000100",
+      "title": "AI가 질병 원인 유전자까지 짚어낸다…국내 연구진, 설명가능 분석 플랫폼 개발",
+      "link": "https://www.etnews.com/20260601000081",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 17:12:35 +0900"
+      "pub_date": "Mon, 1 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 11:26:08 GMT"
+      "pub_date": "Sun, 31 May 2026 22:39:12 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 06:34:04 GMT"
+      "pub_date": "Mon, 01 Jun 2026 01:53:03 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 31 May 2026 06:47:05 GMT"
+      "pub_date": "Sun, 31 May 2026 22:54:20 GMT"
     }
   ]
 }
