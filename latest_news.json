@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-01T17:29:36.987909+00:00",
+  "last_updated": "2026-06-02T03:32:02.795674+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "해군 정조대왕함 환태평양훈련 첫 참가…제주서 출항",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260601231258KVH",
+      "title": "정원오 '서울 안전' 강조…오세훈 \"서울, 마지막 안전판\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602121324vCt",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 23:13:01 +0900"
+      "pub_date": "Tue, 02 Jun 2026 12:13:25 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 대전 폭발 사고로 7명 사상…여야, 차분한 유세",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260601224335rxV",
+      "title": "[영상구성] [표(票)나는 숫자들] : 당신의 한 표가 데이터가 되는 순간",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602121309ekh",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 22:43:38 +0900"
+      "pub_date": "Tue, 02 Jun 2026 12:13:10 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "격전지 네거티브 전쟁…평택·부산·전북 선거전 과열",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260601205715fmC",
+      "title": "이 대통령 \"빚 때문에 죽는다는 소리 안 나와야\"…장기연체채무 관리 주문",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602120729UiC",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 20:57:18 +0900"
+      "pub_date": "Tue, 02 Jun 2026 12:07:30 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“세수한 남자친구, 얼굴이 다른데요?”...사기템으로 인기끄는 ‘이 아이템’",
-      "link": "https://www.mk.co.kr/news/business/12063562",
+      "title": "“메타 제치고 테슬라도 바짝 추격”…삼성전자, 시총 세계 10위권 첫 진입",
+      "link": "https://www.mk.co.kr/news/economy/12063929",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 23:55:29 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 12:20:29 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "강훈식, 넉달만에 또 캐나다行 … 60조원 잠수함 수주 총력지원",
-      "link": "https://www.mk.co.kr/news/politics/12063556",
+      "title": "李대통령, 마약 유통 경고 “교도소 가지 말고 치료받길”",
+      "link": "https://www.mk.co.kr/news/politics/12063925",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 23:14:14 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 11:50:02 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“아내가 투자를 싫어해서”…주식으로 1억 번 남편의 고민",
-      "link": "https://www.mk.co.kr/news/society/12063545",
+      "title": "“강릉시청 앞 입지”…성보종건, ‘강릉 성보필리오 더센트럴힐즈’ 이달 공급",
+      "link": "https://www.mk.co.kr/news/realestate/12063924",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 22:56:17 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 11:44:19 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "쌍커풀 수술했다가 평생 눈 못 감게 됐는데…합의금까지 토해낸 中여성",
-      "link": "https://www.etnews.com/20260601000526",
+      "title": "“당신 미쳤어?”… 트럼프, 네타냐후와 통화서 격분해 욕설",
+      "link": "https://www.etnews.com/20260602000155",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 1 Jun 2026 21:40:43 +0900"
+      "pub_date": "Tue, 2 Jun 2026 11:12:07 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "김승연 한화 회장, 한화에어로 폭발 사고에 “애통한 심정…그룹 역량 총동원”",
-      "link": "https://www.etnews.com/20260601000489",
+      "title": "노동부, 한화에어로 중대재해처벌법 수사 본격화…방산·반도체 긴급점검",
+      "link": "https://www.etnews.com/20260602000151",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 1 Jun 2026 19:25:58 +0900"
+      "pub_date": "Tue, 2 Jun 2026 10:58:38 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "기아만 웃었다…완성차 5사, 5월 판매량 전년비 4%↓",
-      "link": "https://www.etnews.com/20260601000487",
+      "title": "미군기지 인근 日 무인도 사들이는 중국인…日, 1만3400여곳 소유권 따진다",
+      "link": "https://www.etnews.com/20260602000149",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 1 Jun 2026 18:25:21 +0900"
+      "pub_date": "Tue, 2 Jun 2026 10:53:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
-      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 13:12:26 GMT"
+      "pub_date": "Mon, 01 Jun 2026 23:50:03 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 05:33:18 GMT"
+      "pub_date": "Mon, 01 Jun 2026 21:50:52 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 17:04:36 GMT"
+      "pub_date": "Tue, 02 Jun 2026 02:36:18 GMT"
     }
   ]
 }
