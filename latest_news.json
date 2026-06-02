@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-02T03:32:02.795674+00:00",
+  "last_updated": "2026-06-02T16:14:04.766614+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정원오 '서울 안전' 강조…오세훈 \"서울, 마지막 안전판\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602121324vCt",
+      "title": "오늘 새벽 6시부터 6·3 지방선거 본투표…결전의 날",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603004807TYZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 12:13:25 +0900"
+      "pub_date": "Wed, 03 Jun 2026 00:48:09 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[영상구성] [표(票)나는 숫자들] : 당신의 한 표가 데이터가 되는 순간",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602121309ekh",
+      "title": "[투나잇이슈] 13일의 열전 마무리…\"내란척결\"vs\"정부심판\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602225110tME",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 12:13:10 +0900"
+      "pub_date": "Tue, 02 Jun 2026 22:51:13 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"빚 때문에 죽는다는 소리 안 나와야\"…장기연체채무 관리 주문",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602120729UiC",
+      "title": "정부, 캐나다산 원유 수입 연간 2천만 배럴 확대 논의",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602224314Q8E",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 12:07:30 +0900"
+      "pub_date": "Tue, 02 Jun 2026 22:43:14 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“메타 제치고 테슬라도 바짝 추격”…삼성전자, 시총 세계 10위권 첫 진입",
-      "link": "https://www.mk.co.kr/news/economy/12063929",
+      "title": "트럼프에 ‘예수 밈’ 이미지 줬던 38세 최측근, 결국…",
+      "link": "https://www.mk.co.kr/news/world/12064541",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 12:20:29 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 23:38:36 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "李대통령, 마약 유통 경고 “교도소 가지 말고 치료받길”",
-      "link": "https://www.mk.co.kr/news/politics/12063925",
+      "title": "정부, 캐나다산 원유 도입 3배 확대 추진",
+      "link": "https://www.mk.co.kr/news/politics/12064534",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 11:50:02 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 23:20:13 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“강릉시청 앞 입지”…성보종건, ‘강릉 성보필리오 더센트럴힐즈’ 이달 공급",
-      "link": "https://www.mk.co.kr/news/realestate/12063924",
+      "title": "산업부, 캐나다서 원유 1600만 배럴·LNG 340만 톤 확보...강훈식 비서실장 지원사격",
+      "link": "https://www.mk.co.kr/news/business/12064526",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 11:44:19 +09:00"
+      "pub_date": "Tue, 02 Jun 2026 22:59:29 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“당신 미쳤어?”… 트럼프, 네타냐후와 통화서 격분해 욕설",
-      "link": "https://www.etnews.com/20260602000155",
+      "title": "[스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화",
+      "link": "https://www.etnews.com/20260602000268",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 2 Jun 2026 11:12:07 +0900"
+      "pub_date": "Wed, 3 Jun 2026 01:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "노동부, 한화에어로 중대재해처벌법 수사 본격화…방산·반도체 긴급점검",
-      "link": "https://www.etnews.com/20260602000151",
+      "title": "[6·3 지방선거]D-1 총력전 돌입한 여야…민주 “이재명 정부 성공”·국힘 “지방정부 넘겨선 안돼”",
+      "link": "https://www.etnews.com/20260602000248",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 2 Jun 2026 10:58:38 +0900"
+      "pub_date": "Tue, 2 Jun 2026 23:59:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "미군기지 인근 日 무인도 사들이는 중국인…日, 1만3400여곳 소유권 따진다",
-      "link": "https://www.etnews.com/20260602000149",
+      "title": "마릴린 먼로가 1037명?…“단체로 금발에 흰 원피스 펄럭”",
+      "link": "https://www.etnews.com/20260602000246",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 2 Jun 2026 10:53:00 +0900"
+      "pub_date": "Tue, 2 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 23:50:03 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 01 Jun 2026 21:50:52 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
       "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 02:36:18 GMT"
+      "pub_date": "Tue, 02 Jun 2026 15:10:23 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Tue, 02 Jun 2026 07:31:10 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Tue, 02 Jun 2026 16:04:18 GMT"
     }
   ]
 }
