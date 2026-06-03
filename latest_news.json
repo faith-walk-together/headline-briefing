@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-02T16:14:04.766614+00:00",
+  "last_updated": "2026-06-03T03:38:54.750040+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오늘 새벽 6시부터 6·3 지방선거 본투표…결전의 날",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603004807TYZ",
+      "title": "[속보] 지방선거 낮 12시 투표율 19%…850만 명 투표 마쳐",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603121054jU7",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 00:48:09 +0900"
+      "pub_date": "Wed, 03 Jun 2026 12:10:55 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 13일의 열전 마무리…\"내란척결\"vs\"정부심판\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260602225110tME",
+      "title": "오전 11시 기준 전국 투표율 16.8%…대구 최고 21.3%",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260603120116U52",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 22:51:13 +0900"
+      "pub_date": "Wed, 03 Jun 2026 12:01:16 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정부, 캐나다산 원유 수입 연간 2천만 배럴 확대 논의",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260602224314Q8E",
+      "title": "전주서 106세 할머니 투표…\"걷기 힘들지만, 나라 위하는 마음으로\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606031147392fy",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 22:43:14 +0900"
+      "pub_date": "Wed, 03 Jun 2026 11:47:41 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "트럼프에 ‘예수 밈’ 이미지 줬던 38세 최측근, 결국…",
-      "link": "https://www.mk.co.kr/news/world/12064541",
+      "title": "[단독] 삼성 노조 “DX와 같이 갈수 있다고 생각한 게 오만…DS 먼저 챙기겠다”",
+      "link": "https://www.mk.co.kr/news/business/12064725",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 23:38:36 +09:00"
+      "pub_date": "Wed, 03 Jun 2026 12:27:45 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "정부, 캐나다산 원유 도입 3배 확대 추진",
-      "link": "https://www.mk.co.kr/news/politics/12064534",
+      "title": "이승기, ‘시세 3배’ 105억 전세 계약 주장…차가원 측 “착각한 듯” 반박",
+      "link": "https://www.mk.co.kr/news/society/12064724",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 23:20:13 +09:00"
+      "pub_date": "Wed, 03 Jun 2026 12:25:25 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "산업부, 캐나다서 원유 1600만 배럴·LNG 340만 톤 확보...강훈식 비서실장 지원사격",
-      "link": "https://www.mk.co.kr/news/business/12064526",
+      "title": "“가발 쓰고 가슴보형물 착용”…여장 20대男, 女화장실서 6시간 동안 벌인 짓",
+      "link": "https://www.mk.co.kr/news/society/12064714",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 22:59:29 +09:00"
+      "pub_date": "Wed, 03 Jun 2026 11:32:15 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화",
-      "link": "https://www.etnews.com/20260602000268",
+      "title": "실손보험, 1조8700억원 적자…'비급여'로 샜다",
+      "link": "https://www.etnews.com/20260602000373",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 01:00:00 +0900"
+      "pub_date": "Wed, 3 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[6·3 지방선거]D-1 총력전 돌입한 여야…민주 “이재명 정부 성공”·국힘 “지방정부 넘겨선 안돼”",
-      "link": "https://www.etnews.com/20260602000248",
+      "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
+      "link": "https://www.etnews.com/20260602000291",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 2 Jun 2026 23:59:00 +0900"
+      "pub_date": "Wed, 3 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "마릴린 먼로가 1037명?…“단체로 금발에 흰 원피스 펄럭”",
-      "link": "https://www.etnews.com/20260602000246",
+      "title": "한전, 사우디 자푸라 2단계 열병합 수주…17년간 매출 2.1조원 기대",
+      "link": "https://www.etnews.com/20260603000056",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 2 Jun 2026 22:30:00 +0900"
+      "pub_date": "Wed, 3 Jun 2026 11:25:22 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
-      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 15:10:23 GMT"
+      "pub_date": "Tue, 02 Jun 2026 21:51:20 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 07:31:10 GMT"
+      "pub_date": "Wed, 03 Jun 2026 01:18:19 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 16:04:18 GMT"
+      "pub_date": "Tue, 02 Jun 2026 23:33:34 GMT"
     }
   ]
 }
