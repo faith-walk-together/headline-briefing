@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-03T03:38:54.750040+00:00",
+  "last_updated": "2026-06-03T16:29:42.061891+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 지방선거 낮 12시 투표율 19%…850만 명 투표 마쳐",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260603121054jU7",
+      "title": "[뉴스특보] 초유의 투표용지 부족 사태…지방선거 개표 중",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604011423jOy",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 12:10:55 +0900"
+      "pub_date": "Thu, 04 Jun 2026 01:14:27 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오전 11시 기준 전국 투표율 16.8%…대구 최고 21.3%",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260603120116U52",
+      "title": "[현장연결] 인천시장 확실…민주 박찬대 당선 소감",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604011257hra",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 12:01:16 +0900"
+      "pub_date": "Thu, 04 Jun 2026 01:13:00 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "전주서 106세 할머니 투표…\"걷기 힘들지만, 나라 위하는 마음으로\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606031147392fy",
+      "title": "전국 개표 진행 중…초유의 투표용지 부족 파문",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026060401015792C",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 11:47:41 +0900"
+      "pub_date": "Thu, 04 Jun 2026 01:01:59 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[단독] 삼성 노조 “DX와 같이 갈수 있다고 생각한 게 오만…DS 먼저 챙기겠다”",
-      "link": "https://www.mk.co.kr/news/business/12064725",
+      "title": "[속보] 잠실7동 투표소 시민 수백명과 경찰 대치…과격 시위 우려도",
+      "link": "https://www.mk.co.kr/news/politics/12065322",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 12:27:45 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 00:39:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "이승기, ‘시세 3배’ 105억 전세 계약 주장…차가원 측 “착각한 듯” 반박",
-      "link": "https://www.mk.co.kr/news/society/12064724",
+      "title": "6·3지선 여권 우세…이 대통령 2년차 국정동력 ‘탄력’받나",
+      "link": "https://www.mk.co.kr/news/politics/12065321",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 12:25:25 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 00:39:05 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“가발 쓰고 가슴보형물 착용”…여장 20대男, 女화장실서 6시간 동안 벌인 짓",
-      "link": "https://www.mk.co.kr/news/society/12064714",
+      "title": "“6·3 선거는 부정선거”…‘개표중단 요구’ 시위대, 광화문 찍고 선관위로",
+      "link": "https://www.mk.co.kr/news/society/12065319",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 11:32:15 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 00:37:22 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "실손보험, 1조8700억원 적자…'비급여'로 샜다",
-      "link": "https://www.etnews.com/20260602000373",
+      "title": "[속보] '대치 상황' 잠실7동 투표소에 경찰 수십명 투입",
+      "link": "https://www.etnews.com/20260604000004",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 12:00:00 +0900"
+      "pub_date": "Thu, 4 Jun 2026 00:40:52 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
-      "link": "https://www.etnews.com/20260602000291",
+      "title": "이란 '쿠웨이트 공습' 충격파…뉴욕증시 3대 지수 일제히 하락 출발",
+      "link": "https://www.etnews.com/20260603000202",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 12:00:00 +0900"
+      "pub_date": "Wed, 3 Jun 2026 23:42:38 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "한전, 사우디 자푸라 2단계 열병합 수주…17년간 매출 2.1조원 기대",
-      "link": "https://www.etnews.com/20260603000056",
+      "title": "[컴퓨텍스 2026]MS \"엔비디아 슈퍼칩 탑재 AI노트북 올 가을 출시\"",
+      "link": "https://www.etnews.com/20260603000201",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 11:25:22 +0900"
+      "pub_date": "Wed, 3 Jun 2026 23:20:09 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 21:51:20 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 01:18:19 GMT"
+      "pub_date": "Wed, 03 Jun 2026 14:02:25 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 02 Jun 2026 23:33:34 GMT"
+      "pub_date": "Wed, 03 Jun 2026 11:34:07 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Foreign nationals among at least 21 killed in Delhi fire",
+      "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Wed, 03 Jun 2026 11:54:25 GMT"
     }
   ]
 }
