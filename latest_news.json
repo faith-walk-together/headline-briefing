@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-03T16:29:42.061891+00:00",
+  "last_updated": "2026-06-04T03:34:35.234894+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스특보] 초유의 투표용지 부족 사태…지방선거 개표 중",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604011423jOy",
+      "title": "차기 총리 인선 임박…정성호·한성숙·강훈식 압축",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604115618Sqv",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 01:14:27 +0900"
+      "pub_date": "Thu, 04 Jun 2026 11:56:19 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[현장연결] 인천시장 확실…민주 박찬대 당선 소감",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604011257hra",
+      "title": "MB·박근혜 등판했지만…보수 결집 '미풍'",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604115238g5H",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 01:13:00 +0900"
+      "pub_date": "Thu, 04 Jun 2026 11:52:39 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "전국 개표 진행 중…초유의 투표용지 부족 파문",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026060401015792C",
+      "title": "민주 12 vs 국힘 4…오세훈, 서울 수성 대역전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260604115033lZd",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 01:01:59 +0900"
+      "pub_date": "Thu, 04 Jun 2026 11:50:34 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 잠실7동 투표소 시민 수백명과 경찰 대치…과격 시위 우려도",
-      "link": "https://www.mk.co.kr/news/politics/12065322",
+      "title": "금감원, 홍콩 ELS 과징금 6000억대 결정…절반 이하로 경감",
+      "link": "https://www.mk.co.kr/news/economy/12065736",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 00:39:38 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 12:34:24 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "6·3지선 여권 우세…이 대통령 2년차 국정동력 ‘탄력’받나",
-      "link": "https://www.mk.co.kr/news/politics/12065321",
+      "title": "수입차 3대 중 1대는 테슬라…중국산 전기차 존재감 커져",
+      "link": "https://www.mk.co.kr/news/business/12065735",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 00:39:05 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 12:33:12 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“6·3 선거는 부정선거”…‘개표중단 요구’ 시위대, 광화문 찍고 선관위로",
-      "link": "https://www.mk.co.kr/news/society/12065319",
+      "title": "[속보] 금감원, 홍콩 ELS 판매 은행 5곳에 6000억원 과징금…절반이하 감경",
+      "link": "https://www.mk.co.kr/news/economy/12065730",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 00:37:22 +09:00"
+      "pub_date": "Thu, 04 Jun 2026 12:07:06 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[속보] '대치 상황' 잠실7동 투표소에 경찰 수십명 투입",
-      "link": "https://www.etnews.com/20260604000004",
+      "title": "[6·3 지방선거]정청래 “전국적 큰 승리 감사…서울 탈환 실패는 아프다”",
+      "link": "https://www.etnews.com/20260604000204",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 4 Jun 2026 00:40:52 +0900"
+      "pub_date": "Thu, 4 Jun 2026 12:15:55 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이란 '쿠웨이트 공습' 충격파…뉴욕증시 3대 지수 일제히 하락 출발",
-      "link": "https://www.etnews.com/20260603000202",
+      "title": "[단독]애플페이 교통카드 충전에 '카카오페이' 추가된다",
+      "link": "https://www.etnews.com/20260604000196",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 23:42:38 +0900"
+      "pub_date": "Thu, 4 Jun 2026 12:00:56 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[컴퓨텍스 2026]MS \"엔비디아 슈퍼칩 탑재 AI노트북 올 가을 출시\"",
-      "link": "https://www.etnews.com/20260603000201",
+      "title": "퇴직연금 500조원 시대…정부, 통합연금포털 전면 개편",
+      "link": "https://www.etnews.com/20260604000062",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 3 Jun 2026 23:20:09 +0900"
+      "pub_date": "Thu, 4 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 14:02:25 GMT"
+      "pub_date": "Thu, 04 Jun 2026 00:16:44 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "link": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 11:34:07 GMT"
+      "pub_date": "Thu, 04 Jun 2026 02:24:08 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "link": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 03 Jun 2026 11:54:25 GMT"
+      "pub_date": "Wed, 03 Jun 2026 20:28:01 GMT"
     }
   ]
 }
