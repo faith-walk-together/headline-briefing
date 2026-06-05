@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-06-05T02:56:34.608391+00:00",
+  "last_updated": "2026-06-05T14:39:44.028089+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여야, 지선 책임론 분출…선관위원장, 대국민사과",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605114818ufA",
+      "title": "9일부터 G7 계기 유럽 순방…트럼프 만남 주목",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605223628ahT",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:48:19 +0900"
+      "pub_date": "Fri, 05 Jun 2026 22:36:30 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北 \"시진핑 국가주석, 김정은 초청으로 8~9일 국가방문\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260605114457E3x",
+      "title": "[투나잇이슈] 노태악 선관위원장 사의 표명…\"국정조사\"·\"특검\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605223432E5s",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:44:57 +0900"
+      "pub_date": "Fri, 05 Jun 2026 22:34:33 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정동영, 몽골 대통령 만나 \"남·북·몽골 협력 모색\" 제안",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260605112710Wc4",
+      "title": "푸틴 이어 김정은 만나는 시진핑…북중러 연대 과시",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260605213624VsH",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:27:10 +0900"
+      "pub_date": "Fri, 05 Jun 2026 21:36:25 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "신상진 성남시장 “성남의 새로운 미래 시작할 것”",
-      "link": "https://www.mk.co.kr/news/politics/12066712",
+      "title": "\"韓에 선물로 엔비디아 4개사업 가져와\"",
+      "link": "https://www.mk.co.kr/news/business/12067297",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:39:51 +09:00"
+      "pub_date": "Fri, 05 Jun 2026 23:21:43 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“삶과 죽음이 한 화면에”...‘늦깎이 작가’ 안정재 조형아트서울서 화제",
-      "link": "https://www.mk.co.kr/news/culture/12066708",
+      "title": "1차 삼소·2차 치맥 …\"GO 코리아·SK·LG·네이버!\" 외친 젠슨황",
+      "link": "https://www.mk.co.kr/news/business/12067296",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:35:13 +09:00"
+      "pub_date": "Fri, 05 Jun 2026 23:21:27 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘어부지리’ 국힘에 평택을 내준 민주·혁신…사퇴한 조국, 양당 통합은?",
-      "link": "https://www.mk.co.kr/news/politics/12066703",
+      "title": "“외국인 연일 조 단위로 던지더니”…환율 ‘초비상’ 1550원선도 돌파",
+      "link": "https://www.mk.co.kr/news/economy/12067295",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 11:32:30 +09:00"
+      "pub_date": "Fri, 05 Jun 2026 23:11:05 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "앤트로픽 “AI 개발 속도 늦춰야”…인간 통제 벗어날 가능성 경고",
-      "link": "https://www.etnews.com/20260605000109",
+      "title": "“오토바이에 거꾸로 매달려 오래 버티기”…브라질 '황당 대회' 우승자는?",
+      "link": "https://www.etnews.com/20260605000257",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 5 Jun 2026 11:08:03 +0900"
+      "pub_date": "Fri, 5 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "아이티센그룹, AI 도입 최대 난제 '비용 폭증·빅테크 종속' 해결사로",
-      "link": "https://www.etnews.com/20260605000100",
+      "title": "젠슨 황, 최태원-구광모-이해진 총수와 홍대서 '삼소' 회동",
+      "link": "https://www.etnews.com/20260605000319",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 5 Jun 2026 10:46:30 +0900"
+      "pub_date": "Fri, 5 Jun 2026 19:21:53 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "오케스트로, 공공부문 가상화 전환 사업 연쇄 수주…“VM웨어 윈백 시장 주도”",
-      "link": "https://www.etnews.com/20260605000095",
+      "title": "“30층 건물도 건설 가능”...타워크레인형 3D 프린터 등장",
+      "link": "https://www.etnews.com/20260605000309",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 5 Jun 2026 10:35:40 +0900"
+      "pub_date": "Fri, 5 Jun 2026 18:30:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+      "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 05 Jun 2026 14:21:08 GMT"
     },
     {
       "category": "세계",
@@ -79,23 +87,15 @@
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
       "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 23:32:35 GMT"
+      "pub_date": "Fri, 05 Jun 2026 08:03:23 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "title": "Fury in France after child murder suspect's criminal record released",
+      "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 05 Jun 2026 01:44:16 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 04 Jun 2026 14:46:36 GMT"
+      "pub_date": "Fri, 05 Jun 2026 11:32:51 GMT"
     }
   ]
 }
