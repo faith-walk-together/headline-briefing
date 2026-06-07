@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-07T03:26:02.514651+00:00",
+  "last_updated": "2026-06-07T13:43:01.136321+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김정은 \"미사일 생산능력 2.5배로 확대\" 지시",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026060711344086j",
+      "title": "이 대통령 \"국민주권 훼손, 깊은 유감…합동수사본부 구성\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260607203130hFg",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:34:42 +0900"
+      "pub_date": "Sun, 07 Jun 2026 20:31:31 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北 김여정, 시진핑 방북 전날 \"핵보유국 지위 불퇴\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260607113249o47",
+      "title": "장동혁 버티기에 불붙는 국힘 원내대표 선거전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260607201400hwu",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:32:51 +0900"
+      "pub_date": "Sun, 07 Jun 2026 20:14:02 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한동훈, '1호 법안'으로 \"감사원 감사대상에 중앙선관위 포함\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260607111125qEp",
+      "title": "민주, 당권 경쟁 본격화…김민석 \"당 돌아가 정부 뒷받침\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260607195751npx",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:11:27 +0900"
+      "pub_date": "Sun, 07 Jun 2026 19:57:51 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "한동훈 “감사원 감사 대상에 선관위도”…1호 법안 낸다",
-      "link": "https://www.mk.co.kr/news/politics/12067606",
+      "title": "“8천피에 억대 성과급? 우리 공장은 경매로”...벼랑 끝 내몰린 영세업자들",
+      "link": "https://www.mk.co.kr/news/economy/12067985",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:46:03 +09:00"
+      "pub_date": "Sun, 07 Jun 2026 22:39:40 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "민주당 “선관위 개혁기구 검토…국민의힘, 원 구성 협조해야”",
-      "link": "https://www.mk.co.kr/news/politics/12067605",
+      "title": "이젠 진짜 일 얘기로...젠슨황, SK·삼성·LG 등에 내놓을 선물 보따리는",
+      "link": "https://www.mk.co.kr/news/business/12067983",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:44:20 +09:00"
+      "pub_date": "Sun, 07 Jun 2026 22:14:18 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "이대통령, 오늘 국무총리 지명할 듯…강훈식·정성호 거론에 한성숙도 급부상",
-      "link": "https://www.mk.co.kr/news/politics/12067604",
+      "title": "“두산 회장 거의 맞힐 뻔했다”…잠실 달군 젠슨 황, 시구 후엔 치킨 회동",
+      "link": "https://www.mk.co.kr/news/business/12067979",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 07 Jun 2026 11:40:00 +09:00"
+      "pub_date": "Sun, 07 Jun 2026 21:41:27 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“전남 재생e 병목 풀린다”…신안~무안 52㎞·154㎸ 송전망 준공",
-      "link": "https://www.etnews.com/20260606000026",
+      "title": "에베레스트서 실종된 셰르파… 장례식 도중 '극적 생환'",
+      "link": "https://www.etnews.com/20260605000104",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 7 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 7 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“공고 올려도 몰랐다”…중기부 '정책 알림톡', 소상공인 신청 최대 20배↑",
-      "link": "https://www.etnews.com/20260605000267",
+      "title": "“달러 대신 金 쓸어 담는 중국”…19개월 연속 매입에 '금 보유량 2331톤' 돌파",
+      "link": "https://www.etnews.com/20260607000139",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 7 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 7 Jun 2026 20:19:15 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "글로벌 AI 견고성 인증에 씽크포비엘 기술 쓰인다",
-      "link": "https://www.etnews.com/20260605000223",
+      "title": "LG엔솔, 美 IEEPA 관세 환급 신청…수천억원대 예상",
+      "link": "https://www.etnews.com/20260607000129",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 7 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 7 Jun 2026 19:00:10 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 06 Jun 2026 20:50:40 GMT"
+      "pub_date": "Sun, 07 Jun 2026 12:09:57 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 06 Jun 2026 14:46:20 GMT"
+      "pub_date": "Sun, 07 Jun 2026 07:11:18 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 06 Jun 2026 23:52:07 GMT"
+      "pub_date": "Sun, 07 Jun 2026 04:45:51 GMT"
     }
   ]
 }
