@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-08T15:40:15.588621+00:00",
+  "last_updated": "2026-06-09T02:42:29.539644+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "선관위 \"용지 추가 송부 투표소 140곳…26곳 투표 중단 후 재개\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260609003042Lq3",
+      "title": "이 대통령, 북중미 월드컵  멕시코에 이재정·김남희 의원 특사 파견",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260609111706Pvw",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 00:30:44 +0900"
+      "pub_date": "Tue, 09 Jun 2026 11:17:07 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 취임 1년 기자회견…투표용지 부족 파장 지속",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260608224823C9Z",
+      "title": "여, 선관위 사태에 &#034;진상규명&#034;…야 &#034;재선거&#034;",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260609110520Tzt",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 22:48:25 +0900"
+      "pub_date": "Tue, 09 Jun 2026 11:05:21 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "선관위 \"용지 추가 송부 투표소 140곳…26곳 투표 중단 후 재개\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260608215054JCZ",
+      "title": "[뉴스포커스] 이대통령 회견 온도차…투표용지 부족 국조 시동",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260609110457taY",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 21:50:56 +0900"
+      "pub_date": "Tue, 09 Jun 2026 11:05:01 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "아워홈 공장 또 끼임 사고 … 50대 근로자 심정지 상태",
-      "link": "https://www.mk.co.kr/news/society/12068949",
+      "title": "“용인 반도체 클러스터 배후 주거지”…용인 고림지구 공급 아파트 보니",
+      "link": "https://www.mk.co.kr/news/realestate/12069327",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 23:11:34 +09:00"
+      "pub_date": "Tue, 09 Jun 2026 11:35:53 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "트럼프 경고 1시간만에 … 이스라엘 \"이란 공격 중단\"",
-      "link": "https://www.mk.co.kr/news/world/12068945",
+      "title": "영국 팝스타 두아 리파, 이탈리아서 초호화 결혼식 민폐 논란",
+      "link": "https://www.mk.co.kr/news/world/12069326",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 23:06:19 +09:00"
+      "pub_date": "Tue, 09 Jun 2026 11:35:51 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "北中, 혈맹 과시…習 \"통상 전면 재개통\" 金 \"하나의 중국 지지\"",
-      "link": "https://www.mk.co.kr/news/world/12068944",
+      "title": "“캄보디아 아녔어?”…스리랑카, 스캠범죄 아시아 거점으로 부상",
+      "link": "https://www.mk.co.kr/news/world/12069319",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 23:05:48 +09:00"
+      "pub_date": "Tue, 09 Jun 2026 11:32:29 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“에베레스트에 도전한다”…6,263m 화산 오른 휴머노이드",
-      "link": "https://www.etnews.com/20260608000386",
+      "title": "SK하이닉스·삼성전자, 구직자가 꼽은 '당장 출근하고 싶은 기업' 1·2위 차지",
+      "link": "https://www.etnews.com/20260609000172",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 8 Jun 2026 22:30:00 +0900"
+      "pub_date": "Tue, 9 Jun 2026 11:01:56 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "정부, 초당 '3경 5000조번 연산' 베라루빈 등 GPU 1만장 공급",
-      "link": "https://www.etnews.com/20260608000468",
+      "title": "“AI가 만든 발명, 사람 기여 없으면 특허 무효”…지식재산처, 올바른 특허출원 안내서 배포",
+      "link": "https://www.etnews.com/20260609000071",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 8 Jun 2026 17:52:43 +0900"
+      "pub_date": "Tue, 9 Jun 2026 11:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "네이버 방문한 젠슨 황 “네이버와 파트너십은 매우 소중한 자산”",
-      "link": "https://www.etnews.com/20260608000448",
+      "title": "장동혁 “6·3 지선 재선거 사유 차고 넘쳐…특별법 발의 검토”",
+      "link": "https://www.etnews.com/20260609000169",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 8 Jun 2026 17:03:28 +0900"
+      "pub_date": "Tue, 9 Jun 2026 10:55:37 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran releases footage of missiles launched at Israel",
-      "link": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 07:26:45 GMT"
+      "pub_date": "Mon, 08 Jun 2026 22:47:29 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
-      "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 11:10:07 GMT"
+      "pub_date": "Mon, 08 Jun 2026 22:34:25 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+      "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 08 Jun 2026 10:28:40 GMT"
+      "pub_date": "Mon, 08 Jun 2026 23:50:59 GMT"
     }
   ]
 }
