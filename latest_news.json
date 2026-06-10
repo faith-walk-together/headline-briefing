@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-09T14:39:30.067257+00:00",
+  "last_updated": "2026-06-10T02:55:43.510448+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 벨기에 브뤼셀 도착…유럽순방 일정 돌입\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260609233500pK4",
+      "title": "태국 마약왕, 한국 성형시술 받다 덜미…국정원, '7억 명' 투약 원료 압수",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610114721zsN",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 23:35:02 +0900"
+      "pub_date": "Wed, 10 Jun 2026 11:47:24 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 투표지 부족 사태 계속…\"진상 규명\"vs\"재선거\"\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260609224429TAe",
+      "title": "[속보] 국민의힘 원내대표 선거 '정점식·김도읍' 결선",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606101142127O7",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 22:44:32 +0900"
+      "pub_date": "Wed, 10 Jun 2026 11:42:13 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"국민총소득 성장률 사상 최고…모두의 성장으로\"\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260609222312S8R",
+      "title": "여야, 6·10 민주항쟁 기념일에 선관위 질타…\"참정권 침해\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610112914Xoc",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 22:23:13 +0900"
+      "pub_date": "Wed, 10 Jun 2026 11:29:14 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "또 끼임 사고 난 아워홈 공장…경찰 “안전덮개·비상정지장치 없었다”",
-      "link": "https://www.mk.co.kr/news/society/12069984",
+      "title": "[속보] 국민의힘 새 원내대표 결선투표 진행…정점식·김도읍 대결",
+      "link": "https://www.mk.co.kr/news/politics/12070419",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 23:03:05 +09:00"
+      "pub_date": "Wed, 10 Jun 2026 11:50:07 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“회장님이어도 이건 좀”…삼겹살 비계 싹둑 자른 구광모 가위질 화제",
-      "link": "https://www.mk.co.kr/news/business/12069976",
+      "title": "“신재생·안전분야 중소 참여”…동서발전, 찾아오는 구매상담회로 판로지원 확대",
+      "link": "https://www.mk.co.kr/news/business/12070418",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 22:44:31 +09:00"
+      "pub_date": "Wed, 10 Jun 2026 11:49:56 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“국장 돈 빠져나가는 소리가 들린다”…오픈AI까지 ‘돈 흡수’ 시동",
-      "link": "https://www.mk.co.kr/news/it/12069964",
+      "title": "“개미가 사면 오른다, 단 레버리지는 예외”…요즘 ETF 투자 가이드라는데",
+      "link": "https://www.mk.co.kr/news/stock/12070414",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 22:24:03 +09:00"
+      "pub_date": "Wed, 10 Jun 2026 11:42:21 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“점점 잿빛으로”… 美 기상캐스터, 스튜디오 화재에도 토네이도 보도 이어갔다",
-      "link": "https://www.etnews.com/20260609000348",
+      "title": "17년간 '무면허' 비행한 에어캐나다 기장… 900번 여객기 몰고 은퇴 후 '덜미'",
+      "link": "https://www.etnews.com/20260610000146",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 9 Jun 2026 22:30:00 +0900"
+      "pub_date": "Wed, 10 Jun 2026 11:05:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“빈자리 팝니다”…美서 남의 결혼식 돈 내고 가는 서비스? 뭔데",
-      "link": "https://www.etnews.com/20260609000346",
+      "title": "SKT, 日 NTT와 5억달러 'AI 펀드' 조성…한일 경제연대 가속",
+      "link": "https://www.etnews.com/20260610000027",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 9 Jun 2026 17:45:00 +0900"
+      "pub_date": "Wed, 10 Jun 2026 11:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“사회 빛내는 화이트해커 될래요”…세계 무대 누비는 18세 보안 천재 영남이공대 강준호 학생",
-      "link": "https://www.etnews.com/20260608000462",
+      "title": "이란 사람은 월드컵 관람 금지?…이란 축구협 “美, 개막 직전 티켓 취소 통보”",
+      "link": "https://www.etnews.com/20260610000145",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 9 Jun 2026 17:38:00 +0900"
+      "pub_date": "Wed, 10 Jun 2026 10:42:08 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 13:15:59 GMT"
+      "pub_date": "Tue, 09 Jun 2026 21:13:17 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes Iran in response to downing of helicopter, military says",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 07:36:15 GMT"
+      "pub_date": "Wed, 10 Jun 2026 00:33:25 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "link": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 05:00:06 GMT"
+      "pub_date": "Tue, 09 Jun 2026 22:00:24 GMT"
     }
   ]
 }
