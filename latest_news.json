@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-06-10T02:55:43.510448+00:00",
+  "last_updated": "2026-06-10T15:26:26.415244+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "태국 마약왕, 한국 성형시술 받다 덜미…국정원, '7억 명' 투약 원료 압수",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610114721zsN",
+      "title": "이 대통령, 벨기에 국왕 만나…'한반도 평화 정책' 지지 요청",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610232200PjY",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:47:24 +0900"
+      "pub_date": "Wed, 10 Jun 2026 23:22:02 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 국민의힘 원내대표 선거 '정점식·김도읍' 결선",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606101142127O7",
+      "title": "태국 마약 거점 급습…이 대통령 \"국정원 새 모습\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260610231435cDv",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:42:13 +0900"
+      "pub_date": "Wed, 10 Jun 2026 23:14:36 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여야, 6·10 민주항쟁 기념일에 선관위 질타…\"참정권 침해\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260610112914Xoc",
+      "title": "49년 만에 방첩사 해체…기능 분산·권력형 임무 폐지",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606102312569MO",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:29:14 +0900"
+      "pub_date": "Wed, 10 Jun 2026 23:12:57 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 국민의힘 새 원내대표 결선투표 진행…정점식·김도읍 대결",
-      "link": "https://www.mk.co.kr/news/politics/12070419",
+      "title": "\"예술은 내면의 답을 깨닫게 해\"",
+      "link": "https://www.mk.co.kr/news/culture/12071085",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:50:07 +09:00"
+      "pub_date": "Thu, 11 Jun 2026 00:00:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“신재생·안전분야 중소 참여”…동서발전, 찾아오는 구매상담회로 판로지원 확대",
-      "link": "https://www.mk.co.kr/news/business/12070418",
+      "title": "日 삿포로총영사관, 곰 스프레이·방울 무료로 빌려준다",
+      "link": "https://www.mk.co.kr/news/world/12071094",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:49:56 +09:00"
+      "pub_date": "Wed, 10 Jun 2026 23:40:06 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“개미가 사면 오른다, 단 레버리지는 예외”…요즘 ETF 투자 가이드라는데",
-      "link": "https://www.mk.co.kr/news/stock/12070414",
+      "title": "李 \"北의 러 군사지원 규탄…핵보유국 인정 결코 안돼\"",
+      "link": "https://www.mk.co.kr/news/politics/12071089",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:42:21 +09:00"
+      "pub_date": "Wed, 10 Jun 2026 23:23:29 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "17년간 '무면허' 비행한 에어캐나다 기장… 900번 여객기 몰고 은퇴 후 '덜미'",
-      "link": "https://www.etnews.com/20260610000146",
+      "title": "경찰 피해 늪으로 도주한 美 음주 운전자…악어에 물려 '구사일생'",
+      "link": "https://www.etnews.com/20260610000314",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:05:00 +0900"
+      "pub_date": "Wed, 10 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "SKT, 日 NTT와 5억달러 'AI 펀드' 조성…한일 경제연대 가속",
-      "link": "https://www.etnews.com/20260610000027",
+      "title": "젤라토 두 컵에 8만원…로마 한복판 '관광객 바가지' 논란",
+      "link": "https://www.etnews.com/20260610000413",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 11:00:00 +0900"
+      "pub_date": "Wed, 10 Jun 2026 17:40:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "이란 사람은 월드컵 관람 금지?…이란 축구협 “美, 개막 직전 티켓 취소 통보”",
-      "link": "https://www.etnews.com/20260610000145",
+      "title": "'AI가 저작권 침해하면 어쩌지'…AI 정책보험 나온다",
+      "link": "https://www.etnews.com/20260610000049",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 10:42:08 +0900"
+      "pub_date": "Wed, 10 Jun 2026 17:00:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump and Iran trade new threats after strikes exchanged",
+      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Wed, 10 Jun 2026 14:15:39 GMT"
     },
     {
       "category": "세계",
@@ -84,18 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US strikes Iran in response to downing of helicopter, military says",
-      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 00:33:25 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 09 Jun 2026 22:00:24 GMT"
+      "pub_date": "Wed, 10 Jun 2026 14:08:28 GMT"
     }
   ]
 }
