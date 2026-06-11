@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-11T03:30:08.805471+00:00",
+  "last_updated": "2026-06-11T15:49:59.413879+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 '대안과미래', 장동혁 사퇴 촉구…\"지선 참패, 지도부 책임\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260611115029wl6",
+      "title": "'투표지 사태' 국조 시동…선관위 \"송파 투표용지 4만2천장 남아\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260611235943vvZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:50:30 +0900"
+      "pub_date": "Thu, 11 Jun 2026 23:59:45 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"국민만 보고 가야…우리가 분열하면 패배\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606111142243Ry",
+      "title": "金총리 \"선관위, 대오각성해야…'민주 질서 침해'에는 무관용 대응\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260611234721Kll",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:42:26 +0900"
+      "pub_date": "Thu, 11 Jun 2026 23:47:22 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 지지율 57%로 3주 전보다 9%p↓ [NBS]",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260611113627pYk",
+      "title": "한성숙 재산 250억원 신고…주택 2채·오피스텔 등 보유",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260611230752nPN",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:36:28 +0900"
+      "pub_date": "Thu, 11 Jun 2026 23:07:54 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“AI 투자 사이클 꺾이지 않았다”...TSMC 월매출 20조원 돌파 ‘사상 최대’",
-      "link": "https://www.mk.co.kr/news/business/12071473",
+      "title": "“늦잠 자서 택시 탔으니 비용은 학교가”…중학생 학부모의 황당 요구",
+      "link": "https://www.mk.co.kr/news/society/12072165",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 12:21:48 +09:00"
+      "pub_date": "Thu, 11 Jun 2026 23:04:47 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "붉은사막, 출시 83일만에 600만장 팔렸다",
-      "link": "https://www.mk.co.kr/news/it/12071472",
+      "title": "올 글로벌 성장률도 '뚝' … 세계은행 \"2.5% 그칠듯\"",
+      "link": "https://www.mk.co.kr/news/economy/12072164",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 12:11:57 +09:00"
+      "pub_date": "Thu, 11 Jun 2026 23:02:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“이 집 장어 잘하네”…성수동 핫플 아니고 ‘이 항공사’ 7월 기내식 클라스 [영상]",
-      "link": "https://www.mk.co.kr/news/business/12071373",
+      "title": "“중학생 7명 또래 지적장애 학생 폭행”…경찰 수사 나서",
+      "link": "https://www.mk.co.kr/news/society/12072161",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 12:00:00 +09:00"
+      "pub_date": "Thu, 11 Jun 2026 22:57:56 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“부모님 반대 무릅썼더니 대박”… 스페이스X 상장에 직원 4400명 예고된 '억만장자'",
-      "link": "https://www.etnews.com/20260611000180",
+      "title": "4억년 전 1m짜리 화석, 고대 전갈이었다… 150년만에 풀린 비밀",
+      "link": "https://www.etnews.com/20260611000372",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:50:00 +0900"
+      "pub_date": "Thu, 11 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“4.4mm로 몸속 누빈다”…초소형 다기능 수술 로봇 개발",
-      "link": "https://www.etnews.com/20260610000425",
+      "title": "7조원 KDDX 수주전, 한화오션 승기 잡았다",
+      "link": "https://www.etnews.com/20260611000421",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:50:00 +0900"
+      "pub_date": "Thu, 11 Jun 2026 17:47:23 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "李대통령, 이탈리아 국빈 방문 시작",
-      "link": "https://www.etnews.com/20260611000188",
+      "title": "AI 얼굴인식 오류로 '아동 유인범' 몰린 美 50대, 경찰 상대 소송",
+      "link": "https://www.etnews.com/20260611000383",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 11:33:37 +0900"
+      "pub_date": "Thu, 11 Jun 2026 17:45:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Thu, 11 Jun 2026 13:26:24 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
       "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 01:46:18 GMT"
+      "pub_date": "Thu, 11 Jun 2026 12:09:44 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
       "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 11 Jun 2026 00:02:45 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 10 Jun 2026 23:10:11 GMT"
+      "pub_date": "Thu, 11 Jun 2026 09:14:13 GMT"
     }
   ]
 }
