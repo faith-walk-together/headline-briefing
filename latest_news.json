@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-12T14:48:47.615889+00:00",
+  "last_updated": "2026-06-13T02:55:16.738672+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 멜로니 총리와 회담…경제인 행사도 참석",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260612232009Q9P",
+      "title": "장동혁, 정청래·김민석에 \"만나서 재선거·특검 논의하자\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260613111307yps",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 23:20:10 +0900"
+      "pub_date": "Sat, 13 Jun 2026 11:13:07 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김혜경 여사, 2027 세계청년대회 간담회 참석…\"따뜻한 시간 되길\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260612231731joK",
+      "title": "갤럽 \"이 대통령 국정지지도 57%…7%p 하락\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260613102517lto",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 23:17:34 +0900"
+      "pub_date": "Sat, 13 Jun 2026 10:25:18 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 尹 '무인기' 징역 30년…여야 대표 사퇴론 격화",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260612224340xsa",
+      "title": "국민의힘 \"한성숙 지명, 인사 참사 넘어선 국민 기만\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260613102220sXI",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 22:43:42 +0900"
+      "pub_date": "Sat, 13 Jun 2026 10:22:20 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "투표지 부족사태 파문에 … 李, 순방중 영상회의 연다",
-      "link": "https://www.mk.co.kr/news/politics/12073162",
+      "title": "“선거 졌지만 존재감은 1위”…민심이 가장 아쉬워한 낙선인은?",
+      "link": "https://www.mk.co.kr/news/politics/12073316",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 23:36:15 +09:00"
+      "pub_date": "Sat, 13 Jun 2026 11:22:41 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“모든 수단 동원해 해결할 것”…JTBC, 206억 규모 채무불이행",
-      "link": "https://www.mk.co.kr/news/business/12073151",
+      "title": "수천만원 빌려놓고 변제는 찔끔…데이트 앱 통해 만난 연인들 돈 뜯어낸 40대",
+      "link": "https://www.mk.co.kr/news/society/12073315",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 22:59:41 +09:00"
+      "pub_date": "Sat, 13 Jun 2026 11:17:21 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "'현대미술 거장' 데이비드 호크니 별세",
-      "link": "https://www.mk.co.kr/news/culture/12073150",
+      "title": "美정부, 앤트로픽 최신 AI ‘미토스·페이블’ 외국인 접속 전면 금지",
+      "link": "https://www.mk.co.kr/news/it/12073314",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 22:54:20 +09:00"
+      "pub_date": "Sat, 13 Jun 2026 11:08:09 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“주차만 하면 충전 끝”…샤오미, AI 충전 로봇팔 공개",
-      "link": "https://www.etnews.com/20260612000286",
+      "title": "벅차다! 방탄소년단…'Come Over', 아이튠즈 79개 '톱 송'",
+      "link": "https://www.etnews.com/20260613000008",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sat, 13 Jun 2026 11:04:45 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“美·이란, 이르면 14일 제네바서 종전 MOU 서명”",
-      "link": "https://www.etnews.com/20260612000315",
+      "title": "한경협, '한-이탈리아 비즈니스 라운드테이블'서 항공우주·에너지 산업 협력 논의",
+      "link": "https://www.etnews.com/20260613000005",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 21:43:53 +0900"
+      "pub_date": "Sat, 13 Jun 2026 10:07:18 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'사상 최대 IPO' 스페이스X “중국 돈은 사절”…美·中 갈등, 자본시장까지 번져",
-      "link": "https://www.etnews.com/20260612000314",
+      "title": "이웃집 부부에 믿고 맡긴 복권…1등 당첨되자 불태워버렸다",
+      "link": "https://www.etnews.com/20260613000004",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 21:05:30 +0900"
+      "pub_date": "Sat, 13 Jun 2026 09:49:10 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 13:58:08 GMT"
+      "pub_date": "Sat, 13 Jun 2026 00:51:20 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 08:09:37 GMT"
+      "pub_date": "Fri, 12 Jun 2026 22:00:52 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "title": "French town buries murdered child as questions mount over police failings",
+      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 12 Jun 2026 00:45:20 GMT"
+      "pub_date": "Fri, 12 Jun 2026 16:19:12 GMT"
     }
   ]
 }
