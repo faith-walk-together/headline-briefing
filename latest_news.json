@@ -1,77 +1,77 @@
 {
-  "last_updated": "2026-06-14T03:32:54.177516+00:00",
+  "last_updated": "2026-06-14T13:52:22.296441+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 \"야당 법사위원장직 사수…지선 민심 따르는 길\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606141128095fW",
+      "title": "[속보] \"마땅히 법과 원칙에 따라 합당한 책임 물어야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260614225126McJ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 11:28:10 +0900"
+      "pub_date": "Sun, 14 Jun 2026 22:51:26 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[여의도풍향계] 당권파·비당권파 정면충돌…반복되는 여당 계파 전쟁",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260613141846LzB",
+      "title": "[속보] \"조작 운운하며 부정선거론 퍼뜨려…반사회적 행태\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260614225050rW8",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 11:00:04 +0900"
+      "pub_date": "Sun, 14 Jun 2026 22:50:53 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "北 \"교전상대방에 핵무장 해제 운운…공허한 망상\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260614090427IQr",
+      "title": "[속보] 이 대통령 \"국회와 협력 중요…입법 속도전 총력\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260614224958zzZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 09:04:28 +0900"
+      "pub_date": "Sun, 14 Jun 2026 22:49:58 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "조국보다 연인...캐나다 前 총리, 미국 월드컵 개막전 관람",
-      "link": "https://www.mk.co.kr/news/world/12073564",
+      "title": "“난임인 것도 서러웠는데”…신혼 아니라도 신생아특공 신청가능",
+      "link": "https://www.mk.co.kr/news/realestate/12073930",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 12:21:43 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 22:27:56 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“메가·컴포즈 커피 못지않네”...편의점 커피는 무한변신 중",
-      "link": "https://www.mk.co.kr/news/business/12073562",
+      "title": "“이란 상대 사이버 공격에 4개 은행 서비스 중단…공격 주체 미상”",
+      "link": "https://www.mk.co.kr/news/world/12073929",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 11:54:26 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 22:25:45 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“삼계탕도 2만원 시대인데”...1만원 미만 가성비 보양식 대거 선보인 ‘이곳’",
-      "link": "https://www.mk.co.kr/news/business/12073561",
+      "title": "잠실시위 다시 커졌다…성조기 휘날리며 “부정선거 재선거” 구호도",
+      "link": "https://www.mk.co.kr/news/society/12073927",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 11:54:14 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 22:11:01 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "복지부, 대구 구급차에 'AI' 심는다…이송·진료 전주기 실증",
-      "link": "https://www.etnews.com/20260614000011",
+      "title": "“티라노 가죽으로 만들었다?”…8억짜리 공룡 가방 등장",
+      "link": "https://www.etnews.com/20260612000268",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 14 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다",
-      "link": "https://www.etnews.com/20260614000008",
+      "title": "행안부,  'SLA 이행 가이드라인' 발표…'위약금 산정, 협의로'",
+      "link": "https://www.etnews.com/20260612000269",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 14 Jun 2026 17:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "K-뷰티 넘어 패션·라이프까지…중기부, 로마서 K-브랜드 유럽 공략",
-      "link": "https://www.etnews.com/20260613000037",
+      "title": "[단독]공공병원 AI 클라우드 사업, 출발부터 '삐걱'…NIA-휴니버스 충돌",
+      "link": "https://www.etnews.com/20260614000012",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
+      "pub_date": "Sun, 14 Jun 2026 16:00:00 +0900"
     },
     {
       "category": "세계",
@@ -79,23 +79,23 @@
       "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 18:39:26 GMT"
+      "pub_date": "Sun, 14 Jun 2026 11:23:36 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Switzerland to vote on plan to cap population at 10 million",
-      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 11:47:42 GMT"
+      "pub_date": "Sun, 14 Jun 2026 11:31:32 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Nigerian author accuses hospital of stalling review into her son's death",
-      "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 14 Jun 2026 01:08:20 GMT"
+      "pub_date": "Sat, 13 Jun 2026 23:19:52 GMT"
     }
   ]
 }
