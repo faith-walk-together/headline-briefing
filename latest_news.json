@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-06-13T13:49:53.914682+00:00",
+  "last_updated": "2026-06-14T03:32:54.177516+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "후쿠시마 오염수 방류 재개 이틀만에 다시 중단…\"이송 공정 경보\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260613213833rsG",
+      "title": "국힘 \"야당 법사위원장직 사수…지선 민심 따르는 길\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606141128095fW",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 21:38:34 +0900"
+      "pub_date": "Sun, 14 Jun 2026 11:28:10 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"집권여당은 '책임의 언어' 집중…진영 아닌 국민 전체 향해야\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260613200322W8F",
+      "title": "[여의도풍향계] 당권파·비당권파 정면충돌…반복되는 여당 계파 전쟁",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260613141846LzB",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 20:03:24 +0900"
+      "pub_date": "Sun, 14 Jun 2026 11:00:04 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "책임론에도 '마이웨이'…강성층 찾는 여야 대표",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260613193239yd2",
+      "title": "北 \"교전상대방에 핵무장 해제 운운…공허한 망상\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260614090427IQr",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 19:32:41 +0900"
+      "pub_date": "Sun, 14 Jun 2026 09:04:28 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“설비 이상 없다면서 왜?”…日 후쿠시마 원전 오염수 방류, 이틀 만에 또 중단",
-      "link": "https://www.mk.co.kr/news/world/12073474",
+      "title": "조국보다 연인...캐나다 前 총리, 미국 월드컵 개막전 관람",
+      "link": "https://www.mk.co.kr/news/world/12073564",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 22:35:46 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 12:21:43 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "제주 비양도 해상서 71톤급 어선 좌초…승선원 8명 전원 구조",
-      "link": "https://www.mk.co.kr/news/society/12073470",
+      "title": "“메가·컴포즈 커피 못지않네”...편의점 커피는 무한변신 중",
+      "link": "https://www.mk.co.kr/news/business/12073562",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 22:22:24 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 11:54:26 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“엄정화도 집에서 매일 바른다”…자외선 넘어 ‘화잘먹’ 경쟁 붙은 선크림",
-      "link": "https://www.mk.co.kr/news/business/12073469",
+      "title": "“삼계탕도 2만원 시대인데”...1만원 미만 가성비 보양식 대거 선보인 ‘이곳’",
+      "link": "https://www.mk.co.kr/news/business/12073561",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 21:57:13 +09:00"
+      "pub_date": "Sun, 14 Jun 2026 11:54:14 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "월드컵 경기장서 韓 유튜버에 '눈찢기' 인종차별…멕시코 남성 신상 털렸다",
-      "link": "https://www.etnews.com/20260613000029",
+      "title": "복지부, 대구 구급차에 'AI' 심는다…이송·진료 전주기 실증",
+      "link": "https://www.etnews.com/20260614000011",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "李대통령, 선행매매 기자들에 “주가조작 패가망신…저질렀으면 자수하길”",
-      "link": "https://www.etnews.com/20260613000025",
+      "title": "[르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다",
+      "link": "https://www.etnews.com/20260614000008",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 17:29:14 +0900"
+      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“삼전닉스? 삼멘·하멘 아시나요?”…NYT도 집중조명, 韓 반도체 열풍이 궁금했다",
-      "link": "https://www.etnews.com/20260613000010",
+      "title": "K-뷰티 넘어 패션·라이프까지…중기부, 로마서 K-브랜드 유럽 공략",
+      "link": "https://www.etnews.com/20260613000037",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 16:50:00 +0900"
+      "pub_date": "Sun, 14 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 11:15:18 GMT"
+      "pub_date": "Sat, 13 Jun 2026 18:39:26 GMT"
     },
     {
       "category": "세계",
@@ -92,10 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian author accuses hospital of stalling review into her son's death",
+      "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 13 Jun 2026 05:00:04 GMT"
+      "pub_date": "Sun, 14 Jun 2026 01:08:20 GMT"
     }
   ]
 }
