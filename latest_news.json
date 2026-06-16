@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-06-15T17:08:36.566822+00:00",
+  "last_updated": "2026-06-16T03:37:10.821551+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "\"미·이란 종전 환영…호르무즈 자유 통항 기대\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616011029mzB",
+      "title": "김 총리 \"올림픽공원 경기장 봉쇄…불법행위, 일벌백계 대응\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616120410y4e",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 01:10:32 +0900"
+      "pub_date": "Tue, 16 Jun 2026 12:04:13 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"중동 협상 타결 환영…높이 평가\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616010932LHm",
+      "title": "[속보] 김 총리 \"미국·이란 종전협상 타결…선박 무사귀환 긴밀 대처\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616112906npZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 01:09:33 +0900"
+      "pub_date": "Tue, 16 Jun 2026 11:29:06 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 레오14세 교황 면담…방북 문제 거론",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606160036496Jz",
+      "title": "[속보] 김 총리 \"핸드볼 경기장 봉쇄…불법행위 일벌백계 차원 단호히 대응\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616112856Eqo",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 00:36:50 +0900"
+      "pub_date": "Tue, 16 Jun 2026 11:28:57 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“이민자에 나라 뺏긴다, 인구 제한하자”…스위스 국민투표 결국",
-      "link": "https://www.mk.co.kr/news/world/12074943",
+      "title": "[속보] 일본은행, 6개월만 기준금리 1%로 인상…31년만 최고",
+      "link": "https://www.mk.co.kr/news/world/12075291",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 23:46:31 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 12:32:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "최대 한달 뒤에 결정서 송부 … 기업은 무방비 충격",
-      "link": "https://www.mk.co.kr/news/society/12074935",
+      "title": "[속보] 경찰 “개표소 진입 시도 저지, 채증 토대로 즉시 수사”",
+      "link": "https://www.mk.co.kr/news/society/12075290",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 23:04:26 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 12:24:57 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "\"현대차도 하청노조와 교섭 의무\"",
-      "link": "https://www.mk.co.kr/news/society/12074934",
+      "title": "65세 정년연장 법 개정 촉구 기자회견하는 양대노총",
+      "link": "https://www.mk.co.kr/news/society/12075289",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 23:03:56 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 12:21:26 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[인터뷰]강기원 KIRO 원장 “로봇, 논문·시제품 넘어 현장 가치 증명해야 '피지컬 AI'로 글로벌 승부”",
-      "link": "https://www.etnews.com/20260612000096",
+      "title": "“10~65세는 파라솔 금지”… 이탈리아 유명 해변 규정에 관광객 '황당'",
+      "link": "https://www.etnews.com/20260615000349",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 01:00:00 +0900"
+      "pub_date": "Tue, 16 Jun 2026 12:25:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“전선 위를 기어 다닌다”…전력선 점검용 뱀 로봇",
-      "link": "https://www.etnews.com/20260615000389",
+      "title": "업스테이지, 모델·에이전트·검색을 하나로 '모두를 위한 AI' 도약",
+      "link": "https://www.etnews.com/20260616000192",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 22:30:00 +0900"
+      "pub_date": "Tue, 16 Jun 2026 12:00:58 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "레드햇 “AI 플랫폼 경쟁 본격화…개방형 오픈소스가 핵심”",
-      "link": "https://www.etnews.com/20260615000330",
+      "title": "“원전 상공 드론 침투 막는다”…월성원전에 첫 '불법드론 탐지 레이더' 도입",
+      "link": "https://www.etnews.com/20260616000033",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 17:00:00 +0900"
+      "pub_date": "Tue, 16 Jun 2026 12:00:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Tue, 16 Jun 2026 00:03:56 GMT"
     },
     {
       "category": "세계",
@@ -84,18 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Norwegian crown princess's son found guilty of two counts of rape",
-      "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+      "link": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 16:00:32 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 12:07:36 GMT"
+      "pub_date": "Mon, 15 Jun 2026 23:40:31 GMT"
     }
   ]
 }
