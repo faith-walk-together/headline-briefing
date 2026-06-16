@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-16T03:37:10.821551+00:00",
+  "last_updated": "2026-06-16T16:42:00.700838+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리 \"올림픽공원 경기장 봉쇄…불법행위, 일벌백계 대응\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616120410y4e",
+      "title": "[투나잇이슈] 장동혁 \"전국 재선거\"…\"자리보전용\"·\"자가당착\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616224708EnR",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:04:13 +0900"
+      "pub_date": "Tue, 16 Jun 2026 22:47:12 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 김 총리 \"미국·이란 종전협상 타결…선박 무사귀환 긴밀 대처\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616112906npZ",
+      "title": "[현장영상] 이 대통령, 프랑스 G7 정상회의 참석…공식환영식",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616221525sSZ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 11:29:06 +0900"
+      "pub_date": "Tue, 16 Jun 2026 22:15:27 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[속보] 김 총리 \"핸드볼 경기장 봉쇄…불법행위 일벌백계 차원 단호히 대응\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260616112856Eqo",
+      "title": "이 대통령 \"대화·만남, 평화 향한 필수적인 길…교황 맞이 큰 기대\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606162117293vk",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 11:28:57 +0900"
+      "pub_date": "Tue, 16 Jun 2026 21:17:31 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 일본은행, 6개월만 기준금리 1%로 인상…31년만 최고",
-      "link": "https://www.mk.co.kr/news/world/12075291",
+      "title": "12조원 손실에도 ‘마이웨이’…비트코인 32개 팔고 1587개 사들인 ‘이 기업’",
+      "link": "https://www.mk.co.kr/news/stock/12075896",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:32:38 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 23:04:33 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 경찰 “개표소 진입 시도 저지, 채증 토대로 즉시 수사”",
-      "link": "https://www.mk.co.kr/news/society/12075290",
+      "title": "“총수는 김범석인가 법인인가”…쿠팡-공정위 법정 공방 본격화",
+      "link": "https://www.mk.co.kr/news/business/12075883",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:24:57 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 22:45:53 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "65세 정년연장 법 개정 촉구 기자회견하는 양대노총",
-      "link": "https://www.mk.co.kr/news/society/12075289",
+      "title": "24년째 입국 금지인데…유승준, 국대 유니폼 입고 한국 축구 응원",
+      "link": "https://www.mk.co.kr/news/culture/12075869",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:21:26 +09:00"
+      "pub_date": "Tue, 16 Jun 2026 22:08:24 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“10~65세는 파라솔 금지”… 이탈리아 유명 해변 규정에 관광객 '황당'",
-      "link": "https://www.etnews.com/20260615000349",
+      "title": "“차량이 드론 기지로 변신”…美 초소형 드론 운용 시스템 공개",
+      "link": "https://www.etnews.com/20260616000362",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:25:00 +0900"
+      "pub_date": "Tue, 16 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "업스테이지, 모델·에이전트·검색을 하나로 '모두를 위한 AI' 도약",
-      "link": "https://www.etnews.com/20260616000192",
+      "title": "李대통령, G7 정상회의 참석…제네바 도착 후 프랑스 에비앙으로 이동",
+      "link": "https://www.etnews.com/20260616000383",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:00:58 +0900"
+      "pub_date": "Tue, 16 Jun 2026 17:44:32 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“원전 상공 드론 침투 막는다”…월성원전에 첫 '불법드론 탐지 레이더' 도입",
-      "link": "https://www.etnews.com/20260616000033",
+      "title": "민투SW사업 활성화 용역 잇따라…정부, '1호 사업' 기반 다진다",
+      "link": "https://www.etnews.com/20260616000253",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 12:00:00 +0900"
+      "pub_date": "Tue, 16 Jun 2026 17:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 00:03:56 GMT"
+      "pub_date": "Tue, 16 Jun 2026 16:38:55 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 14:26:28 GMT"
+      "pub_date": "Tue, 16 Jun 2026 15:31:24 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-      "link": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 15 Jun 2026 23:40:31 GMT"
+      "pub_date": "Tue, 16 Jun 2026 16:20:33 GMT"
     }
   ]
 }
