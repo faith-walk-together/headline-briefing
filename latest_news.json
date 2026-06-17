@@ -1,101 +1,77 @@
 {
-  "last_updated": "2026-06-17T03:36:35.426898+00:00",
+  "last_updated": "2026-06-17T15:20:31.428868+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리 \"해상풍력, 이제 국가전략산업…공급망 경쟁력 강화 지원\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260617113856JG3",
+      "title": "[현장영상] 이 대통령, 유럽 순방 마무리…귀국길 올라",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260618001203mtv",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 11:38:58 +0900"
+      "pub_date": "Thu, 18 Jun 2026 00:12:05 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] ‘재선거’ 국힘 갈등 격화…與 전대 준비 본격화",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617111118XOb",
+      "title": "이 대통령, 트럼프와 환담…트럼프 \"한반도 필요한 역할 할 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606180000170Cj",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 11:11:22 +0900"
+      "pub_date": "Thu, 18 Jun 2026 00:00:18 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"당내 계파 소멸될 것\"…불붙는 당권레이스",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617105956uM9",
+      "title": "민통선 2㎞ '북상'…'여의도 150배' 군사보호구역 해제",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617231214pHr",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 10:59:59 +0900"
+      "pub_date": "Wed, 17 Jun 2026 23:12:16 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "삼성D, 업계 최고 4만니트 RGB 올레도스 공개…스마트글래스 시장 정조준",
-      "link": "https://www.mk.co.kr/news/business/12076246",
+      "title": "금융위 ‘매출 부풀리기’ 한창·더테크놀로지에 과징금 12억원",
+      "link": "https://www.mk.co.kr/news/stock/12076933",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:23:10 +09:00"
+      "pub_date": "Thu, 18 Jun 2026 00:16:55 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "국내 기업 호감도 ‘역대 최고’...가장 높은 평가 받은 항목은",
-      "link": "https://www.mk.co.kr/news/business/12076187",
+      "title": "삼일PwC “3500억 달러 對美투자…공급망 위주 산업구조 재편 신호탄”",
+      "link": "https://www.mk.co.kr/news/stock/12076931",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:01:00 +09:00"
+      "pub_date": "Thu, 18 Jun 2026 00:10:35 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "남부발전, ‘재생에너지 사업개발 전략자문협의체’ 출범",
-      "link": "https://www.mk.co.kr/news/business/12076243",
+      "title": "삼정KPMG, 신임 파트너 18명 승진 인사 발표",
+      "link": "https://www.mk.co.kr/news/stock/12076930",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:00:26 +09:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "'현금 퍼주기' 오바마 비난하던 트럼프…“450조는 현금 아닌가?”",
-      "link": "https://www.etnews.com/20260617000225",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:14:34 +0900"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "[인터뷰]이제현 KIST AIX 전략실장 “조직문화 전환으로 KIST AI 전환 이룰 것”",
-      "link": "https://www.etnews.com/20260617000220",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:00:29 +0900"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "기업호감도 역대 최고 찍었다...국민 86% '사회문제도 해결해야'",
-      "link": "https://www.etnews.com/20260617000184",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 12:00:00 +0900"
+      "pub_date": "Thu, 18 Jun 2026 00:08:24 +09:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 15:31:24 GMT"
+      "pub_date": "Wed, 17 Jun 2026 10:01:42 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 16:20:33 GMT"
+      "pub_date": "Wed, 17 Jun 2026 09:13:34 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 17 Jun 2026 00:25:39 GMT"
+      "pub_date": "Wed, 17 Jun 2026 09:56:40 GMT"
     }
   ]
 }
