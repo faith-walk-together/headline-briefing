@@ -1,85 +1,77 @@
 {
-  "last_updated": "2026-06-16T16:42:00.700838+00:00",
+  "last_updated": "2026-06-17T03:36:35.426898+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 장동혁 \"전국 재선거\"…\"자리보전용\"·\"자가당착\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616224708EnR",
+      "title": "김 총리 \"해상풍력, 이제 국가전략산업…공급망 경쟁력 강화 지원\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260617113856JG3",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 22:47:12 +0900"
+      "pub_date": "Wed, 17 Jun 2026 11:38:58 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[현장영상] 이 대통령, 프랑스 G7 정상회의 참석…공식환영식",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260616221525sSZ",
+      "title": "[뉴스포커스] ‘재선거’ 국힘 갈등 격화…與 전대 준비 본격화",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617111118XOb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 22:15:27 +0900"
+      "pub_date": "Wed, 17 Jun 2026 11:11:22 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"대화·만남, 평화 향한 필수적인 길…교황 맞이 큰 기대\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606162117293vk",
+      "title": "정청래 \"당내 계파 소멸될 것\"…불붙는 당권레이스",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260617105956uM9",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 21:17:31 +0900"
+      "pub_date": "Wed, 17 Jun 2026 10:59:59 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "12조원 손실에도 ‘마이웨이’…비트코인 32개 팔고 1587개 사들인 ‘이 기업’",
-      "link": "https://www.mk.co.kr/news/stock/12075896",
+      "title": "삼성D, 업계 최고 4만니트 RGB 올레도스 공개…스마트글래스 시장 정조준",
+      "link": "https://www.mk.co.kr/news/business/12076246",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 23:04:33 +09:00"
+      "pub_date": "Wed, 17 Jun 2026 12:23:10 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“총수는 김범석인가 법인인가”…쿠팡-공정위 법정 공방 본격화",
-      "link": "https://www.mk.co.kr/news/business/12075883",
+      "title": "국내 기업 호감도 ‘역대 최고’...가장 높은 평가 받은 항목은",
+      "link": "https://www.mk.co.kr/news/business/12076187",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 22:45:53 +09:00"
+      "pub_date": "Wed, 17 Jun 2026 12:01:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "24년째 입국 금지인데…유승준, 국대 유니폼 입고 한국 축구 응원",
-      "link": "https://www.mk.co.kr/news/culture/12075869",
+      "title": "남부발전, ‘재생에너지 사업개발 전략자문협의체’ 출범",
+      "link": "https://www.mk.co.kr/news/business/12076243",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 22:08:24 +09:00"
+      "pub_date": "Wed, 17 Jun 2026 12:00:26 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“차량이 드론 기지로 변신”…美 초소형 드론 운용 시스템 공개",
-      "link": "https://www.etnews.com/20260616000362",
+      "title": "'현금 퍼주기' 오바마 비난하던 트럼프…“450조는 현금 아닌가?”",
+      "link": "https://www.etnews.com/20260617000225",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 22:30:00 +0900"
+      "pub_date": "Wed, 17 Jun 2026 12:14:34 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "李대통령, G7 정상회의 참석…제네바 도착 후 프랑스 에비앙으로 이동",
-      "link": "https://www.etnews.com/20260616000383",
+      "title": "[인터뷰]이제현 KIST AIX 전략실장 “조직문화 전환으로 KIST AI 전환 이룰 것”",
+      "link": "https://www.etnews.com/20260617000220",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 17:44:32 +0900"
+      "pub_date": "Wed, 17 Jun 2026 12:00:29 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "민투SW사업 활성화 용역 잇따라…정부, '1호 사업' 기반 다진다",
-      "link": "https://www.etnews.com/20260616000253",
+      "title": "기업호감도 역대 최고 찍었다...국민 86% '사회문제도 해결해야'",
+      "link": "https://www.etnews.com/20260617000184",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 17:00:00 +0900"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 16 Jun 2026 16:38:55 GMT"
+      "pub_date": "Wed, 17 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "세계",
@@ -96,6 +88,14 @@
       "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
       "pub_date": "Tue, 16 Jun 2026 16:20:33 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Wed, 17 Jun 2026 00:25:39 GMT"
     }
   ]
 }
