@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-18T14:57:36.840803+00:00",
+  "last_updated": "2026-06-19T03:51:34.606295+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정부, '김여정 담화'에 \"핵 없는 한반도 노력\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260618233108ZUY",
+      "title": "정청래 연임 도전 신경전…장동혁 사퇴 공방",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619120745ure",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:31:09 +0900"
+      "pub_date": "Fri, 19 Jun 2026 12:07:47 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김여정, '비핵화' G7 성명에 \"단호히 배격\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606182330191bj",
+      "title": "진상규명위, 노태악 수사의뢰 권고…\"총체적 부실 확인\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619120611ZY2",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:30:20 +0900"
+      "pub_date": "Fri, 19 Jun 2026 12:06:14 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국방부 \"북한 정권은 우리의 적\"…통일부는 '반대' 입장",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260618232619xcD",
+      "title": "국방부, 미 의회 '전작권 전환 감독' 법안에 \"적극 설명 중\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260619113829386",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:26:20 +0900"
+      "pub_date": "Fri, 19 Jun 2026 11:38:29 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘쓰레기장 사람다리’ 주인은 요양병원 환자?…마네킹인줄 알았다는데",
-      "link": "https://www.mk.co.kr/news/society/12077982",
+      "title": "[속보] 검찰, ‘술 파티 위증 혐의 등’ 이화영에 징역 2년·벌금형 구형",
+      "link": "https://www.mk.co.kr/news/society/12078400",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:56:34 +09:00"
+      "pub_date": "Fri, 19 Jun 2026 12:42:33 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“AI 국제동맹 만듭시다, 중국은 빼고”…G7정상에 운띄운 빅테크들",
-      "link": "https://www.mk.co.kr/news/world/12077981",
+      "title": "“2030년 가장 매력적인 완성차로”…폭스바겐그룹 8대 전략 제시",
+      "link": "https://www.mk.co.kr/news/business/12078396",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:56:23 +09:00"
+      "pub_date": "Fri, 19 Jun 2026 12:30:14 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“트럼프 말을 믿느니”…46년만에 핵무기 금지조항 폐기한 이 나라",
-      "link": "https://www.mk.co.kr/news/world/12077971",
+      "title": "[속보] 홍명보호, 개최국 멕시코에 0-1 석패…조 1위 불발",
+      "link": "https://www.mk.co.kr/news/world/12078392",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 23:12:05 +09:00"
+      "pub_date": "Fri, 19 Jun 2026 11:59:09 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“핵보다 무서운 호르무즈 통제권 내줬다, 미국의 완패”…트럼프만 정신승리",
-      "link": "https://www.etnews.com/20260618000483",
+      "title": "밴스, 스위스행 돌연 연기…이란과 종전협상 또 꼬였다",
+      "link": "https://www.etnews.com/20260619000140",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 21:29:06 +0900"
+      "pub_date": "Fri, 19 Jun 2026 11:40:06 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "업종별 차등적용 부결…내년도 최저임금 단일 적용",
-      "link": "https://www.etnews.com/20260618000481",
+      "title": "오픈AI, 챗GPT 광고 노출 시작…무료·Go 요금제 대상",
+      "link": "https://www.etnews.com/20260619000138",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 20:38:17 +0900"
+      "pub_date": "Fri, 19 Jun 2026 11:27:54 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "대구TP, '대경권 소상공인 AI 전환' 시동… '기업가형 소상공인' 키운다",
-      "link": "https://www.etnews.com/20260617000347",
+      "title": "과기정통부 주도 '피지컬 AI 얼라이언스' 2기 출범…실행형 협력체계 전환",
+      "link": "https://www.etnews.com/20260619000136",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 20:00:00 +0900"
+      "pub_date": "Fri, 19 Jun 2026 11:16:40 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Weapons, money and ships: How is this Iran deal different from others?",
-      "link": "https://www.bbc.com/news/articles/c74ynmnrwmeo?at_medium=RSS&at_campaign=rss",
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 14:16:42 GMT"
+      "pub_date": "Fri, 19 Jun 2026 01:34:00 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 09:47:47 GMT"
+      "pub_date": "Thu, 18 Jun 2026 15:53:55 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "link": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 18 Jun 2026 09:26:16 GMT"
+      "pub_date": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
