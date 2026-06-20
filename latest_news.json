@@ -1,77 +1,85 @@
 {
-  "last_updated": "2026-06-19T14:54:39.779865+00:00",
+  "last_updated": "2026-06-20T02:53:27.505708+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 이 대통령, 유럽 순방 브리핑…여야 대표 사퇴론",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619224744nMN",
+      "title": "한동훈 \"2030년 대선 출마, 국민 필요에 달려있다\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260620111220tMM",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 22:47:46 +0900"
+      "pub_date": "Sat, 20 Jun 2026 11:12:21 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리 \"국회 돌아가면 선관위 개혁 원포인트 개헌 추진\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606192234541Cs",
+      "title": "[토요와이드] 이 대통령·트럼프 대화…북미 대화 재개 주목",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606200900296xe",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 22:34:56 +0900"
+      "pub_date": "Sat, 20 Jun 2026 09:00:32 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 \"성과 책임있게 이행\"…국힘 \"졸속 개헌 반대\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260619210410k7Q",
+      "title": "김 총리, 잇따른 호남 일정 소화…전대 앞 텃밭 챙기기?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260620084612Off",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 21:04:11 +0900"
+      "pub_date": "Sat, 20 Jun 2026 08:46:13 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“멜로니가 나와 사진 찍자고 애원”…트럼프 주장에 미·이탈리아 관계 ‘경색’",
-      "link": "https://www.mk.co.kr/news/world/12078821",
+      "title": "지난해 4월 첫딸 얻었는데…둘째 출산 앞둔 오타니, 홈경기 결장",
+      "link": "https://www.mk.co.kr/news/world/12078891",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 23:08:00 +09:00"
+      "pub_date": "Sat, 20 Jun 2026 11:26:52 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "주가조작 패가망신 1호 … 檢, 증권사 3곳 압수수색",
-      "link": "https://www.mk.co.kr/news/society/12078819",
+      "title": "한동훈 “2030년 대선 출마, 스스로 결정할 문제 아냐…장동혁, 정통성 이미 상실”",
+      "link": "https://www.mk.co.kr/news/politics/12078890",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 22:55:32 +09:00"
+      "pub_date": "Sat, 20 Jun 2026 11:19:00 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "미국·이란 협상 무산시킨 충돌…이스라엘·헤즈볼라 결국 ‘휴전 합의’",
-      "link": "https://www.mk.co.kr/news/world/12078818",
+      "title": "한동훈 “법원이 ‘연어 술판’ 없다고 해…이 대통령, 재판 없애면 탄핵”",
+      "link": "https://www.mk.co.kr/news/politics/12078889",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 22:43:12 +09:00"
+      "pub_date": "Sat, 20 Jun 2026 11:17:08 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“한국인 수준이 이정도야?”…바닥에 엎드린 편의점 직원에 놀란 日, 왜?",
-      "link": "https://www.etnews.com/20260619000279",
+      "title": "월드컵 앞두고 고립된 남아공… 이웃 아프리카 국가들 “한국 이겨라” 한목소리",
+      "link": "https://www.etnews.com/20260620000013",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sat, 20 Jun 2026 11:04:38 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“이란도 탄도미사일 가질 수 있어야”…걸프국 뒤통수 친 트럼프",
-      "link": "https://www.etnews.com/20260619000306",
+      "title": "비트코인 추락? “팔지마, 20배 폭등할 것”…'돈나무 언니'의 호언장담",
+      "link": "https://www.etnews.com/20260619000275",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 20:26:27 +0900"
+      "pub_date": "Sat, 20 Jun 2026 10:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "美 길고비치 연쇄살인범 자택 지하실 공개… 분노한 유족 법정 떠나기도",
-      "link": "https://www.etnews.com/20260618000381",
+      "title": "'220억' 美 리플렉팅 풀 녹조 논란에… 백악관 “이란 함정 제거하듯 처리”",
+      "link": "https://www.etnews.com/20260619000244",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 17:25:00 +0900"
+      "pub_date": "Sat, 20 Jun 2026 10:00:00 +0900"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 19 Jun 2026 19:27:12 GMT"
     },
     {
       "category": "세계",
@@ -79,23 +87,15 @@
       "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
       "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 13:42:47 GMT"
+      "pub_date": "Fri, 19 Jun 2026 19:36:10 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "title": "US to stop funding HIV programmes in South Africa",
+      "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 04:30:47 GMT"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 14:45:57 GMT"
+      "pub_date": "Fri, 19 Jun 2026 23:35:07 GMT"
     }
   ]
 }
