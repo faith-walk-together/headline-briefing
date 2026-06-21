@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-20T13:51:28.267722+00:00",
+  "last_updated": "2026-06-21T03:38:54.663755+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 '북미 대화·교황 방북' 제안…북한 호응할까",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260620200822sSD",
+      "title": "우원식, 전당대회 불출마 선언...\"분열 보기 힘들다\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260621114440UJb",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 20:08:24 +0900"
+      "pub_date": "Sun, 21 Jun 2026 11:44:41 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 다시 '내치 시험대'…선관위 등 현안 산적",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260620200720Rwh",
+      "title": "靑 수석 교체…홍보 성기홍·민정 한찬식·사회 김경자",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260621112338vtJ",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 20:07:20 +0900"
+      "pub_date": "Sun, 21 Jun 2026 11:23:39 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "리더십 상실에도 '버티기'…장동혁 체제 운명은?",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260620181840zse",
+      "title": "북한, 월드컵 '무단송출' 정황…한미일 경기 없지만 '현대차' 광고는 노출",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260621111632pw4",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 18:18:41 +0900"
+      "pub_date": "Sun, 21 Jun 2026 11:16:32 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“동탄 이어 구리, 기흥도 규제카드 만지작”…요건 충족에 ‘촉각’",
-      "link": "https://www.mk.co.kr/news/realestate/12079050",
+      "title": "나무 쓰러지고 사람 갇히고…최고 223mm 폭우에 피해 속출",
+      "link": "https://www.mk.co.kr/news/society/12079146",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:34:26 +09:00"
+      "pub_date": "Sun, 21 Jun 2026 11:40:16 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“여기선 TV 보려고 넷플릭스 켠다”…방송사까지 드라마 공룡의 승부수",
-      "link": "https://www.mk.co.kr/news/world/12079048",
+      "title": "야산에 숨겨 놓고 야금야금 유통…경찰, 마약 유통 조직 14명 적발",
+      "link": "https://www.mk.co.kr/news/society/12079145",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:31:56 +09:00"
+      "pub_date": "Sun, 21 Jun 2026 11:37:55 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘챔피언 남편’ 홍수환 간호했는데…가수 옥희 암 투병 끝에 별세, 향년 73세",
-      "link": "https://www.mk.co.kr/news/culture/12079047",
+      "title": "조국, 민주당에 ‘평택을 공천 해명 및 합당’ 등 10가지 질문",
+      "link": "https://www.mk.co.kr/news/politics/12079144",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:27:25 +09:00"
+      "pub_date": "Sun, 21 Jun 2026 11:34:33 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "한 번 오르는데 2300만원…에베레스트, 네팔에 '100억' 안겼다",
-      "link": "https://www.etnews.com/20260619000299",
+      "title": "기자들이 직접 만든 AI 뉴스 에이전트…전자신문 'ETA' 운영 시작",
+      "link": "https://www.etnews.com/20260619000241",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sun, 21 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“파도로 전기 만든다”…바다 위 AI 데이터센터 등장",
-      "link": "https://www.etnews.com/20260619000282",
+      "title": "'재사용발사체 시대 준비' 제2우주센터 건립 본격화…후보지 공모",
+      "link": "https://www.etnews.com/20260619000206",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sun, 21 Jun 2026 12:00:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“우리 개 친구 구해요”…뉴욕서 난리 난 반려견 소개팅 앱",
-      "link": "https://www.etnews.com/20260619000280",
+      "title": "삼성전자, 글로벌 전략회의서 HBM 확대·LTA 전략 집중 논의",
+      "link": "https://www.etnews.com/20260621000054",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sun, 21 Jun 2026 11:17:40 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 13:23:40 GMT"
+      "pub_date": "Sun, 21 Jun 2026 01:46:31 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 19 Jun 2026 21:46:07 GMT"
+      "pub_date": "Sat, 20 Jun 2026 17:40:43 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 07:40:20 GMT"
+      "pub_date": "Sat, 20 Jun 2026 15:31:12 GMT"
     }
   ]
 }
