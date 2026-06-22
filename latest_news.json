@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-06-21T13:59:08.543578+00:00",
+  "last_updated": "2026-06-22T03:42:50.652709+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리 \"한·미 우정 역사적 깊은 뿌리…글로벌 중추동맹으로 진화\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260621195531ii3",
+      "title": "靑 \"지지율 변동, 엄중하고 겸허히 받아들여\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260622115235dtX",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 19:55:31 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:52:37 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오산 이동 주한미군 '사드' 발사대 전부 복귀",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606211915545CH",
+      "title": "이 대통령 국정 지지율 46.7%·부정평가 49.7%…오차 내 첫 역전",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260622115203AKM",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 19:15:55 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:52:04 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "\"선관위원장, 투표 종료 40분 전 '용지 부족' 처음 보고 받아\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260621191311Hee",
+      "title": "민주, 차기 당권 신경전…'연어술파티' 여진",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606221150524OL",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 19:13:13 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:50:54 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[속보] 트럼프 “이란이 레바논 대리세력 막지 않으면 다시 타격할 것”",
-      "link": "https://www.mk.co.kr/news/world/12079519",
+      "title": "롯데유통 계열사 협업으로 탄생한 식빵 인기라는데…",
+      "link": "https://www.mk.co.kr/news/business/12079768",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 22:50:53 +09:00"
+      "pub_date": "Mon, 22 Jun 2026 11:59:24 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“지구촌 덮친 ‘살인 폭염’”…월드컵 거리응원 취소에 에펠탑 조기 폐장",
-      "link": "https://www.mk.co.kr/news/world/12079518",
+      "title": "쿼드, 블루포인트 등에서 21억원 규모 프리 A 투자 유치",
+      "link": "https://www.mk.co.kr/news/it/12079767",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 22:48:02 +09:00"
+      "pub_date": "Mon, 22 Jun 2026 11:59:12 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“내 국민연금 제대로 탈 수 있나” 우려 속…연금자산 68조 폭발적 성장",
-      "link": "https://www.mk.co.kr/news/economy/12079514",
+      "title": "정청래 “보완수사권 티끌마저 없애야…완전폐지가 정답”",
+      "link": "https://www.mk.co.kr/news/politics/12079760",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 21:57:44 +09:00"
+      "pub_date": "Mon, 22 Jun 2026 11:48:27 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“네타냐후, 내 덕에 감옥 면해놓고…” 트럼프, 이스라엘 총선 개입 경고하며 레바논 휴전 압박",
-      "link": "https://www.etnews.com/20260621000103",
+      "title": "박홍근, 초세수 활용 전문가 간담회…“AI·반도체 미래 투자” 목소리",
+      "link": "https://www.etnews.com/20260622000220",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 22:30:00 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:32:31 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'10년 새 6번째 사임' 총리 될까… 英 스타머 총리, 22일 사임설 확산",
-      "link": "https://www.etnews.com/20260621000102",
+      "title": "정점식 “李 대통령, 한성숙 청문회 전 다주택자 악마화 기조 수정해야”",
+      "link": "https://www.etnews.com/20260622000210",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 22:30:00 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:09:14 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "유럽 휩쓴 역대급 폭염… 프랑스 '음주 제한'·스페인 '월드컵 팬존 폐쇄' 비상",
-      "link": "https://www.etnews.com/20260621000101",
+      "title": "LG유플러스, 전국서 5G SA망 테스트 돌입…상용화 채비",
+      "link": "https://www.etnews.com/20260622000207",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 18:25:56 +0900"
+      "pub_date": "Mon, 22 Jun 2026 11:07:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sun, 21 Jun 2026 04:34:00 GMT"
+      "pub_date": "Mon, 22 Jun 2026 02:34:01 GMT"
     },
     {
       "category": "세계",
@@ -92,10 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-      "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+      "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 20 Jun 2026 23:17:51 GMT"
+      "pub_date": "Sun, 21 Jun 2026 15:01:28 GMT"
     }
   ]
 }
