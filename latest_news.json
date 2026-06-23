@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-06-22T16:46:59.676434+00:00",
+  "last_updated": "2026-06-23T02:47:45.259559+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 이번주 이재용 삼성전자 회장 회동",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260623001201jVM",
+      "title": "선관위 국정조사 본격 가동…여야 집안싸움 계속",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260623111433l0v",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 00:12:02 +0900"
+      "pub_date": "Tue, 23 Jun 2026 11:14:34 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 이 대통령 국정 지지율 임기 첫 '데드크로스'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260622225029DWN",
+      "title": "[뉴스포커스] 한찬식 민정 임명에 與 들썩…'보완수사권 폐지' 한목소리",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606231112254uc",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 22:50:32 +0900"
+      "pub_date": "Tue, 23 Jun 2026 11:12:27 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "강유정 \"민정수석, 일에만 집중할 분…만장일치로 오기는 어려워\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260622220653UbM",
+      "title": "[현장연결] 이 대통령 국무회의 주재…\"현장 속 선제적 적극 행정\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260623110408Gx1",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 22:06:55 +0900"
+      "pub_date": "Tue, 23 Jun 2026 11:04:10 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "10년 장기 호황 이끈 美 금리 거장 떠나다",
-      "link": "https://www.mk.co.kr/news/world/12080437",
+      "title": "“2026 최고 앨범은 BTS ‘아리랑’”…롤링스톤 등 주요 외신 극찬",
+      "link": "https://www.mk.co.kr/news/culture/12080730",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 23:08:46 +09:00"
+      "pub_date": "Tue, 23 Jun 2026 11:42:39 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "적십자사 신임 회장에 인요한 前 연세대 교수",
-      "link": "https://www.mk.co.kr/news/society/12080434",
+      "title": "[속보] 급락장에 코스피·코스닥 동반 매도 사이드카 발동",
+      "link": "https://www.mk.co.kr/news/stock/12080729",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 23:01:35 +09:00"
+      "pub_date": "Tue, 23 Jun 2026 11:42:38 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“넘어져도 다시”…한국 대표팀 향한 FIFA의 센스 넘치는 응원",
-      "link": "https://www.mk.co.kr/news/world/12080429",
+      "title": "“귀여움이 곧 미래 경쟁력”…식품·외식업계, ‘캐릭터 IP·팬덤 경제’ 공략",
+      "link": "https://www.mk.co.kr/news/business/12080728",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 22:53:34 +09:00"
+      "pub_date": "Tue, 23 Jun 2026 11:42:18 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "AI가 도운 기적… 머리 붙은 샴쌍둥이, '40시간 대수술' 끝에 분리 성공",
-      "link": "https://www.etnews.com/20260622000385",
+      "title": "中, 푸아그라 생산 7배 폭증 '세계 1위 눈앞'…“佛보다 값싸고 대중적”",
+      "link": "https://www.etnews.com/20260622000398",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 22:30:00 +0900"
+      "pub_date": "Tue, 23 Jun 2026 11:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“더 강하게 타격” 트럼프는 협박하고…“이란, IAEA 핵사찰단 수용” 밴스는 협상하고",
-      "link": "https://www.etnews.com/20260622000462",
+      "title": "李대통령·이재용, 지방 투자 해법 공유할 듯…'초과세수' 밑그림도 나올까",
+      "link": "https://www.etnews.com/20260623000169",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 22:26:08 +0900"
+      "pub_date": "Tue, 23 Jun 2026 11:09:26 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "밴스 “이란, IAEA 핵사찰단 복귀 수용”…이란 “핵 협상? 짧은 논의만”",
-      "link": "https://www.etnews.com/20260622000461",
+      "title": "테슬라, 또 자율주행 중 사망사고?…美 당국 '주택 돌진' 사건 특별조사 착수",
+      "link": "https://www.etnews.com/20260623000149",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 21:54:04 +0900"
+      "pub_date": "Tue, 23 Jun 2026 10:48:17 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Vance says Iran will allow nuclear inspectors back into the country",
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
       "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 14:18:19 GMT"
+      "pub_date": "Mon, 22 Jun 2026 23:07:45 GMT"
     },
     {
       "category": "세계",
@@ -92,10 +92,10 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Mon, 22 Jun 2026 15:31:55 GMT"
+      "pub_date": "Tue, 23 Jun 2026 01:59:39 GMT"
     }
   ]
 }
