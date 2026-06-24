@@ -1,77 +1,77 @@
 {
-  "last_updated": "2026-06-23T14:38:35.902256+00:00",
+  "last_updated": "2026-06-24T02:48:20.517712+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리, 몽골 총리와 회담 \"10대 자원 부국, 공급망 협력 강화 기대\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260623230713TPA",
+      "title": "[속보] 군, 어젯밤 중부전선서 북한군 1명 신병 확보",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260624114721OiN",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 23:07:15 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:47:22 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김 총리, 리창 中총리와 '셀카'…7년 만의 한중 총리회담",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026062323060738n",
+      "title": "감사원장 \"선관위 회계검사 자료수집 시작…7월 실지감사 예상\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR2026062411400473K",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 23:06:09 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:40:05 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "방사청 \"해외 민간 위성정보 구매, 美 정보공유 제한과 관계없어\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260623225913vJa",
+      "title": "장동혁, 엿새 만 퇴원해 당무 복귀…\"단식 후유증 심각\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606241133394Ie",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 22:59:13 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:33:40 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "삼전닉스, 호남·충청에 반도체 팹 세운다 … 수백조 투자 전망",
-      "link": "https://www.mk.co.kr/news/business/12081410",
+      "title": "[단독] 공정위, 한화그룹 현장조사…‘브랜드 사용료’ 내부거래 들여다볼듯",
+      "link": "https://www.mk.co.kr/news/economy/12081805",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 23:03:18 +09:00"
+      "pub_date": "Wed, 24 Jun 2026 11:35:58 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "대륙이 다시 사먹는다…중국 매출 부활한 오리온, 일등공신은 이 과자",
-      "link": "https://www.mk.co.kr/news/business/12081404",
+      "title": "KB운용, 서울 방화동서 영세 소상공인 지원",
+      "link": "https://www.mk.co.kr/news/stock/12081801",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 22:45:15 +09:00"
+      "pub_date": "Wed, 24 Jun 2026 11:34:05 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“포탄인 것 같아요”…서울 신당동 아파트 상가서 20여명 대피",
-      "link": "https://www.mk.co.kr/news/society/12081399",
+      "title": "창원대 교수회, 박민원 총장 불신임안 가결…박 총장 “겸허히 수용”",
+      "link": "https://www.mk.co.kr/news/society/12081798",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 22:37:24 +09:00"
+      "pub_date": "Wed, 24 Jun 2026 11:33:33 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "美 텍사스서 '벌통' 실린 트레일러 전복…'수백만마리' 꿀벌 주택가로 쏟아져",
-      "link": "https://www.etnews.com/20260623000406",
+      "title": "오세훈 “당대표 중심 정치 갈등 키워…원내정당으로 가야”",
+      "link": "https://www.etnews.com/20260624000181",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 22:30:00 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:30:37 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“뭘 사든 돈 번다”…반도체가 끌어올린 증시, 대만 '빚투 열풍' 한국보다 더하다",
-      "link": "https://www.etnews.com/20260623000448",
+      "title": "태국인 여성들과 성관계 영상 올린 '한국인 문신남' 체포…다량의 마약류까지 소지",
+      "link": "https://www.etnews.com/20260624000179",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 21:40:03 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:24:54 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "씨큐비스타, '패킷사이버 3.0' 공개…“글로벌 NDR 성능 웃돌아”",
-      "link": "https://www.etnews.com/20260623000160",
+      "title": "한동훈 “개정 정보통신망법 위헌 소지 커…시행 유예·재개정해야”",
+      "link": "https://www.etnews.com/20260624000172",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 18:00:00 +0900"
+      "pub_date": "Wed, 24 Jun 2026 11:14:47 +0900"
     },
     {
       "category": "세계",
@@ -79,23 +79,23 @@
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
       "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 14:37:11 GMT"
+      "pub_date": "Tue, 23 Jun 2026 16:27:17 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 12:14:58 GMT"
+      "pub_date": "Tue, 23 Jun 2026 21:04:11 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Tue, 23 Jun 2026 11:10:06 GMT"
+      "pub_date": "Tue, 23 Jun 2026 16:47:45 GMT"
     }
   ]
 }
