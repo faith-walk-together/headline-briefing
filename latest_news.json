@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-25T02:48:10.832639+00:00",
+  "last_updated": "2026-06-25T14:21:21.215486+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한성숙 \"일만 집중해 성과내는 총리 될 것…과감한 AI 대전환\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260625112620g9j",
+      "title": "[투나잇이슈] 李·文, 내달 1일 독대…국힘, 장동혁 거취 공방",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606252237462ee",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:26:21 +0900"
+      "pub_date": "Thu, 25 Jun 2026 22:37:48 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "'북한판 이지스함', 동해 아닌 서해 배치…이유는?",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202606251119518iy",
+      "title": "韓선박 탈출 속도 日 추월…'나무호 피격' 영향?",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260625211758QtF",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:19:51 +0900"
+      "pub_date": "Thu, 25 Jun 2026 21:18:00 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[뉴스포커스] 한성숙 국무총리 후보자 청문회…여야 격돌 전망",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260625111318EZH",
+      "title": "보완수사권 논의 국회로…예외없는 폐지 주목",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260625210204DLd",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:13:20 +0900"
+      "pub_date": "Thu, 25 Jun 2026 21:02:05 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "[신간]중고차 수출 처음부터 끝까지…시장 분석과 실무 담은 바이블",
-      "link": "https://www.mk.co.kr/news/business/12082825",
+      "title": "美 물가지수 4% 돌파 … 금리인상 가능성 커지나",
+      "link": "https://www.mk.co.kr/news/world/12083530",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:39:02 +09:00"
+      "pub_date": "Thu, 25 Jun 2026 23:09:11 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“트럼프 탄압에서 우리가 지켜줄게”…미 정부 홈페이지로 수만명 몰려갔다",
-      "link": "https://www.mk.co.kr/news/world/12082823",
+      "title": "마이크론 호실적에 PCE 안도감까지...뉴욕증시, 일제히 상승 출발",
+      "link": "https://www.mk.co.kr/news/stock/12083529",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:35:24 +09:00"
+      "pub_date": "Thu, 25 Jun 2026 23:08:39 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘아…’ 한국 축구, 남아공에 후반 선제골 허용… 조 3위 내려갈 위기",
-      "link": "https://www.mk.co.kr/news/society/12082820",
+      "title": "“미국은 헛소리만 수출”…트럼프가 언급한 ‘美농산물 구매설’ 일축한 이란",
+      "link": "https://www.mk.co.kr/news/world/12083527",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:31:13 +09:00"
+      "pub_date": "Thu, 25 Jun 2026 22:59:18 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "마이크론, 또 최대 실적…매출 4배·영업익 15배 뛰었다",
-      "link": "https://www.etnews.com/20260625000159",
+      "title": "12년간 남편에 감금된 佛 여성, 파키스탄서 극적 구조",
+      "link": "https://www.etnews.com/20260625000400",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:20:16 +0900"
+      "pub_date": "Thu, 25 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“농약 대신 자외선으로”…화제의 자율주행 방제 로봇",
-      "link": "https://www.etnews.com/20260624000460",
+      "title": "'李 성장 전략', 마침내 베일 벗는다…29일 대도약 프로젝트 국민보고회",
+      "link": "https://www.etnews.com/20260625000431",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:20:00 +0900"
+      "pub_date": "Thu, 25 Jun 2026 20:29:41 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "젠스파크 “한국은 톱3 시장”…서울 오피스 세우고 공략 본격화",
-      "link": "https://www.etnews.com/20260625000153",
+      "title": "이재명 대통령, 이재용 회장과 회동…반도체 지방투자 논의",
+      "link": "https://www.etnews.com/20260625000430",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 11:12:14 +0900"
+      "pub_date": "Thu, 25 Jun 2026 19:42:58 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 24 Jun 2026 21:39:18 GMT"
+      "pub_date": "Thu, 25 Jun 2026 10:48:09 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 24 Jun 2026 13:51:24 GMT"
+      "pub_date": "Thu, 25 Jun 2026 13:09:58 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Wed, 24 Jun 2026 17:31:48 GMT"
+      "pub_date": "Thu, 25 Jun 2026 14:18:45 GMT"
     }
   ]
 }
