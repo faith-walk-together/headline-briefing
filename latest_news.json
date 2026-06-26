@@ -1,85 +1,77 @@
 {
-  "last_updated": "2026-06-26T02:52:52.913203+00:00",
+  "last_updated": "2026-06-26T14:13:40.633745+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "정청래 \"시간끌기\" 발언 파장…장동혁, 징계 카드로 압박",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260626115140yFz",
+      "title": "군, 장거리 자폭무인기 전력화 추진…교육용 드론 6만대 도입",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606262302239E2",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:51:41 +0900"
+      "pub_date": "Fri, 26 Jun 2026 23:02:24 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국힘 \"정치가 기업 팔 비튼 것\"…'호남 반도체 투자설' 공세",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260626113025PA5",
+      "title": "[투나잇이슈] 李 지지율 취임 후 최저…보완수사권 폐지 공방",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260626223543fT7",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:30:25 +0900"
+      "pub_date": "Fri, 26 Jun 2026 22:35:45 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "민주 \"개헌으로 선관위 해체…명칭·구성방식 변경\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260626112811It0",
+      "title": "하준경 \"이 대통령, 부동산 투기 기대 수익률 낮춰라 말씀\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260626223541nWV",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:28:13 +0900"
+      "pub_date": "Fri, 26 Jun 2026 22:35:41 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“BYD 첫 하이브리드”…BYD, ‘씨라이언6 DM-i’ 국내 공개",
-      "link": "https://www.mk.co.kr/news/business/12083901",
+      "title": "“한 편에 1억? AI는 공짜에 불만도 없어”…영화계 일자리 위협 현실화",
+      "link": "https://www.mk.co.kr/news/society/12084475",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:48:34 +09:00"
+      "pub_date": "Fri, 26 Jun 2026 22:55:31 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“36년만에 대기업, 이순신 정신 덕분에 가능” 윤동한 한국콜마 회장, 충무공 책 출간",
-      "link": "https://www.mk.co.kr/news/business/12083899",
+      "title": "휴가철 해변 점령한 ‘빈 텐트’…‘민폐 알박기’ 만연한데 막을 방법 없다고?",
+      "link": "https://www.mk.co.kr/news/society/12084474",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:43:18 +09:00"
+      "pub_date": "Fri, 26 Jun 2026 22:54:50 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“오전에 면역항암제 투여하면 효과 크다?”…‘황당 논문’ 철회한 중국",
-      "link": "https://www.mk.co.kr/news/society/12083891",
+      "title": "“독방 터서 객실로”…교도소가 최고급 호텔로, 대체 무슨 일",
+      "link": "https://www.mk.co.kr/news/world/12084473",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:38:14 +09:00"
+      "pub_date": "Fri, 26 Jun 2026 22:53:20 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "정점식 “보완수사권 폐지 추진은 국정 포기…한성숙 사퇴해야”",
-      "link": "https://www.etnews.com/20260626000099",
+      "title": "“비행기값 뽑고도 남아”…'7만원 스시자로' 일본 가면 가방 가득 숨겨온다",
+      "link": "https://www.etnews.com/20260626000371",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 10:38:18 +0900"
+      "pub_date": "Fri, 26 Jun 2026 22:57:04 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“한국이 이럴 줄 알았나”…'19경기 연속 적중' 족집게 고양이도 남아공전 예측 틀려",
-      "link": "https://www.etnews.com/20260626000097",
+      "title": "공무원 수천명이 돈 주고 시험성적 조작…부패한 태국, 결국",
+      "link": "https://www.etnews.com/20260626000291",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 10:37:32 +0900"
+      "pub_date": "Fri, 26 Jun 2026 22:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "SK하닉 상승률 더 높은데 “최선호주 삼전”…코스피 15000 외친 JP모건, 왜?",
-      "link": "https://www.etnews.com/20260626000093",
+      "title": "“이게 진짜냐” 논쟁 예고할 정도?…삼성 1000조 투자설에, 김용범 “낯선 숫자들 나올 것”",
+      "link": "https://www.etnews.com/20260626000354",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 10:32:55 +0900"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-      "link": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 02:04:11 GMT"
+      "pub_date": "Fri, 26 Jun 2026 22:18:19 +0900"
     },
     {
       "category": "세계",
@@ -92,10 +84,18 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+      "title": "Aerial footage reveals destruction in coastal Venezuela",
+      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Thu, 25 Jun 2026 12:08:30 GMT"
+      "pub_date": "Fri, 26 Jun 2026 05:13:22 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "pub_date": "Fri, 26 Jun 2026 11:27:59 GMT"
     }
   ]
 }
