@@ -6,12 +6,12 @@ from datetime import datetime
 import pytz
 from google import genai
 
-# RSS Feeds List (Defaults)
+# Google News RSS Feeds (Aggregates major Korean outlets like KBS, SBS, Chosun, etc.)
 RSS_FEEDS = [
-    {"category": "정치", "outlet": "연합뉴스", "url": "https://www.yonhapnewstv.co.kr/category/news/politics/feed/"},
-    {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/"},
-    {"category": "IT/과학", "outlet": "전자신문", "url": "https://rss.etnews.com/Section901.xml"},
-    {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"}
+    {"category": "정치", "url": "https://news.google.com/rss/headlines/section/topic/POLITICS?hl=ko&gl=KR&ceid=KR:ko"},
+    {"category": "경제", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"},
+    {"category": "IT/과학", "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ko&gl=KR&ceid=KR:ko"},
+    {"category": "세계", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ko&gl=KR&ceid=KR:ko"}
 ]
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
@@ -70,23 +70,29 @@ def fetch_feed_data():
     all_news = []
     
     for feed in RSS_FEEDS:
-        print(f"Fetching {feed['outlet']} - {feed['category']}...")
+        print(f"Fetching {feed['category']} news from Google News...")
         parsed = feedparser.parse(feed["url"])
         
-        # Take top 3 entries per feed to save time/API cost for MVP
-        for entry in parsed.entries[:3]:
+        # Google News aggregates articles, so we can fetch more to get a good mix.
+        # Fetching top 5 per category (total 20 articles)
+        for entry in parsed.entries[:5]:
             title = entry.title
             link = entry.link
             pub_date = entry.get("published", entry.get("updated", ""))
             
-            # Rate limiting mitigation
+            # Google News usually provides the original publisher in the source tag.
+            outlet = "Google News"
+            if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
+                outlet = entry.source.title
+            
+            # Rate limiting mitigation for Gemini API (free tier)
             time.sleep(2)
             
             ai_result = summarize_and_translate_text(title)
             
             all_news.append({
                 "category": feed["category"],
-                "outlet": feed["outlet"],
+                "outlet": outlet,
                 "title": ai_result["translated_title"],
                 "link": link,
                 "summary": ai_result["summary"],
