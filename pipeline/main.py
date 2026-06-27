@@ -11,13 +11,13 @@ from google import genai
 RSS_FEEDS = [
     # 정치
     {"category": "정치", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/politics.xml", "limit": 3},
-    {"category": "정치", "outlet": "CNN", "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "limit": 3},
+    {"category": "정치", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "limit": 3},
     {"category": "정치", "outlet": "KBS", "url": "https://news.kbs.co.kr/rss/xml/politics.xml", "limit": 2},
     {"category": "정치", "outlet": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml", "limit": 2},
     {"category": "정치", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "limit": 2},
     
     # 경제
-    {"category": "경제", "outlet": "CNN", "url": "http://rss.cnn.com/rss/money_latest.rss", "limit": 3},
+    {"category": "경제", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "limit": 3},
     {"category": "경제", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "한국경제", "url": "https://rss.hankyung.com/feed/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000016/", "limit": 2},
@@ -25,13 +25,13 @@ RSS_FEEDS = [
     
     # IT/과학
     {"category": "IT/과학", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/newsflash.xml", "limit": 2},
-    {"category": "IT/과학", "outlet": "CNN", "url": "http://rss.cnn.com/rss/edition_technology.rss", "limit": 2},
+    {"category": "IT/과학", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "limit": 2},
     {"category": "IT/과학", "outlet": "전자신문", "url": "https://rss.etnews.com/Section901.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "limit": 2},
     
     # 세계
-    {"category": "세계", "outlet": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "limit": 5},
+    {"category": "세계", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "limit": 5},
     {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5}
 ]
 
@@ -40,7 +40,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # 필터링할 무의미한 단어들 (날씨 제외)
 SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브"]
 
-def summarize_and_translate_text(title, max_retries=2):
+def summarize_and_translate_text(title, max_retries=3):
     if not GEMINI_API_KEY:
         return {
             "translated_title": title,
@@ -66,27 +66,34 @@ def summarize_and_translate_text(title, max_retries=2):
     
     prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 반드시 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해줘. 영어가 절대 섞이면 안 돼. 제목(translated_title)도 무조건 한국어로 번역해:\n\n{title}"
     
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config={
-                "response_mime_type": "application/json",
-                "response_schema": response_schema,
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config={
+                    "response_mime_type": "application/json",
+                    "response_schema": response_schema,
+                }
+            )
+            
+            result = json.loads(response.text)
+            return {
+                "translated_title": result.get("translated_title", title),
+                "summary": result.get("summary", "요약을 불러오는 데 실패했습니다.")
             }
-        )
-        
-        result = json.loads(response.text)
-        return {
-            "translated_title": result.get("translated_title", title),
-            "summary": result.get("summary", "요약을 불러오는 데 실패했습니다.")
-        }
-    except Exception as e:
-        print(f"Error summarizing {title}: {e}")
-        return {
-            "translated_title": title,
-            "summary": "요약을 불러오는 데 실패했습니다."
-        }
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed for '{title}': {e}")
+            if attempt < max_retries - 1:
+                # Exponential backoff: 10s -> 20s
+                sleep_time = 10 * (attempt + 1)
+                print(f"Sleeping for {sleep_time} seconds before retrying...")
+                time.sleep(sleep_time)
+            else:
+                return {
+                    "translated_title": title,
+                    "summary": "요약을 불러오는 데 실패했습니다."
+                }
 
 def fetch_feed_data():
     all_news = []
@@ -118,8 +125,9 @@ def fetch_feed_data():
                 dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
                 iso_date = dt.isoformat()
             
-            # Rate limiting mitigation for Gemini API (free tier 15 RPM = 1 req / 4 sec)
-            time.sleep(4.5)
+            # Rate limiting mitigation for Gemini API (free tier)
+            # Increased from 4.5s to 6.0s to stay comfortably below 15 RPM
+            time.sleep(6.0)
             
             ai_result = summarize_and_translate_text(title)
             
