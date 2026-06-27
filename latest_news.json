@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-27T11:08:05.232415+00:00",
+  "last_updated": "2026-06-27T11:13:48.784977+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
       "title": "고이즈미 日 방위상 방한…\"한일 방위협력 깊어지도록\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627195846Rpt",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "일본 고이즈미 방위상이 한일 방위협력 심화를 위해 한국을 방문했습니다.",
       "pub_date": "Sat, 27 Jun 2026 19:58:47 +0900"
     },
     {
@@ -14,7 +14,7 @@
       "outlet": "연합뉴스",
       "title": "이 대통령 \"호남 투자, CEO들이 회사 이익 따라 결단한 것\"",
       "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627194831FyK",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "이 대통령은 기업들의 호남 투자에 대해 언급했습니다.\n이는 CEO들이 회사 이익을 최우선으로 고려하여 내린 결정이라고 밝혔습니다.\n투자가 정치적 의도가 아닌 경제적 판단에 따른 것임을 강조한 것입니다.",
       "pub_date": "Sat, 27 Jun 2026 19:48:32 +0900"
     },
     {
@@ -22,7 +22,7 @@
       "outlet": "연합뉴스",
       "title": "여야, '반도체 호남행' 연일 공방…AI 추경 신경전도",
       "link": "https://www.yonhapnewstv.co.kr/news/MYH202606271933136sJ",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "여야가 '반도체 호남행' 유치 문제를 두고 연일 치열한 공방을 벌이고 있다.\n또한 인공지능(AI) 관련 추가경정예산(추경) 편성을 놓고도 신경전이 고조되고 있다.\n이는 주요 산업 정책과 국가 예산안을 둘러싼 정치권의 갈등 심화를 보여준다.",
       "pub_date": "Sat, 27 Jun 2026 19:33:15 +0900"
     },
     {
@@ -30,7 +30,7 @@
       "outlet": "매일경제",
       "title": "경찰, 광화문 일민미술관서 흉기난동 70대 구속영장…“방화 준비 정황도 확인”",
       "link": "https://www.mk.co.kr/news/society/12084738",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "광화문 일민미술관에서 70대 남성이 흉기난동을 벌여 경찰이 구속영장을 신청했습니다.\n경찰은 조사 과정에서 이 남성이 방화를 준비한 정황도 추가로 확인했습니다.",
       "pub_date": "Sat, 27 Jun 2026 20:05:59 +09:00"
     },
     {
@@ -38,7 +38,7 @@
       "outlet": "매일경제",
       "title": "차지·치폴레 품은 신세계…백화점 ‘힙한 맛집’ 경쟁 불붙었다",
       "link": "https://www.mk.co.kr/news/economy/12084735",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "신세계백화점이 '차지'와 '치폴레' 등 젊은 층에게 인기 있는 힙한 맛집 브랜드를 유치했습니다.\n\n이는 백화점들이 차별화된 식음료(F&B) 콘텐츠를 통해 고객을 끌어들이려는 경쟁에 불이 붙었음을 시사합니다.\n\n앞으로 주요 백화점 간 '힙한 맛집' 확보를 위한 치열한 경쟁이 더욱 심화될 것으로 보입니다.",
       "pub_date": "Sat, 27 Jun 2026 19:52:37 +09:00"
     },
     {
@@ -46,7 +46,7 @@
       "outlet": "매일경제",
       "title": "‘신경계 손상 일으킨다’ 오명에서 美핵심광물 지정까지…산업 인프라 떠받치는 ‘납’[어쩌다 금속 이야기]",
       "link": "https://www.mk.co.kr/news/business/12084734",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "납은 신경계 손상 유발이라는 오명을 갖고 있었지만, 최근 미국이 핵심광물로 지정할 만큼 산업적으로 필수적인 위치에 올랐습니다.\n이는 산업 인프라를 떠받치는 핵심 광물로서의 중요성을 보여줍니다.\n오명에서 벗어나 전략적 가치를 인정받고 있는 납의 위상 변화를 다룹니다.",
       "pub_date": "Sat, 27 Jun 2026 19:52:21 +09:00"
     },
     {
@@ -54,7 +54,7 @@
       "outlet": "전자신문",
       "title": "40배 웃돈 주고도 못구했던 '라부부'의 추락?…이젠 중고시장 헐값에 무료 나눔까지",
       "link": "https://www.etnews.com/20260627000033",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "한때 40배의 웃돈을 주고도 구하기 힘들었던 인기 캐릭터 '라부부'가\n극심한 가격 하락세를 보이며 인기가 '추락'하고 있습니다.\n이제는 중고시장에서 헐값에 거래되거나 심지어 무료 나눔까지 등장하는 상황입니다.",
       "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
     },
     {
@@ -62,7 +62,7 @@
       "outlet": "전자신문",
       "title": "“1년 일한 제자, 성과급만 교장 연봉보다 많아”…美 NYT도 주목한 반도체 특성화고",
       "link": "https://www.etnews.com/20260627000032",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "반도체 특성화고 졸업생이 단 1년 만에 교장 연봉을 뛰어넘는 성과급을 받아 화제입니다.\n이러한 놀라운 소식은 미국 뉴욕타임스(NYT)까지 주목하며 한국 특성화고의 성공 사례로 소개되었습니다.\n이는 미래 산업 핵심 분야인 반도체 전문 인력 양성의 중요성과 그 효과를 분명하게 보여줍니다.",
       "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
     },
     {
@@ -70,7 +70,7 @@
       "outlet": "전자신문",
       "title": "“손흥민도 빼고 전술도 없고”…앙리도 “이해불가” 홍명보",
       "link": "https://www.etnews.com/20260627000030",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "요약을 불러오는 데 실패했습니다.",
       "pub_date": "Sat, 27 Jun 2026 14:41:21 +0900"
     },
     {
@@ -78,7 +78,7 @@
       "outlet": "BBC",
       "title": "US strikes Iran after attack on cargo ship",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "요약을 불러오는 데 실패했습니다.",
       "pub_date": "Sat, 27 Jun 2026 10:40:38 GMT"
     },
     {
@@ -86,7 +86,7 @@
       "outlet": "BBC",
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "요약을 불러오는 데 실패했습니다.",
       "pub_date": "Sat, 27 Jun 2026 08:56:30 GMT"
     },
     {
@@ -94,7 +94,7 @@
       "outlet": "BBC",
       "title": "Mother dies saving daughter in Venezuela earthquakes",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "summary": "베네수엘라에서 지진이 발생한 가운데,\n한 어머니가 무너지는 잔해 속에서 딸을 구하려다가\n안타깝게도 목숨을 잃었습니다.",
       "pub_date": "Fri, 26 Jun 2026 18:36:32 GMT"
     }
   ]
