@@ -1,100 +1,100 @@
 {
-  "last_updated": "2026-06-27T02:43:20.737032+00:00",
+  "last_updated": "2026-06-27T11:08:05.232415+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "미 워싱턴서 6·25 76주년 행사…\"희생 잊지 않겠다\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026062710425746D",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 10:42:58 +0900"
+      "title": "고이즈미 日 방위상 방한…\"한일 방위협력 깊어지도록\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627195846Rpt",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 19:58:47 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한미일 외교 실무그룹 회의…'北 위협 대응' 논의",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260627103306xg2",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 10:33:07 +0900"
+      "title": "이 대통령 \"호남 투자, CEO들이 회사 이익 따라 결단한 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627194831FyK",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 19:48:32 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "홍익표 \"이 대통령·文 회동, 취임 직후부터 추진…허심탄회하게 의견 나눌 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627102535dhM",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 10:25:36 +0900"
+      "title": "여야, '반도체 호남행' 연일 공방…AI 추경 신경전도",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606271933136sJ",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 19:33:15 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“쓸모 없는 비트코인 서서히 사라질 것”…억만장자 투자자의 섬뜩한 경고",
-      "link": "https://www.mk.co.kr/news/world/12084635",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 11:40:02 +09:00"
+      "title": "경찰, 광화문 일민미술관서 흉기난동 70대 구속영장…“방화 준비 정황도 확인”",
+      "link": "https://www.mk.co.kr/news/society/12084738",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 20:05:59 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "‘추정 연봉 38억원’ 홍명보…32강 자력 진출 日 모리야스 2배 넘어",
-      "link": "https://www.mk.co.kr/news/world/12084634",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 11:37:06 +09:00"
+      "title": "차지·치폴레 품은 신세계…백화점 ‘힙한 맛집’ 경쟁 불붙었다",
+      "link": "https://www.mk.co.kr/news/economy/12084735",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 19:52:37 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“월급 680만원인데 턱도 없네”…중위소득 매수가능 서울 아파트 ‘고작’",
-      "link": "https://www.mk.co.kr/news/economy/12084631",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 11:23:13 +09:00"
+      "title": "‘신경계 손상 일으킨다’ 오명에서 美핵심광물 지정까지…산업 인프라 떠받치는 ‘납’[어쩌다 금속 이야기]",
+      "link": "https://www.mk.co.kr/news/business/12084734",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 19:52:21 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "中 베이징 108층 초고층 빌딩에 경비행기 충돌…당국은 “상황 몰라?”",
-      "link": "https://www.etnews.com/20260627000018",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 09:46:23 +0900"
+      "title": "40배 웃돈 주고도 못구했던 '라부부'의 추락?…이젠 중고시장 헐값에 무료 나눔까지",
+      "link": "https://www.etnews.com/20260627000033",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "전북대, 263억 투입 DCS 밸류체인 국산화 추진…K-바이오 제조 주권 확보 시동",
-      "link": "https://www.etnews.com/20260626000316",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 09:30:00 +0900"
+      "title": "“1년 일한 제자, 성과급만 교장 연봉보다 많아”…美 NYT도 주목한 반도체 특성화고",
+      "link": "https://www.etnews.com/20260627000032",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "SMIC, 베이징 생산법인 완전 편입…中 정책자본 주요주주로 부상",
-      "link": "https://www.etnews.com/20260626000194",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 09:00:00 +0900"
+      "title": "“손흥민도 빼고 전술도 없고”…앙리도 “이해불가” 홍명보",
+      "link": "https://www.etnews.com/20260627000030",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 14:41:21 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "title": "US strikes Iran after attack on cargo ship",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Sat, 27 Jun 2026 00:34:08 GMT"
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 10:40:38 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 21:15:37 GMT"
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
+      "pub_date": "Sat, 27 Jun 2026 08:56:30 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
       "title": "Mother dies saving daughter in Venezuela earthquakes",
       "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
+      "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)",
       "pub_date": "Fri, 26 Jun 2026 18:36:32 GMT"
     }
   ]
