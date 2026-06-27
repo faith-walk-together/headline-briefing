@@ -1,101 +1,101 @@
 {
-  "last_updated": "2026-06-26T14:13:40.633745+00:00",
+  "last_updated": "2026-06-27T02:43:20.737032+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "군, 장거리 자폭무인기 전력화 추진…교육용 드론 6만대 도입",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606262302239E2",
+      "title": "미 워싱턴서 6·25 76주년 행사…\"희생 잊지 않겠다\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026062710425746D",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 23:02:24 +0900"
+      "pub_date": "Sat, 27 Jun 2026 10:42:58 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[투나잇이슈] 李 지지율 취임 후 최저…보완수사권 폐지 공방",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260626223543fT7",
+      "title": "한미일 외교 실무그룹 회의…'北 위협 대응' 논의",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260627103306xg2",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:35:45 +0900"
+      "pub_date": "Sat, 27 Jun 2026 10:33:07 +0900"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "하준경 \"이 대통령, 부동산 투기 기대 수익률 낮춰라 말씀\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260626223541nWV",
+      "title": "홍익표 \"이 대통령·文 회동, 취임 직후부터 추진…허심탄회하게 의견 나눌 것\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627102535dhM",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:35:41 +0900"
+      "pub_date": "Sat, 27 Jun 2026 10:25:36 +0900"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“한 편에 1억? AI는 공짜에 불만도 없어”…영화계 일자리 위협 현실화",
-      "link": "https://www.mk.co.kr/news/society/12084475",
+      "title": "“쓸모 없는 비트코인 서서히 사라질 것”…억만장자 투자자의 섬뜩한 경고",
+      "link": "https://www.mk.co.kr/news/world/12084635",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:55:31 +09:00"
+      "pub_date": "Sat, 27 Jun 2026 11:40:02 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "휴가철 해변 점령한 ‘빈 텐트’…‘민폐 알박기’ 만연한데 막을 방법 없다고?",
-      "link": "https://www.mk.co.kr/news/society/12084474",
+      "title": "‘추정 연봉 38억원’ 홍명보…32강 자력 진출 日 모리야스 2배 넘어",
+      "link": "https://www.mk.co.kr/news/world/12084634",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:54:50 +09:00"
+      "pub_date": "Sat, 27 Jun 2026 11:37:06 +09:00"
     },
     {
       "category": "경제",
       "outlet": "매일경제",
-      "title": "“독방 터서 객실로”…교도소가 최고급 호텔로, 대체 무슨 일",
-      "link": "https://www.mk.co.kr/news/world/12084473",
+      "title": "“월급 680만원인데 턱도 없네”…중위소득 매수가능 서울 아파트 ‘고작’",
+      "link": "https://www.mk.co.kr/news/economy/12084631",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:53:20 +09:00"
+      "pub_date": "Sat, 27 Jun 2026 11:23:13 +09:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“비행기값 뽑고도 남아”…'7만원 스시자로' 일본 가면 가방 가득 숨겨온다",
-      "link": "https://www.etnews.com/20260626000371",
+      "title": "中 베이징 108층 초고층 빌딩에 경비행기 충돌…당국은 “상황 몰라?”",
+      "link": "https://www.etnews.com/20260627000018",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:57:04 +0900"
+      "pub_date": "Sat, 27 Jun 2026 09:46:23 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "공무원 수천명이 돈 주고 시험성적 조작…부패한 태국, 결국",
-      "link": "https://www.etnews.com/20260626000291",
+      "title": "전북대, 263억 투입 DCS 밸류체인 국산화 추진…K-바이오 제조 주권 확보 시동",
+      "link": "https://www.etnews.com/20260626000316",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:30:00 +0900"
+      "pub_date": "Sat, 27 Jun 2026 09:30:00 +0900"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“이게 진짜냐” 논쟁 예고할 정도?…삼성 1000조 투자설에, 김용범 “낯선 숫자들 나올 것”",
-      "link": "https://www.etnews.com/20260626000354",
+      "title": "SMIC, 베이징 생산법인 완전 편입…中 정책자본 주요주주로 부상",
+      "link": "https://www.etnews.com/20260626000194",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 22:18:19 +0900"
+      "pub_date": "Sat, 27 Jun 2026 09:00:00 +0900"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 02:12:07 GMT"
+      "pub_date": "Sat, 27 Jun 2026 00:34:08 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Aerial footage reveals destruction in coastal Venezuela",
-      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 05:13:22 GMT"
+      "pub_date": "Fri, 26 Jun 2026 21:15:37 GMT"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)",
-      "pub_date": "Fri, 26 Jun 2026 11:27:59 GMT"
+      "pub_date": "Fri, 26 Jun 2026 18:36:32 GMT"
     }
   ]
 }
