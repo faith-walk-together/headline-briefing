@@ -1,40 +1,66 @@
-import { StyleSheet, View, Text, FlatList, TouchableOpacity, SafeAreaView, Linking } from 'react-native';
-import { useState, useEffect } from 'react';
-import newsData from '../../../public_data/latest_news.json';
+import React, { useState, useMemo } from 'react';
+import { View, StyleSheet, FlatList, ActivityIndicator, Text } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { useRouter } from 'expo-router';
+
+import { useNews } from '@/hooks/useNews';
+import { CategoryTabs } from '@/components/CategoryTabs';
+import { NewsCard } from '@/components/NewsCard';
+import { useUIStore } from '@/store/useUIStore';
 
 export default function HomeScreen() {
-  const [news, setNews] = useState<any[]>([]);
-  
-  useEffect(() => {
-    // In production, this would be fetched from Github Pages:
-    // fetch('https://YOUR_GITHUB_PAGES_URL/latest_news.json')
-    //   .then(res => res.json())
-    //   .then(data => setNews(data.articles))
-    setNews(newsData.articles);
-  }, []);
+  const router = useRouter();
+  const { data, isLoading, isError } = useNews();
+  const [selectedCategory, setSelectedCategory] = useState<string>('전체');
+  const setSelectedArticle = useUIStore((state) => state.setSelectedArticle);
 
-  const renderItem = ({ item }: { item: any }) => (
-    <View style={styles.card}>
-      <View style={styles.cardHeader}>
-        <Text style={styles.categoryBadge}>{item.category}</Text>
-        <Text style={styles.outlet}>{item.outlet}</Text>
+  const categories = useMemo(() => {
+    if (!data?.articles) return ['전체'];
+    const uniqueCategories = Array.from(new Set(data.articles.map((a) => a.category)));
+    return ['전체', ...uniqueCategories];
+  }, [data]);
+
+  const filteredArticles = useMemo(() => {
+    if (!data?.articles) return [];
+    if (selectedCategory === '전체') return data.articles;
+    return data.articles.filter((a) => a.category === selectedCategory);
+  }, [data, selectedCategory]);
+
+  const handlePressArticle = (article: any) => {
+    setSelectedArticle(article);
+    router.push('/article/detail');
+  };
+
+  if (isLoading) {
+    return (
+      <View style={styles.center}>
+        <ActivityIndicator size="large" color="#111827" />
+        <Text style={styles.loadingText}>최신 뉴스를 불러오는 중입니다...</Text>
       </View>
-      <Text style={styles.title}>{item.title}</Text>
-      <Text style={styles.summary}>{item.summary}</Text>
-      <TouchableOpacity onPress={() => Linking.openURL(item.link)} style={styles.linkButton}>
-        <Text style={styles.linkText}>원문 보기</Text>
-      </TouchableOpacity>
-    </View>
-  );
+    );
+  }
+
+  if (isError || !data) {
+    return (
+      <View style={styles.center}>
+        <Text style={styles.errorText}>뉴스를 불러오는데 실패했습니다.</Text>
+      </View>
+    );
+  }
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.headerTitle}>Headline Briefing</Text>
+      <CategoryTabs
+        categories={categories}
+        selectedCategory={selectedCategory}
+        onSelectCategory={setSelectedCategory}
+      />
       <FlatList
-        data={news}
-        keyExtractor={(item, index) => index.toString()}
-        renderItem={renderItem}
-        contentContainerStyle={styles.listContainer}
+        data={filteredArticles}
+        keyExtractor={(item) => item.link}
+        renderItem={({ item }) => <NewsCard article={item} onPress={handlePressArticle} />}
+        contentContainerStyle={styles.listContent}
+        showsVerticalScrollIndicator={false}
       />
     </SafeAreaView>
   );
@@ -43,70 +69,24 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#F3F4F6',
+    backgroundColor: '#F9FAFB',
   },
-  headerTitle: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    marginHorizontal: 16,
-    marginVertical: 12,
-    color: '#111827',
+  center: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F9FAFB',
   },
-  listContainer: {
-    paddingHorizontal: 16,
+  loadingText: {
+    marginTop: 12,
+    color: '#6B7280',
+    fontSize: 14,
+  },
+  errorText: {
+    color: '#EF4444',
+    fontSize: 16,
+  },
+  listContent: {
     paddingBottom: 24,
   },
-  card: {
-    backgroundColor: '#FFFFFF',
-    borderRadius: 12,
-    padding: 16,
-    marginBottom: 16,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 4,
-    elevation: 2,
-  },
-  cardHeader: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: 8,
-  },
-  categoryBadge: {
-    backgroundColor: '#EEF2FF',
-    color: '#4F46E5',
-    paddingHorizontal: 8,
-    paddingVertical: 4,
-    borderRadius: 4,
-    fontSize: 12,
-    fontWeight: '600',
-    overflow: 'hidden',
-    marginRight: 8,
-  },
-  outlet: {
-    fontSize: 12,
-    color: '#6B7280',
-    fontWeight: '500',
-  },
-  title: {
-    fontSize: 18,
-    fontWeight: '700',
-    color: '#111827',
-    marginBottom: 8,
-    lineHeight: 24,
-  },
-  summary: {
-    fontSize: 14,
-    color: '#4B5563',
-    lineHeight: 20,
-    marginBottom: 12,
-  },
-  linkButton: {
-    alignSelf: 'flex-start',
-  },
-  linkText: {
-    color: '#2563EB',
-    fontSize: 14,
-    fontWeight: '600',
-  }
 });

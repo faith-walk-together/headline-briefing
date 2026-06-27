@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-04-18T04:30:00Z",
+  "articles": [
+    {
+      "category": "정치",
+      "outlet": "연합뉴스",
+      "title": "'Headline Briefing' 프로젝트 드디어 시작, 혁신적인 뉴스 소비 방식 예고",
+      "link": "https://example.com/news/1",
+      "summary": "새로운 뉴스 브리핑 앱 'Headline Briefing'이 공식 출시되었습니다. 바쁜 현대인들을 위해 국내외 주요 기사들을 AI가 3줄 요약하여 제공합니다.",
+      "pub_date": "Sat, 18 Apr 2026 04:20:00 +0000"
+    },
+    {
+      "category": "경제",
+      "outlet": "매일경제",
+      "title": "금리 추가 인상 사실상 종료... 올해 하반기 인하 가능성",
+      "link": "https://example.com/news/2",
+      "summary": "한국은행이 기준금리를 동결하며 사실상 인상 사이클이 종료되었다는 관측이 나오고 있습니다.\n시장 전문가들은 빠르면 하반기부터 인하가 시작될 것으로 전망하고 있습니다.",
+      "pub_date": "Sat, 18 Apr 2026 03:10:00 +0000"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Global AI Safety Summit Concludes with Historic Agreement",
+      "link": "https://example.com/news/3",
+      "summary": "글로벌 AI 안전 정상회의가 역사적인 합의와 함께 종료되었습니다. 세계 각국은 AI의 안전한 개발과 규제에 대해 협력하기로 뜻을 모았습니다.",
+      "pub_date": "Sat, 18 Apr 2026 02:45:00 +0000"
+    }
+  ]
+}
