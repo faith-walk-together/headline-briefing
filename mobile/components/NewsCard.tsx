@@ -29,15 +29,16 @@ export function NewsCard({ article, onPress }: NewsCardProps) {
       activeOpacity={0.7}
     >
       <View style={styles.header}>
-        <View style={styles.badge}>
-          <Text style={[styles.badgeText, { color: primaryColor }]}>{article.category}</Text>
+        <View style={styles.headerLeft}>
+          <Text style={[styles.categoryText, { color: primaryColor }]}>{article.category}</Text>
+          <Text style={[styles.dot, { color: subtextColor }]}>•</Text>
+          <Text style={[styles.outlet, { color: subtextColor }]}>{article.outlet}</Text>
         </View>
-        <Text style={[styles.outlet, { color: subtextColor }]}>{article.outlet}</Text>
+        <Text style={[styles.date, { color: subtextColor }]}>{formattedDate}</Text>
       </View>
       <Text style={[styles.title, { color: textColor }]} numberOfLines={2}>
         {article.title}
       </Text>
-      <Text style={[styles.date, { color: subtextColor }]}>{formattedDate}</Text>
     </TouchableOpacity>
   );
 }
@@ -57,18 +58,20 @@ const styles = StyleSheet.create({
   header: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: 8,
+    justifyContent: 'space-between',
+    marginBottom: 12,
   },
-  badge: {
-    backgroundColor: '#F0F4F8', // We can keep a static faint blue/gray for badges or make it dynamic
-    paddingHorizontal: 8,
-    paddingVertical: 4,
-    borderRadius: 4,
-    marginRight: 8,
+  headerLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
   },
-  badgeText: {
+  categoryText: {
     fontSize: 12,
     fontWeight: '600',
+  },
+  dot: {
+    fontSize: 12,
+    marginHorizontal: 6,
   },
   outlet: {
     fontSize: 12,
@@ -78,7 +81,6 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '700',
     lineHeight: 22,
-    marginBottom: 12,
   },
   date: {
     fontSize: 12,
