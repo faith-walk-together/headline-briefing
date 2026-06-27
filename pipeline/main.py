@@ -54,17 +54,17 @@ def summarize_and_translate_text(title, max_retries=3):
         "properties": {
             "translated_title": {
                 "type": "STRING",
-                "description": "The headline accurately and naturally translated into KOREAN 100%. Under no circumstances should this be left in English."
+                "description": "반드시 영어 원문을 100% 한국어로 번역한 제목이어야 합니다. 영어가 섞이면 안 됩니다."
             },
             "summary": {
                 "type": "STRING",
-                "description": "A concise 3-line summary of the news in KOREAN."
+                "description": "기사 내용을 한국어로 3줄 이내로 간결하게 요약한 텍스트."
             }
         },
         "required": ["translated_title", "summary"]
     }
     
-    prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 반드시 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해줘. 영어가 절대 섞이면 안 돼. 제목(translated_title)도 무조건 한국어로 번역해:\n\n{title}"
+    prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 무조건 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해. 단 하나의 영단어도 그대로 출력하지 말고 외국 고유명사도 모두 한글로 표기해. 제목(translated_title)도 완벽한 한국어 문장으로 번역해:\n\n{title}"
     
     for attempt in range(max_retries):
         try:
@@ -115,19 +115,35 @@ def fetch_feed_data():
                 continue
                 
             link = entry.link
+            pub = entry.get("published", entry.get("updated", ""))
             
-            # 3. Invalid Date 수정: 국제 표준 포맷(ISO-8601)으로 일괄 변환
-            iso_date = datetime.now(pytz.utc).isoformat()
-            if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
-                iso_date = dt.isoformat()
-            elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
-                iso_date = dt.isoformat()
+            # 3. Invalid Date 수정 및 JTBC(YYYY.MM.DD) 커스텀 파싱
+            iso_date = ""
             
-            # Rate limiting mitigation for Gemini API (free tier)
-            # Increased from 4.5s to 6.0s to stay comfortably below 15 RPM
-            time.sleep(6.0)
+            # JTBC 예외 처리 (예: "2024.10.29")
+            if pub and "." in pub and len(pub.split(".")) >= 3:
+                try:
+                    date_str = pub.split(" ")[0] # 혹시 모를 공백 이후 시간 제거
+                    dt = datetime.strptime(date_str, "%Y.%m.%d")
+                    dt = pytz.timezone('Asia/Seoul').localize(dt)
+                    iso_date = dt.astimezone(pytz.utc).isoformat()
+                except Exception:
+                    pass
+            
+            # 일반적인 파싱 (JTBC 예외 처리에 실패했거나 다른 언론사인 경우)
+            if not iso_date:
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
+                    iso_date = dt.isoformat()
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
+                    iso_date = dt.isoformat()
+                else:
+                    iso_date = datetime.now(pytz.utc).isoformat()
+            
+            # Rate limiting mitigation for Gemini API
+            # 호출 간격을 6초에서 12초(분당 5회)로 대폭 상향하여 API 차단 원천 봉쇄
+            time.sleep(12.0)
             
             ai_result = summarize_and_translate_text(title)
             
