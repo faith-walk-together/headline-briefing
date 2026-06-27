@@ -1,101 +1,165 @@
 {
-  "last_updated": "2026-06-27T11:13:48.784977+00:00",
+  "last_updated": "2026-06-27T11:46:46.191238+00:00",
   "articles": [
     {
       "category": "정치",
-      "outlet": "연합뉴스",
-      "title": "고이즈미 日 방위상 방한…\"한일 방위협력 깊어지도록\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627195846Rpt",
-      "summary": "일본 고이즈미 방위상이 한일 방위협력 심화를 위해 한국을 방문했습니다.",
-      "pub_date": "Sat, 27 Jun 2026 19:58:47 +0900"
+      "outlet": "한겨레",
+      "title": "정성호 “김건희 징역 7년, 무혐의 했던 정치검찰 심판” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uNWVha0MyTVIxWGJUOEs1aWlBQ1kzaVY1SlhVYWlkUGk0cGRBTDMyUFN2N0IwTW1PU0w4ZTY3ZHpDZG1RMm1EVmFKMWZWN2xTNmh0b29uSm9RN1psNWg1Uld2NVVud1B0V3BrdnNzVTV5QQ?oc=5",
+      "summary": "정성호 의원은 김건희 여사의 7년 징역 가능성을 언급했습니다. 그는 과거 김 여사를 무혐의 처리했던 '정치검찰'을 비판하며 심판을 촉구했습니다. 이는 정치검찰에 대한 강도 높은 비판이자 책임론 제기로 보입니다.",
+      "pub_date": "Sat, 27 Jun 2026 05:50:00 GMT"
     },
     {
       "category": "정치",
-      "outlet": "연합뉴스",
-      "title": "이 대통령 \"호남 투자, CEO들이 회사 이익 따라 결단한 것\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260627194831FyK",
-      "summary": "이 대통령은 기업들의 호남 투자에 대해 언급했습니다.\n이는 CEO들이 회사 이익을 최우선으로 고려하여 내린 결정이라고 밝혔습니다.\n투자가 정치적 의도가 아닌 경제적 판단에 따른 것임을 강조한 것입니다.",
-      "pub_date": "Sat, 27 Jun 2026 19:48:32 +0900"
+      "outlet": "오마이뉴스",
+      "title": "이 대통령 '호남반도체 물부족' 비판에 \"하루 100만톤 공급 가능\"",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81TThWU1M0OE56SzMwdjUySzNub0tlSWVFRm1abGt6enNxSnl3R0RNMXpOTklIZ0Izb24wX2JBWGxWZXJGZ050LV9BTkFQU2VlY242UnU0Yy1rLUtmWEx5Vm9GTmluU21aNWFmU0pnZUFtcEZ0TUJR?oc=5",
+      "summary": "이 대통령이 호남 반도체 산업의 물 부족 문제에 대한 비판에 답했습니다. 대통령은 하루 100만 톤의 물 공급이 가능하다고 강조하며, 지역 산업 발전을 위한 물 문제 해결 의지를 밝혔습니다. 이는 호남 지역의 안정적인 반도체 생산 환경 조성에 대한 정부의 입장을 보여줍니다.",
+      "pub_date": "Sat, 27 Jun 2026 03:44:00 GMT"
     },
     {
       "category": "정치",
+      "outlet": "한겨레",
+      "title": "민주, ‘보완수사권 폐지’ 8월 전당대회 전 처리 가닥",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UEtCTjM1b3NaZTdrcUdRTzBfSEVNdk1tSmluNnBLbEN4eEN5SFhjSjhjS0ZfSzF2TkN0dmV0ZnBBZUtJVmN4UnlienA0aDMtZWtnWnVLSVJiay04RV9fckJxa214QUdPdTBkaG5QQnpvZk9T?oc=5",
+      "summary": "더불어민주당이 8월 전당대회 이전에 ‘보완수사권 폐지’를 처리할 방침을 정했습니다.이는 검찰의 직접 수사권 폐지 의지를 관철하고 검찰개혁을 완수하려는 움직임입니다.수사권 조정 후 미흡했던 부분에 대한 보완책 마련을 목표로 하고 있습니다.",
+      "pub_date": "Fri, 26 Jun 2026 10:05:00 GMT"
+    },
+    {
+      "category": "정치",
+      "outlet": "동아일보",
+      "title": "감사위원에 靑 비서관 출신 임명제청 논란",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QQTB0RGVpZlZBRk9CSnpQOHhfbHNldnNucU1JYlFDQVhHQWktTVBwMGVnVGQ0YUtQYlp1OEk5R2d4N2ktMWlyeHpvNjRYbTJNakJCcDVtWFB5MzhMQWVzZko2UzdsZ3FMRTVISHVuaFZxblRpcXg00gFmQVVfeXFMTU5RNTA2eFA4cF9DSXE2TFpaVmxURlNTWWhrQ1JIclRDeEQ0TXZhNEtNdG9wNGVZaVJvUlRVQ21sRURiMHVscHpWWjh1dkxRZDY0NV9BS19yVURDMzB1RXNCUm9QNmhn?oc=5",
+      "summary": "청와대 비서관 출신 인사를 감사위원으로 임명 제청하는 과정에서 논란이 불거졌습니다.야당과 시민단체 등에서는 해당 인사의 정치적 중립성 훼손 가능성을 지적하며 비판하고 있습니다.정부는 적법한 절차에 따른 인선임을 강조하며 반박하는 상황입니다.",
+      "pub_date": "Fri, 26 Jun 2026 16:40:00 GMT"
+    },
+    {
+      "category": "정치",
+      "outlet": "조선일보",
+      "title": "한성숙 오피스텔 지인에 헐값 매각",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHJPeHhTa0pmbndoQjVsWmNIZTY0ak5DaEh5VHY1Sk5tT242dlp2TVduRHlUcEx4TUh6T0JVZnNuOVFtcDlXY1M5c2RnNnBNTjFybjVGRW5sVmc0bWtMcnRDUFNQSVJwT2JoLThLeDZ5bTlRNHFCMVVnQno2X2VfVC0zVENwQQ?oc=5",
+      "summary": "한성숙 전 네이버 대표가 과거 본인의 오피스텔을 지인에게 시세보다 낮은 가격에 매각한 사실이 드러났습니다.이 거래는 당시 이해충돌 논란과 엮이며 특혜성 거래 의혹이 제기되고 있습니다.조선일보는 이와 관련한 구체적인 정황과 비판 여론을 보도하며 논란이 커지고 있습니다.",
+      "pub_date": "Fri, 26 Jun 2026 15:49:00 GMT"
+    },
+    {
+      "category": "경제",
+      "outlet": "한겨레",
+      "title": "“물 공급 검토도 안 했겠나”…이 대통령, ‘호남 반도체 용수 부족’ 반박",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkT1Zjbm5vQXdQbm1uSk9NZHl1VTJzbXFCMXdfS05PVGFBWHBKaWY1djFzNlhfclRwNDFiM0ZUTmstZ3AwVE9GcUQyRGtQRmZEYnV4VkxOdTdTZ0tQS21iX0VxajhWWkt4T2tN?oc=5",
+      "summary": "이 대통령이 호남 지역 반도체 산업의 용수 부족 우려에 대해 반박했습니다.대통령은 반도체 클러스터 조성 시 물 공급 검토를 충분히 했다고 강조하며 부족설을 일축했습니다.이는 정부의 물 관리 및 지역 산업 지원 정책에 대한 비판에 대한 해명으로 풀이됩니다.",
+      "pub_date": "Sat, 27 Jun 2026 05:47:00 GMT"
+    },
+    {
+      "category": "경제",
+      "outlet": "한경매거진&북",
+      "title": "\"젠슨 황, 새만금에 투자해라\"...전북서 '러브콜' - 한경매거진&북",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FX1FHTzEtZ0p5MzVFbUZOVmJReWpka00wYjktOFFZcGo2RFU1c1FaVE45ZDBTUF9Lb1MtbDQzOGVaYmdYeUFiOFAtQnczdTVPME82bUhjTUQ3N3Nia0NybUpHRDZiQ3lFaEotNg?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Sat, 27 Jun 2026 08:07:00 GMT"
+    },
+    {
+      "category": "경제",
+      "outlet": "경향신문",
+      "title": "스페이스X, 내달 7일 나스닥100 ‘초고속 입성’···43억 달러 ‘패시브 자금’ 유입 기대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12eXR3Z3h0WDBQZFRRTUJuUHJEMWprNXY4cU0yNFdnTU53VXlNX3lnTFZ3TVkzbTNndTQtWEQxZDVoWk1IMEtMSUxKUUtGSlJYc240bHFHVHFSd9IBX0FVX3lxTFBaNjdaZ0hDLWtlbFZQRXBXbF9FNm02VGx6S0xJRS1BMmRpT3NTTDFrazNkLUlxc0FTNVdncVU2QUtBUEpydG4xWHhaRG1ySmpnajh5WWZPQU1VWG1iRlVN?oc=5",
+      "summary": "스페이스X가 다음 달 7일 나스닥100 지수에 초고속으로 편입될 예정입니다. 이는 나스닥에 상장된 대형주들의 지수로서, 이로 인해 약 43억 달러 규모의 패시브 자금이 유입될 것으로 기대됩니다.",
+      "pub_date": "Sat, 27 Jun 2026 03:28:00 GMT"
+    },
+    {
+      "category": "경제",
       "outlet": "연합뉴스",
-      "title": "여야, '반도체 호남행' 연일 공방…AI 추경 신경전도",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202606271933136sJ",
-      "summary": "여야가 '반도체 호남행' 유치 문제를 두고 연일 치열한 공방을 벌이고 있다.\n또한 인공지능(AI) 관련 추가경정예산(추경) 편성을 놓고도 신경전이 고조되고 있다.\n이는 주요 산업 정책과 국가 예산안을 둘러싼 정치권의 갈등 심화를 보여준다.",
-      "pub_date": "Sat, 27 Jun 2026 19:33:15 +0900"
+      "title": "석유 최고가 150원 인하…주유소 기름값 2천원대→1천800원대 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSUNjb0dPYWtaQzFvQTVXRWVVZEpUSkJTRG56a243T0Y2czZwLXh5ak9GLThnY0VMeXI4T0VQalNWYkYycktVb3pqdGp2Q2JBS0VmWUhtVllUUjTSAWBBVV95cUxQS3RZbEp5d3A1azRqLXQ4cWp4dXJ3a0RqMVFTd0RDamgyNUdpeDBHaFp5cWlaVXpSN2dQLUY5bnhEdHNCSXBacDk4N3BDZ3VUOWRUNHlZcVJsRlg2X2huUVo?oc=5",
+      "summary": "국내 유가가 최고가 기준 150원 인하됩니다. 이에 따라 주유소 휘발유 가격이 리터당 2천원대에서 1천800원대로 하락할 것으로 예상됩니다. 소비자들의 유류비 부담이 다소 줄어들 것으로 보입니다.",
+      "pub_date": "Fri, 26 Jun 2026 10:00:00 GMT"
     },
     {
       "category": "경제",
-      "outlet": "매일경제",
-      "title": "경찰, 광화문 일민미술관서 흉기난동 70대 구속영장…“방화 준비 정황도 확인”",
-      "link": "https://www.mk.co.kr/news/society/12084738",
-      "summary": "광화문 일민미술관에서 70대 남성이 흉기난동을 벌여 경찰이 구속영장을 신청했습니다.\n경찰은 조사 과정에서 이 남성이 방화를 준비한 정황도 추가로 확인했습니다.",
-      "pub_date": "Sat, 27 Jun 2026 20:05:59 +09:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "매일경제",
-      "title": "차지·치폴레 품은 신세계…백화점 ‘힙한 맛집’ 경쟁 불붙었다",
-      "link": "https://www.mk.co.kr/news/economy/12084735",
-      "summary": "신세계백화점이 '차지'와 '치폴레' 등 젊은 층에게 인기 있는 힙한 맛집 브랜드를 유치했습니다.\n\n이는 백화점들이 차별화된 식음료(F&B) 콘텐츠를 통해 고객을 끌어들이려는 경쟁에 불이 붙었음을 시사합니다.\n\n앞으로 주요 백화점 간 '힙한 맛집' 확보를 위한 치열한 경쟁이 더욱 심화될 것으로 보입니다.",
-      "pub_date": "Sat, 27 Jun 2026 19:52:37 +09:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "매일경제",
-      "title": "‘신경계 손상 일으킨다’ 오명에서 美핵심광물 지정까지…산업 인프라 떠받치는 ‘납’[어쩌다 금속 이야기]",
-      "link": "https://www.mk.co.kr/news/business/12084734",
-      "summary": "납은 신경계 손상 유발이라는 오명을 갖고 있었지만, 최근 미국이 핵심광물로 지정할 만큼 산업적으로 필수적인 위치에 올랐습니다.\n이는 산업 인프라를 떠받치는 핵심 광물로서의 중요성을 보여줍니다.\n오명에서 벗어나 전략적 가치를 인정받고 있는 납의 위상 변화를 다룹니다.",
-      "pub_date": "Sat, 27 Jun 2026 19:52:21 +09:00"
+      "outlet": "조선일보",
+      "title": "코스피 급락의 나비 효과... 뉴욕·도쿄 주가도 흔들렸다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1BJLWptX2xCWGdfdU1DOXpDU3NDWTVtaF9zQ05YZTVURlVVaVV6Q05rSmRMSXFKeTZUcDV1YkdfSGxMNFhHc2RjMW5BcHZrVVE2RFdMTXF1Y05sYUk0V2F3RzNwck9URU5oZ3hQTzg4SXhNaFN4NDB2NjhkenpzUg?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Sat, 27 Jun 2026 01:26:42 GMT"
     },
     {
       "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "40배 웃돈 주고도 못구했던 '라부부'의 추락?…이젠 중고시장 헐값에 무료 나눔까지",
-      "link": "https://www.etnews.com/20260627000033",
-      "summary": "한때 40배의 웃돈을 주고도 구하기 힘들었던 인기 캐릭터 '라부부'가\n극심한 가격 하락세를 보이며 인기가 '추락'하고 있습니다.\n이제는 중고시장에서 헐값에 거래되거나 심지어 무료 나눔까지 등장하는 상황입니다.",
-      "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
+      "outlet": "v.daum.net",
+      "title": "\"삼성 워치페이스가 명품 시계 베꼈다\"…스와치, 2600억 손배 청구 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81eTNqdFJQZVdhZ0FGM0VVQUFpUENaQUZwek9QZzVCdXhwcnNHeHRzajM2eXhNU1FZemFjX3hrTGxIdEJ6TVBWcHZtQl9PWGs?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Sat, 27 Jun 2026 05:17:43 GMT"
     },
     {
       "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "“1년 일한 제자, 성과급만 교장 연봉보다 많아”…美 NYT도 주목한 반도체 특성화고",
-      "link": "https://www.etnews.com/20260627000032",
-      "summary": "반도체 특성화고 졸업생이 단 1년 만에 교장 연봉을 뛰어넘는 성과급을 받아 화제입니다.\n이러한 놀라운 소식은 미국 뉴욕타임스(NYT)까지 주목하며 한국 특성화고의 성공 사례로 소개되었습니다.\n이는 미래 산업 핵심 분야인 반도체 전문 인력 양성의 중요성과 그 효과를 분명하게 보여줍니다.",
-      "pub_date": "Sat, 27 Jun 2026 16:50:00 +0900"
+      "outlet": "글로벌이코노믹",
+      "title": "HBM 30% 줄이는 엔비디아… 흔들리는 86% 마진의 착시 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENQYUZ2OXhNdkFZd2dVTDNLWHNKSXNTMzA5MnV0RW1MY2VoU3FVNi1GQWRUUlcxbFlXbEFUbXY0T0tVVFhrSXJwdlRSTFRKRE1yTG1rcEw5T1pRTHB1WEZweGZXdFpUNlhQc0Nkd3ZteGtkVUxHYlp0NkJWdUJPdnFVWDNVQ2Z6?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Sat, 27 Jun 2026 02:17:51 GMT"
     },
     {
       "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "“손흥민도 빼고 전술도 없고”…앙리도 “이해불가” 홍명보",
-      "link": "https://www.etnews.com/20260627000030",
+      "outlet": "머니투데이",
+      "title": "\"스페이스X는 AI 기업 아냐\"…머스크 저격한 링크드인 창업자, 왜 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Q1ZWOGxaeEhKTHNxTGFuWEI5RGtBSm15c1EwaGgxYkFDbmNXV29BU1JTVmZLbHlBLWxjcEc4aE56S1ZueXVtbjhQLUIzU0hXSzRsZXdqYVBLX1NJOGhhcDBPRHNXRU43VnfSAW9BVV95cUxQVXNkR1J1S3pGNU1pTWtidmdkbUJKdDI2dkxvU09DeWpkNndKUUtKV1N1QnBxd2ZnTGhKUFVKTXRBUFFUbHFac0VybUl2clVQanZyTUF2dVpLYW1JaU95a2dqUm1XTmR3c20xVTJJZzA?oc=5",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "Sat, 27 Jun 2026 14:41:21 +0900"
+      "pub_date": "Fri, 26 Jun 2026 21:00:00 GMT"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "v.daum.net",
+      "title": "\"로봇 기대감 너무 반영됐나\"…고공행진하던 현대차 힘 못쓰는 이유 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01MXRldG9HUE8zeFZ4TlNYSmJEZTBJTUZld0o1NThhUUdRM29aV2w0TXlhRHV3UW1MN0lNSm5HaWVodkFsYXVVYWdKeDE3WFE?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Fri, 26 Jun 2026 07:41:46 GMT"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "인베스트조선",
+      "title": "모더나 창업주 아들, 삼성그룹·셀트리온과 접촉 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLU1wTG1lZTF1ZnM5QUF6cldmSnBuSmpRemFmQ29ONHhqbElHQVhsNjlGUjZHQ25ybTZQRDUyNWx1aXZ6b1dWWDVMZlRZY0hsR2NTMlk3MjNJT2xIQ0t6OEszQ0NkclFFM0VaS2VLdXhOTnFZMEQ2N0R6YUhDd3ByanhUQQ?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Fri, 26 Jun 2026 04:20:00 GMT"
     },
     {
       "category": "세계",
-      "outlet": "BBC",
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "outlet": "경향신문",
+      "title": "이란 “미군 연계 목표물 타격”···미·이란 충돌에 재차 흔들리는 종전협상 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yS2xHSUttT2NpX3JFSkU1X2N5T0hnMXY4WFRmTWp5TGtoV1NOSjVOaS1jdWtyRUg5Q1N1SzZSQWJBV0FlSnNDVnQ3VnJOd2JXeE40VEphc0NFUdIBX0FVX3lxTFBiaXNSa2pna1BFQ1N2VjlmT0oweUtKN3dqVjJXeVpJTkJGRGM4eDBVRUw5c3JEZWw3ZER5TUtmV0gtcnc4TXMyaWFHSV96VFBNcXVzVENRdkhyWHBBYXYw?oc=5",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "Sat, 27 Jun 2026 10:40:38 GMT"
+      "pub_date": "Sat, 27 Jun 2026 08:42:00 GMT"
     },
     {
       "category": "세계",
-      "outlet": "BBC",
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "outlet": "한겨레",
+      "title": "베네수엘라 지진 사망자 920명으로 급증…“실종자 5만명 넘어” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEQzdGZodVl0MGR1by1GUTNZZWJMTjNkaW16aHNpNUpYejN2Z3h0UnJLTWxteUtDbjEtY25rQTNiYktYM0ZnMkNRN0xtR2tORjRnVlVXbWRORjB4c0RVQlBCVkJuWTdMRTJSMTVBTHAwU2Y2WERjb1E1VzhNMVBjZzNn?oc=5",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "Sat, 27 Jun 2026 08:56:30 GMT"
+      "pub_date": "Sat, 27 Jun 2026 01:32:00 GMT"
     },
     {
       "category": "세계",
-      "outlet": "BBC",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "베네수엘라에서 지진이 발생한 가운데,\n한 어머니가 무너지는 잔해 속에서 딸을 구하려다가\n안타깝게도 목숨을 잃었습니다.",
-      "pub_date": "Fri, 26 Jun 2026 18:36:32 GMT"
+      "outlet": "한국경제",
+      "title": "환경 위해 참아\" 에어컨 거부하고 버텼는데…'초유의 상황'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xSFZST1Y5UVB6dXRaeWZpZVdUcHRPWkVwSm5pQUNaQWNEYVQxVjVJOUJ6d3FyVElGb3BtbExXZTd4WjNEeDI5ZkNWWjJmbWY3aWhmV3ZuaVJVd9IBVEFVX3lxTE55T2xaRlNIYXNHejc2Z29ISEZmejJ1eUVpMkdWSmNoVWxlRHJybFpOSTQ2R1JQR0E5MFJ6OHRRcHBXXzR4Z0tqcHBVTk5nOEticGNwcg?oc=5",
+      "summary": "환경 보호를 위해 에어컨 사용을 자제하며 무더위를 견뎌왔던 상황이 벌어졌습니다.하지만 이러한 친환경적인 노력이 오히려 예상치 못한 '초유의 상황'을 초래했다고 합니다.이는 환경을 위한 노력이 뜻밖의 부작용이나 새로운 문제로 이어질 수 있음을 암시합니다.",
+      "pub_date": "Fri, 26 Jun 2026 10:00:02 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "조선일보",
+      "title": "‘트럼프 얼굴’ 새긴 美 독립 250주년 한정판 여권 공개 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYllQNGc4MnRwN1FXQm5nWHpWbGpoaGlWUkMzMDZpdGpFcW44d21IUkQtc0RWRTcybUJLSEdIdlc2dFZEN0VPU1N2Z2c5QmVFelBlSGU0R09uc1ZIaDlTbjhrWGNGS0xGM1hCM0gwdGI2YXZBRDFnc2ZHNXFtaU1UUUR6YUc?oc=5",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "Sat, 27 Jun 2026 03:58:48 GMT"
+    },
+    {
+      "category": "세계",
+      "outlet": "강원도민일보",
+      "title": "태풍 2개 동시 접근한 일본…역대 첫 6월 ‘쌍태풍’에 폭우 비상",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaDVHZTJXWGZqbF80eFctWmRJU3JBYWhGYzM5VGlBNGpKZjdhT0N3YUdiczR3NmhDUTZyWmMtM2d3QXlubFN4MzdoQ0Jhc1pyZUh6aVJmc0dLTWFTVm9SWl8wY2g2UjQ?oc=5",
+      "summary": "일본에 2개의 태풍이 동시에 접근하며 비상이 걸렸습니다. 이는 6월에 '쌍태풍'이 발생한 역대 첫 사례로 기록되었습니다. 이에 따라 일본 전역에 폭우에 대한 철저한 대비가 요구되고 있습니다.",
+      "pub_date": "Sat, 27 Jun 2026 01:38:48 GMT"
     }
   ]
 }
