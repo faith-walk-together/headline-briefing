@@ -1,6 +1,7 @@
 import os
 import json
 import time
+from time import mktime
 import feedparser
 from datetime import datetime
 import pytz
@@ -19,7 +20,7 @@ RSS_FEEDS = [
     {"category": "경제", "outlet": "CNN", "url": "http://rss.cnn.com/rss/money_latest.rss", "limit": 3},
     {"category": "경제", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "한국경제", "url": "https://rss.hankyung.com/feed/economy.xml", "limit": 2},
-    {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/", "limit": 2},
+    {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000016/", "limit": 2},
     {"category": "경제", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "limit": 2},
     
     # IT/과학
@@ -36,6 +37,9 @@ RSS_FEEDS = [
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
+# 필터링할 무의미한 단어들 (날씨 제외)
+SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브"]
+
 def summarize_and_translate_text(title, max_retries=2):
     if not GEMINI_API_KEY:
         return {
@@ -50,17 +54,17 @@ def summarize_and_translate_text(title, max_retries=2):
         "properties": {
             "translated_title": {
                 "type": "STRING",
-                "description": "The title translated to Korean. If it's already in Korean, keep it as is."
+                "description": "The headline accurately and naturally translated into KOREAN 100%. Under no circumstances should this be left in English."
             },
             "summary": {
                 "type": "STRING",
-                "description": "A concise 3-line summary of the news in Korean."
+                "description": "A concise 3-line summary of the news in KOREAN."
             }
         },
         "required": ["translated_title", "summary"]
     }
     
-    prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 한국어로 3줄 이내로 간결하게 요약해줘(해외 뉴스라면 제목과 내용을 모두 한국어로 번역해줘):\n\n{title}"
+    prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 반드시 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해줘. 영어가 절대 섞이면 안 돼. 제목(translated_title)도 무조건 한국어로 번역해:\n\n{title}"
     
     try:
         response = client.models.generate_content(
@@ -91,11 +95,28 @@ def fetch_feed_data():
         print(f"Fetching {feed['category']} news from {feed['outlet']}...")
         parsed = feedparser.parse(feed["url"])
         
-        # 지정된 limit 개수만큼만 가져오기
-        for entry in parsed.entries[:feed["limit"]]:
+        count = 0
+        for entry in parsed.entries:
+            if count >= feed["limit"]:
+                break
+                
             title = entry.title
+            
+            # 1. 쓸모없는 기사 필터링
+            if any(keyword in title for keyword in SKIP_KEYWORDS):
+                print(f"Skipping article due to keyword filter: {title}")
+                continue
+                
             link = entry.link
-            pub_date = entry.get("published", entry.get("updated", ""))
+            
+            # 3. Invalid Date 수정: 국제 표준 포맷(ISO-8601)으로 일괄 변환
+            iso_date = datetime.now(pytz.utc).isoformat()
+            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
+                iso_date = dt.isoformat()
+            elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
+                iso_date = dt.isoformat()
             
             # Rate limiting mitigation for Gemini API (free tier 15 RPM = 1 req / 4 sec)
             time.sleep(4.5)
@@ -108,8 +129,10 @@ def fetch_feed_data():
                 "title": ai_result["translated_title"],
                 "link": link,
                 "summary": ai_result["summary"],
-                "pub_date": pub_date
+                "pub_date": iso_date
             })
+            
+            count += 1
             
     return all_news
 

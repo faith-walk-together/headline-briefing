@@ -18,7 +18,13 @@ export function useNews() {
       
       if (apiUrl) {
         try {
-          const response = await fetch(apiUrl);
+          // Add timestamp query param and no-cache headers to bypass GitHub Pages CDN & OS HTTP cache
+          const response = await fetch(`${apiUrl}?t=${new Date().getTime()}`, {
+            headers: {
+              'Cache-Control': 'no-cache',
+              'Pragma': 'no-cache'
+            }
+          });
           if (!response.ok) {
             throw new Error('Network response was not ok');
           }

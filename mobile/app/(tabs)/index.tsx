@@ -62,7 +62,7 @@ export default function HomeScreen() {
       />
       <FlatList
         data={filteredArticles}
-        keyExtractor={(item) => item.link}
+        keyExtractor={(item, index) => item.link + index}
         renderItem={({ item }) => <NewsCard article={item} onPress={handlePressArticle} />}
         contentContainerStyle={styles.listContent}
         showsVerticalScrollIndicator={false}
