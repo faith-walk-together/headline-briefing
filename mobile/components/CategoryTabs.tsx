@@ -1,5 +1,6 @@
 import React from 'react';
 import { ScrollView, Text, TouchableOpacity, StyleSheet, View } from 'react-native';
+import { useThemeColor } from '@/hooks/use-theme-color';
 
 interface CategoryTabsProps {
   categories: string[];
@@ -8,32 +9,42 @@ interface CategoryTabsProps {
 }
 
 export function CategoryTabs({ categories, selectedCategory, onSelectCategory }: CategoryTabsProps) {
+  const backgroundColor = useThemeColor({}, 'background');
+  const cardColor = useThemeColor({}, 'card');
+  const textColor = useThemeColor({}, 'text');
+  const primaryColor = useThemeColor({}, 'primary');
+  const subtextColor = useThemeColor({}, 'subtext');
+  const borderColor = useThemeColor({}, 'border');
+
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor }]}>
       <ScrollView
         horizontal
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.scrollContent}
       >
-        {categories.map((category) => (
-          <TouchableOpacity
-            key={category}
-            style={[
-              styles.tab,
-              selectedCategory === category && styles.activeTab,
-            ]}
-            onPress={() => onSelectCategory(category)}
-          >
-            <Text
+        {categories.map((category) => {
+          const isActive = selectedCategory === category;
+          return (
+            <TouchableOpacity
+              key={category}
               style={[
-                styles.tabText,
-                selectedCategory === category && styles.activeTabText,
+                styles.tab,
+                { backgroundColor: isActive ? primaryColor : cardColor, borderColor: isActive ? primaryColor : borderColor }
               ]}
+              onPress={() => onSelectCategory(category)}
             >
-              {category}
-            </Text>
-          </TouchableOpacity>
-        ))}
+              <Text
+                style={[
+                  styles.tabText,
+                  { color: isActive ? '#FFFFFF' : subtextColor }
+                ]}
+              >
+                {category}
+              </Text>
+            </TouchableOpacity>
+          );
+        })}
       </ScrollView>
     </View>
   );
@@ -42,7 +53,6 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
 const styles = StyleSheet.create({
   container: {
     paddingVertical: 12,
-    backgroundColor: '#F9FAFB',
   },
   scrollContent: {
     paddingHorizontal: 16,
@@ -52,21 +62,10 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingVertical: 8,
     borderRadius: 20,
-    backgroundColor: '#ffffff',
     borderWidth: 1,
-    borderColor: '#E5E7EB',
-  },
-  activeTab: {
-    backgroundColor: '#111827',
-    borderColor: '#111827',
   },
   tabText: {
     fontSize: 14,
-    color: '#4B5563',
     fontWeight: '500',
-  },
-  activeTabText: {
-    color: '#ffffff',
-    fontWeight: '600',
   },
 });

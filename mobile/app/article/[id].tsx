@@ -4,6 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useUIStore } from '@/store/useUIStore';
 import { useBookmarkStore } from '@/store/useBookmarkStore';
+import { useThemeColor } from '@/hooks/use-theme-color';
 
 export default function ArticleDetailScreen() {
   const router = useRouter();
@@ -15,10 +16,17 @@ export default function ArticleDetailScreen() {
   const addBookmark = useBookmarkStore((state) => state.addBookmark);
   const removeBookmark = useBookmarkStore((state) => state.removeBookmark);
 
+  const cardColor = useThemeColor({}, 'card');
+  const textColor = useThemeColor({}, 'text');
+  const subtextColor = useThemeColor({}, 'subtext');
+  const primaryColor = useThemeColor({}, 'primary');
+  const borderColor = useThemeColor({}, 'border');
+  const backgroundColor = useThemeColor({}, 'background');
+
   if (!article) {
     return (
-      <View style={styles.center}>
-        <Text style={styles.errorText}>기사 정보를 찾을 수 없습니다.</Text>
+      <View style={[styles.center, { backgroundColor: cardColor }]}>
+        <Text style={[styles.errorText, { color: subtextColor }]}>기사 정보를 찾을 수 없습니다.</Text>
       </View>
     );
   }
@@ -36,35 +44,41 @@ export default function ArticleDetailScreen() {
   };
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={[styles.container, { backgroundColor: cardColor }]}>
       <ScrollView contentContainerStyle={styles.scrollContent}>
         <View style={styles.headerInfo}>
-          <Text style={styles.category}>{article.category}</Text>
-          <Text style={styles.dot}>•</Text>
-          <Text style={styles.outlet}>{article.outlet}</Text>
+          <Text style={[styles.category, { color: primaryColor }]}>{article.category}</Text>
+          <Text style={[styles.dot, { color: subtextColor }]}>•</Text>
+          <Text style={[styles.outlet, { color: subtextColor }]}>{article.outlet}</Text>
         </View>
         
-        <Text style={styles.title}>{article.title}</Text>
-        <Text style={styles.date}>
+        <Text style={[styles.title, { color: textColor }]}>{article.title}</Text>
+        <Text style={[styles.date, { color: subtextColor }]}>
           {new Date(article.pub_date).toLocaleString('ko-KR')}
         </Text>
 
-        <View style={styles.divider} />
+        <View style={[styles.divider, { backgroundColor: borderColor }]} />
 
-        <View style={styles.summaryContainer}>
-          <Text style={styles.summaryLabel}>💡 AI 3줄 요약</Text>
-          <Text style={styles.summaryText}>{article.summary}</Text>
+        <View style={[styles.summaryContainer, { backgroundColor, borderColor }]}>
+          <Text style={[styles.summaryLabel, { color: textColor }]}>💡 AI 3줄 요약</Text>
+          <Text style={[styles.summaryText, { color: textColor }]}>{article.summary}</Text>
         </View>
 
         <View style={styles.buttonContainer}>
-          <TouchableOpacity style={styles.outlineButton} onPress={handleOpenOriginal}>
-            <Text style={styles.outlineButtonText}>원문 보러가기</Text>
+          <TouchableOpacity style={[styles.outlineButton, { borderColor }]} onPress={handleOpenOriginal}>
+            <Text style={[styles.outlineButtonText, { color: textColor }]}>원문 보러가기</Text>
           </TouchableOpacity>
           <TouchableOpacity 
-            style={[styles.primaryButton, isBookmarked && styles.bookmarkedButton]} 
+            style={[
+              styles.primaryButton, 
+              isBookmarked ? { backgroundColor: cardColor, borderColor: textColor } : { backgroundColor: textColor, borderColor: textColor }
+            ]} 
             onPress={handleToggleBookmark}
           >
-            <Text style={[styles.primaryButtonText, isBookmarked && styles.bookmarkedButtonText]}>
+            <Text style={[
+              styles.primaryButtonText, 
+              isBookmarked ? { color: textColor } : { color: cardColor }
+            ]}>
               {isBookmarked ? '북마크 해제' : '북마크 저장'}
             </Text>
           </TouchableOpacity>
@@ -77,7 +91,6 @@ export default function ArticleDetailScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ffffff',
   },
   center: {
     flex: 1,
@@ -86,7 +99,6 @@ const styles = StyleSheet.create({
   },
   errorText: {
     fontSize: 16,
-    color: '#6B7280',
   },
   scrollContent: {
     padding: 20,
@@ -98,52 +110,42 @@ const styles = StyleSheet.create({
   },
   category: {
     fontSize: 14,
-    color: '#3B82F6',
     fontWeight: '600',
   },
   dot: {
     fontSize: 14,
-    color: '#9CA3AF',
     marginHorizontal: 8,
   },
   outlet: {
     fontSize: 14,
-    color: '#4B5563',
     fontWeight: '500',
   },
   title: {
     fontSize: 24,
     fontWeight: '800',
-    color: '#111827',
     lineHeight: 32,
     marginBottom: 12,
   },
   date: {
     fontSize: 14,
-    color: '#9CA3AF',
   },
   divider: {
     height: 1,
-    backgroundColor: '#E5E7EB',
     marginVertical: 24,
   },
   summaryContainer: {
-    backgroundColor: '#F8FAFC',
     padding: 20,
     borderRadius: 12,
     borderWidth: 1,
-    borderColor: '#E2E8F0',
     marginBottom: 32,
   },
   summaryLabel: {
     fontSize: 16,
     fontWeight: '700',
-    color: '#0F172A',
     marginBottom: 12,
   },
   summaryText: {
     fontSize: 16,
-    color: '#334155',
     lineHeight: 28,
   },
   buttonContainer: {
@@ -155,33 +157,21 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderRadius: 8,
     borderWidth: 1,
-    borderColor: '#D1D5DB',
     alignItems: 'center',
   },
   outlineButtonText: {
     fontSize: 16,
     fontWeight: '600',
-    color: '#374151',
   },
   primaryButton: {
     flex: 1,
     paddingVertical: 14,
     borderRadius: 8,
-    backgroundColor: '#111827',
     alignItems: 'center',
     borderWidth: 1,
-    borderColor: '#111827',
   },
   primaryButtonText: {
     fontSize: 16,
     fontWeight: '600',
-    color: '#ffffff',
-  },
-  bookmarkedButton: {
-    backgroundColor: '#ffffff',
-    borderColor: '#111827',
-  },
-  bookmarkedButtonText: {
-    color: '#111827',
   },
 });

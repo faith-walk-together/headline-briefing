@@ -22,7 +22,7 @@ export default function RootLayout() {
           <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
           <Stack.Screen name="article/[id]" options={{ presentation: 'modal', title: '기사 요약' }} />
         </Stack>
-        <StatusBar style="dark" />
+        <StatusBar style="auto" />
       </ThemeProvider>
     </QueryClientProvider>
   );

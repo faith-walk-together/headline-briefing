@@ -7,12 +7,17 @@ import { useNews } from '@/hooks/useNews';
 import { CategoryTabs } from '@/components/CategoryTabs';
 import { NewsCard } from '@/components/NewsCard';
 import { useUIStore } from '@/store/useUIStore';
+import { useThemeColor } from '@/hooks/use-theme-color';
 
 export default function HomeScreen() {
   const router = useRouter();
   const { data, isLoading, isError } = useNews();
   const [selectedCategory, setSelectedCategory] = useState<string>('전체');
   const setSelectedArticle = useUIStore((state) => state.setSelectedArticle);
+  
+  const backgroundColor = useThemeColor({}, 'background');
+  const textColor = useThemeColor({}, 'text');
+  const subtextColor = useThemeColor({}, 'subtext');
 
   const categories = useMemo(() => {
     if (!data?.articles) return ['전체'];
@@ -33,23 +38,23 @@ export default function HomeScreen() {
 
   if (isLoading) {
     return (
-      <View style={styles.center}>
-        <ActivityIndicator size="large" color="#111827" />
-        <Text style={styles.loadingText}>최신 뉴스를 불러오는 중입니다...</Text>
+      <View style={[styles.center, { backgroundColor }]}>
+        <ActivityIndicator size="large" color={textColor} />
+        <Text style={[styles.loadingText, { color: subtextColor }]}>최신 뉴스를 불러오는 중입니다...</Text>
       </View>
     );
   }
 
   if (isError || !data) {
     return (
-      <View style={styles.center}>
+      <View style={[styles.center, { backgroundColor }]}>
         <Text style={styles.errorText}>뉴스를 불러오는데 실패했습니다.</Text>
       </View>
     );
   }
 
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView style={[styles.container, { backgroundColor }]}>
       <CategoryTabs
         categories={categories}
         selectedCategory={selectedCategory}
@@ -69,17 +74,14 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#F9FAFB',
   },
   center: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F9FAFB',
   },
   loadingText: {
     marginTop: 12,
-    color: '#6B7280',
     fontSize: 14,
   },
   errorText: {

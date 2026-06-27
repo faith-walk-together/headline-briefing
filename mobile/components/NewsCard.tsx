@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { Article } from '@/store/useBookmarkStore';
+import { useThemeColor } from '@/hooks/use-theme-color';
 
 interface NewsCardProps {
   article: Article;
@@ -8,6 +9,11 @@ interface NewsCardProps {
 }
 
 export function NewsCard({ article, onPress }: NewsCardProps) {
+  const cardColor = useThemeColor({}, 'card');
+  const textColor = useThemeColor({}, 'text');
+  const subtextColor = useThemeColor({}, 'subtext');
+  const primaryColor = useThemeColor({}, 'primary');
+  
   // Format the date simply
   const formattedDate = new Date(article.pub_date).toLocaleDateString('ko-KR', {
     month: 'short',
@@ -17,24 +23,27 @@ export function NewsCard({ article, onPress }: NewsCardProps) {
   });
 
   return (
-    <TouchableOpacity style={styles.card} onPress={() => onPress(article)} activeOpacity={0.7}>
+    <TouchableOpacity 
+      style={[styles.card, { backgroundColor: cardColor }]} 
+      onPress={() => onPress(article)} 
+      activeOpacity={0.7}
+    >
       <View style={styles.header}>
         <View style={styles.badge}>
-          <Text style={styles.badgeText}>{article.category}</Text>
+          <Text style={[styles.badgeText, { color: primaryColor }]}>{article.category}</Text>
         </View>
-        <Text style={styles.outlet}>{article.outlet}</Text>
+        <Text style={[styles.outlet, { color: subtextColor }]}>{article.outlet}</Text>
       </View>
-      <Text style={styles.title} numberOfLines={2}>
+      <Text style={[styles.title, { color: textColor }]} numberOfLines={2}>
         {article.title}
       </Text>
-      <Text style={styles.date}>{formattedDate}</Text>
+      <Text style={[styles.date, { color: subtextColor }]}>{formattedDate}</Text>
     </TouchableOpacity>
   );
 }
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: '#ffffff',
     borderRadius: 12,
     padding: 16,
     marginVertical: 8,
@@ -51,31 +60,27 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   badge: {
-    backgroundColor: '#F0F4F8',
+    backgroundColor: '#F0F4F8', // We can keep a static faint blue/gray for badges or make it dynamic
     paddingHorizontal: 8,
     paddingVertical: 4,
     borderRadius: 4,
     marginRight: 8,
   },
   badgeText: {
-    color: '#3B82F6',
     fontSize: 12,
     fontWeight: '600',
   },
   outlet: {
     fontSize: 12,
-    color: '#6B7280',
     fontWeight: '500',
   },
   title: {
     fontSize: 16,
     fontWeight: '700',
-    color: '#111827',
     lineHeight: 22,
     marginBottom: 12,
   },
   date: {
     fontSize: 12,
-    color: '#9CA3AF',
   },
 });
