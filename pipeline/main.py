@@ -6,26 +6,32 @@ from datetime import datetime
 import pytz
 from google import genai
 
-# Curated High-Quality RSS Feeds with specific limits
+# Curated High-Quality RSS Feeds with specific limits and detailed targeting
 RSS_FEEDS = [
     # 정치
     {"category": "정치", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/politics.xml", "limit": 3},
+    {"category": "정치", "outlet": "CNN", "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss", "limit": 3},
     {"category": "정치", "outlet": "KBS", "url": "https://news.kbs.co.kr/rss/xml/politics.xml", "limit": 2},
     {"category": "정치", "outlet": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml", "limit": 2},
+    {"category": "정치", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "limit": 2},
     
     # 경제
+    {"category": "경제", "outlet": "CNN", "url": "http://rss.cnn.com/rss/money_latest.rss", "limit": 3},
     {"category": "경제", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "한국경제", "url": "https://rss.hankyung.com/feed/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/", "limit": 2},
+    {"category": "경제", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "limit": 2},
     
     # IT/과학
-    {"category": "IT/과학", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/newsflash.xml", "limit": 2}, # JTBC IT RSS가 별도로 없어 속보 대체
+    {"category": "IT/과학", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/newsflash.xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "CNN", "url": "http://rss.cnn.com/rss/edition_technology.rss", "limit": 2},
     {"category": "IT/과학", "outlet": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "limit": 2},
     {"category": "IT/과학", "outlet": "전자신문", "url": "https://rss.etnews.com/Section901.xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "limit": 2},
     
     # 세계
-    {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5},
-    {"category": "세계", "outlet": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "limit": 5}
+    {"category": "세계", "outlet": "CNN", "url": "http://rss.cnn.com/rss/edition_world.rss", "limit": 5},
+    {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5}
 ]
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")

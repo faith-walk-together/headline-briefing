@@ -2,7 +2,8 @@ name: News Update Pipeline
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Every 12 hours
+    # 6 AM KST is 9 PM UTC of the previous day
+    - cron: '0 21 * * *' # 9 PM UTC is 6 AM KST
   workflow_dispatch: # Allow manual trigger
 
 env:
