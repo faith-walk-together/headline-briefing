@@ -3,7 +3,7 @@ import json
 import feedparser
 from datetime import datetime
 import pytz
-from openai import OpenAI
+from google import genai
 
 # RSS Feeds List (Defaults)
 RSS_FEEDS = [
@@ -13,23 +13,21 @@ RSS_FEEDS = [
     {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"}
 ]
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def summarize_text(title, max_retries=2):
-    if not OPENAI_API_KEY:
-        return "OpenAI API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 OPENAI_API_KEY를 등록해주세요.)"
+    if not GEMINI_API_KEY:
+        return "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)"
     
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
     prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 한국어로 3줄 이내로 간결하게 요약해줘(해외 뉴스라면 번역해줘):\n\n{title}"
     
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=200,
-            temperature=0.5
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
         )
-        return response.choices[0].message.content.strip()
+        return response.text.strip()
     except Exception as e:
         print(f"Error summarizing {title}: {e}")
         return "요약을 불러오는 데 실패했습니다."
