@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-27T13:40:23.670899+00:00",
+  "last_updated": "2026-06-27T22:26:12.269874+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "JTBC",
-      "title": "[돌비뉴스] 국감 끝나자 뒤끝 시작…최민희 '콕' 찍은 이유",
+      "title": "국정감사 종료 후 논란 시작: 최민희 지목의 배경",
       "link": "https://news.jtbc.co.kr/article/article.aspx?news_id=NB12220940",
-      "summary": "요약을 불러오는 데 실패했습니다.",
+      "summary": "국정감사가 끝난 뒤에도 관련 후폭풍이 이어지고 있습니다. 그 과정에서 최민희가 특정 인물로 지목되어 그 이유에 관심이 집중되고 있습니다. 기사는 최민희를 둘러싼 논란의 구체적인 배경을 설명할 것으로 보입니다.",
       "pub_date": "2024-10-28T15:00:00+00:00"
     },
     {
@@ -28,6 +28,22 @@
     {
       "category": "정치",
       "outlet": "NYT",
+      "title": "Trump Picks Lance Schroyer as New ICE Director",
+      "link": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-06-27T21:20:22+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
+      "title": "White House Releases Images of the Trump ‘Patriot Passport’",
+      "link": "https://www.nytimes.com/2026/06/27/us/politics/trump-passport-design-america-250.html",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-06-27T19:06:47+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
       "title": "Watergate Today as a Blip of a Story? Vance Might Not Be Entirely Wrong.",
       "link": "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html",
       "summary": "요약을 불러오는 데 실패했습니다.",
@@ -35,35 +51,27 @@
     },
     {
       "category": "정치",
-      "outlet": "NYT",
-      "title": "Colorado Supreme Court Delay Threatens Democratic Redistricting Effort",
-      "link": "https://www.nytimes.com/2026/06/27/us/politics/democrats-colorado-redistricting-state-court.html",
+      "outlet": "조선일보",
+      "title": "이언주 고위험A, 송영길 B... 친명 등급까지 등장했다",
+      "link": "https://www.chosun.com/politics/2026/06/28/PCTGGZIFBZECXCMGP63IVAKM5I/",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T09:02:31+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "NYT",
-      "title": "Jeffries Faces Steep Test as Far Left Builds Strength in Congress",
-      "link": "https://www.nytimes.com/2026/06/27/us/politics/jeffries-congress-democratic-socialists.html",
-      "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T12:52:02+00:00"
+      "pub_date": "2026-06-27T20:30:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "유승민 “반도체, 왜 호남?” 묻자… 李대통령 “서두르지 말고 기다리면 공개”",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/27/6ATTMP2UFRFH3L6OSRHUWXAPEE/",
+      "title": "명·청 전쟁용 반도체 카드, ‘승자의 저주’ 부르나",
+      "link": "https://www.chosun.com/politics/politics_general/2026/06/28/JGPHK7CU7ZCQPBAASRI44D6YKA/",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T11:12:03+00:00"
+      "pub_date": "2026-06-27T20:52:42+00:00"
     },
     {
       "category": "정치",
-      "outlet": "조선일보",
-      "title": "“돼지 눈엔 돼지 보이는 법”... 李대통령 게시글 해석 분분",
-      "link": "https://www.chosun.com/politics/politics_general/2026/06/27/UDOLFHHNVFATTJRA3EU7CVRZO4/",
+      "outlet": "BBC",
+      "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T05:05:46+00:00"
+      "pub_date": "2026-06-27T21:39:15+00:00"
     },
     {
       "category": "정치",
@@ -72,14 +80,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
       "summary": "요약을 불러오는 데 실패했습니다.",
       "pub_date": "2026-06-27T11:37:57+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "BBC",
-      "title": "King urges MSPs to help build a 'fair and prosperous society'",
-      "link": "https://www.bbc.co.uk/news/articles/c982njm1prgo?at_medium=RSS&at_campaign=rss",
-      "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T12:13:57+00:00"
     },
     {
       "category": "경제",
@@ -92,10 +92,10 @@
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "페르시아만 해운 회복에 새로운 공격으로 인한 차질 우려",
+      "title": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
       "link": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
-      "summary": "페르시아만에서 재개된 공격이 발생하여 이 지역의 해운 회복에 심각한 차질을 초래할 위험이 있습니다. 이는 해상 운송 시장의 안정성에도 부정적인 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-06-27T11:26:14+00:00"
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-06-27T17:03:08+00:00"
     },
     {
       "category": "경제",
@@ -103,7 +103,7 @@
       "title": "Colette Shulman, Soviet Analyst With On-the-Ground Insights, Dies at 94",
       "link": "https://www.nytimes.com/2026/06/27/business/media/colette-shulman-dead.html",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T09:01:43+00:00"
+      "pub_date": "2026-06-27T09:01:44+00:00"
     },
     {
       "category": "경제",
@@ -159,7 +159,7 @@
       "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
       "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-26T21:03:17+00:00"
+      "pub_date": "2026-06-26T21:03:18+00:00"
     },
     {
       "category": "IT/과학",
@@ -172,34 +172,34 @@
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "장충체육관서 막 올린 'PNC 2026'…e스포츠 '몰입형 축제'로 진화",
-      "link": "https://zdnet.co.kr/view/?no=20260627121815",
+      "title": "역직구가 답…지마켓, 라자다 연동 상품 4배↑",
+      "link": "https://zdnet.co.kr/view/?no=20260626141324",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T11:55:59+00:00"
+      "pub_date": "2026-06-27T21:00:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "넥슨, 마비노기 22주년 판타지 파티 성료…\"올 가을 '이터니티' 알파테스트\"",
-      "link": "https://zdnet.co.kr/view/?no=20260627121753",
+      "title": "ZTE와 GSMA, MWC26 상하이에서 ZTE 글로벌 서밋 & 유저 콩그레스와 GSMA M360 아세안 동시 개최 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260628011013",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T09:30:17+00:00"
+      "pub_date": "2026-06-27T16:10:13+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "40배 웃돈 주고도 못구했던 '라부부'의 추락?…이젠 중고시장 헐값에 무료 나눔까지",
-      "link": "https://www.etnews.com/20260627000033",
+      "title": "노출·일광욕 자유로운 女 전용 해변 놔두고…“男 전용 가겠다” 난동 부린 女, 뭔 일?",
+      "link": "https://www.etnews.com/20260626000299",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T07:50:00+00:00"
+      "pub_date": "2026-06-27T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“1년 일한 제자, 성과급만 교장 연봉보다 많아”…美 NYT도 주목한 반도체 특성화고",
-      "link": "https://www.etnews.com/20260627000032",
+      "title": "“우리 친구 아이가”… 지중해 향유고래들, 지역별 '사투리' 쓴다",
+      "link": "https://www.etnews.com/20260625000402",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T07:50:00+00:00"
+      "pub_date": "2026-06-27T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
@@ -223,15 +223,15 @@
       "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.",
       "link": "https://www.nytimes.com/2026/06/27/world/africa/ebola-outbreak-congo-volunteers-burials-backlash.html",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T09:01:25+00:00"
+      "pub_date": "2026-06-27T19:09:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Venezuela Live Updates: Rescuers Work as Window Narrows to Find Quake Survivors",
+      "title": "Venezuela Live Updates: Window Narrowing to Find Survivors as Quake Death Toll Surpasses 1,400",
       "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T13:22:50+00:00"
+      "pub_date": "2026-06-27T22:02:36+00:00"
     },
     {
       "category": "세계",
@@ -239,31 +239,23 @@
       "title": "Mexican Officials Have Become Informants for the Trump Administration",
       "link": "https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T12:29:31+00:00"
+      "pub_date": "2026-06-27T12:29:32+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
+      "title": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
       "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T13:31:35+00:00"
+      "pub_date": "2026-06-27T22:15:05+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Australia Says It Will Toughen Its Social Media Ban for Children",
+      "title": "호주, 아동 소셜 미디어 금지 조치 강화 발표",
       "link": "https://www.nytimes.com/2026/06/27/world/australia/social-media-ban-children.html",
-      "summary": "요약을 불러오는 데 실패했습니다.",
+      "summary": "호주 정부가 아동의 소셜 미디어 사용을 제한하는 규제를 강화할 방침을 밝혔습니다. 이는 온라인상에서 아동을 보호하기 위한 조치로, 아동의 소셜 미디어 접근을 더 엄격하게 제한할 것으로 예상됩니다.",
       "pub_date": "2026-06-27T12:30:04+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-27T10:40:38+00:00"
     },
     {
       "category": "세계",
@@ -276,26 +268,34 @@
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-26T18:36:32+00:00"
+      "pub_date": "2026-06-27T21:12:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-26T23:01:50+00:00"
+      "pub_date": "2026-06-27T21:35:40+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
       "summary": "요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-06-26T18:14:36+00:00"
+      "pub_date": "2026-06-27T20:48:16+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-06-27T20:03:26+00:00"
     }
   ]
 }
