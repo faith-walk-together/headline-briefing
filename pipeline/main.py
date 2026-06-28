@@ -117,7 +117,7 @@ def fetch_feed_data():
                     time.sleep(10.0)
                     
                     response = client.models.generate_content(
-                        model="gemini-2.5-flash",
+                        model="gemini-1.5-flash",
                         contents=prompt_text,
                         config={
                             "response_mime_type": "application/json",
