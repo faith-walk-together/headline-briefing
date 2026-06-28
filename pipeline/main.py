@@ -6,31 +6,38 @@ import feedparser
 from datetime import datetime
 import pytz
 from google import genai
+from pydantic import BaseModel, Field
 
-# Curated High-Quality RSS Feeds with specific limits and detailed targeting
+# Curated High-Quality RSS Feeds with specific limits and detailed targeting (Total: 50)
 RSS_FEEDS = [
-    # 정치
-    {"category": "정치", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/politics.xml", "limit": 3},
-    {"category": "정치", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "limit": 3},
+    # 정치 (15)
+    {"category": "정치", "outlet": "SBS", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER", "limit": 2},
+    {"category": "정치", "outlet": "MBC", "url": "https://imnews.imbc.com/rss/news/news_00.xml", "limit": 2},
     {"category": "정치", "outlet": "KBS", "url": "https://news.kbs.co.kr/rss/xml/politics.xml", "limit": 2},
-    {"category": "정치", "outlet": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml", "limit": 2},
+    {"category": "정치", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "limit": 3},
+    {"category": "정치", "outlet": "연합뉴스", "url": "https://www.yonhapnewstv.co.kr/category/news/politics/feed/", "limit": 2},
     {"category": "정치", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "limit": 2},
-    
-    # 경제
+    {"category": "정치", "outlet": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml", "limit": 1},
+    {"category": "정치", "outlet": "중앙일보", "url": "https://rss.joins.com/joins_politics_list.xml", "limit": 1},
+
+    # 경제 (13)
+    {"category": "경제", "outlet": "SBS Biz", "url": "https://biz.sbs.co.kr/rss", "limit": 2},
     {"category": "경제", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "limit": 3},
-    {"category": "경제", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "한국경제", "url": "https://rss.hankyung.com/feed/economy.xml", "limit": 2},
     {"category": "경제", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/30000016/", "limit": 2},
     {"category": "경제", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "limit": 2},
-    
-    # IT/과학
-    {"category": "IT/과학", "outlet": "JTBC", "url": "https://fs.jtbc.co.kr/RSS/newsflash.xml", "limit": 2},
-    {"category": "IT/과학", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "limit": 2},
+    {"category": "경제", "outlet": "조선비즈", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml", "limit": 1},
+    {"category": "경제", "outlet": "서울경제", "url": "https://www.sedaily.com/RSS/Finance", "limit": 1},
+
+    # IT/과학 (12)
     {"category": "IT/과학", "outlet": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "limit": 2},
     {"category": "IT/과학", "outlet": "전자신문", "url": "https://rss.etnews.com/Section901.xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "블로터", "url": "https://www.bloter.net/rss/allArticle.xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "조선비즈 IT/Tech", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/category/it-science/?outputType=xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "limit": 2},
-    
-    # 세계
+
+    # 세계 (10)
     {"category": "세계", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "limit": 5},
     {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5}
 ]
@@ -38,7 +45,11 @@ RSS_FEEDS = [
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # 필터링할 무의미한 단어들 (날씨 제외)
-SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브"]
+SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브", "날씨", "스포츠"]
+
+class NewsSummary(BaseModel):
+    translated_title: str = Field(description="반드시 영어 원문을 100% 한국어로 번역한 제목이어야 합니다. 영어가 섞이면 안 됩니다.")
+    summary: str = Field(description="기사 내용을 한국어로 3줄 이내로 간결하게 요약한 텍스트.")
 
 def summarize_and_translate_text(title, max_retries=3):
     if not GEMINI_API_KEY:
@@ -48,22 +59,6 @@ def summarize_and_translate_text(title, max_retries=3):
         }
     
     client = genai.Client(api_key=GEMINI_API_KEY)
-    
-    response_schema = {
-        "type": "OBJECT",
-        "properties": {
-            "translated_title": {
-                "type": "STRING",
-                "description": "반드시 영어 원문을 100% 한국어로 번역한 제목이어야 합니다. 영어가 섞이면 안 됩니다."
-            },
-            "summary": {
-                "type": "STRING",
-                "description": "기사 내용을 한국어로 3줄 이내로 간결하게 요약한 텍스트."
-            }
-        },
-        "required": ["translated_title", "summary"]
-    }
-    
     prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 무조건 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해. 단 하나의 영단어도 그대로 출력하지 말고 외국 고유명사도 모두 한글로 표기해. 제목(translated_title)도 완벽한 한국어 문장으로 번역해:\n\n{title}"
     
     for attempt in range(max_retries):
@@ -73,7 +68,7 @@ def summarize_and_translate_text(title, max_retries=3):
                 contents=prompt,
                 config={
                     "response_mime_type": "application/json",
-                    "response_schema": response_schema,
+                    "response_schema": NewsSummary,
                 }
             )
             
@@ -117,20 +112,9 @@ def fetch_feed_data():
             link = entry.link
             pub = entry.get("published", entry.get("updated", ""))
             
-            # 3. Invalid Date 수정 및 JTBC(YYYY.MM.DD) 커스텀 파싱
             iso_date = ""
             
-            # JTBC 예외 처리 (예: "2024.10.29")
-            if pub and "." in pub and len(pub.split(".")) >= 3:
-                try:
-                    date_str = pub.split(" ")[0] # 혹시 모를 공백 이후 시간 제거
-                    dt = datetime.strptime(date_str, "%Y.%m.%d")
-                    dt = pytz.timezone('Asia/Seoul').localize(dt)
-                    iso_date = dt.astimezone(pytz.utc).isoformat()
-                except Exception:
-                    pass
-            
-            # 일반적인 파싱 (JTBC 예외 처리에 실패했거나 다른 언론사인 경우)
+            # 일반적인 파싱
             if not iso_date:
                 if hasattr(entry, 'published_parsed') and entry.published_parsed:
                     dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
@@ -142,7 +126,7 @@ def fetch_feed_data():
                     iso_date = datetime.now(pytz.utc).isoformat()
             
             # Rate limiting mitigation for Gemini API
-            # 호출 간격을 6초에서 12초(분당 5회)로 대폭 상향하여 API 차단 원천 봉쇄
+            # 호출 간격을 12초(분당 5회)로 유지하여 API 차단 원천 봉쇄
             time.sleep(12.0)
             
             ai_result = summarize_and_translate_text(title)
