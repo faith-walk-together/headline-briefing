@@ -47,101 +47,112 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # 필터링할 무의미한 단어들 (날씨 제외)
 SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브", "날씨", "스포츠"]
 
-class NewsSummary(BaseModel):
-    translated_title: str = Field(description="반드시 영어 원문을 100% 한국어로 번역한 제목이어야 합니다. 영어가 섞이면 안 됩니다.")
-    summary: str = Field(description="기사 내용을 한국어로 3줄 이내로 간결하게 요약한 텍스트.")
+class CuratedArticle(BaseModel):
+    id: int = Field(description="선택된 기사의 원본 ID 번호")
+    translated_title: str = Field(description="반드시 영어 원문을 100% 한국어로 번역/다듬은 완벽한 문장의 제목 (영단어 노출 금지)")
+    summary: str = Field(description="기사 내용을 바탕으로 유추한 한국어 3줄 요약 (가장 중요한 팩트 위주)")
 
-def summarize_and_translate_text(title, max_retries=3):
-    if not GEMINI_API_KEY:
-        return {
-            "translated_title": title,
-            "summary": "Gemini API 키가 설정되지 않아 임시 요약을 제공합니다. (Github Secrets에 GEMINI_API_KEY를 등록해주세요.)"
-        }
-    
-    client = genai.Client(api_key=GEMINI_API_KEY)
-    prompt = f"다음 뉴스 헤드라인을 바탕으로 주요 내용을 무조건 '100% 한국어'로 번역하고 3줄 이내로 간결하게 요약해. 단 하나의 영단어도 그대로 출력하지 말고 외국 고유명사도 모두 한글로 표기해. 제목(translated_title)도 완벽한 한국어 문장으로 번역해:\n\n{title}"
-    
-    for attempt in range(max_retries):
-        try:
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config={
-                    "response_mime_type": "application/json",
-                    "response_schema": NewsSummary,
-                }
-            )
-            
-            result = json.loads(response.text)
-            return {
-                "translated_title": result.get("translated_title", title),
-                "summary": result.get("summary", "요약을 불러오는 데 실패했습니다.")
-            }
-        except Exception as e:
-            print(f"Attempt {attempt + 1} failed for '{title}': {e}")
-            if attempt < max_retries - 1:
-                # Exponential backoff: 10s -> 20s
-                sleep_time = 10 * (attempt + 1)
-                print(f"Sleeping for {sleep_time} seconds before retrying...")
-                time.sleep(sleep_time)
-            else:
-                return {
-                    "translated_title": title,
-                    "summary": "요약을 불러오는 데 실패했습니다."
-                }
+class FeedCuratorResponse(BaseModel):
+    top_articles: list[CuratedArticle] = Field(description="엄선된 주요 뉴스 리스트")
+
+def parse_iso_date(entry):
+    iso_date = ""
+    if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
+        iso_date = dt.isoformat()
+    elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+        dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
+        iso_date = dt.isoformat()
+    else:
+        iso_date = datetime.now(pytz.utc).isoformat()
+    return iso_date
 
 def fetch_feed_data():
     all_news = []
+    
+    # 만약 API 키가 없으면 에러 방지
+    client = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
     
     for feed in RSS_FEEDS:
         print(f"Fetching {feed['category']} news from {feed['outlet']}...")
         parsed = feedparser.parse(feed["url"])
         
-        count = 0
+        # 1. 1차 필터링: 무의미한 기사를 제외한 상위 30개의 기사 후보군 추출
+        candidate_entries = []
         for entry in parsed.entries:
-            if count >= feed["limit"]:
+            if any(keyword in entry.title for keyword in SKIP_KEYWORDS):
+                continue
+            candidate_entries.append(entry)
+            if len(candidate_entries) >= 30:
                 break
                 
-            title = entry.title
+        if not candidate_entries:
+            print(f"No valid articles found in {feed['outlet']}.")
+            continue
             
-            # 1. 쓸모없는 기사 필터링
-            if any(keyword in title for keyword in SKIP_KEYWORDS):
-                print(f"Skipping article due to keyword filter: {title}")
-                continue
-                
-            link = entry.link
-            pub = entry.get("published", entry.get("updated", ""))
-            
-            iso_date = ""
-            
-            # 일반적인 파싱
-            if not iso_date:
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    dt = datetime.fromtimestamp(mktime(entry.published_parsed), pytz.utc)
-                    iso_date = dt.isoformat()
-                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                    dt = datetime.fromtimestamp(mktime(entry.updated_parsed), pytz.utc)
-                    iso_date = dt.isoformat()
-                else:
-                    iso_date = datetime.now(pytz.utc).isoformat()
-            
-            # Rate limiting mitigation for Gemini API
-            # 호출 간격을 12초(분당 5회)로 유지하여 API 차단 원천 봉쇄
-            time.sleep(12.0)
-            
-            ai_result = summarize_and_translate_text(title)
-            
-            all_news.append({
-                "category": feed["category"],
-                "outlet": feed["outlet"],
-                "title": ai_result["translated_title"],
-                "link": link,
-                "summary": ai_result["summary"],
-                "pub_date": iso_date
-            })
-            
-            count += 1
-            
+        # 2. AI 편집장(Curator)에게 보낼 프롬프트 구성
+        target_count = min(feed["limit"], len(candidate_entries))
+        prompt_text = f"당신은 {feed['outlet']} 언론사의 편집장입니다. 다음은 최근 송고된 {len(candidate_entries)}개의 기사 제목입니다.\n\n"
+        for idx, entry in enumerate(candidate_entries):
+            prompt_text += f"ID: {idx} | Title: {entry.title}\n"
+        
+        prompt_text += f"\n위 기사들 중에서, 오늘 하루 국가적/세계적으로 가장 비중 있고 중요한 '메인 헤드라인(Headline)' 뉴스 딱 {target_count}개만 엄선하십시오.\n"
+        prompt_text += "선택된 기사의 원래 ID 번호, 100% 한국어로 번역된 제목(외국어 금지), 그리고 3줄 요약을 반환하십시오."
+        
+        ai_success = False
+        
+        # API 호출이 불가능하거나 키가 없는 경우 대비
+        if client:
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    # 속도 제한(Rate Limit)을 우회하기 위한 지연 (언론사당 1번 호출이므로 10초로 충분)
+                    time.sleep(10.0)
+                    
+                    response = client.models.generate_content(
+                        model="gemini-2.5-flash",
+                        contents=prompt_text,
+                        config={
+                            "response_mime_type": "application/json",
+                            "response_schema": FeedCuratorResponse,
+                        }
+                    )
+                    
+                    result_data = json.loads(response.text)
+                    top_articles = result_data.get("top_articles", [])
+                    
+                    for item in top_articles:
+                        idx = item.get("id")
+                        if idx is not None and 0 <= idx < len(candidate_entries):
+                            chosen_entry = candidate_entries[idx]
+                            all_news.append({
+                                "category": feed["category"],
+                                "outlet": feed["outlet"],
+                                "title": item.get("translated_title", chosen_entry.title),
+                                "link": chosen_entry.link,
+                                "summary": item.get("summary", "요약을 불러오는 데 실패했습니다."),
+                                "pub_date": parse_iso_date(chosen_entry)
+                            })
+                    ai_success = True
+                    break # 성공 시 재시도 루프 탈출
+                except Exception as e:
+                    print(f"Attempt {attempt + 1} failed for {feed['outlet']}: {e}")
+                    if attempt < max_retries - 1:
+                        time.sleep(10 * (attempt + 1))
+        
+        # 3. AI 큐레이션 실패 시(또는 API 키가 없는 경우) 단순 최신순 Fallback 처리
+        if not ai_success:
+            print(f"Fallback to simple parsing for {feed['outlet']}")
+            for entry in candidate_entries[:target_count]:
+                all_news.append({
+                    "category": feed["category"],
+                    "outlet": feed["outlet"],
+                    "title": entry.title,
+                    "link": entry.link,
+                    "summary": "AI 요약을 불러오는 데 실패했습니다.",
+                    "pub_date": parse_iso_date(entry)
+                })
+
     return all_news
 
 if __name__ == "__main__":
@@ -156,4 +167,4 @@ if __name__ == "__main__":
     with open("public_data/latest_news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    print("latest_news.json generated successfully.")
+    print(f"latest_news.json generated successfully with {len(news_data)} curated articles.")
