@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 
 # Curated High-Quality RSS Feeds with specific limits and detailed targeting (Total: 50)
 RSS_FEEDS = [
-    # 정치 (15)
+    # 정치 (15 -> 21)
     {"category": "정치", "outlet": "SBS", "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01&plink=RSSREADER", "limit": 2},
     {"category": "정치", "outlet": "MBC", "url": "https://imnews.imbc.com/rss/news/news_00.xml", "limit": 2},
     {"category": "정치", "outlet": "KBS", "url": "https://news.kbs.co.kr/rss/xml/politics.xml", "limit": 2},
@@ -19,8 +19,10 @@ RSS_FEEDS = [
     {"category": "정치", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/politics/rss.xml", "limit": 2},
     {"category": "정치", "outlet": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml", "limit": 1},
     {"category": "정치", "outlet": "중앙일보", "url": "https://rss.joins.com/joins_politics_list.xml", "limit": 1},
+    {"category": "정치", "outlet": "JTBC", "url": "https://news.google.com/rss/search?q=%EC%A0%95%EC%B9%98+source:%22JTBC%22+when:1d&hl=ko&gl=KR&ceid=KR:ko", "limit": 3},
+    {"category": "정치", "outlet": "CNN", "url": "https://news.google.com/rss/search?q=politics+source:%22CNN%22+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 3},
 
-    # 경제 (13)
+    # 경제 (13 -> 19)
     {"category": "경제", "outlet": "SBS Biz", "url": "https://biz.sbs.co.kr/rss", "limit": 2},
     {"category": "경제", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "limit": 3},
     {"category": "경제", "outlet": "한국경제", "url": "https://rss.hankyung.com/feed/economy.xml", "limit": 2},
@@ -28,18 +30,23 @@ RSS_FEEDS = [
     {"category": "경제", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "limit": 2},
     {"category": "경제", "outlet": "조선비즈", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml", "limit": 1},
     {"category": "경제", "outlet": "서울경제", "url": "https://www.sedaily.com/RSS/Finance", "limit": 1},
+    {"category": "경제", "outlet": "JTBC", "url": "https://news.google.com/rss/search?q=%EA%B2%BD%EC%A0%9C+source:%22JTBC%22+when:1d&hl=ko&gl=KR&ceid=KR:ko", "limit": 3},
+    {"category": "경제", "outlet": "CNN", "url": "https://news.google.com/rss/search?q=business+economy+source:%22CNN%22+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 3},
 
-    # IT/과학 (12)
+    # IT/과학 (12 -> 18)
     {"category": "IT/과학", "outlet": "ZDNet Korea", "url": "https://feeds.feedburner.com/zdkorea", "limit": 2},
     {"category": "IT/과학", "outlet": "전자신문", "url": "https://rss.etnews.com/Section901.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "블로터", "url": "https://www.bloter.net/rss/allArticle.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "조선비즈 IT/Tech", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/category/it-science/?outputType=xml", "limit": 2},
     {"category": "IT/과학", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "limit": 2},
     {"category": "IT/과학", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "limit": 2},
+    {"category": "IT/과학", "outlet": "JTBC", "url": "https://news.google.com/rss/search?q=IT+%EA%B3%BC%ED%95%99+source:%22JTBC%22+when:1d&hl=ko&gl=KR&ceid=KR:ko", "limit": 3},
+    {"category": "IT/과학", "outlet": "CNN", "url": "https://news.google.com/rss/search?q=technology+science+source:%22CNN%22+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 3},
 
-    # 세계 (10)
+    # 세계 (10 -> 15)
     {"category": "세계", "outlet": "NYT", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "limit": 5},
-    {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5}
+    {"category": "세계", "outlet": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "limit": 5},
+    {"category": "세계", "outlet": "CNN", "url": "https://news.google.com/rss/search?q=world+source:%22CNN%22+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 5}
 ]
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
