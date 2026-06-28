@@ -55,12 +55,13 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 SKIP_KEYWORDS = ["다시보기", "클로징", "예고", "풀영상", "인사", "부고", "부음", "오대영 라이브", "날씨", "스포츠"]
 
 class CuratedArticle(BaseModel):
-    id: int = Field(description="선택된 기사의 원본 ID 번호")
+    feed_index: int = Field(description="선택된 기사가 속한 언론사(Feed)의 고유 인덱스 번호")
+    article_id: int = Field(description="선택된 기사의 원본 ID 번호")
     translated_title: str = Field(description="반드시 영어 원문을 100% 한국어로 번역/다듬은 완벽한 문장의 제목 (영단어 노출 금지)")
     summary: str = Field(description="기사 내용을 바탕으로 유추한 한국어 3줄 요약 (가장 중요한 팩트 위주)")
 
-class FeedCuratorResponse(BaseModel):
-    top_articles: list[CuratedArticle] = Field(description="엄선된 주요 뉴스 리스트")
+class GrandCurationResponse(BaseModel):
+    all_curated_articles: list[CuratedArticle] = Field(description="모든 언론사에서 엄선된 주요 뉴스들의 통합 리스트")
 
 def parse_iso_date(entry):
     iso_date = ""
@@ -80,11 +81,12 @@ def fetch_feed_data():
     # 만약 API 키가 없으면 에러 방지
     client = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
     
-    for feed in RSS_FEEDS:
-        print(f"Fetching {feed['category']} news from {feed['outlet']}...")
+    # 1. 모든 피드의 기사 후보군을 메모리에 대량 적재
+    feeds_candidates = [] # index == feed_index
+    for feed_index, feed in enumerate(RSS_FEEDS):
+        print(f"[{feed_index}] Fetching {feed['category']} news from {feed['outlet']}...")
         parsed = feedparser.parse(feed["url"])
         
-        # 1. 1차 필터링: 무의미한 기사를 제외한 상위 30개의 기사 후보군 추출
         candidate_entries = []
         for entry in parsed.entries:
             if any(keyword in entry.title for keyword in SKIP_KEYWORDS):
@@ -92,46 +94,60 @@ def fetch_feed_data():
             candidate_entries.append(entry)
             if len(candidate_entries) >= 30:
                 break
-                
+        feeds_candidates.append(candidate_entries)
+
+    # 2. 통합 프롬프트 작성
+    prompt_text = "당신은 최고의 글로벌 뉴스 편집장입니다. 다음은 여러 언론사에서 수집된 최신 기사 제목들입니다.\n"
+    prompt_text += "각 언론사(Feed)별로 요청된 [Target 개수]만큼, 오늘 하루를 대표할 가장 비중 있고 중요한 '메인 헤드라인' 뉴스를 엄선하십시오.\n\n"
+    
+    for feed_index, feed in enumerate(RSS_FEEDS):
+        candidate_entries = feeds_candidates[feed_index]
         if not candidate_entries:
-            print(f"No valid articles found in {feed['outlet']}.")
             continue
-            
-        # 2. AI 편집장(Curator)에게 보낼 프롬프트 구성
+        
         target_count = min(feed["limit"], len(candidate_entries))
-        prompt_text = f"당신은 {feed['outlet']} 언론사의 편집장입니다. 다음은 최근 송고된 {len(candidate_entries)}개의 기사 제목입니다.\n\n"
+        prompt_text += f"=== [Feed Index: {feed_index}] {feed['outlet']} (카테고리: {feed['category']}) | Target 개수: {target_count}개 ===\n"
         for idx, entry in enumerate(candidate_entries):
             prompt_text += f"ID: {idx} | Title: {entry.title}\n"
+        prompt_text += "\n"
         
-        prompt_text += f"\n위 기사들 중에서, 오늘 하루 국가적/세계적으로 가장 비중 있고 중요한 '메인 헤드라인(Headline)' 뉴스 딱 {target_count}개만 엄선하십시오.\n"
-        prompt_text += "선택된 기사의 원래 ID 번호, 100% 한국어로 번역된 제목(외국어 금지), 그리고 3줄 요약을 반환하십시오."
-        
-        ai_success = False
-        
-        # API 호출이 불가능하거나 키가 없는 경우 대비
-        if client:
-            max_retries = 3
-            for attempt in range(max_retries):
-                try:
-                    # 속도 제한(Rate Limit)을 우회하기 위한 지연 (언론사당 1번 호출이므로 10초로 충분)
-                    time.sleep(10.0)
+    prompt_text += "반드시 각 언론사별로 명시된 Target 개수만큼의 기사를 정확히 선택해야 합니다.\n"
+    prompt_text += "최종 응답은 모든 선택된 기사를 하나의 배열(all_curated_articles)에 담아서 JSON 형태로 반환하십시오.\n"
+    prompt_text += "선택된 기사의 feed_index, article_id, 100% 한국어로 번역된 제목, 그리고 3줄 요약을 포함해야 합니다."
+
+    ai_success = False
+    
+    # API 호출이 불가능하거나 키가 없는 경우 대비
+    if client:
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                print(f"Sending Grand Curation request to Gemini (Attempt {attempt + 1})...")
+                # 단일 호출이므로 속도 제한 걱정 없음
+                time.sleep(2.0)
+                
+                response = client.models.generate_content(
+                    model="gemini-2.5-flash",
+                    contents=prompt_text,
+                    config={
+                        "response_mime_type": "application/json",
+                        "response_schema": GrandCurationResponse,
+                    }
+                )
+                
+                result_data = json.loads(response.text)
+                curated_items = result_data.get("all_curated_articles", [])
+                
+                # 3. 반환된 데이터를 원본과 매핑
+                for item in curated_items:
+                    f_idx = item.get("feed_index")
+                    a_idx = item.get("article_id")
                     
-                    response = client.models.generate_content(
-                        model="gemini-1.5-flash",
-                        contents=prompt_text,
-                        config={
-                            "response_mime_type": "application/json",
-                            "response_schema": FeedCuratorResponse,
-                        }
-                    )
-                    
-                    result_data = json.loads(response.text)
-                    top_articles = result_data.get("top_articles", [])
-                    
-                    for item in top_articles:
-                        idx = item.get("id")
-                        if idx is not None and 0 <= idx < len(candidate_entries):
-                            chosen_entry = candidate_entries[idx]
+                    if f_idx is not None and a_idx is not None:
+                        if 0 <= f_idx < len(RSS_FEEDS) and 0 <= a_idx < len(feeds_candidates[f_idx]):
+                            feed = RSS_FEEDS[f_idx]
+                            chosen_entry = feeds_candidates[f_idx][a_idx]
+                            
                             all_news.append({
                                 "category": feed["category"],
                                 "outlet": feed["outlet"],
@@ -140,16 +156,21 @@ def fetch_feed_data():
                                 "summary": item.get("summary", "요약을 불러오는 데 실패했습니다."),
                                 "pub_date": parse_iso_date(chosen_entry)
                             })
-                    ai_success = True
-                    break # 성공 시 재시도 루프 탈출
-                except Exception as e:
-                    print(f"Attempt {attempt + 1} failed for {feed['outlet']}: {e}")
-                    if attempt < max_retries - 1:
-                        time.sleep(10 * (attempt + 1))
-        
-        # 3. AI 큐레이션 실패 시(또는 API 키가 없는 경우) 단순 최신순 Fallback 처리
-        if not ai_success:
-            print(f"Fallback to simple parsing for {feed['outlet']}")
+                ai_success = True
+                print(f"Successfully curated {len(all_news)} articles via AI.")
+                break # 성공 시 재시도 루프 탈출
+            except Exception as e:
+                print(f"Batch AI Curation failed: {e}")
+                if attempt < max_retries - 1:
+                    time.sleep(20 * (attempt + 1))
+
+    # 4. Fallback: AI 호출 완전 실패 시 단순 최신순으로 가져오기
+    if not ai_success:
+        print("Fallback to simple parsing for all feeds.")
+        all_news = []
+        for feed_index, feed in enumerate(RSS_FEEDS):
+            candidate_entries = feeds_candidates[feed_index]
+            target_count = min(feed["limit"], len(candidate_entries))
             for entry in candidate_entries[:target_count]:
                 all_news.append({
                     "category": feed["category"],
