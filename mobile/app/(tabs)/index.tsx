@@ -31,11 +31,6 @@ export default function HomeScreen() {
     return data.articles.filter((a) => a.category === selectedCategory);
   }, [data, selectedCategory]);
 
-  const handlePressArticle = (article: any) => {
-    setSelectedArticle(article);
-    router.push('/article/detail');
-  };
-
   if (isLoading) {
     return (
       <View style={[styles.center, { backgroundColor }]}>
@@ -63,7 +58,7 @@ export default function HomeScreen() {
       <FlatList
         data={filteredArticles}
         keyExtractor={(item, index) => item.link + index}
-        renderItem={({ item }) => <NewsCard article={item} onPress={handlePressArticle} />}
+        renderItem={({ item }) => <NewsCard article={item} />}
         contentContainerStyle={styles.listContent}
         showsVerticalScrollIndicator={false}
       />

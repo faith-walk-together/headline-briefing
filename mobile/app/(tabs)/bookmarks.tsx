@@ -19,11 +19,6 @@ export default function BookmarksScreen() {
   const subtextColor = useThemeColor({}, 'subtext');
   const borderColor = useThemeColor({}, 'border');
 
-  const handlePressArticle = (article: any) => {
-    setSelectedArticle(article);
-    router.push('/article/detail');
-  };
-
   if (bookmarks.length === 0) {
     return (
       <SafeAreaView style={[styles.center, { backgroundColor }]}>
@@ -41,7 +36,7 @@ export default function BookmarksScreen() {
       <FlatList
         data={bookmarks}
         keyExtractor={(item) => item.link}
-        renderItem={({ item }) => <NewsCard article={item} onPress={handlePressArticle} />}
+        renderItem={({ item }) => <NewsCard article={item} />}
         contentContainerStyle={styles.listContent}
         showsVerticalScrollIndicator={false}
       />
