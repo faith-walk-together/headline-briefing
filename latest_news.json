@@ -1,405 +1,397 @@
 {
-  "last_updated": "2026-07-02T22:08:31.705798+00:00",
+  "last_updated": "2026-07-03T22:07:30.515603+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "민주당, 법제사법위원회 즉각 가동…국민의힘은 '원 구성 협조 없다' 반발",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008639380&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "민주당이 법사위를 즉각 가동하며 국회 운영에 속도를 내고 있습니다.이에 국민의힘은 국회 상임위원회 구성에 협조하지 않겠다고 밝혀 여야 간 대립이 격화되고 있습니다.이번 충돌로 향후 국회 운영에 난항이 예상됩니다.",
-      "pub_date": "2026-07-02T16:51:00+00:00"
+      "title": "이 대통령, 영남을 국내 제조업 1위 넘어 세계 1위로 만들겠다며 우주항공 등 투자 발표",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008640845&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령이 영남 지역을 세계 첨단 제조업의 중심으로 육성하겠다고 밝혔습니다.이를 위해 우주항공 등 첨단산업 분야에 대규모 투자를 단행할 계획입니다.이번 투자는 영남 지역의 경제 활성화와 국가 경쟁력 강화에 기여할 것으로 기대됩니다.",
+      "pub_date": "2026-07-03T07:31:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "국정원, 미국 하원 보고서에 '쿠팡의 주장은 사실과 다른 허위 사실' 반박",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008639410&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "국정원이 미국 하원 보고서에 언급된 내용에 대해 '쿠팡의 주장은 사실과 다르며 허위 사실'이라고 공식 반박했습니다.해당 보고서는 쿠팡 관련 논란을 다루고 있으며, 국정원은 허위 주장에 유감을 표명했습니다.이는 국내 기업과 관련된 국제적인 논란으로 확대될 가능성이 있습니다.",
-      "pub_date": "2026-07-02T10:23:00+00:00"
+      "title": "이 대통령 지지율, 3주 만에 54%로 반등",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008640204&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령의 국정 지지율이 3주 만에 54%로 상승하며 반등했습니다.이는 최근 발표된 경제 및 민생 관련 정책들이 긍정적인 영향을 미친 것으로 분석됩니다.민주당은 41%, 국민의힘은 26%의 지지율을 기록하며 여야 지지율 격차가 벌어졌습니다.",
+      "pub_date": "2026-07-03T02:12:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "연방수사국(FBI), 조지아주 선거 기록 조사에 수십 명의 분석관 투입",
-      "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
-      "summary": "연방수사국(FBI)이 조지아주 선거 기록 분석을 위해 수십 명의 전문 분석관을 배정했습니다.이는 선거의 투명성과 공정성 확보를 위한 광범위한 조사로 풀이됩니다.이번 조사는 향후 미국 선거 제도 전반에 중요한 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-07-02T21:33:12+00:00"
+      "title": "대법원, 폭스 뉴스 전 기자에 출처 비공개로 벌금 부과 허용",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html",
+      "summary": "대법원은 폭스 뉴스 전 기자 캐서린 헤리지에게 취재원 공개 거부로 벌금을 부과할 수 있도록 허용했습니다.이는 언론의 자유와 취재원 보호에 대한 논란을 다시 불러일으키고 있습니다.이번 판결은 언론인들에게 중대한 법적 선례로 작용할 것으로 보입니다.",
+      "pub_date": "2026-07-02T21:42:20+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "로버츠 대법원장, 혼란스러운 임기 속 대법원을 이끌고 주도적인 역할 수행",
+      "title": "미국 당국, 이스라엘이 이란 협상가 암살을 모의했다고 판단",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "summary": "미국 정보 당국은 이스라엘이 이란 협상가들을 암살하려는 계획을 세웠다고 판단했습니다.이는 중동 정세의 긴장을 고조시킬 수 있는 매우 민감한 정보입니다.미국은 이스라엘의 행동을 주시하며 사태를 예의주시하고 있습니다.",
+      "pub_date": "2026-07-03T18:10:21+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
+      "title": "격동의 임기 중, 로버츠 대법원장 질서 없는 대법원을 지휘",
       "link": "https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html",
-      "summary": "존 로버츠 대법원장이 격동의 임기 동안 미국 대법원을 이끌며 질서 유지에 핵심적인 역할을 했습니다.그는 첨예한 사회적 쟁점들을 다루는 과정에서 법원의 권위와 독립성을 지키려 노력했습니다.로버츠 대법원장의 리더십은 향후 대법원의 방향 설정에 중요한 영향을 미칠 것으로 보입니다.",
+      "summary": "혼란스러운 임기 동안 로버츠 대법원장이 질서가 없는 대법원을 이끌었습니다.이는 대법원 내부의 갈등과 의견 불일치가 심화되었음을 시사합니다.로버츠 대법원장의 리더십이 시험대에 오르며 사법부의 독립성에 대한 우려가 제기되고 있습니다.",
       "pub_date": "2026-07-02T17:05:26+00:00"
     },
     {
       "category": "정치",
-      "outlet": "NYT",
-      "title": "이민세관집행국(ICE)의 단속 강화로 5일 만에 이민자 체포 1만 명 급증",
-      "link": "https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html",
-      "summary": "이민세관집행국(ICE)의 단속이 강화되면서 5일 만에 1만 명 이상의 이민자가 체포되었습니다.이는 미국 정부의 이민 정책 변화를 시사하며 국경 지역 긴장을 고조시키고 있습니다.이번 조치로 이민 커뮤니티와 인권 단체들의 반발이 예상됩니다.",
-      "pub_date": "2026-07-02T05:31:42+00:00"
+      "outlet": "연합뉴스",
+      "title": "대통령 지지율 54%로 3주 만에 반등, 경제 및 민생 이슈가 주효",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607032246492QE",
+      "summary": "대통령의 국정 지지율이 3주 만에 54%로 상승하며 반등에 성공했습니다.지지율 상승의 주요 요인으로는 경제 및 민생 안정화 노력이 꼽힙니다.이번 지지율 반등은 향후 국정 운영에 긍정적인 영향을 미칠 것으로 전망됩니다.",
+      "pub_date": "2026-07-03T13:46:51+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국정원, '미국 하원 보고서 속 쿠팡 주장은 명백한 허위'라고 강력 반박",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260703045554cac",
-      "summary": "국정원이 미국 하원 보고서에서 제기된 쿠팡 관련 주장에 대해 '명백한 허위 사실'이라며 공식적으로 반박했습니다.이는 미국 의회 보고서가 일방적인 주장만을 반영했다는 점을 강조한 것입니다.이번 논란은 기업 활동과 국가 정보 기관의 역할에 대한 중요한 질문을 던지고 있습니다.",
-      "pub_date": "2026-07-02T19:55:55+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "연합뉴스",
-      "title": "국회 국정조사특위, 송파구 선거관리위원회 및 올림픽공원 개표소 현장조사 실시",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607022242103Gq",
-      "summary": "국회 국정조사특별위원회가 송파구 선거관리위원회와 올림픽공원 내 개표소에 대한 현장조사를 진행했습니다.이는 선거 관련 의혹을 해소하고 투표 시스템의 투명성을 검증하기 위한 조치입니다.현장 조사는 공정성 논란을 해소하고 국민 신뢰를 회복하는 데 목적을 두고 있습니다.",
-      "pub_date": "2026-07-02T13:42:13+00:00"
+      "title": "민주당, 보완수사권 폐지 가속페달 밟지만 신중론도 제기",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260703221004a6z",
+      "summary": "민주당이 보완수사권 폐지 추진에 속도를 내고 있어 검찰 개혁에 대한 의지를 보였습니다.하지만 당내에서는 관련 법안의 부작용을 우려하는 신중론도 함께 제기되고 있습니다.이는 향후 사법 시스템 개편을 둘러싼 여야 간의 치열한 논쟁을 예고합니다.",
+      "pub_date": "2026-07-03T13:10:05+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "노동당, 집권 준비 실패 인정…전 총리 수석 보좌관 발언",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 노동당이 집권 준비에 실패했다고 전 총리 수석 보좌관이 인정했습니다.이는 차기 집권 가능성을 높게 평가받는 노동당의 내부 약점을 드러낸 것으로 평가됩니다.향후 당의 리더십과 정책 방향에 대한 논의가 활발해질 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T12:23:14+00:00"
+      "title": "스타머, 사임 결정의 지극히 개인적인 이유 밝히며 번햄에 경고",
+      "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "키어 스타머가 사임 후 첫 인터뷰에서 자신의 결정이 매우 개인적인 이유였다고 고백했습니다.그는 차기 총리 후보인 앤디 번햄에게 미래 리더십에 대한 경고의 메시지를 전달했습니다.이는 노동당 내부의 권력 이양 과정과 향후 정당 운영 방향에 큰 영향을 미칠 것으로 보입니다.",
+      "pub_date": "2026-07-03T21:26:53+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "스타머 당수, 강제 입양 '역사의 오점'이라며 공식 사과 표명",
-      "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
-      "summary": "노동당 대표 키어 스타머가 과거 영국의 강제 입양 관행을 '우리 역사의 오점'이라고 비판하며 공식 사과했습니다.이는 수십 년간 지속된 아동 인권 침해에 대한 국가적 반성을 의미합니다.이번 사과는 피해자들에게 위로를 전하고 재발 방지를 약속하는 중요한 메시지입니다.",
-      "pub_date": "2026-07-02T11:53:28+00:00"
+      "title": "번햄, 총리 취임 시 조기 총선 실시 배제",
+      "link": "https://www.bbc.co.uk/news/articles/c982r5z7v0no?at_medium=RSS&at_campaign=rss",
+      "summary": "앤디 번햄이 총리가 될 경우 조기 총선 실시 가능성을 배제한다고 밝혔습니다.이는 영국 정치의 안정성과 차기 총선 시기에 대한 불확실성을 해소하려는 의도로 풀이됩니다.번햄의 이번 발언은 향후 정국 운영 전략에 대한 중요한 신호로 해석됩니다.",
+      "pub_date": "2026-07-03T18:22:58+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "백악관, '한국 정부가 쿠팡을 표적 삼아 불공정 행위를 용납하지 않을 것' 경고",
+      "title": "백악관, 이재명 정부의 쿠팡 표적 조사를 비판하며 불공정 관행 용납 않겠다고 경고",
       "link": "https://www.chosun.com/international/us/2026/07/03/GGAA4CADWZEYHNHNGZ47YIMKLM/",
-      "summary": "백악관이 한국 정부가 쿠팡을 표적 삼아 불공정 관행을 벌이고 있다는 점을 지적하며 용납하지 않을 것이라고 경고했습니다.이는 미국 정부가 한국 내 기업 활동에 대해 직접적으로 개입하는 매우 이례적인 발언입니다.이번 경고는 한미 경제 관계와 국내 기업 환경에 상당한 파장을 일으킬 것으로 보입니다.",
+      "summary": "백악관이 이재명 정부가 쿠팡을 표적으로 삼고 있다고 지적하며 강도 높은 비판을 제기했습니다.미국은 불공정한 기업 활동 관행을 용납하지 않을 것이라고 강력히 경고했습니다.이는 한미 통상 관계에 영향을 미칠 수 있는 외교적 문제로 확대될 가능성이 있습니다.",
       "pub_date": "2026-07-02T18:37:49+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프 행정부, 범죄 수사 증가 후 직장 내 이민 단속 강화 계획",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUtZTzlZZFp6THBENl9BVW1PeWtnSkpGSlVuQUowY1dxamR5WEFFMmk4ZkZud2VZZ1U1TVkxLUJYNkJUb3dnRE1BOEtpZzVqS1ptVGhLOENzajBTY21vbUhDYnI3ZGNrUk4yY2lmcWlDWDVsUkxDMXZNOTlfM2c5N2RITF9QWmNEUmdKRw?oc=5",
-      "summary": "트럼프 행정부가 범죄 수사 건수 증가에 따라 직장 내 이민 단속을 강화할 계획이라고 독점 보도되었습니다.이는 이민 정책의 엄격성을 더욱 높이려는 움직임으로 해석됩니다.이번 계획은 미국 내 이민자 커뮤니티와 기업들에게 상당한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T20:23:25+00:00"
+      "title": "미국 당국, 이스라엘이 이란 협상가들을 암살할 수 있다는 우려에 이란에 경고 시도",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzBLMEJkVTY4VTAweUExNkFWMHRNcEhnN20zcGY3YmVrcFJLQlBBN1E1VDRHZ1R3aWdIZ0ZqbVNoa3dacXAzclpZQ1h1amNuNmVyajkwN1RILXFCbGxoZGJ3N2RKMElaaWVVQ3llTEZXMU9zTHlJaVpXVnVNSkVBOEd3?oc=5",
+      "summary": "미국 당국이 이스라엘이 이란 협상가들을 암살하려 한다는 우려 때문에 이란에 사전 경고를 시도했습니다.이는 중동 지역의 심각한 긴장과 잠재적 충돌 가능성을 시사합니다.미국은 외교적 해결을 위해 양측의 자제를 촉구하고 있습니다.",
+      "pub_date": "2026-07-03T13:54:40+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "전 NATO 관계자, '푸틴이 우크라이나 전쟁 종식을 시사하기 시작했다' 주장",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZVZTJENlNjUWM4UnJVa0tDc3NfUGZaOUNMajU4MmphWU1udnpGOUg5VEJucFVHOWNHc2QyVmF0UFk3dnB0bXBFRXN0U0lOVUtoZ28tVWppUDJZTlIzcUNaRlpnVEM5Z2pOX2pwSUFIUmlfa1A1bmRFSkQtUXNzS2tjOVlZVzNPa19MLTJ3?oc=5",
-      "summary": "전 NATO 관계자가 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁 종식을 시사하는 발언을 하기 시작했다고 밝혔습니다.이는 전쟁 장기화에 따른 러시아 내부의 압박과 전략 변화 가능성을 보여줍니다.국제사회는 푸틴의 발언에 주목하며 평화 협상 재개 가능성을 조심스럽게 관측하고 있습니다.",
-      "pub_date": "2026-07-02T17:24:45+00:00"
+      "title": "대법원, 폭스 뉴스 전 기자에 출처 비공개로 인한 일일 벌금 부과 중단 요청 거부",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzh1MjdiUVU4S1p4a2lUMG5CR2Nqc0M2UUdQQVZQYmVyV1JNaEdzX0hNYUlCSnBfSW9GYnFhdFczVHlKMkJkLXpoWEJGVUlEd2Z0VEo3NU5ZbmVzX2N5c1N0Q0tKaWxfaGdYeElMdGdzdzFTMFE3eHhKaFlxdDZnVHZjTDBxTDZ0bUpXN2pEX2M?oc=5",
+      "summary": "대법원이 폭스 뉴스 전 기자의 취재원 비공개로 인한 일일 벌금 부과 중단 요청을 거부했습니다.이는 언론의 자유와 취재원 보호 의무 사이의 오랜 논쟁에 다시 불을 지폈습니다.이 결정은 언론인들의 취재 활동에 중요한 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-07-03T00:41:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프 전 대통령의 재무 공개, 재임 이후 20억 달러 이상의 수입 드러나",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEVfUjZ3UnQ3UG0xZHlTQ3I3ZzZYMUFrRDlEM1Y5M3dVVW54ZG1hT2FtWFlqLWpQM01XVV9LdE40Mi1fbzdXMjJZZzF3bjN4MGdjQlhjUXVRZFJIR010eWN5ck04Uy04UXpnUGhsR1BLc0UxbjlQeERxUGJnV3FWU0NQc2JfeVR5ckd5T0pLdw?oc=5",
-      "summary": "트럼프 전 대통령의 재무 정보 공개를 통해 그가 재임 이후 20억 달러가 넘는 수입을 올린 사실이 밝혀졌습니다.이는 역대 미국 대통령 중 전례 없는 규모의 수입으로 논란을 낳고 있습니다.대통령의 공적 지위와 개인적 이익 추구 사이의 윤리적 문제에 대한 질문이 제기되고 있습니다.",
-      "pub_date": "2026-07-02T11:10:36+00:00"
+      "title": "전 샤바크 국장, 네타냐후 총리가 이스라엘의 미래를 희생시키고 있다고 비판",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWVF3aFZ2a0JKaHdsM05oNy1wYk5GSGhvWDR3X3JVampsZG1FOTVFZzR5MWgxMWx3Y3lNa3ZnelFxQ2UxRWF5YU95TzJzVGVQaFhaOUgzTkZfWk1vZjRVZlNSLW1RaS00QzZKUG5PakxlWlU?oc=5",
+      "summary": "이스라엘 전 샤바크 국장이 베냐민 네타냐후 총리가 국가의 미래를 희생시키고 있다고 강하게 비판했습니다.이 발언은 현재 이스라엘 정부의 정책과 리더십에 대한 내부의 깊은 우려를 반영합니다.총리의 사임 요구와 정치적 불안정성이 고조될 수 있음을 시사합니다.",
+      "pub_date": "2026-07-03T12:03:09+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "6월 고용 보고서, 미국 노동 시장이 느리지만 꾸준한 회복세 보임을 시사",
+      "title": "6월 고용 보고서, 미국 노동 시장이 느리지만 꾸준한 성장을 보임",
       "link": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html",
-      "summary": "미국의 6월 고용 보고서에 따르면 노동 시장이 느리지만 꾸준한 회복세를 보이고 있는 것으로 나타났습니다.이는 인플레이션 압력이 완화되고 경제 연착륙 가능성이 커지고 있음을 시사합니다.하지만 여전히 불확실성이 존재하여 정책 결정자들의 신중한 접근이 요구됩니다.",
+      "summary": "6월 고용 보고서에 따르면 미국 노동 시장은 느리지만 꾸준한 성장세를 보였습니다.이는 인플레이션 압력의 원인이 아니며, 경제가 과열되지 않고 안정적으로 나아가고 있음을 시사합니다.연방준비제도(Fed)의 통화 정책 결정에 중요한 영향을 미칠 것으로 예상됩니다.",
       "pub_date": "2026-07-02T18:23:50+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "인공지능(AI)이 경제를 재편 중이지만, 그 영향을 측정하기는 매우 어려워",
+      "title": "인공지능이 경제를 재편하고 있지만, 그 영향을 측정하기는 어려움",
       "link": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html",
-      "summary": "인공지능(AI) 기술이 전 세계 경제 구조를 근본적으로 재편하고 있으나, 그 파급 효과를 정확히 측정하기는 매우 어렵습니다.AI는 생산성 향상과 새로운 산업 창출을 이끌지만, 노동 시장 변화와 불평등 심화 등의 복합적인 영향을 미칠 수 있습니다.경제학자들은 AI 시대의 새로운 측정 지표 개발에 고심하고 있습니다.",
+      "summary": "인공지능(AI)이 전 세계 경제 구조를 급격히 변화시키고 있습니다.AI의 실제 경제적 영향을 정확하게 측정하고 평가하는 것은 현재 매우 어렵습니다.이는 정책 입안자와 기업들이 새로운 경제 환경에 적응하는 데 어려움을 겪을 수 있음을 의미합니다.",
       "pub_date": "2026-07-02T14:44:42+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프 전 대통령, 암호화폐 사업으로 약 14억 달러 수익…재무 공개에서 확인",
-      "link": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html",
-      "summary": "도널드 트럼프 전 대통령이 암호화폐 사업을 통해 약 14억 달러의 수익을 올린 사실이 재무 정보 공개를 통해 드러났습니다.이는 그의 개인 재산 증식과 관련된 논란을 다시 불러일으키고 있습니다.암호화폐 시장의 변동성과 규제 이슈 속에서 전직 대통령의 투자가 주목받고 있습니다.",
-      "pub_date": "2026-07-01T14:43:32+00:00"
+      "title": "미국, 북미자유무역협정(USMCA) 갱신 거부로 10년 만료 시한 시작",
+      "link": "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html",
+      "summary": "미국이 북미자유무역협정(USMCA)의 갱신을 거부하면서, 협정 만료까지 10년의 시한이 시작되었습니다.이 결정은 북미 3개국 간의 무역 관계에 큰 불확실성을 초래할 수 있습니다.향후 새로운 무역 협상 또는 관계 재정립이 필요할 것으로 보입니다.",
+      "pub_date": "2026-07-01T18:30:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "구글, 안드로이드를 이용한 경쟁사 차단 혐의로 41억 유로 벌금 부과",
+      "title": "구글, 안드로이드를 이용해 경쟁사 차단 혐의로 41억 유로 벌금 부과 명령",
       "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "summary": "구글이 안드로이드 운영체제를 활용해 경쟁사들의 시장 진입을 방해한 혐의로 유럽연합으로부터 41억 유로(약 7조 원)의 막대한 벌금을 부과받았습니다.이는 반독점 규제 당국이 거대 기술 기업의 시장 지배력 남용에 강력하게 대응하고 있음을 보여줍니다.이번 판결은 기술 기업들의 사업 전략에 큰 영향을 미칠 것으로 예상됩니다.",
+      "summary": "구글이 안드로이드 운영체제를 이용해 경쟁사들을 부당하게 차단한 혐의로 41억 유로의 벌금을 내게 되었습니다.이는 유럽연합의 강력한 반독점 규제 의지를 보여주는 사례입니다.이번 판결은 글로벌 빅테크 기업들의 시장 지배력에 대한 경고로 작용할 것입니다.",
       "pub_date": "2026-07-02T09:46:11+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "미국, 북미 무역 협정 장기 갱신 불허…만료 10년 시계 작동 시작",
+      "title": "미국, 북미 무역 협정 장기 갱신을 거부",
       "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국이 북미 무역 협정(USMCA)의 장기 갱신을 불허하면서 10년 후 협정 만료 시한 시계가 시작되었습니다.이는 북미 지역의 무역 및 경제 관계에 중요한 불확실성을 초래할 수 있습니다.캐나다와 멕시코는 미국의 결정에 우려를 표하며 향후 협상 방향에 주목하고 있습니다.",
+      "summary": "미국이 북미 무역 협정(USMCA)의 장기 갱신을 거부하기로 결정했습니다.이로 인해 북미 3개국 간의 무역 관계에 대한 새로운 논의가 시작될 것입니다.이번 결정은 미국이 자국의 이익을 최우선으로 하는 통상 정책을 강화하고 있음을 시사합니다.",
       "pub_date": "2026-07-01T18:56:36+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "'메타 쇼크'에 코스피 7.89% 폭락, SK하이닉스 14% 하락 기록",
-      "link": "https://www.sedaily.com/article/20063146",
-      "summary": "메타 플랫폼스의 실적 부진과 인공지능(AI) 기술 정점론이 확산되면서 '메타 쇼크'가 국내 증시에 직격탄을 날렸습니다.코스피 지수는 하루 만에 7.89% 폭락했으며, 특히 SK하이닉스는 14% 급락했습니다.이번 사태는 기술주 중심의 시장 변동성을 다시 한번 확인시켜 주었습니다.",
-      "pub_date": "2026-07-02T07:52:46+00:00"
+      "title": "삼성전자와 SK하이닉스 8% 급등, 코스피 8000선 회복",
+      "link": "https://www.sedaily.com/article/20063481",
+      "summary": "삼성전자와 SK하이닉스 등 주요 반도체 주식들이 8% 넘게 급등했습니다.이로 인해 코스피 지수가 심리적 저항선인 8000선을 회복하는 데 성공했습니다.반도체 업황 회복 기대감이 증시에 긍정적인 영향을 미친 것으로 분석됩니다.",
+      "pub_date": "2026-07-03T04:45:51+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "소니, 새로운 플레이스테이션 게임용 디스크 생산 중단 선언",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzBHcTJUSVFDTWNLR3Y3RkVoY3VFLVBlbUhHWWNQZnJSVThmQnkydFZfalJlUGI2ak85ODFSOWRXWmNPRTFZa3FNcC1feW1TZ0ZtY1JUYmkwT0ZmYkpKQTFlOGt0QU9uLXFXLWt4V0pfY2xuUHU1QTY3dXJzeFdWcmN1RHFhelc2LW1PQVVGWThqRVR6ZXN6RnRaZkc2WktyV3JOV3dGLUhZejNmeW94Ty1yVUtsQmNmUU1pbmFTdVFYWEk?oc=5",
-      "summary": "소니가 새로운 플레이스테이션 게임용 디스크 생산을 중단한다고 발표했습니다.이는 게임 산업의 디지털 전환이 가속화되고 있음을 보여주는 중요한 변화입니다.향후 게임 유통 방식과 소비자들의 게임 접근성에 큰 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T20:56:37+00:00"
+      "title": "미국 경제의 간략한 역사",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGpzT0QyRW1BWEt5Szg1cGRlUnJQekhOX1lnVk1yRkR4N3ozS3JiZW12elc1QzRma21ndGpMb1ZvZVBkY3JNRDJ6ampWUm95MDVWNGNXUWZPNjFmVGtTcTAwYzVmMGNKZlRHWEplY085Q2FOMk5UV1htTjQzd1dlNWhmVWU1U2c4YmlaU3l4X1FGZGUtX0lZLVpWOVduSXhvLWVaZ3l2NHJkano5Ym56LTV3?oc=5",
+      "summary": "미국 경제의 주요 발전 과정과 변화를 간략하게 다루는 기사입니다.중요한 경제적 전환점과 정책들이 어떻게 현재 미국 경제를 형성했는지 설명합니다.역사적 맥락을 통해 현재의 경제 현상을 이해하는 데 도움을 줍니다.",
+      "pub_date": "2026-07-03T20:57:33+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "일본 엔화, 40년 만의 최저치 기록…글로벌 경제에 미칠 영향 주목",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OUFhteUs5X3dBZGRiTFBzRFJNLUZSaHliRTRJM3JGbm5FOFZ4R3U4U25wTFFNcW1TQnVXYWg4WmdfSlNqSk41RlA4b24yRmZjQmhCZ1BkOXdpTEVOTnpaVkhqOVhNZw?oc=5",
-      "summary": "일본 엔화 가치가 40년 만에 최저 수준으로 떨어지면서 글로벌 경제에 미칠 파장에 이목이 집중되고 있습니다.엔화 약세는 일본 경제에 복합적인 영향을 미치며, 특히 수출 기업에는 유리하지만 수입 물가 상승 압력으로 작용할 수 있습니다.이는 전 세계 환율 시장과 투자 환경에 중요한 변화를 가져올 수 있습니다.",
-      "pub_date": "2026-07-01T23:30:25+00:00"
+      "title": "명확히 설명해 드립니다: 7월 4일 독립기념일 축하 행사 비용은 얼마일까요?",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzBvaWpYcnpzUG9fQWgxcTNseUZVSmljdVNQX1JMWE1iX2MyNHlGcEVqZEdxT2lOX2pEMUNycnZDbE9WcGFlYnVWSDVkLVh3Tnd3WktLbFhUV0stVWx2T3F1bXpYZG1Dbk5JbjR1VHNRQkNzckphT2VRdkRLR0RKcVU0cG5fckZJZ3RXQ3ZGZC16WVFBZ0lscnVBRDA3Umotb19zR09R?oc=5",
+      "summary": "다가오는 7월 4일 독립기념일 축하 행사에 예상되는 비용을 분석합니다.식료품, 불꽃놀이, 여행 등 다양한 항목의 지출을 상세히 다룹니다.소비자들이 합리적인 예산을 계획하는 데 실질적인 정보를 제공합니다.",
+      "pub_date": "2026-07-03T16:13:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프의 최신 경제 지표, CNN 분석가로부터 '비논리적'이라는 지적과 함께 위험 신호 감지",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wNFFndVNHVEZocDI2UXhTS3pQSEo5Yk9sY0haQlN1dWl3SU5HdFpzdFRoTXl6YXVfN1dVeVE5Nlc5aVE4bnNqMQ?oc=5",
-      "summary": "도널드 트럼프 전 대통령과 관련된 최신 경제 수치가 CNN 분석가들로부터 '비논리적'이라는 비판과 함께 여러 위험 신호를 보이고 있다는 지적을 받았습니다.이는 특정 정치인의 경제적 영향력과 관련된 우려를 증폭시키고 있습니다.분석가들은 현재 경제 지표의 투명성과 잠재적 문제점에 대해 심도 있는 논의가 필요하다고 강조했습니다.",
-      "pub_date": "2026-07-02T21:03:17+00:00"
+      "title": "한 제약회사가 성공의 길을 개척한 방법",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEswM013TGJ5T2FyUkFZcVE2ZVM0d0xEQjIwekYxeEhaaV9idFFHdG1xczFtZ1BCZ2F2czVHaV9PeThBTVVBS0tQNDM4WFRjRzQ3enpwYTl1WTU3S3pkeEFMZlVlUHBKRUtya19rcHNDa1UtM3U4ZDZ2aURFUFN0ZDFqdWRBdw?oc=5",
+      "summary": "특정 제약회사가 어려운 시장 환경 속에서 어떻게 성공을 이뤘는지 조명합니다.혁신적인 연구 개발, 효과적인 마케팅 전략, 그리고 경영 비결을 분석합니다.이는 다른 기업들에게도 귀감이 될 만한 성공 사례를 제시합니다.",
+      "pub_date": "2026-07-03T06:24:41+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "구글, 유럽연합 반독점 소송에서 패소…7조 3천억 원 규모의 과징금 확정",
-      "link": "https://zdnet.co.kr/view/?no=20260702222358",
-      "summary": "구글이 유럽연합(EU)과의 반독점 소송에서 최종 패소하여 7조 3천억 원에 달하는 막대한 과징금을 확정받았습니다.이는 거대 기술 기업의 시장 지배력 남용에 대한 유럽연합의 강력한 규제 의지를 보여줍니다.이번 판결은 전 세계 기술 기업들에게 중요한 선례로 작용할 것입니다.",
-      "pub_date": "2026-07-02T13:24:33+00:00"
+      "title": "삼성SDI, 배터리 초격차 목표로 2040년까지 국내에 25조 원 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260703151858",
+      "summary": "삼성SDI가 배터리 기술의 '초격차' 확보를 위해 2040년까지 국내 생산 시설에 25조 원을 투자합니다.이번 투자는 차세대 배터리 개발과 생산 능력 확충에 집중될 예정입니다.이는 한국의 배터리 산업 경쟁력을 강화하고 미래 성장 동력을 확보하는 데 기여할 것입니다.",
+      "pub_date": "2026-07-03T06:53:35+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "오픈AI, 챗GPT 추론 비용을 절반으로 절감…'컴퓨트 멀티플라이어' 최적화 전략 공개",
-      "link": "https://zdnet.co.kr/view/?no=20260702214601",
-      "summary": "오픈AI가 챗GPT의 인공지능 추론 비용을 절반으로 줄이는 데 성공했으며, 이를 '컴퓨트 멀티플라이어' 최적화 전략 덕분이라고 밝혔습니다.이는 AI 서비스의 대중화와 접근성을 크게 향상시킬 수 있는 중요한 기술 발전입니다.비용 절감은 더 많은 기업과 사용자가 AI 기술을 활용하는 계기가 될 것으로 보입니다.",
-      "pub_date": "2026-07-02T12:46:01+00:00"
+      "title": "김동관 한화 부회장, 영남권 우주항공 및 인공지능에 55조 원 투자로 우주 주권 확보 강조",
+      "link": "https://zdnet.co.kr/view/?no=20260703151218",
+      "summary": "김동관 한화 부회장이 영남권에 우주항공과 인공지능(AI) 분야에 55조 원을 투자하겠다고 발표했습니다.그는 이를 통해 대한민국의 우주 주권을 확보하고 미래 핵심 산업을 선도할 것이라고 강조했습니다.이번 대규모 투자는 국가 성장 동력 창출과 첨단 기술력 강화에 크게 기여할 전망입니다.",
+      "pub_date": "2026-07-03T06:28:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'빅쇼트' 마이클 버리, 한국 반도체 대규모 투자에 '종말의 시작' 경고",
-      "link": "https://www.etnews.com/20260702000486",
-      "summary": "영화 '빅쇼트'의 실제 모델인 투자자 마이클 버리가 한국의 800조 원 규모 반도체 대규모 투자를 두고 '종말의 시작'이라고 경고했습니다.이는 반도체 시장의 과열과 잠재적 위험에 대한 그의 비관적인 전망을 보여줍니다.버리의 발언은 국내외 반도체 산업 관계자들에게 큰 파장을 일으킬 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T12:32:11+00:00"
+      "title": "한국형 스타링크 추진: 우주청, 2035년 저궤도 위성망 완성 목표",
+      "link": "https://www.etnews.com/20260703000305",
+      "summary": "한국판 스타링크 구축 계획에 따라 우주청이 2035년까지 저궤도 위성망을 완성할 예정입니다.이는 국가 통신 인프라 강화와 우주 기술 주권 확보에 중요한 진전입니다.이번 프로젝트는 국내 우주 산업 발전에 큰 동력을 제공할 것으로 기대됩니다.",
+      "pub_date": "2026-07-03T07:58:14+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "미국 AI 규제 압박 속, 오픈AI '미국 정부와 지분 5% 공유, 수익 배분' 논의",
-      "link": "https://www.etnews.com/20260702000434",
-      "summary": "미국 정부의 인공지능(AI) 규제 압박이 거세지는 가운데, 오픈AI가 미국 정부와 지분 5%를 공유하고 수익을 배분하는 방안을 논의 중인 것으로 알려졌습니다.이는 AI 기술의 공공성과 국가 안보 문제를 해결하기 위한 새로운 형태의 협력 모델을 제시합니다.정부와 민간 기업 간의 관계 설정에 중요한 선례가 될 것으로 보입니다.",
-      "pub_date": "2026-07-02T08:25:48+00:00"
+      "title": "삼성, 영남에 60조 원 피지컬 인공지능 투자로 20만 개 일자리 창출 기대",
+      "link": "https://www.etnews.com/20260703000292",
+      "summary": "삼성이 영남 지역에 피지컬 인공지능(AI) 분야에 60조 원을 투자할 계획을 발표했습니다.이 투자는 약 20만 개의 새로운 일자리를 창출할 것으로 예상됩니다.삼성의 이번 대규모 투자는 지역 경제 활성화와 첨단 산업 육성에 크게 기여할 것입니다.",
+      "pub_date": "2026-07-03T07:18:33+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "삼성전기, 일본 스미토모화학과 4,800억 원 규모 '글라스 코어' 합작법인 설립",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667189",
-      "summary": "삼성전기가 일본 스미토모화학과 4,800억 원을 출자하여 차세대 반도체 핵심 소재인 '글라스 코어' 생산 합작법인(GlaSSEM)을 설립했습니다.이는 인공지능(AI) 반도체 시대에 필수적인 초미세 회로 기판 기술을 선점하기 위한 전략적 투자입니다.양사의 협력은 글로벌 반도체 소재 시장에 큰 변화를 가져올 것으로 전망됩니다.",
-      "pub_date": "2026-07-02T16:54:09+00:00"
+      "title": "김동관 한화 부회장, 인공지능 우주 시대 위해 55조 원 투자 계획 발표",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=667273",
+      "summary": "김동관 한화 부회장이 인공지능(AI)과 우주 산업 발전을 위해 55조 원 규모의 대규모 투자를 발표했습니다.이는 한화그룹의 미래 핵심 사업 방향을 제시하며 국가 첨단 기술 경쟁력 강화에 기여할 것입니다.우주 시대를 선도하고 새로운 성장 동력을 확보하려는 의지를 보여줍니다.",
+      "pub_date": "2026-07-03T16:36:21+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK하이닉스, 협력사 상생 위해 5년간 1.4조 원 지원…기술 개발부터 판매까지",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667176",
-      "summary": "SK하이닉스가 협력사와의 상생 협력을 강화하기 위해 향후 5년간 총 1조 4천억 원을 지원한다고 밝혔습니다.이 지원금은 기술 개발부터 생산 효율화, 그리고 판매 채널 확대까지 전방위적인 분야에 사용될 예정입니다.이는 건강한 반도체 생태계를 구축하고 동반 성장을 이끌겠다는 SK하이닉스의 의지를 보여줍니다.",
-      "pub_date": "2026-07-02T16:27:01+00:00"
+      "title": "삼성, 영남에 60조 원 투자로 '피지컬 인공지능 벨트' 구축 추진",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=667277",
+      "summary": "삼성이 영남 지역에 60조 원을 투자하여 '피지컬 인공지능(AI) 벨트'를 구축할 계획입니다.이는 첨단 AI 기술과 제조업을 융합하여 새로운 산업 생태계를 조성하려는 목적입니다.이번 프로젝트는 지역 경제 활성화와 국가 AI 경쟁력 강화에 중대한 역할을 할 것입니다.",
+      "pub_date": "2026-07-03T16:29:18+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "앤트로픽, 삼성전자와 자체 인공지능 칩 생산 관련 논의 중",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/03/LX4H4WVH2VEFNMBI7YSB364O4M/",
-      "summary": "주요 인공지능(AI) 기업 앤트로픽이 삼성전자와 자체 AI 칩 생산에 대해 논의 중인 것으로 알려졌습니다.이는 AI 개발 경쟁이 심화되면서 AI 기업들이 맞춤형 하드웨어 확보에 나서고 있음을 보여줍니다.양사의 협력이 성사될 경우, AI 반도체 시장의 판도에 큰 영향을 미칠 것으로 전망됩니다.",
-      "pub_date": "2026-07-02T15:39:42+00:00"
+      "title": "삼성, 영남에 60조 원 투자하여 피지컬 인공지능 혁신 클러스터 조성 발표",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/03/ZZA253GSZZFBDBXJTPFOP3ATNM/",
+      "summary": "삼성이 영남 지역에 60조 원을 투자하여 피지컬 인공지능(AI) 혁신 클러스터를 조성한다고 밝혔습니다.노태문 사장은 이를 통해 대한민국이 첨단 AI 기술을 선도하는 거점이 될 것이라고 강조했습니다.이번 투자는 지역 경제 발전과 미래 산업 생태계 구축에 중대한 기여를 할 것으로 기대됩니다.",
+      "pub_date": "2026-07-03T07:33:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "구글, 유럽연합 과징금 취소 소송에서 패소…7조 원대 과징금 확정",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/02/JSUVXMYKCZEG3E6FV742TQ4UWQ/",
-      "summary": "구글이 유럽연합(EU)으로부터 부과받은 7조 원대 과징금에 대한 취소 소송에서 최종 패소했습니다.이는 EU가 거대 기술 기업의 반독점 행위에 대해 엄격한 잣대를 적용하고 있음을 재확인하는 판결입니다.이번 판결은 기술 기업들의 시장 전략에 중요한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T11:45:45+00:00"
+      "title": "오픈AI는 미국 정부에 지분, 앤트로픽은 미국 국민에게 주식... 인공지능 이익 공유 해법 분열",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/03/YN624J7J75B4RDQOWSCNFXWVNE/",
+      "summary": "선도적인 인공지능 기업인 오픈AI와 앤트로픽이 AI 이익 공유 방식에서 다른 길을 선택했습니다.오픈AI는 미국 정부에 지분을 제공하는 반면, 앤트로픽은 미국 국민에게 주식을 배분할 예정입니다.이는 AI 기술의 사회적 책임과 이익 분배에 대한 중요한 논의를 촉발할 것입니다.",
+      "pub_date": "2026-07-03T07:28:46+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "미국 정부, 앤트로픽의 가장 강력한 인공지능 모델에 대한 규제 해제",
+      "title": "미국, 앤트로픽의 가장 강력한 인공지능 모델에 대한 규제 해제",
       "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-      "summary": "미국 정부가 인공지능(AI) 기업 앤트로픽의 가장 강력한 AI 모델에 대한 규제를 해제했습니다.이는 AI 기술 개발 가속화를 위한 정부의 정책 변화를 반영합니다.이번 조치로 앤트로픽의 AI 모델은 상업적 활용 및 연구 분야에서 더욱 폭넓게 사용될 수 있을 것으로 기대됩니다.",
+      "summary": "미국 정부가 앤트로픽의 가장 강력한 인공지능 모델들에 대한 규제를 해제했습니다.이는 AI 기술 개발 가속화와 시장 경쟁 활성화에 중요한 영향을 미칠 것입니다.앤트로픽은 이번 조치로 AI 연구 및 상용화에 더욱 박차를 가할 수 있게 되었습니다.",
       "pub_date": "2026-07-01T03:17:31+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "틈새 기술이 인공지능(AI)의 핵심 병목 지점이 된 과정",
-      "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
-      "summary": "과거에는 틈새 시장에 머물렀던 특정 기술이 현재 인공지능(AI) 개발 및 확산에 있어 핵심적인 병목 지점으로 부상했습니다.이는 AI 산업의 성장과 함께 예상치 못한 공급망 및 기술적 한계가 드러나고 있음을 시사합니다.이러한 병목 현상은 AI 산업의 미래 발전 속도에 중대한 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-06-26T18:55:00+00:00"
+      "title": "폭염 속 전력망 부담 완화를 위해 데이터 센터에 비상 전력 사용 명령",
+      "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
+      "summary": "극심한 폭염으로 전력망에 부담이 가중되자, 데이터 센터에 비상 전력 사용이 명령되었습니다.이는 기후 변화가 주요 IT 인프라 운영에 미치는 직접적인 영향을 보여줍니다.전력 부족 사태를 막기 위한 비상조치이며, 에너지 효율과 지속 가능성에 대한 논의를 촉발합니다.",
+      "pub_date": "2026-07-02T18:54:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "구글, 안드로이드를 이용한 경쟁사 차단 혐의로 41억 유로 벌금 부과",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "summary": "구글이 안드로이드 운영체제를 이용해 경쟁사 진입을 방해한 혐의로 유럽연합으로부터 41억 유로(약 7조 원)의 막대한 벌금을 부과받았습니다.이는 거대 기술 기업의 반독점 행위에 대한 강력한 규제 조치입니다.이번 판결은 기술 시장의 공정한 경쟁 환경 조성에 중요한 영향을 미칠 것입니다.",
-      "pub_date": "2026-07-02T09:46:11+00:00"
+      "title": "인공지능 악용 위험 속 부모들에게 아동 이미지 공개 공유 자제 경고",
+      "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "인공지능(AI) 기술이 아동 이미지 악용에 사용될 위험이 커지면서 부모들에게 주의가 당부되었습니다.전문가들은 아동의 사진을 온라인에 공개적으로 공유하는 것을 자제할 것을 권고합니다.이는 AI 기술 발전과 함께 사회적으로 발생할 수 있는 새로운 윤리적, 안전 문제에 대한 경각심을 높이고 있습니다.",
+      "pub_date": "2026-07-03T15:57:42+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "플레이스테이션, 2028년부터 게임 디스크 출시 중단 예정",
+      "title": "플레이스테이션, 2028년부터 디스크 기반 게임 출시 중단 예정",
       "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "summary": "플레이스테이션이 2028년부터 게임 디스크(실물 음반) 출시를 중단할 예정이라고 발표했습니다.이는 게임 산업의 완전한 디지털 전환을 알리는 중대한 변화입니다.향후 게이머들은 게임을 전적으로 디지털 다운로드 방식으로만 구매하게 될 가능성이 커질 것입니다.",
+      "summary": "플레이스테이션이 2028년부터 디스크 형태의 게임 출시를 전면 중단할 것이라고 발표했습니다.이는 디지털 다운로드 방식으로의 완전한 전환을 의미하며, 게임 산업의 중요한 변화를 예고합니다.향후 게임 유통 시장과 소비자의 게임 경험에 큰 영향을 미 미칠 것으로 예상됩니다.",
       "pub_date": "2026-07-01T16:40:58+00:00"
     },
     {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "소니, 새로운 플레이스테이션 게임 디스크 생산을 중단할 계획 발표",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzBHcTJUSVFDTWNLR3Y3RkVoY3VFLVBlbUhHWWNQZnJSVThmQnkydFZfalJlUGI2ak85ODFSOWRXWmNPRTFZa3FNcC1feW1TZ0ZtY1JUYmkwT0ZmYkpKQTFlOGt0QU9uLXFXLWt4V0pfY2xuUHU1QTY3dXJzeFdWcmN1RHFhelc2LW1PQVVGWThqRVR6ZXN6RnRaZkc2WktyV3JOV3dGLUhZejNmeW94Ty1yVUtsQmNmUU1pbmFTdVFYWEk?oc=5",
-      "summary": "소니가 새로운 플레이스테이션 게임용 디스크 생산을 중단할 계획이라고 밝혔습니다.이는 게임 산업이 점차 디지털 다운로드 중심으로 재편되고 있음을 보여주는 중요한 전환점입니다.앞으로 플레이스테이션 사용자들은 게임을 주로 디지털 방식으로 접하게 될 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T20:56:37+00:00"
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "미국 당국, 이스라엘이 이란 협상가 암살을 모의했다고 판단",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "summary": "미국 정보 당국은 이스라엘이 이란 협상가들을 암살하려는 계획을 세웠다고 판단했습니다.이는 중동 정세의 긴장을 고조시킬 수 있는 매우 민감한 정보입니다.미국은 이스라엘의 행동을 주시하며 사태를 예의주시하고 있습니다.",
+      "pub_date": "2026-07-03T18:10:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
       "title": "러시아, 우크라이나 수도에 치명적인 공격 감행",
-      "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-      "summary": "러시아가 우크라이나 수도 키이우에 치명적인 공세를 퍼부었습니다.이로 인해 다수의 사상자가 발생하고 기반 시설에 큰 피해가 발생했습니다.국제사회는 러시아의 공격을 강력히 규탄하며 사태 해결을 위한 노력을 촉구하고 있습니다.",
-      "pub_date": "2026-07-02T21:51:00+00:00"
+      "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html",
+      "summary": "러시아가 우크라이나 수도 키이우에 치명적인 공격을 대대적으로 감행했습니다.이로 인해 다수의 인명 피해와 광범위한 시설 파괴가 발생했습니다.이번 공격은 우크라이나 전쟁의 심각한 고조를 나타내며 국제사회의 우려를 키우고 있습니다.",
+      "pub_date": "2026-07-02T20:06:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "이란, 전쟁 발발 직후 사망한 최고 지도자 아야톨라 알리 하메네이 장례 준비",
-      "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-      "summary": "이란이 전쟁 발발 직후 사망한 최고 지도자 아야톨라 알리 하메네이의 장례를 준비하고 있습니다.이는 이란 정세에 중대한 변화를 가져올 수 있는 사건으로, 향후 이란의 정치적 안정과 대외 관계에 큰 영향을 미칠 것입니다.국제사회는 이란의 권력 승계 과정에 촉각을 곤두세우고 있습니다.",
-      "pub_date": "2026-07-02T15:32:34+00:00"
+      "title": "지진 발생 8일 만에 구조된 남성, 재난에 처한 베네수엘라에 희망을 선사",
+      "link": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
+      "summary": "베네수엘라 지진 발생 8일 만에 매몰되었던 한 남성이 기적적으로 구조되었습니다.이는 비극적인 재난 상황 속에서 한 줄기 희망과 기쁨의 소식이 되었습니다.구조팀의 헌신적인 노력과 생존자의 강한 의지가 만들어낸 감동적인 이야기입니다.",
+      "pub_date": "2026-07-02T22:34:11+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "네덜란드 및 영국 정부, 강제 입양 역할에 대해 공식 사과",
-      "link": "https://www.nytimes.com/2026/07/02/world/europe/dutch-government-forced-adoptions-apology.html",
-      "summary": "네덜란드와 영국 정부가 과거 자국에서 발생한 강제 입양 관행에 대해 공식적으로 사과했습니다.이는 수십 년간 이어져 온 인권 침해와 사회적 고통에 대한 국가적 책임을 인정하는 조치입니다.이번 사과는 피해자들에게 위로를 전하고 과거사 청산의 중요한 계기가 될 것입니다.",
-      "pub_date": "2026-07-02T14:11:39+00:00"
+      "title": "파키스탄에서 버스가 70피트 협곡으로 추락해 40명 사망",
+      "link": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html",
+      "summary": "파키스탄에서 버스가 70피트 깊이의 협곡으로 추락하는 대형 사고가 발생하여 40명이 사망했습니다.사고 원인에 대한 조사가 진행 중이며, 많은 희생자가 발생하여 안타까움을 더하고 있습니다.이는 열악한 도로 환경과 안전 규제 미비에 대한 우려를 다시 불러일으키고 있습니다.",
+      "pub_date": "2026-07-03T13:38:27+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "우크라이나, 크림반도 공격 통해 푸틴 압박 및 전쟁 종식 희망",
-      "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-      "summary": "우크라이나가 크림반도에 대한 공격을 감행하며 러시아 푸틴 대통령에게 전쟁 종식을 위한 압박을 가하고 있습니다.이는 전쟁의 전략적 전환점을 마련하려는 우크라이나의 의지를 보여줍니다.국제사회는 이러한 공세가 전쟁의 향방에 어떤 영향을 미칠지 주목하고 있습니다.",
-      "pub_date": "2026-07-02T21:19:49+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "미국, 이라크에 달러 선적 재개…압력 일시 중단",
-      "link": "https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html",
-      "summary": "미국이 이라크에 대한 달러 선적을 재개하며 이라크에 가하던 압력을 일시적으로 중단했습니다.이는 양국 관계에서 긴장 완화의 신호로 해석될 수 있습니다.미국의 이번 결정은 이라크의 경제적 안정과 지역 안보에 긍정적인 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-07-02T18:09:51+00:00"
+      "title": "중국, 광범위한 비판에도 불구하고 '민족 단결' 법률 옹호",
+      "link": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
+      "summary": "중국 정부가 국제사회로부터 광범위한 비판을 받고 있는 '민족 단결' 법률을 옹호하고 나섰습니다.이 법률은 소수 민족에 대한 통제를 강화한다는 비판을 받고 있습니다.중국의 인권 문제와 소수 민족 정책에 대한 국제적 관심이 다시 커지고 있습니다.",
+      "pub_date": "2026-07-03T08:18:23+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "베네수엘라 지진 생존자, 8일 만에 극적으로 구조돼",
-      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "베네수엘라에서 발생한 지진 참사 현장에서 한 생존자가 8일 만에 극적으로 구조되었습니다.이는 희망의 메시지를 전하며 수색 구조팀의 노력에 박수를 보내게 합니다.이번 구조 소식은 재난 속에서도 생명의 소중함을 일깨워주고 있습니다.",
-      "pub_date": "2026-07-02T16:11:24+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "러시아의 키이우 '가장 대규모' 공격으로 최소 27명 사망",
+      "title": "러시아, 키이우에 '가장 대규모' 공격 감행으로 최소 30명 사망",
       "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아가 우크라이나 수도 키이우에 '가장 대규모'의 공격을 감행하여 최소 27명이 사망했습니다.이는 민간인에 대한 무차별적인 공격으로 국제사회의 강력한 비난을 받고 있습니다.계속되는 러시아의 공격은 전쟁의 인도주의적 위기를 더욱 심화시키고 있습니다.",
-      "pub_date": "2026-07-02T20:18:14+00:00"
+      "summary": "러시아가 우크라이나 수도 키이우에 사상 최대 규모의 공격을 퍼부어 최소 30명이 사망했습니다.이번 공격으로 도심이 크게 파괴되었고, 국제사회의 강력한 비난을 받고 있습니다.우크라이나 전쟁이 더욱 격화되고 있음을 보여주는 심각한 사건입니다.",
+      "pub_date": "2026-07-03T04:41:05+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "바티칸, 글로벌 가톨릭 교단 추종자들을 파문 조치",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "바티칸 교황청이 한 글로벌 가톨릭 교단(성 비오 10세회)의 추종자들을 파문 조치했습니다.이는 가톨릭 교회 내부의 교리 및 규율 관련 중대한 결정입니다.이번 파문은 해당 교단과 가톨릭 주류 교회 간의 관계에 큰 변화를 가져올 것으로 보입니다.",
-      "pub_date": "2026-07-02T17:27:36+00:00"
+      "title": "베네수엘라 지진 생존자, 8일 만에 극적으로 구조",
+      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "베네수엘라 지진으로 무너진 잔해 속에서 8일 만에 한 생존자가 극적으로 구조되었습니다.이는 참담한 재난 상황 속에서 기적과도 같은 희망의 메시지를 전하고 있습니다.구조 작업에 참여한 모든 이들의 헌신적인 노력이 빛을 발한 순간입니다.",
+      "pub_date": "2026-07-03T06:38:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "중국, 조종사가 '개인적인 이유'로 소형 비행기를 마천루에 추락시켰다고 발표",
-      "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "summary": "중국 정부가 조종사가 '개인적인 이유'로 소형 비행기를 베이징의 한 마천루에 추락시켰다고 발표했습니다.이는 이례적인 사건으로, 정부의 설명에도 불구하고 사고 원인에 대한 의문이 제기되고 있습니다.이번 사건은 도시 안전 및 항공 보안 문제에 대한 관심을 다시 불러일으키고 있습니다.",
-      "pub_date": "2026-07-02T09:21:31+00:00"
+      "title": "파키스탄에서 과적 버스 협곡 추락 사고로 최소 32명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "summary": "파키스탄에서 과적된 버스가 협곡으로 추락하는 대형 사고가 발생하여 최소 32명이 사망했습니다.이 비극적인 사건은 파키스탄의 열악한 교통 안전 실태를 다시 한번 상기시킵니다.당국은 정확한 사고 원인을 조사하고 있으며, 재발 방지 대책 마련이 시급합니다.",
+      "pub_date": "2026-07-03T09:56:57+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "노르트스트림 폭발 사건 관련, 우크라이나인 독일에서 기소",
-      "link": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "유럽의 주요 가스관인 노르트스트림 폭발 사건과 관련하여 한 우크라이나인이 독일에서 기소되었습니다.이는 국제적인 에너지 안보와 관련된 민감한 사건에 대한 수사가 진전되고 있음을 보여줍니다.이번 기소는 사건의 배후와 책임 규명에 중요한 단서가 될 것으로 예상됩니다.",
-      "pub_date": "2026-07-01T18:19:32+00:00"
+      "title": "프랑스, 폭염 최고조에 2,025명 초과 사망 기록…유럽은 더욱 극심한 날씨 대비",
+      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "summary": "프랑스에서 기록적인 폭염이 최고조에 달했을 때 2,025명의 초과 사망자가 발생했습니다.유럽은 앞으로 더욱 극심한 기후 변화와 이상 고온에 대비해야 할 상황입니다.이번 사태는 기후 변화의 심각성과 이에 대한 대비책 마련의 시급성을 경고합니다.",
+      "pub_date": "2026-07-03T10:23:32+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "나사, 추락하는 우주 망원경 구하기 위한 임무 착수",
+      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "summary": "나사(NASA)가 궤도를 이탈해 추락 위험에 처한 우주 망원경을 구하기 위한 임무에 착수했습니다.이 망원경은 우주 과학 연구에 중요한 데이터를 제공해 온 핵심 자산입니다.복잡하고 정밀한 이번 구조 임무의 성공 여부에 전 세계 과학계의 관심이 집중되고 있습니다.",
+      "pub_date": "2026-07-03T10:28:17+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "러시아, 우크라이나 수도에 대규모 공세 감행…20명 이상 사망",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbENqQzAtV2RDei1JcWN3amlFbmhGcmNONTdDY2ZjWDF6ZWgyZ01rTnREV2RlLVRxTHFYbzd3czFaQ1NhbTduUE1lX0JuSklZRXNneVZyaTE5VDVETEZyelg1UzJIQm1TOEVlV2JvQllDamtTakl3TUVBY3FVdFpSVTFHakMtZ1JyUmRRejl5NXF1UW84SktFa19uZUdpamNQTWhyWXhSUXo0WWJaVWdscm9oMkxNMDFXMUNkTDhwMWNvVi1CWVROWEgwMEVJajkxQUNxME5BeXRNcUJZRkRRbEVUSzR0UQ?oc=5",
-      "summary": "러시아가 우크라이나 수도에 대규모 공격을 퍼부어 20명 이상이 사망했습니다.이는 우크라이나 전쟁의 심각성을 다시 한번 보여주는 비극적인 사건입니다.국제사회는 러시아의 공격을 강력히 규탄하고 평화적 해결을 위한 노력을 촉구하고 있습니다.",
-      "pub_date": "2026-07-02T14:18:49+00:00"
+      "title": "이란, 사망한 최고 지도자에게 작별 인사",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3huc1BLYzZqd0l3UDNZNXZCbzd5RWFFUVlBRk5BY0tBRmd3MGNQTEM4Q0tDZjBOa1FudXUxLUxRN1VZNGFNcUFEQXBMZTBXeFB6MUlsRXVMUG0wM1NGVEIzNkNrcEFwOC1LOFNZV2NKOVVRYU9nc0t4YTZuLTBFRnhIM0pDeURlc1ZPRUlhUm9nRHpKWTFyeHlMX251enpaengyN1ptek54OXY1YTFB?oc=5",
+      "summary": "이란에서 지난 2월 사망한 최고 지도자의 장례식이 거행되며 추모 열기가 뜨겁습니다.수많은 인파가 운집하여 애도를 표하며 지도자의 마지막 길을 배웅했습니다.이는 이란의 정치 및 종교적 상황에 중요한 전환점이 될 것으로 예상됩니다.",
+      "pub_date": "2026-07-03T18:20:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "베네수엘라 병리학자, '하루 400구 시신'으로 영안실이 넘쳐난다고 증언",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1dmemM2dWhSS1hrVUlBa2NOSVJySzNlV0ZJUzRhc21haVdtenR2RjE2N1c4UGpBZjJTNjg4UTRYa0NkOFVDeG9RdUVUSGlTWDVuZ19kdVVIaHBMSF9zYnE4SlctdHRxa1RJSE53eVFUMDg0cHlXT3lZdkQ2N3p6aWRDWFRaamU1a1o3c0FCaVpJa3o1MFZIZXN3MDl2YnN3ZEpVRkZDWTVQQ2xpSlY5VUhMbVhpTnFqUkZ1cDM5ZVF4ZXpTcUFNSnR4bzE1OUxoSlE?oc=5",
-      "summary": "베네수엘라의 한 병리학자가 영안실이 '하루 400구의 시신'으로 넘쳐난다고 증언하며 심각한 인도주의적 위기를 고발했습니다.이는 베네수엘라의 보건 시스템 붕괴와 사회 불안정을 여실히 보여주는 충격적인 현실입니다.국제 사회의 관심과 지원이 시급하다는 목소리가 커지고 있습니다.",
-      "pub_date": "2026-07-02T06:56:30+00:00"
+      "title": "베네수엘라 정부의 지진 대응에 대한 감시 강화",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckFlRHBsYkpIM084SDZGbDNIQlluOWVPZHBaMnhJQ1lLTE5Ndjd2bjhZZDJISFZJMHQ1NDNkLW5fWTFnQnJQYkFxdk1UNGtIVERLUExKcl9NV19ZTmpPZUNWTElSNV9PclpxcG54dHlSUFZUV1BVRVJsbGpCYVRVTURCUFRIbzFLRDI0MDRoU1hJc1ppTmxtbDE2SlloUVB1Y3g1UnFEWUxNdGdKcmswdVUzUlNPUHNaT1AtY1lTakY?oc=5",
+      "summary": "베네수엘라 정부의 지진 대응 방식에 대한 국제사회와 국내의 비판적 감시가 강화되고 있습니다.이는 정부의 투명성과 효율적인 재난 관리에 대한 의문을 제기합니다.지진 피해 복구와 국민 안전 보장을 위한 정부의 역할에 대한 압박이 커지고 있습니다.",
+      "pub_date": "2026-07-03T08:12:47+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "지진 발생 일주일 만에 잔해 속에서 발견된 남성과 구조대 연락 성공",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV09YYjBtOFh4a0NObnA2NmJ3cUlpakdOc3huQVRxVERhSG5YczRoM3RXZmNDdG1aeG1Qalo3MXg3Z2l2SnpOeGVMU2lvdW5rT1VpcE9zNTZLR29mTUN4S0ZXMndUdDZEUENqNTBMYnlQQVA1LWNmX3JsUlZFY3AwelJzNG1QYnhIX182TjNQVWN3UkNlRjRaTUtDMVFzMi1fZkV4NnFTeGxYaGc2b1U5ZHlMbUtOakZJOHdLMnNpWHF3bXU4MTAyNXV2TnU?oc=5",
-      "summary": "지진이 발생한 지 일주일 만에 잔해 속에 갇혀 있던 남성과 구조대가 극적으로 연락에 성공했습니다.이는 절망적인 상황 속에서도 희망의 끈을 놓지 않는 구조팀의 노력을 보여줍니다.생존자 구출 작업이 성공적으로 이루어지기를 전 세계가 바라고 있습니다.",
-      "pub_date": "2026-07-02T03:29:00+00:00"
+      "title": "CNN 기자, 지진 잔해 속 8일간 갇힌 남성 구한 구조팀의 엄청난 노력 회고",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0djbGNPUUxILTBZaUFrLWlSR3k4V0R6bWw1VkxRTEhHc2dMSFhFM0J1a2hra0JocXZHYVoyQ0hKNzJ1U2twM0NqeFMtWDhDQVB5ajBQMV9jRXQtZUtCX1dyekpVS1c3VkdEYkpkTnJVVjd0MlJBMEZ3bEsxXzR0NF9IQzl2RFQ4VDVSS3hCdnItMWUxdE45UV9QNU0tUk1UUG8xSWV3OWFiYXRkd0xNb25CaV8?oc=5",
+      "summary": "CNN 기자가 베네수엘라 지진 현장에서 8일 동안 잔해에 갇힌 남성을 구한 구조팀의 헌신적인 노력을 보도했습니다.구조대원들은 극한의 상황 속에서도 포기하지 않고 생명을 구하기 위해 필사적으로 임했습니다.이 이야기는 재난 현장의 영웅적인 희생과 인류애를 깊이 있게 조명합니다.",
+      "pub_date": "2026-07-03T02:20:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "새 연구, 우크라이나 전쟁 러시아 사망자 수가 2차 세계 대전 이후 미국 전쟁 총 사망자의 4배",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFJZenBpTFF5NmlkdkdMTDNEZDI1emR5RWs2ekxMNlFnc2F3T1hpQXJhWG1TWERpZWxaVlkxOUxZOG1EcGpmWGxiSHQyY3lvMUxRRFhia21XUlE4WGh5bW55S2JjSVNRTXQyejQyenBfb3g0emYwSzAtcVhRQUx2eVdvc2o1dmZKUFRnZ0lRQVR5RHpU?oc=5",
-      "summary": "새로운 연구에 따르면 우크라이나 전쟁에서 발생한 러시아군 사망자 수가 제2차 세계 대전 이후 미국이 치른 모든 전쟁에서의 총 사망자 수보다 4배나 많은 것으로 나타났습니다.이는 우크라이나 전쟁의 엄청난 인명 피해 규모를 충격적으로 보여줍니다.이번 연구는 전쟁의 잔혹성과 장기적인 영향을 다시 한번 강조합니다.",
-      "pub_date": "2026-07-02T00:32:59+00:00"
+      "title": "나사, 3,200파운드 우주 관측소를 조기 파괴로부터 구하기 위한 대담한 구조 임무 착수",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QdjFSRmhXMExHZV9kc2QyMzF4aUcwOE5pWjFSVWpmMndWSFg0amVrb1k4NTdQMy03bW05Y1ZVNGdUZTFPcFpTbmRIeWpIUEpSR2prN0tqS0FpR2FhanNNUzA2M0RvUXhCdmlPVUdGc0NsT09MQTR3ekRn?oc=5",
+      "summary": "나사(NASA)가 3,200파운드(약 1,451kg)에 달하는 우주 관측소를 조기 파괴 위기에서 구하기 위한 대담한 구조 임무를 시작했습니다.이 관측소는 우주 연구에 필수적인 데이터를 제공하며 가치가 매우 높습니다.임무의 성공 여부는 향후 우주 과학 탐사에 중요한 영향을 미칠 것으로 보입니다.",
+      "pub_date": "2026-07-03T10:38:59+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "전 NATO 관계자, '푸틴이 우크라이나 전쟁 종식을 시사하기 시작했다' 주장",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZVZTJENlNjUWM4UnJVa0tDc3NfUGZaOUNMajU4MmphWU1udnpGOUg5VEJucFVHOWNHc2QyVmF0UFk3dnB0bXBFRXN0U0lOVUtoZ28tVWppUDJZTlIzcUNaRlpnVEM5Z2pOX2pwSUFIUmlfa1A1bmRFSkQtUXNzS2tjOVlZVzNPa19MLTJ3?oc=5",
-      "summary": "전 NATO 관계자가 블라디미르 푸틴 러시아 대통령이 우크라이나 전쟁 종식을 시사하는 발언을 하기 시작했다고 밝혔습니다.이는 전쟁 장기화에 따른 러시아 내부의 압박과 전략 변화 가능성을 보여줍니다.국제사회는 푸틴의 발언에 주목하며 평화 협상 재개 가능성을 조심스럽게 관측하고 있습니다.",
-      "pub_date": "2026-07-02T17:24:45+00:00"
+      "title": "전 샤바크 국장, 네타냐후 총리가 이스라엘의 미래를 희생시키고 있다고 주장",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aWVF3aFZ2a0JKaHdsM05oNy1wYk5GSGhvWDR3X3JVampsZG1FOTVFZzR5MWgxMWx3Y3lNa3ZnelFxQ2UxRWF5YU95TzJzVGVQaFhaOUgzTkZfWk1vZjRVZlNSLW1RaS00QzZKUG5PakxlWlU?oc=5",
+      "summary": "이스라엘의 전 샤바크 국장이 베냐민 네타냐후 총리가 국가의 미래를 희생시키고 있다고 비판했습니다.이 발언은 현 정부의 정책과 리더십에 대한 심각한 내부 우려를 반영합니다.국가 안보와 미래 방향에 대한 중요한 정치적 논쟁을 촉발할 것으로 보입니다.",
+      "pub_date": "2026-07-03T12:03:09+00:00"
     }
   ]
 }
