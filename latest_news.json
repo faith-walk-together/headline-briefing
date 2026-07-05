@@ -1,228 +1,212 @@
 {
-  "last_updated": "2026-07-04T22:00:45.859681+00:00",
+  "last_updated": "2026-07-05T22:00:50.680850+00:00",
   "articles": [
     {
       "category": "정치",
-      "outlet": "NYT",
-      "title": "미국 건국 250주년 맞아 민주당과 트럼프의 정치적 갈등 고조",
-      "link": "https://www.nytimes.com/2026/07/04/us/politics/democrats-clash-trump-america-250th-birthday.html",
-      "summary": "미국 건국 250주년 기념일을 앞두고 정치적 긴장감이 최고조에 달하고 있습니다.민주당과 도널드 트럼프 전 대통령 간의 갈등이 심화되고 있습니다.각 진영은 이 중요한 국가적 기념일을 자신들의 정치적 메시지를 강화하는 기회로 활용하고 있습니다.",
-      "pub_date": "2026-07-04T21:04:59+00:00"
+      "outlet": "SBS",
+      "title": "청와대, 추가 세수 활용 미래대응기금 신설 및 투자 재원 활용 발표",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008642340&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "청와대가 반도체 호황으로 인한 추가 세수를 활용해 미래대응기금을 신설한다고 발표했습니다. 이 기금은 미래 성장 동력 확보를 위한 투자 재원으로 사용될 예정입니다. 정부는 이를 통해 국가의 지속 가능한 발전을 도모할 계획입니다.",
+      "pub_date": "2026-07-05T08:07:00+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "SBS",
+      "title": "청와대, 이병태의 '5·18 성역' 발언에 부적절하다며 엄중 경고",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008641500&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이병태 씨가 '5·18 민주화운동이 성역화되었다'고 발언하여 논란이 일었습니다. 이에 청와대는 해당 발언이 부적절하다며 엄중히 경고했습니다. 이 사건은 5·18 민주화운동의 역사적 의미와 관련하여 정치권 내 갈등을 심화시킬 것으로 보입니다.",
+      "pub_date": "2026-07-04T06:43:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 대기청정법 위반자와 주요 후원자 사면",
-      "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html",
-      "summary": "도널드 트럼프 전 대통령이 대기청정법 위반자들을 포함한 여러 인물을 사면했습니다.사면 대상 중에는 그의 주요 정치 후원자도 포함되어 있어 논란이 일고 있습니다.환경 규제 및 정치적 영향력 행사와 관련하여 비판의 목소리가 커지고 있습니다.",
-      "pub_date": "2026-07-04T02:06:24+00:00"
+      "title": "트럼프 행정부, 수십 건의 총기 규제 완화 조치 발표",
+      "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+      "summary": "트럼프 행정부가 수십 건에 달하는 총기 규제를 완화하는 조치를 단행했습니다. 이는 총기 소지 권리를 옹호하는 지지층의 요구를 반영한 것으로 보입니다. 이번 결정은 총기 안전 단체들의 강력한 반발을 불러일으킬 전망입니다.",
+      "pub_date": "2026-07-05T20:37:10+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 조지아주 투표 넘어 선거 신뢰도 자체 겨냥",
-      "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html",
-      "summary": "도널드 트럼프 전 대통령이 조지아주 선거 결과에 대한 비판을 넘어섰습니다.그는 미국 선거 시스템 전반에 대한 국민의 신뢰 자체를 흔들고 있습니다.이는 향후 선거 과정과 민주주의에 대한 광범위한 우려를 낳고 있습니다.",
-      "pub_date": "2026-07-03T23:31:33+00:00"
+      "title": "트럼프 지시에 따라 연방 기관들, 차별 관련 소송 철회",
+      "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html",
+      "summary": "도널드 트럼프 대통령의 지시에 따라 여러 연방 기관들이 차별 관련 소송을 철회하고 있습니다. 이는 이전 행정부의 정책과는 대조되는 움직임으로 해석됩니다. 인권 단체들은 이러한 조치가 소수 집단의 권리를 약화시킬 수 있다고 우려하고 있습니다.",
+      "pub_date": "2026-07-05T09:00:08+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
+      "title": "알리토 대법관, 대법원 사임 의사 전혀 없어",
+      "link": "https://www.nytimes.com/2026/07/04/us/politics/justice-alito-influence-supreme-court.html",
+      "summary": "새뮤얼 알리토 대법관이 대법원 직에서 물러날 의사가 없음을 분명히 했습니다. 이는 최근 그의 거취에 대한 정치적 압박과 추측이 있었던 가운데 나온 발언입니다. 대법원 구성에 중요한 영향을 미치는 그의 결정은 향후 미국 정치 지형에도 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-07-04T13:02:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"메가 프로젝트는 지지율과 무관하다\" 직접 해명",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607042041337hY",
-      "summary": "이 대통령이 대규모 메가 프로젝트 추진이 지지율 상승을 위한 것이 아니라고 직접 밝혔습니다.대통령실은 해당 프로젝트가 국가 장기 비전과 경쟁력 강화를 위한 것이라고 강조했습니다.이는 최근 프로젝트의 배경을 둘러싼 정치권의 공방에 대한 대응으로 풀이됩니다.",
-      "pub_date": "2026-07-04T11:41:33+00:00"
+      "title": "당정, 3대 메가 프로젝트에 총력전 돌입 및 미래대응기금 신설",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260706051406sqC",
+      "summary": "정부와 여당이 국가 핵심 성장 동력 확보를 위한 3대 메가 프로젝트 추진에 총력을 기울이기로 했습니다. 또한 반도체 초과 세수를 활용하여 미래대응기금을 신설하여 미래 투자 재원으로 활용할 계획입니다. 이는 장기적인 경제 성장과 국가 경쟁력 강화를 목표로 합니다.",
+      "pub_date": "2026-07-05T20:14:09+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한국, 미국 하원 '차별 보고서' 적극 반박하며 안보 협력 영향 차단에 주력",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260704204231fXT",
-      "summary": "미국 하원에서 발표된 '차별 보고서'에 대해 한국 정부가 강력히 반박하고 나섰습니다.정부는 이 보고서가 한미 안보 협력에 부정적인 영향을 미치는 것을 막는 데 집중하고 있습니다.외교적 파장을 최소화하고 양국 관계의 안정성을 유지하기 위한 노력이 계속되고 있습니다.",
-      "pub_date": "2026-07-04T11:42:31+00:00"
+      "title": "여당 일각, 이병태에 '헌정가치 훼손' 주장하며 사퇴 촉구",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260706052051SCs",
+      "summary": "여당 내부에서 이병태 씨의 5·18 관련 발언이 헌정 가치를 훼손했다는 비판이 제기되었습니다. 일부 의원들은 이 씨의 즉각적인 사퇴를 요구하며 강력히 반발하고 있습니다. 이 논란은 여당 내부의 갈등을 심화시키고 있으며, 5·18 민주화운동에 대한 인식 차이를 다시 한번 드러냈습니다.",
+      "pub_date": "2026-07-05T20:20:53+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "번햄, 총리가 되어도 조기 총선 실시하지 않을 것임을 분명히 밝혀",
-      "link": "https://www.bbc.co.uk/news/articles/c982r5z7v0no?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄이 차기 총리가 될 경우 조기 총선을 실시하지 않겠다고 선언했습니다.이는 정부의 안정적인 국정 운영에 대한 의지를 표명한 것으로 해석됩니다.정치적 불확실성을 줄이고 당면한 국가적 과제 해결에 집중하겠다는 메시지를 전달했습니다.",
-      "pub_date": "2026-07-03T18:22:58+00:00"
+      "title": "리폼당, 파라지 동맹국으로부터의 미신고 이익에 대한 규정 위반 부인",
+      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "리폼당은 나이젤 파라지 대표가 동맹국으로부터 받은 이익을 신고하지 않아 규정을 위반했다는 의혹을 부인했습니다. 이 논란은 리폼당의 투명성과 재정 관리에 대한 의문을 제기하고 있습니다. 야당은 이에 대해 철저한 조사를 요구하고 나섰습니다.",
+      "pub_date": "2026-07-05T21:43:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "강제 입양은 '역사의 오점', 스타머가 공식 사과하며 비판",
+      "title": "스타머, 강제 입양은 '역사의 오점'이라며 공식 사과",
       "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
-      "summary": "키어 스타머가 과거 영국의 강제 입양 정책을 '역사의 오점'이라 칭하며 공식 사과했습니다.그는 이 정책으로 고통받은 수많은 가족들에게 깊은 유감을 표명했습니다.이번 사과는 과거의 잘못을 인정하고 미래에는 이러한 비극이 되풀이되지 않도록 하겠다는 의지를 보여줍니다.",
+      "summary": "키어 스타머 노동당 대표가 과거 영국에서 발생한 강제 입양 사건을 '역사의 오점'이라고 언급하며 공식적으로 사과했습니다. 이는 과거의 아픔을 인정하고 치유하려는 노력의 일환으로 해석됩니다. 이번 사과는 피해자들에게 중요한 의미를 가지며, 유사 사례의 재발 방지를 위한 논의를 촉발할 것입니다.",
       "pub_date": "2026-07-02T11:53:28+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "미국 백악관 \"이재명 정부, 쿠팡 표적 수사…불공정한 관행 용납 안 해\" 경고",
-      "link": "https://www.chosun.com/international/us/2026/07/03/GGAA4CADWZEYHNHNGZ47YIMKLM/",
-      "summary": "미국 백악관이 한국의 이재명 정부가 쿠팡을 표적으로 삼아 불공정한 수사를 진행하고 있다고 강력히 비판했습니다.백악관은 이러한 관행을 용납하지 않을 것이라며 한국 정부에 경고 메시지를 보냈습니다.이는 한미 양국 간의 경제 및 외교 관계에 잠재적인 긴장을 불러일으킬 수 있는 중요한 사안입니다.",
-      "pub_date": "2026-07-02T18:37:49+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "CNN",
-      "title": "불꽃놀이, 폭염, 그리고 정치: 미국 건국 250주년 기념일의 풍경",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2hIaDRPanRxMlhha1B3R1MtNFJpWjdCUTMxQktvbUxNUVpIMHp4Z2V2LTVxSi1HYk1xcUhCdXMxamFlUXE3QTFDUFZ1V0hRUVUza1RfOWFqa0xHaWdZUTlDU0R5MlZ1WDdHRWlvVTZ6Z2p2VXBVS0hPaEp2cEdzQ1g3UHAwSWhIRDk1cHp2TWF5c2Z2NWVXbkdFQVpLRGxZRGFIY3BnRlHSAbwBQVVfeXFMTUlkMmVOdUw5MEJEWlUtdWQxejMybV90U2hxM1ZYaW9uR1ZWeVRPT3NNcVVqemNzZWN0VGJ6amZDU3JsYUJOR3h1WmZ5OVRXdzh0MjN4b1ZtY3NIZENsc3kwSFo3VkEzWFNYMV9xdno4MTNTQUc5SkFGcFVwZkhxd1kyTWF5TXE2VmRXS1RtQmlqamkyM2hZUTEwYXFpOFhNRkhPNXZYQzJCVXNDemlpYm1PcVRHbUV2TmdDalg?oc=5",
-      "summary": "미국이 건국 250주년을 맞아 전국적으로 다양한 기념 행사를 개최했습니다.화려한 불꽃놀이와 함께 기록적인 폭염이 시민들의 축제 분위기에 영향을 미쳤습니다.기념일 곳곳에서는 정치적 메시지와 갈등 또한 드러나며 축제의 이면에 복잡한 현실을 반영했습니다.",
-      "pub_date": "2026-07-04T12:40:00+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "CNN",
-      "title": "트럼프, 공산주의를 미국 최대 위협으로 지목",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkVBRUc4emJ0YWJVODR0QjNlQ2M5WERoV1F0SlJyTWd3eUpURDVHUWszMTc3ajBMajNxQkNDRFRaek96M0JOaDZsejRoZVVQMTlhaGdHbl9WNEVVYWlscFdCLU9fMDN5Rjk5RUVJdGU2Q1BUMVhFc3BOcXhTRk1xM1g4UzhLUDAtemVVRHdna3BzS1U5emNybk9DQmZvdGVPVkRyRGV3?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 공산주의를 미국 안보와 가치에 대한 가장 큰 위협으로 규정했습니다.그는 강경한 어조로 공산주의와의 대결을 강조하며 자신의 정치적 입장을 분명히 했습니다.이 발언은 다가오는 선거를 앞두고 보수층 지지를 결집하려는 시도로 해석됩니다.",
-      "pub_date": "2026-07-04T05:52:00+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "CNN",
-      "title": "테헤란에 모인 엄청난 인파, 이란 살해된 최고 지도자 애도",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnVWMVc3eGpQcHl2RWxMOVpZeGxnbG9jZU1lU1JHbWlWSzQ0Q3EwakY3SkFsWjdzM3ZBSTZiaDZkSmg3aVZLMWhrbER0bnRBT1dGVzJWbjd0eks5TS1iTWhjNzdkZk1jZmk3aTRfWWpVaUw1anNxWWgxaldYQlh6TQ?oc=5",
-      "summary": "이란의 수도 테헤란에 엄청난 인파가 모여 살해된 최고 지도자의 장례식에 참석했습니다.조문객들은 거리와 광장을 가득 메우며 깊은 애도와 충성심을 표현했습니다.이번 장례식은 이란의 국내외 정치 상황에 중대한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-07-04T13:48:41+00:00"
+      "title": "정보통신망법 내일 시행, 야당 '국민 입틀막법' 비판하며 법 개정 예고",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/06/GLZ6NMOPFNGBTLFZCM7CLQOUDE/",
+      "summary": "정보통신망법이 내일(특정 날짜)부터 시행될 예정인 가운데, 야당은 이를 '국민 입틀막법'으로 규정하며 강하게 비판하고 있습니다. 야당은 이 법이 표현의 자유를 침해할 수 있다며 법 개정에 나설 뜻을 밝혔습니다. 정부는 건전한 인터넷 문화 조성을 위해 필요하다는 입장입니다.",
+      "pub_date": "2026-07-05T15:49:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "약 100만 명의 투자자, 트럼프 관련 암호화폐에서 총 38억 달러 손실",
-      "link": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
-      "summary": "트럼프 전 대통령과 연관된 특정 암호화폐에 투자한 약 100만 명의 투자자들이 총 38억 달러의 막대한 손실을 입었습니다.이는 암호화폐 시장의 높은 변동성과 함께 유명인 관련 투자의 위험성을 다시 한번 부각시켰습니다.피해 규모가 커지면서 관련 규제 및 투자자 보호에 대한 논의가 활발해질 것으로 보입니다.",
-      "pub_date": "2026-07-04T10:28:34+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "NYT",
-      "title": "6월 고용 보고서, 미국 노동 시장의 완만하지만 꾸준한 성장세 보여줘",
+      "title": "6월 고용 보고서, 미국 노동 시장의 완만한 하지만 꾸준한 성장세 보여줘",
       "link": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html",
-      "summary": "미국 노동부의 6월 고용 보고서에 따르면 노동 시장이 느리지만 안정적인 회복세를 보이고 있습니다.신규 고용 창출은 기대치를 약간 하회했지만, 실업률은 낮은 수준을 유지했습니다.이는 인플레이션 압력이 완화되는 가운데 연방준비제도(Fed)의 통화 정책 결정에 영향을 미칠 것으로 예상됩니다.",
+      "summary": "미국 노동부가 발표한 6월 고용 보고서에 따르면, 미국의 노동 시장은 느리지만 꾸준한 고용 증가세를 보이고 있습니다. 이는 경제가 과열되지 않고 안정적으로 성장하고 있음을 시사합니다. 전문가들은 연착륙 가능성을 높이는 긍정적인 신호로 평가하고 있습니다.",
       "pub_date": "2026-07-02T18:23:50+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "인공지능이 경제 구조를 재편하고 있지만, 그 영향 측정은 난해해",
-      "link": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html",
-      "summary": "인공지능(AI) 기술이 전 세계 경제의 구조를 빠르게 변화시키고 있습니다.생산성 향상, 일자리 변화 등 AI가 미치는 광범위한 영향을 정확히 측정하기는 매우 어렵습니다.경제학자들과 정책 입안자들은 AI 시대의 새로운 경제 지표 개발에 고심하고 있습니다.",
-      "pub_date": "2026-07-02T14:44:42+00:00"
+      "title": "OPEC+, 유가 하락에도 불구하고 증산 약속",
+      "link": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
+      "summary": "OPEC+가 유가 하락세에도 불구하고 원유 증산을 약속했습니다. 이는 글로벌 에너지 시장의 안정화를 위한 조치로 풀이됩니다. 하지만 일각에서는 수요 둔화 우려 속에 추가적인 유가 하락 압력을 가할 수 있다는 분석도 나옵니다.",
+      "pub_date": "2026-07-05T12:50:45+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "폭염 속 전력망 부담 완화 위해 데이터 센터에 비상 전력 사용 명령",
+      "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
+      "summary": "기록적인 폭염으로 전력 수요가 급증하자, 당국이 전력망 부담을 줄이기 위해 데이터 센터에 비상 전력을 사용하도록 명령했습니다. 이는 대규모 데이터 센터의 전력 소비가 인프라에 미치는 영향을 보여줍니다. 이번 조치는 전력난 해소에 도움이 될 것으로 기대됩니다.",
+      "pub_date": "2026-07-02T18:54:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "구글, 경쟁사 방해 위해 안드로이드 사용하다 41억 유로 벌금 부과",
+      "title": "구글, 안드로이드 이용 경쟁사 차단 혐의로 41억 유로 벌금 부과",
       "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "summary": "유럽연합 규제 당국이 구글에 안드로이드 운영체제를 이용해 경쟁사 앱의 시장 진입을 방해한 혐의로 41억 유로의 과징금을 부과했습니다.이는 기술 대기업의 시장 독점 행위에 대한 유럽의 강력한 규제 의지를 보여주는 사례입니다.이번 판결은 전 세계 기술 기업들의 사업 전략에 중요한 선례가 될 것으로 예상됩니다.",
+      "summary": "유럽연합이 구글에 안드로이드 운영체제를 이용해 경쟁사 앱의 시장 진입을 방해한 혐의로 41억 유로(약 6조 원)의 과징금을 부과했습니다. 이는 구글의 시장 지배력 남용에 대한 강력한 제재 조치로 풀이됩니다. 이번 판결은 빅테크 기업의 독점 행위에 대한 전 세계적인 규제 강화 추세에 영향을 미칠 것으로 보입니다.",
       "pub_date": "2026-07-02T09:46:11+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "미국, 북미 무역 협정 장기 갱신을 거부",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국이 기존 북미 무역 협정의 장기 갱신을 거부하며 새로운 협상 가능성을 시사했습니다.이는 미국-멕시코-캐나다 간의 무역 관계에 중요한 변화를 가져올 수 있습니다.향후 재협상 과정에서 각국의 이해관계 충돌이 예상되며, 글로벌 공급망에도 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-07-01T18:56:36+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "서울경제",
-      "title": "[속보] 법원, 홈플러스 회생 절차 폐지 결정",
-      "link": "https://www.sedaily.com/article/20063427",
-      "summary": "법원이 대형 유통업체 홈플러스에 대한 회생 절차를 최종적으로 폐지하기로 결정했습니다.이는 기업의 자구 노력에도 불구하고 재정 건전성 회복이 어렵다고 판단한 결과입니다.향후 홈플러스의 자산 매각 및 법적 청산 절차가 진행될 예정이며, 관련 업계에 큰 파장이 예상됩니다.",
-      "pub_date": "2026-07-03T02:19:21+00:00"
+      "title": "디젤 가격 26년 만에 최대 월별 하락 기록, 유가 변동 원인 분석",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "디젤 연료 가격이 26년 만에 가장 큰 월별 하락폭을 기록했습니다. 이는 글로벌 경기 둔화 우려와 공급 증가 등의 복합적인 요인에 기인한 것으로 분석됩니다. 전문가들은 유가 하락이 인플레이션 압력을 완화하고 소비 심리에 긍정적인 영향을 미칠 수 있다고 전망합니다.",
+      "pub_date": "2026-07-01T23:01:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "국내 첫 달 착륙선 2년 조기 발사, 희토류 및 헬륨 확보에 박차",
-      "link": "https://zdnet.co.kr/view/?no=20260704164616",
-      "summary": "한국의 첫 달 착륙선 발사 계획이 2년 앞당겨져 우주 개발에 속도가 붙을 전망입니다.이번 조기 발사는 달에 매장된 희토류와 헬륨 등 핵심 자원 확보를 위한 중요한 첫걸음입니다.국내 우주 기술 발전과 자원 안보 강화에 기여할 것으로 기대됩니다.",
-      "pub_date": "2026-07-04T07:46:16+00:00"
+      "title": "AI 에이전트 하루 199GWh 전력 사용 예상, 미국 반나절 소비 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260705164630",
+      "summary": "인공지능(AI) 에이전트의 하루 전력 소비량이 199기가와트시(GWh)에 달할 것으로 예상되며, 이는 미국 전체 전력 소비량의 반나절치에 해당합니다. AI 기술 발전과 함께 급증하는 전력 소모량은 에너지 인프라에 심각한 부담을 줄 수 있습니다. 지속 가능한 AI 개발을 위한 전력 효율화 방안 마련이 시급합니다.",
+      "pub_date": "2026-07-05T07:46:30+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "삼성중공업, 2028년 '바다 위 데이터센터' 가동 목표…인공지능 신시장 개척",
-      "link": "https://zdnet.co.kr/view/?no=20260703201525",
-      "summary": "삼성중공업이 해상 부유식 데이터센터를 2028년까지 건조, 가동하겠다는 계획을 발표했습니다.이 프로젝트는 냉각 효율을 높이고 전력 소비를 줄이는 등 친환경 기술을 적용할 예정입니다.인공지능(AI) 시대의 데이터 수요 증가에 대응하며 새로운 시장을 선점하려는 전략입니다.",
-      "pub_date": "2026-07-04T00:22:40+00:00"
+      "title": "반도체 산업, 칩 경쟁에서 인공지능 인프라 경쟁으로 전환",
+      "link": "https://zdnet.co.kr/view/?no=20260705134813",
+      "summary": "반도체 산업의 경쟁 패러다임이 단순한 칩 성능 경쟁에서 인공지능(AI) 인프라 구축 경쟁으로 변화하고 있습니다. 이는 AI 기술의 발전과 함께 데이터 처리 및 저장의 중요성이 커지고 있기 때문입니다. 기업들은 AI 시대의 주도권을 잡기 위해 전반적인 인프라 솔루션 제공에 집중하고 있습니다.",
+      "pub_date": "2026-07-05T04:48:13+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "[단독] '미토스 쇼크' 여파로 금융권 AI 보안 재정비, KB국민은행 내부통제 강화",
-      "link": "https://www.etnews.com/20260703000108",
-      "summary": "'미토스 쇼크' 사건 이후 금융권 전반에서 인공지능(AI) 보안 시스템 재정비가 가속화되고 있습니다.특히 KB국민은행은 AI 시스템의 오작동 및 보안 취약점을 보완하기 위해 내부 통제를 고도화하고 있습니다.이번 사태를 계기로 AI 기반 금융 서비스의 안정성과 신뢰성 확보가 더욱 중요해졌습니다.",
-      "pub_date": "2026-07-04T17:00:00+00:00"
+      "title": "수백만 큐비트 통념 깨진 양자 컴퓨터, 암호 보안 체계 뒤흔든다",
+      "link": "https://www.etnews.com/20260705000046",
+      "summary": "양자 컴퓨터 기술이 '수백만 큐비트'라는 기존의 통념을 깨고 발전하면서, 현재의 암호 보안 체계가 흔들릴 위기에 처했습니다. 양자 컴퓨터의 연산 능력은 기존 암호화 방식을 무력화할 수 있어 국가 안보와 금융 시스템에 큰 영향을 미칠 것입니다. 전문가들은 양자 내성 암호(PQC)로의 전환을 서둘러야 한다고 경고합니다.",
+      "pub_date": "2026-07-05T08:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "영양 섭취와 복제, 생존 경쟁까지 가능한 '인공 세포' 최초 개발",
-      "link": "https://www.etnews.com/20260702000405",
-      "summary": "과학자들이 영양을 섭취하고 스스로 복제하며 심지어 생존 경쟁까지 가능한 인공 세포를 최초로 개발했습니다.이 인공 세포는 자연 세포의 핵심 기능을 모방하여 생명 공학 연구에 획기적인 발전을 가져올 것으로 기대됩니다.이번 연구는 생명의 기원과 진화를 이해하는 데 새로운 통찰력을 제공할 잠재력을 가집니다.",
-      "pub_date": "2026-07-04T13:30:00+00:00"
+      "title": "국내 첫 농림 위성 7일 발사, 3일마다 한반도 농경지 관측",
+      "link": "https://www.etnews.com/20260703000244",
+      "summary": "대한민국 최초의 농림 위성이 특정 날짜에 발사될 예정이며, 3일마다 한반도 농경지를 정밀하게 관측합니다. 이 위성은 농작물 생육 상태, 병충해 발생 예측, 재해 분석 등 농업 전반에 걸친 데이터를 제공할 것입니다. 이를 통해 스마트 농업을 실현하고 식량 안보 강화에 크게 기여할 것으로 기대됩니다.",
+      "pub_date": "2026-07-05T04:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "김동관 한화 부회장, 55조 원 투자로 '인공지능 우주' 시대 개척",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667273",
-      "summary": "한화그룹 김동관 부회장이 인공지능(AI)과 우주 산업에 55조 원 규모의 대규모 투자를 발표했습니다.이는 AI 기반 우주 탐사 및 위성 기술 개발을 통해 미래 핵심 사업을 선점하겠다는 전략입니다.한화의 이번 투자는 국내외 AI 및 우주 산업 생태계에 큰 영향을 미칠 것으로 전망됩니다.",
-      "pub_date": "2026-07-03T16:36:21+00:00"
+      "title": "SKT, 최대 15GW 규모의 인공지능 데이터 센터 구축 추진 및 풀스택 AI 인프라 역량 결집",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=667324",
+      "summary": "SK텔레콤이 최대 15기가와트(GW) 규모의 인공지능(AI) 데이터 센터(AIDC) 구축을 추진하며 풀스택 AI 인프라 역량 강화에 나섭니다. 이는 AI 시대의 핵심 인프라 경쟁에서 우위를 확보하려는 전략입니다. 대규모 투자를 통해 AI 사업의 기반을 확고히 하고 글로벌 시장에서의 입지를 다질 계획입니다.",
+      "pub_date": "2026-07-05T09:00:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "[메가프로젝트] 삼성, 영남에 60조 원 투자…'피지컬 AI 벨트' 조성 추진",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667277",
-      "summary": "삼성이 영남 지역에 60조 원을 투자하여 '피지컬 AI 벨트' 구축 프로젝트를 추진합니다.이 프로젝트는 로봇, 자율주행 등 실물 세계와 연동되는 인공지능 기술 개발의 허브를 목표로 합니다.대규모 투자를 통해 지역 경제 활성화 및 미래 핵심 산업 경쟁력 강화에 기여할 것으로 기대됩니다.",
-      "pub_date": "2026-07-03T16:29:18+00:00"
+      "title": "트웰브랩스, 1억 달러 규모 시리즈B 투자 유치에 네이버와 아마존 참여",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=667287",
+      "summary": "인공지능(AI) 스타트업 트웰브랩스가 1억 달러(약 1300억 원) 규모의 시리즈B 투자를 유치했습니다. 이번 투자에는 네이버와 아마존 등 국내외 주요 빅테크 기업들이 참여하여 눈길을 끕니다. 이는 트웰브랩스의 기술력과 성장 가능성을 높이 평가한 결과로, 글로벌 AI 시장에서 경쟁력을 강화할 것으로 기대됩니다.",
+      "pub_date": "2026-07-05T15:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "마이크론, 일본에 14조 원 투자하여 고대역폭 메모리 공장 건설, 2028년 여름 제품 출하 예정",
+      "title": "중국 CXMT의 가격 반전, 인공지능 호황으로 사라진 중국발 저가 공세",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/06/62VR77TI3FETTI4FMSSAJM3ZLY/",
+      "summary": "중국 메모리 반도체 기업 CXMT가 '싸게 팔 이유가 없다'며 가격 인상 기조를 보이고 있습니다. 이는 인공지능(AI) 시장의 호황으로 반도체 수요가 급증하면서 중국발 저가 공세가 사라지고 있음을 의미합니다. 글로벌 반도체 시장의 경쟁 구도와 가격 정책에 큰 변화를 가져올 중요한 전환점으로 평가됩니다.",
+      "pub_date": "2026-07-05T21:00:00+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "조선비즈 IT/Tech",
+      "title": "마이크론, 14조 원 투자하여 일본에 고대역폭 메모리 공장 건설, 2028년 여름 제품 출하 예정",
       "link": "https://biz.chosun.com/it-science/ict/2026/07/04/WYFXJDXTU5E5PJY3FNQJMPTQB4/",
-      "summary": "미국의 반도체 기업 마이크론이 일본에 약 14조 원을 투자해 고대역폭 메모리(HBM) 생산 공장을 건설합니다.2028년 여름부터 제품을 출하할 계획으로, 차세대 메모리 시장에서의 경쟁력 강화를 목표로 합니다.이는 글로벌 반도체 공급망 재편 및 인공지능(AI) 시장 성장에 대비하는 중요한 전략적 움직임입니다.",
+      "summary": "미국의 반도체 기업 마이크론이 14조 원을 투자하여 일본에 고대역폭 메모리(HBM) 생산 공장을 건설합니다. 2028년 여름부터 제품 출하를 목표로 하며, 인공지능(AI) 시대의 핵심 부품인 HBM 수요 증가에 대응하기 위함입니다. 이번 투자는 글로벌 반도체 공급망 재편과 HBM 시장 경쟁 심화에 큰 영향을 미칠 것입니다.",
       "pub_date": "2026-07-04T07:49:58+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "조선비즈 IT/Tech",
-      "title": "아마존, 위성 인터넷 '레오' 올해 안에 서비스 개시…스타링크와 경쟁 본격화",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/03/X5JNZRJI2NGU7LVIE4GCU36FTE/",
-      "summary": "아마존이 자체 위성 인터넷 서비스인 '프로젝트 카이퍼(레오)'를 올해 안에 상업적으로 시작할 예정입니다.이는 일론 머스크의 스타링크와 직접적인 경쟁을 펼치며 글로벌 위성 인터넷 시장에 큰 변화를 가져올 것입니다.접근하기 어려운 지역에 고속 인터넷을 제공하여 디지털 격차 해소에 기여할 것으로 기대됩니다.",
-      "pub_date": "2026-07-03T02:29:16+00:00"
-    },
-    {
-      "category": "IT/과학",
       "outlet": "NYT",
-      "title": "미국, 앤트로픽의 가장 강력한 인공지능 모델에 대한 규제 완화",
+      "title": "미국 정부, 앤스로픽의 가장 강력한 인공지능 모델에 대한 규제 해제",
       "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-      "summary": "미국 정부가 선도적인 인공지능(AI) 기업 앤트로픽의 가장 강력한 AI 모델에 대한 규제를 해제했습니다.이는 AI 개발 경쟁에서 미국 기업의 자율성을 높이고 혁신을 촉진하려는 의도로 풀이됩니다.이번 조치로 앤트로픽의 AI 기술이 더욱 광범위하게 적용될 수 있는 길이 열렸습니다.",
+      "summary": "미국 정부가 인공지능(AI) 기업 앤스로픽의 가장 강력한 AI 모델에 대한 규제를 해제했습니다. 이는 AI 기술 개발 가속화와 시장 경쟁 촉진을 목표로 한 조치로 보입니다. 이번 결정은 AI 산업 전반에 걸쳐 기술 상용화와 혁신에 큰 영향을 미칠 것으로 예상됩니다.",
       "pub_date": "2026-07-01T03:17:31+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "텍사스주 테슬라 자율주행 중 사고 운전자, 과실치사 혐의 기소",
+      "title": "테슬라 오토파일럿 사용 운전자, 텍사스 교통사고로 과실치사 혐의 기소",
       "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
-      "summary": "텍사스주에서 테슬라 차량의 오토파일럿 기능을 사용하던 운전자가 사망 사고를 내 과실치사 혐의로 기소되었습니다.이번 사건은 자율주행 기술의 안전성과 운전자의 책임 범위에 대한 중요한 법적 선례가 될 수 있습니다.첨단 운전자 보조 시스템(ADAS) 기술의 발전과 규제 마련에 대한 논의가 더욱 활발해질 전망입니다.",
+      "summary": "텍사스에서 테슬라의 오토파일럿 기능을 사용하던 운전자가 사망 사고를 일으켜 과실치사 혐의로 기소되었습니다. 이는 자율주행 기술 관련 사고에 대한 법적 책임 공방을 심화시키는 사례입니다. 이번 사건은 자율주행 기술의 안전성과 윤리적 문제에 대한 논의를 다시 불러일으킬 것으로 예상됩니다.",
       "pub_date": "2026-07-03T00:01:43+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "인공지능 악용 위험 속, 부모들에게 자녀 사진 공개 자제 권고",
+      "title": "인공지능 악용 위험에 따라 부모들에게 자녀 사진 공개 자제 경고",
       "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "인공지능(AI) 기술의 발전과 함께 아동 이미지가 악용될 수 있는 위험이 커지면서 부모들에게 경고가 발령되었습니다.특히 온라인에 자녀의 사진을 공개적으로 공유하는 행위에 대한 신중한 접근이 요구됩니다.AI를 활용한 디지털 위협으로부터 아동의 안전과 프라이버시를 보호하기 위한 사회적 인식이 강조되고 있습니다.",
+      "summary": "인공지능(AI) 기술이 아동 이미지에 악용될 수 있는 위험이 커지면서, 부모들에게 온라인상에 자녀의 사진을 공개적으로 공유하지 말 것을 경고했습니다. AI 기반의 딥페이크 기술 등으로 아동의 이미지가 조작되어 범죄에 사용될 수 있다는 우려가 커지고 있습니다. 개인 정보 보호와 디지털 윤리 교육의 중요성이 강조되고 있습니다.",
       "pub_date": "2026-07-03T15:57:42+00:00"
     },
     {
@@ -230,128 +214,128 @@
       "outlet": "BBC",
       "title": "플레이스테이션, 2028년부터 디스크 기반 게임 출시 중단 예정",
       "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
-      "summary": "소니 플레이스테이션이 2028년부터 디스크 형태의 물리적 게임 출시를 전면 중단할 계획이라고 발표했습니다.이는 디지털 다운로드 및 스트리밍 중심으로 전환되는 게임 산업의 흐름을 반영한 결정입니다.향후 게임 유통 방식에 큰 변화를 가져오며, 게임 산업 전반에 영향을 미칠 것으로 예상됩니다.",
+      "summary": "플레이스테이션이 2028년부터 디스크 기반 게임 출시를 전면 중단하고 디지털 다운로드 방식으로 전환할 예정입니다. 이는 게임 산업의 디지털 전환 가속화를 보여주는 중요한 변화입니다. 이러한 변화는 게임 유통 방식, 소비자 구매 패턴, 그리고 게임 보존 방식에도 큰 영향을 미칠 것으로 보입니다.",
       "pub_date": "2026-07-01T16:40:58+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "테헤란에 엄청난 인파 집결, 아야톨라 국장 엄수",
+      "title": "테헤란에서 아야톨라 국장에 엄청난 인파 집결",
       "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
-      "summary": "이란 수도 테헤란에 수백만 명의 인파가 모여 최근 서거한 아야톨라 알리 하메네이 최고 지도자의 국장을 엄수했습니다.조문객들은 거리와 광장을 가득 메우며 최고 지도자에 대한 마지막 경의를 표했습니다.이번 장례식은 이란 내부 결속을 다지는 동시에 전 세계에 이란의 힘을 과시하는 계기가 되었습니다.",
-      "pub_date": "2026-07-04T20:39:12+00:00"
+      "summary": "이란의 최고 지도자 아야톨라의 국장에 수많은 인파가 테헤란에 모여 애도를 표했습니다. 국영 TV는 추모객들이 슬픔에 잠겨 거리를 가득 메운 모습을 보도했습니다. 이번 국장은 이란 정국의 향방과 미래에 대한 국제사회의 관심이 집중되는 계기가 되고 있습니다.",
+      "pub_date": "2026-07-05T06:37:32+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "푸틴, 전장 시찰 후 우크라이나 영토 추가 점령 천명",
-      "link": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
-      "summary": "블라디미르 푸틴 러시아 대통령이 우크라이나 전장을 직접 시찰하고 군인들을 격려했습니다.이 자리에서 푸틴은 우크라이나 영토를 더 많이 점령하겠다는 강경한 의지를 밝혔습니다.이는 러시아의 전쟁 목표가 확대되고 있음을 시사하며, 전쟁의 장기화 가능성을 높이고 있습니다.",
-      "pub_date": "2026-07-04T17:11:14+00:00"
+      "title": "사망한 이란 최고 지도자 국장 기도에서 추모객들 '복수' 외쳐",
+      "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+      "summary": "이란 최고 지도자의 장례 미사 중 수많은 추모객들이 '복수'를 외치며 강렬한 정치적 메시지를 표출했습니다. 이는 지도자의 사망을 둘러싼 이란 내부의 정서와 향후 대외 정책 방향에 대한 단서를 제공합니다. 이란은 이번 사건을 계기로 내부 결속을 다지고 대외적으로 강경한 태도를 보일 가능성이 있습니다.",
+      "pub_date": "2026-07-05T13:31:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "장례식의 일시적 단결, 이란 지도부 내 깊은 균열을 가려",
-      "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
-      "summary": "아야톨라 최고 지도자의 국장 기간 동안 이란 지도부의 단결된 모습이 연출되었습니다.그러나 전문가들은 이러한 모습이 사실상 지도부 내 뿌리 깊은 권력 투쟁과 의견 불일치를 감추기 위함이라고 분석합니다.장기적으로 최고 지도자 계승 과정에서 내부 갈등이 표면화될 가능성이 제기됩니다.",
-      "pub_date": "2026-07-04T20:44:42+00:00"
+      "title": "중국, 해경 순찰 확대하며 대만에 대한 압박 강화",
+      "link": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
+      "summary": "중국이 해경 순찰을 확대하며 대만에 대한 군사적, 외교적 압박을 강화하고 있습니다. 이는 대만의 주권 주장에 대한 중국의 강력한 경고 메시지로 해석됩니다. 이 지역의 긴장이 고조되면서 국제사회의 우려가 커지고 있습니다.",
+      "pub_date": "2026-07-05T17:45:28+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "호주, 중국에 맞섰으나 중국의 더욱 강한 압박에 직면",
-      "link": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
-      "summary": "호주가 중국의 경제적, 정치적 압력에 맞서 독자적인 외교 노선을 시도했습니다.그러나 중국은 더욱 강력한 무역 보복과 외교적 압박으로 호주를 압박했습니다.이는 아시아 태평양 지역에서 중국의 영향력과 외교적 파워를 보여주는 사례로 평가됩니다.",
-      "pub_date": "2026-07-04T04:01:06+00:00"
+      "title": "트럼프의 요청 후 중국, 종교 탄압으로 구금된 목사 석방",
+      "link": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
+      "summary": "중국이 도널드 트럼프 전 대통령의 요청에 따라 종교 탄압 정책으로 구금되었던 목사를 석방했습니다. 이는 미국과 중국 간의 인권 외교에서 드문 성과로 평가됩니다. 이번 석방은 양국 관계 및 중국 내 종교의 자유 문제에 대한 논의를 재점화할 것입니다.",
+      "pub_date": "2026-07-05T08:40:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "미국 당국, 이스라엘이 이란 협상가 암살 계획 믿었다",
-      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
-      "summary": "미국 정보 당국이 이스라엘이 이란 핵 협상가들을 암살하려 계획하고 있다고 믿었던 것으로 알려졌습니다.이는 중동 지역의 복잡한 역학 관계와 비밀 작전의 가능성을 시사합니다.이러한 정보는 미국과 이스라엘 간의 관계, 그리고 이란과의 핵 협상 과정에 미묘한 영향을 미쳤을 것입니다.",
-      "pub_date": "2026-07-03T18:10:21+00:00"
+      "title": "키이우와 모스크바에서 멀리 떨어진 전선에서 병사들 폐허를 수색하고 드론 피해",
+      "link": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+      "summary": "키이우와 모스크바로부터 멀리 떨어진 최전선에서 병사들이 폐허 속을 수색하며 드론 공격을 피하고 있습니다. 이는 현대전의 새로운 양상과 함께 병사들이 겪는 현실적인 어려움을 보여줍니다. 전쟁이 장기화되면서 전선의 상황은 더욱 예측 불가능해지고 있습니다.",
+      "pub_date": "2026-07-05T09:17:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "우크라이나, 러시아 상트페테르부르크 주요 유류 터미널 공격",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "summary": "우크라이나군이 러시아 상트페테르부르크에 위치한 주요 유류 터미널을 공격했습니다.이번 공격은 러시아의 전쟁 수행 능력을 약화시키려는 우크라이나의 전략적 시도로 보입니다.러시아 본토에 대한 우크라이나의 공격 능력이 강화되고 있음을 보여주는 사례입니다.",
-      "pub_date": "2026-07-04T18:41:25+00:00"
+      "title": "이란 최고 지도자, 아야톨라 국장에 불참한 가운데 고위 관리들 참석",
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "이란 최고 지도자가 아야톨라의 국장에 불참하여 이란 정국에 대한 여러 추측을 낳고 있습니다. 고위 관리들이 참석한 가운데 진행된 국장은 예정대로 치러졌습니다. 이번 불참은 이란 내부 권력 구조와 후계 구도에 대한 중요한 메시지를 담고 있을 수 있습니다.",
+      "pub_date": "2026-07-05T17:58:01+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "테헤란에 대규모 인파 집결, 아야톨라 하메네이 장례식 첫날",
-      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "summary": "아야톨라 하메네이 최고 지도자의 장례식 첫날, 이란 테헤란에 수많은 조문객이 모여들었습니다.장례 행렬은 도시 곳곳을 지나며 애도와 경의를 표하는 대규모 군중을 동원했습니다.이는 이란 정권의 내부 결속력을 과시하고 향후 지도자 승계 과정에 대한 관심을 집중시키고 있습니다.",
-      "pub_date": "2026-07-04T09:45:55+00:00"
+      "title": "프랑스 르펜에게 운명의 순간, 대선 출마 여부 결정 판결 앞둬",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "프랑스의 마린 르펜 후보가 자신의 대선 출마 여부를 결정할 중요한 판결을 앞두고 있습니다. 이번 판결은 그녀의 정치적 미래뿐 아니라 프랑스 대선 판도에도 큰 영향을 미칠 것입니다. 극우 세력의 부상과 관련하여 유럽 전역이 이 결과에 주목하고 있습니다.",
+      "pub_date": "2026-07-04T23:17:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "교황, 관문 섬 방문하며 유럽에 이주민 지원 확대 촉구",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "summary": "교황이 지중해 이주민들의 유럽 진입 관문이 되는 섬을 방문하여 이주민들의 어려운 현실을 직접 목격했습니다.그는 유럽 각국이 인도주의적 차원에서 이주민들에 대한 지원을 더욱 확대할 것을 강력히 촉구했습니다.교황의 메시지는 이주민 문제 해결을 위한 국제사회의 책임과 연대를 다시 한번 강조하는 계기가 되었습니다.",
-      "pub_date": "2026-07-04T11:25:57+00:00"
+      "title": "슈퍼 태풍 바비, 거대한 강풍과 함께 미국 태평양 섬들에 상륙",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "강력한 슈퍼 태풍 바비가 거대한 강풍을 동반하여 미국 태평양 섬들에 상륙했습니다. 이는 해당 지역에 막대한 피해를 초래할 것으로 예상됩니다. 주민들은 대피하고 있으며, 구조 당국은 비상 상황에 대비하고 있습니다.",
+      "pub_date": "2026-07-05T21:39:12+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "모나코 폭탄 테러 후 경찰, '남자로 변장한' 우크라이나인 용의자 추적",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "summary": "모나코에서 발생한 폭탄 테러 사건 이후 경찰이 '남자로 변장한' 우크라이나인 여성을 주요 용의자로 추적 중입니다.이 사건은 국제적인 주목을 받으며 테러 배후와 동기에 대한 수사가 집중되고 있습니다.테러와 관련된 새로운 정보는 국제 안보와 우크라이나 전쟁의 복잡성을 더욱 부각시키고 있습니다.",
-      "pub_date": "2026-07-03T15:20:57+00:00"
+      "title": "나이지리아, 반이민자 공격 증가 속 남아프리카에서 자국민 2명 사망 발표",
+      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "나이지리아가 남아프리카 공화국에서 반이민자 공격이 증가하는 가운데 자국민 2명이 사망했다고 발표했습니다. 이는 남아프리카 공화국 내 외국인 혐오 범죄의 심각성을 다시 한번 드러내는 사건입니다. 양국 관계에 긴장을 불러일으킬 수 있으며, 인권 문제에 대한 국제사회의 우려를 키우고 있습니다.",
+      "pub_date": "2026-07-05T17:30:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "프랑스, 폭염 절정기 2,025명 초과 사망 기록…유럽 극한 기후 대비",
-      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "summary": "프랑스에서 기록적인 폭염이 절정에 달했던 시기에 2,025명의 초과 사망자가 발생했습니다.이는 기후 변화로 인한 극한 기후 현상이 유럽 전역에 미치는 심각한 영향을 보여줍니다.유럽 각국은 앞으로 더 강력해질 폭염과 같은 극한 기후에 대비하기 위한 대책 마련에 고심하고 있습니다.",
-      "pub_date": "2026-07-03T10:23:32+00:00"
+      "title": "'점점 더 뜨거워지는' 유럽의 새로운 기후 현상 7가지 차트 분석",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "summary": "유럽이 '점점 더 뜨거워지는' 새로운 기후 현상에 직면했으며, 이에 대한 7가지 주요 차트 분석이 발표되었습니다. 보고서는 기록적인 폭염, 가뭄, 이상 기후 발생 빈도 증가 등 심각한 기후 변화를 보여줍니다. 이러한 변화는 유럽 전역의 생태계, 경제, 사회 전반에 걸쳐 장기적인 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-07-04T00:57:05+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "테헤란에 운집한 거대한 인파, 이란 살해된 최고 지도자를 애도",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnVWMVc3eGpQcHl2RWxMOVpZeGxnbG9jZU1lU1JHbWlWSzQ0Q3EwakY3SkFsWjdzM3ZBSTZiaDZkSmg3aVZLMWhrbER0bnRBT1dGVzJWbjd0eks5TS1iTWhjNzdkZk1jZmk3aTRfWWpVaUw1anNxWWgxaldYQlh6TQ?oc=5",
-      "summary": "이란의 수도 테헤란에 엄청난 규모의 인파가 모여 살해된 최고 지도자의 장례식에 참석해 애도를 표했습니다.수백만 명의 시민들이 거리와 광장을 가득 메우며 최고 지도자에 대한 경의를 표했습니다.이번 장례식은 이란의 정치적 안정과 권력 승계 과정에 대한 전 세계의 이목을 집중시키고 있습니다.",
-      "pub_date": "2026-07-04T13:48:41+00:00"
+      "title": "추모 인파, 테헤란 거리를 가득 메워 저항 정신 보여줘",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFA3eFlMd1Y0QVBiSmttV2RSLUNpVXhDQ210dUlHMmZoa1Zrd2ZWckFOOTQzb3Z1b21fU0ZqcGd5TU1RM1ZlZmppYzV5OUprV1NOZkpMVFFLNkpBSDNPNlN3c2ppbF9JS0NJOTdlbFZQUTdrT051UWpEVFZyX0hiNTZEd3Y1a1F3SmFZ?oc=5",
+      "summary": "이란 최고 지도자의 장례식에 수많은 추모 인파가 테헤란 거리를 가득 메우며 저항의 정신을 표출했습니다. 대규모 군중의 동원은 정부에 대한 충성심과 불만을 동시에 드러내는 복합적인 메시지로 해석됩니다. 이란 내 정치적 분위기와 사회적 결속력을 가늠할 수 있는 중요한 사건입니다.",
+      "pub_date": "2026-07-05T13:21:04+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "최초의 미국인 교황, 독립기념일에 이주민 존중 메시지 전달",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnNPRlVDQ09zcHY0eVp1d0JUM0M5bmlMMnR1MWF3Q3k1eUlXMW1INERkMGF5SjlVbm9iSS1SMWduZ0RHWXJSSXFBYXVZS3laLTN1dUU4Q3VWOUhBeG5iWS1DR1BoNVZPb2FRWnJBUzJpbk5iVEpwdGpLU1gwdkJhb0Jrcm5FOFJXaWtVX0hseEtZUGlKbV9XX21Bb01PVkJDTmNOYVUybWFDT0k?oc=5",
-      "summary": "최초의 미국인 교황이 미국 독립기념일을 맞아 이주민들을 기리고 존중해야 한다는 메시지를 전달했습니다.그는 이주민들의 인권 보호와 인도주의적 지원의 중요성을 강조했습니다.이는 이주민 문제에 대한 미국 사회의 책임과 국제적인 연대를 촉구하는 의미 있는 발언으로 해석됩니다.",
-      "pub_date": "2026-07-04T15:56:00+00:00"
+      "title": "구금된 가자지구 소아과 의사, '그들이 나를 죽이려고 여기로 데려왔다' 증언",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYU5XdUpFRWd6WFg0aS1rSTYxUUd6YTNBSTV5bHV0cWR2a2huaVFvRXBBQVM0b01VUGRNc2tVMXBmdkdZRzk2VzgwYUVWYlVoeFA5SXJpekRsOTN3RG5aQnl2WW5rQWJrVjQycTYtT1k1UE53ZVJhX2hJMDNFNEZNbk9aelJQb0dpR1ZYMVRCQk51dldkaVBF?oc=5",
+      "summary": "가자지구에서 구금된 한 소아과 의사가 '그들이 나를 죽이려고 여기로 데려왔다'고 증언하며 극심한 고통을 호소했습니다. 이는 분쟁 지역에서 의료인들이 겪는 인권 침해의 심각성을 보여줍니다. 국제 인권 단체들은 이 사건에 대한 즉각적인 조사와 의료인 보호를 촉구하고 있습니다.",
+      "pub_date": "2026-07-05T19:05:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스머코니시의 미국 건국 250주년 분석: 세계가 본 미국과 실제 방문객이 느낀 미국",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdpVjFwdEVLcm1JdkFLMk04SzVadFhseExEWmNwVDNSTXBsYjFDZ0RFLUZSQUJkQXlEb0lkckhXb3A3b1ozWWN1YnpBRGt3b0ZFOHk5cmNhb2RoeFdPN1Z4cTRJQldPaUxMTlBRQlpycm9OS1FrN3hDVVhkbVBJQlZWOGItd19nVXFNYmh4Y2F3a1U2ZDFhT0FuQmJDNTJtRTdhNHJqcTk0azNIOU5MWlpxRTNpRXFxWnpJTzh3YlRFWGM?oc=5",
-      "summary": "미국 건국 250주년을 맞아 마이클 스머코니시가 미국에 대한 세계의 인식과 실제 방문객들이 경험하는 미국을 비교 분석했습니다.그는 외부 시선과 내부 현실 간의 차이점을 조명하며 미국의 복합적인 정체성을 탐구했습니다.이번 분석은 미국의 국제적 위상과 국내 사회 문제에 대한 심도 깊은 고찰을 제공했습니다.",
-      "pub_date": "2026-07-04T14:37:34+00:00"
+      "title": "FIFA, 미국 선수 발로건 출전 허용으로 축구계 충격, 트럼프 역할에 관심 집중",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VZGVETHRFc081YmhnQ0RiQ1EtVTFmajhOQ3F4TjJocUtEcVNaUUR0OUpqSkpsQWlNTC1GdGkwRk5JMHl1X29BNW9Mc2pXSFpxRHZSdjRqZ3ZwSkl2Y1ViTDZ2ZHhXR3B4blA2NDJXaENEZHR0T2dhUA?oc=5",
+      "summary": "국제축구연맹(FIFA)이 미국 국가대표 발로건 선수의 월요일 경기 출전을 허용하며 축구계에 놀라움을 안겼습니다. 이 결정 과정에서 도널드 트럼프 전 대통령의 역할이 있었다는 의혹이 제기되며 관심이 집중되고 있습니다. 스포츠와 정치의 이례적인 교차점이 국제적인 화제가 되고 있습니다.",
+      "pub_date": "2026-07-05T17:04:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "베네수엘라 지진 8일 만에 잔해 속에서 남성 구조되는 순간 공개",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNVFMb21WRjgwejVkOVNjM3F4bFphSmFlanAyY2N1QVlhZzE2NlBITkdUSUNIcW1NbjJsOVlpUEE0dEdLNVFsZGc2S3o2cnJLM1IyRUsxcjVZQWxUZGZLX09XYzNYdDFCek9vYzBFS015aUtibHg2bVRpT0pWamZHT2lfMU5JcVZoWWlKSFpzRUZVX2U0VWJiMmVib3JyZHhOTWNobDVic0xJdU1nLXkxU0JkUlNWYlMtSEtIWWp5T3JxbEF0amNwNHhPaGNwVGFxSy1HUm1R?oc=5",
-      "summary": "베네수엘라에서 발생한 지진으로 무너진 잔해 속에서 한 남성이 8일 만에 극적으로 구조되는 영상이 공개되었습니다.구조팀의 끈질긴 노력과 희망을 잃지 않은 생존자의 의지가 기적을 만들어냈습니다.이번 구조 소식은 재난 현장에서의 희망과 인간 생명의 소중함을 다시 한번 일깨워주었습니다.",
-      "pub_date": "2026-07-04T05:25:19+00:00"
+      "title": "튀르키예, 성소수자 아틀란티스 유람선 입항 차단",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2pMcW95RWh3ZjRwNkxSOTNvQkM4UTVveWxKSHgybTRjZGZBRWg2QjdmNG1TU1g1R0ZXNjRxTWlybDJ1MzRlSllJTHpZa2E5TkRzMFFDYndoTXZNMnNTY3dEMUhwRjNBdzd5S0pQMVJ4Y0dVVjdHeTkxNDF1QWFqODU5UVJXU3VWQnc1NVpPRjliZUFtTWgxLTBsWkF5UjhXbUlNSg?oc=5",
+      "summary": "튀르키예 당국이 성소수자(LGBTQ) 전용 아틀란티스 유람선의 자국 항구 입항을 차단했습니다. 이는 튀르키예 정부의 성소수자 권리에 대한 보수적 입장을 보여주는 사례입니다. 성소수자 인권 단체들은 이 결정에 강력히 반발하며 국제사회의 비판이 예상됩니다.",
+      "pub_date": "2026-07-05T08:36:18+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "월드컵 최고의 날 이후 16강전 본격 개막",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fUzhYamltYnhpeHRpMGxBOHRmOXBhbmpEeHVWMWxzaElCelh4Z01vSUdGT0RzMDdseEVYbEQ2Zkkyd0JfenBtR0dXcmo1bzhVRXFDeE5SVXQ1cXVMZjhnaUs1b2xUaWNiMWwzN0c0Yw?oc=5",
-      "summary": "매우 흥미진진했던 월드컵 조별리그 경기가 마무리되고, 이제 16강전이 본격적으로 시작됩니다.각국 대표팀들은 토너먼트의 치열한 경쟁 속에서 우승을 향한 도전을 이어갈 것입니다.전 세계 축구 팬들의 열기가 최고조에 달하며 다음 라운드 경기에 대한 기대감이 커지고 있습니다.",
-      "pub_date": "2026-07-04T15:16:58+00:00"
+      "title": "극심한 폭염, 미국 전역의 독립기념일 행사 방해",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFpGaTEtSzhxbXJYWTlHaF9oQlJVVmlDdjAtZFBMRlR3Z0hNUHFLdkdyWkpWai1DQTRpU0F1aUVMakNMT2Vra2prTTV6bXRkcHJaZk1DNFNmanZQQ25hTENmVkxfYmg5bTlQSVp3LTdkSjUzLUZLMUQ1Tlc5bnZQend2VUc4di11RV9qYjVaS2tvMUc3dEdoSFo0SjdhQXdYWFB3SGJKYUc3VnpnYVE?oc=5",
+      "summary": "미국 전역을 덮친 극심한 폭염으로 인해 독립기념일(7월 4일) 행사가 대거 취소되거나 축소되었습니다. 기록적인 고온 현상은 야외 활동에 큰 제약을 주며 시민들의 건강을 위협하고 있습니다. 기후 변화의 영향이 일상생활과 국가적 기념행사에도 미치고 있음을 보여주는 사례입니다.",
+      "pub_date": "2026-07-05T02:48:00+00:00"
     }
   ]
 }
