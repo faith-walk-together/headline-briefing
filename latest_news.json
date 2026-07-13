@@ -1,373 +1,397 @@
 {
-  "last_updated": "2026-07-12T21:49:23.389581+00:00",
+  "last_updated": "2026-07-13T21:57:14.641063+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "이석연 \"검사 보완수사권 폐지, 헌법에 위배된다…박탈하려면 개헌 필요\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653642&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "국민통합위원장 이석연은 검사의 보완수사권 완전 폐지가 헌법에 위배된다고 주장했다.그는 수사권 박탈을 위해서는 개헌이 필요하다고 강조하며 현행법의 문제를 지적했다.이는 검찰 개혁을 둘러싼 여권 내부의 논쟁과 위헌성 논란을 심화시킬 것으로 보인다.",
-      "pub_date": "2026-07-12T08:37:00+00:00"
+      "title": "민주당은 폐지를, 국민의힘은 유지를 당론으로 내세우며 보완수사권 논의에 속도를 내고 있습니다.",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655915&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "검찰 보완수사권 폐지를 두고 여야가 첨예하게 대립하고 있습니다. 민주당은 폐지 법안을 추진하며 속도를 내고, 국민의힘은 유지 당론을 확정했습니다. 이 문제는 정치권의 주요 쟁점으로 떠올랐습니다.",
+      "pub_date": "2026-07-13T21:27:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "동해 북방한계선 인근 해군 일병 실종…통일부, 북측에 수색 및 송환 협조 요청",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653762&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "동해 북방한계선(NLL) 인근 해상에서 해군 소속 일병 한 명이 실종되는 사건이 발생했다.통일부는 실종 해군 일병의 수색 및 북측으로의 송환에 대한 협조를 북한 당국에 공식 요청했다.정부는 관련 상황을 예의주시하며 조속한 해결을 위해 노력 중이다.",
-      "pub_date": "2026-07-12T09:04:00+00:00"
+      "title": "정청래 의원, 더불어민주당 당대표 출마 선언하며 대선 불출마 및 이재명 대표 수호 의지 피력",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008655218&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "정청래 의원이 더불어민주당 당대표 출마를 공식 선언했습니다. 그는 대선에 출마하지 않겠다고 밝히며 이재명 대표를 지키겠다고 강조했습니다. 이 발언은 당내 권력 구도에 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-07-13T06:42:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "린지 그레이엄 공화당 상원의원 겸 트럼프 측근, '급성 질환'으로 사망",
-      "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-      "summary": "오랫동안 공화당 상원의원이자 도널드 트럼프 전 대통령의 핵심 측근이었던 린지 그레이엄이 71세로 사망했다.그의 대변인은 '급성 질환'으로 인한 사망이라고 밝혔으며, 이는 미국 정치계에 큰 충격을 주었다.그레이엄 의원은 외교 정책, 특히 우크라이나 지원과 관련하여 중요한 역할을 해왔다.",
-      "pub_date": "2026-07-12T21:36:45+00:00"
+      "title": "린지 그레이엄 의원 사망으로 그의 민주당 도전자 선거 구도 변화",
+      "link": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html",
+      "summary": "린지 그레이엄 상원의원의 갑작스러운 사망으로 그의 지역구 상원의원 선거 판세가 크게 요동치고 있습니다. 이는 민주당 도전자에게 예기치 않은 기회 또는 새로운 도전을 안겨줄 수 있습니다. 선거전은 새로운 국면을 맞이하게 될 것으로 보입니다.",
+      "pub_date": "2026-07-13T21:13:29+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "린지 그레이엄 사망으로 우크라이나, 트럼프에 영향 미칠 동맹 잃어",
-      "link": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
-      "summary": "도널드 트럼프 전 대통령의 핵심 조언자였던 린지 그레이엄 상원의원의 사망으로 우크라이나가 중요한 지지자를 잃게 되었다.그레이엄 의원은 트럼프 전 대통령에게 우크라이나 지원의 필요성을 지속적으로 설득해온 인물이었다.그의 부재는 향후 트럼프 행정부의 우크라이나 정책 방향에 상당한 영향을 미칠 것으로 예상된다.",
-      "pub_date": "2026-07-12T21:38:42+00:00"
+      "title": "트럼프 행정부, 국제형사재판소에 대한 새로운 공격 발표",
+      "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-international-criminal-court.html",
+      "summary": "트럼프 행정부가 국제형사재판소(ICC)에 대한 새로운 강경 조치를 발표했습니다. 이는 ICC의 권위와 국제 사법 체계에 대한 미국의 입장을 재확인하는 움직임입니다. 이번 조치로 국제사회에 상당한 파장이 예상됩니다.",
+      "pub_date": "2026-07-13T20:23:16+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 이란 핵 협상에서 호르무즈 해협 안보 확보 실패",
-      "link": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-      "summary": "도널드 트럼프 전 대통령이 재임 중 이란 핵 협상에서 호르무즈 해협의 안보를 제대로 확보하지 못했다는 지적이 나왔다.이 지역은 세계 에너지 공급의 핵심 통로로, 안보 불안은 국제 유가와 해상 운송에 직접적인 영향을 미친다.미국과 이란 간의 긴장이 고조되는 가운데, 트럼프 행정부의 당시 외교적 전략이 재조명되고 있다.",
-      "pub_date": "2026-07-12T16:43:37+00:00"
+      "title": "트럼프 대통령 지지 속 린지 그레이엄 의원 누이, 상원의원 잔여 임기 임명",
+      "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html",
+      "summary": "린지 그레이엄 의원의 사망 후, 그의 누이인 달린 그레이엄 노든이 트럼프 대통령의 지지를 받아 상원의원 잔여 임기를 맡게 되었습니다. 이로써 그레이엄 의원의 정치적 유산이 가족을 통해 이어지게 되었습니다. 이는 상원 내 정치 역학 관계에도 영향을 미칠 것으로 보입니다.",
+      "pub_date": "2026-07-13T20:48:48+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "동해 북방한계선 해상서 해군 1명 실종…북한에 수색 협조 요청",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713055009Z7H",
-      "summary": "동해 북방한계선(NLL) 인근 해상에서 해군 소속 병사 1명이 실종돼 관계 당국이 수색 중이다.통일부는 실종 장병 수색과 송환을 위해 북한 측에 공식적으로 협조를 요청했다.정부는 북한의 반응을 주시하며 인도주의적 차원의 협력을 기대하고 있다.",
-      "pub_date": "2026-07-12T20:50:11+00:00"
+      "title": "검찰 보완수사권 폐지 충돌 격화, 민주당 전당대회 대진표 완성",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713224028M7p",
+      "summary": "검찰 보완수사권 폐지를 둘러싼 여야의 갈등이 심화되고 있습니다. 한편 더불어민주당은 전당대회 후보 등록을 마감하며 대진표를 확정했습니다. 정치권의 주요 현안들이 동시에 부상하고 있습니다.",
+      "pub_date": "2026-07-13T13:40:31+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한자리에 모인 여당 당권 주자들…'기싸움' 연일 가열",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202607130609557D5",
-      "summary": "국민의힘 당권 주자들이 한자리에 모여 치열한 신경전을 벌이며 당대표 선거 열기가 고조되고 있다.각 후보들은 차기 당 대표 자리를 놓고 정책 비전과 당 운영 방향에 대한 공방을 이어가고 있다.이번 '기싸움'은 전당대회를 앞두고 당의 주도권 경쟁이 본격화되고 있음을 보여준다.",
-      "pub_date": "2026-07-12T21:09:56+00:00"
+      "title": "정청래 의원, 당대표 연임 도전 공식화하며 대권 불출마 선언",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260713193738Nc1",
+      "summary": "정청래 의원이 더불어민주당 당대표 연임 도전을 공식화했습니다. 그는 출마 선언에서 다음 대선에는 도전하지 않겠다고 밝혔습니다. 이 발언은 당내 리더십 경쟁과 향후 정치 행보에 큰 관심이 쏠리고 있습니다.",
+      "pub_date": "2026-07-13T10:37:40+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "앤디 번햄, 노동당 의원 322명 지지로 차기 총리 유력 후보 부상",
-      "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄이 노동당 총리 후보 지명에서 322명의 의원 지지를 얻으며 차기 총리가 될 것이라는 전망이 나왔다.이는 노동당 내에서 번햄의 강력한 입지를 보여주며, 그가 당을 이끌어 차기 총선에서 승리할 가능성이 높다는 분석이다.그의 총리직 수락은 영국 정치 지형에 큰 변화를 가져올 중대한 사건이 될 것이다.",
-      "pub_date": "2026-07-10T07:30:39+00:00"
+      "title": "앤디 번햄, 349명 의원 지지 확보하며 노동당 대표직 굳건히",
+      "link": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "앤디 번햄 시장이 349명의 의원 지지를 얻어 노동당 대표 지위를 확고히 했습니다. 이는 그가 차기 총리가 될 가능성을 더욱 높이는 중요한 발판입니다. 노동당 내부 결속력을 과시하며 정권 교체의 기대감을 높이고 있습니다.",
+      "pub_date": "2026-07-13T21:11:08+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "런던 경찰, 개혁당의 선거 기부금 조사 착수 보도",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "런던 광역경찰청(Metropolitan Police)이 개혁당(Reform UK)의 선거 기부금에 대한 조사를 시작했다는 보도가 나왔다.이번 조사는 선거 자금의 투명성과 관련한 의혹을 해소하기 위한 것으로, 정치권에 파장을 일으킬 수 있다.만약 불법적인 기부금 수수가 밝혀질 경우, 개혁당은 심각한 타격을 입을 수 있다.",
-      "pub_date": "2026-07-10T11:46:03+00:00"
+      "title": "앤디 번햄은 누구인가? 맨체스터 전 시장, 차기 총리 유력 후보로 부상",
+      "link": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+      "summary": "맨체스터 전 시장 앤디 번햄이 영국 차기 총리로 유력하게 거론되며 큰 주목을 받고 있습니다. 그의 정치적 경력과 정책 방향에 대한 관심이 집중되고 있습니다. 번햄의 부상은 영국 정치 지형에 중요한 변화를 예고합니다.",
+      "pub_date": "2026-07-10T15:12:27+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "[단독] 선관위, 예산·결산 보고 없이 연간 수백억 원 임의 집행",
-      "link": "https://www.chosun.com/politics/goverment/2026/07/12/QSIQXV3CJFCWHHESTPWFCDONMU/",
-      "summary": "선거관리위원회가 예산 및 결산 보고 절차 없이 매년 수백억 원의 예산을 임의로 집행한 사실이 단독 보도되었다.이는 공공기관의 예산 투명성과 책임성에 대한 심각한 문제 제기로 이어진다.이번 사태는 국민 혈세의 불투명한 운영에 대한 비판과 함께 선관위 개혁 요구를 증폭시킬 것으로 예상된다.",
-      "pub_date": "2026-07-12T06:32:43+00:00"
+      "title": "국민의힘, 여당의 형소법 강행에 맞서 보완수사권 유지를 당론으로 발의",
+      "link": "https://www.chosun.com/politics/assembly/2026/07/13/5H3BWQBXKFAZHONUPLR4H6S6DM/",
+      "summary": "국민의힘이 더불어민주당이 추진하는 형사소송법 개정안, 즉 검찰의 보완수사권 폐지에 강하게 반발하며 '보완수사권 유지'를 당론으로 발의했습니다. 이는 검찰 수사권 조정을 둘러싼 여야 간의 첨예한 대립을 보여줍니다. 국회 내 법안 처리 과정에서 큰 충돌이 예상됩니다.",
+      "pub_date": "2026-07-13T07:06:17+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "린지 그레이엄 공화당 상원의원 겸 트럼프 측근, 71세로 '급성 질환' 사망",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iaENhMVdBWW1sUVpiRDdsZmF3eGZ0QlNNbUdHU28xbExzNmdYQWNaUFY4RDNpb09Kd1YxZ1hHdVpsOTQwMk5USHcxak8yYjd4N0lpdjhPVTdmMktIdW8wVEZ6ZnZpaFVhWUpoQ0l4bmp2UXlYZzBhdFY0QXRqZw?oc=5",
-      "summary": "오랫동안 공화당 상원의원이자 도널드 트럼프 전 대통령의 핵심 측근이었던 린지 그레이엄이 71세로 사망했다.그의 대변인은 '급성 질환'으로 인한 사망이라고 밝혔으며, 이는 미국 정치계에 큰 충격을 주었다.그레이엄 의원은 외교 정책, 특히 우크라이나 지원과 관련하여 중요한 역할을 해왔다.",
-      "pub_date": "2026-07-12T06:46:01+00:00"
+      "title": "린지 그레이엄 상원의원 누이, 그의 상원 의석을 채울 예정",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUxnb1o1dkFQbFNtMHBUTC16cjVsUTk5Q2FpZl9ieEdKa0JKT1ZoWHhqTGppOVlMOVdyMGJSLWV2RENYdzVNanU5S3FlZF9BN3Jxb0dwS05GNTFuY1BHZDVvLUExWGNZNnVnOUhPNXZhblE1VFhmMVhBdmF3bHhBV1VyaU54SzR4WG1wUVdCNFR2cDZkMzJkMEk2RW1ZTldUSVpVbDNNNEg4OENZaGFaT0pTTXV2U1JnaEFyeW1zcWFNU2lh?oc=5",
+      "summary": "린지 그레이엄 상원의원 사망 후, 그의 누이인 달린 그레이엄 노든이 공석이 된 상원 의석을 채울 예정입니다. 이는 사우스캐롤라이나 주지사의 선택으로 결정되었습니다. 가족이 의원직을 이어받는 이례적인 상황에 관심이 쏠리고 있습니다.",
+      "pub_date": "2026-07-13T21:08:33+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "린지 그레이엄 상원의원 사망, 상원 및 11월 선거에 큰 영향 미칠 것",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95aXRLdkpaMy1haWE2cllYVGlFOTIwcGpEMmtzMEpWZmZnVnVaUEtWRU9ReHl4aExVZDNQVkF0OHBuUWZrVGpfS0pYY04wN2FETmZaSDFkQThPTlR5cjVMS3JzbzhxX29obmNGU1lwUUNNNEtISVpTNXJGWUNhUQ?oc=5",
-      "summary": "린지 그레이엄 상원의원의 사망은 미국 상원의 정치 지형과 오는 11월 중간선거에 상당한 파장을 일으킬 전망이다.그의 빈자리를 채울 후임자 선정 과정이 주목되며, 이는 상원 내 세력 균형에도 영향을 줄 수 있다.특히 경합이 예상되는 선거구에서 그의 부재는 선거 결과에 예측 불가능한 변수로 작용할 수 있다.",
-      "pub_date": "2026-07-12T13:06:19+00:00"
+      "title": "린지 그레이엄 상원의원 사망 이후 다가올 정치적 대결들",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmtYTG9hWEREQjBKVnRhaTlrbGVVajhKNjdEWHAxb2N5QW1LOHVZNUU2X0ZkQkgtYlhBZF9ESWhPMDRmTjRLMnFDLUVqSVhBQUg3SmJWUkJMeVJscHp0UUFlR2JfT04tbHA3NGdpVVdoX3ZnaDA3VWd4Zk1NMVVqUmUtM1J4ZzViNWVkZEZyOTBKMFYxNzdwRm1CRVpUN1EwMThiR0VmMVRnOE9adTgyN3RuN0FTWFFSa1FUdw?oc=5",
+      "summary": "린지 그레이엄 상원의원의 갑작스러운 사망으로 미국 정치권에 큰 파장이 예상됩니다. 특히 그의 지역구를 둘러싼 민주당과 공화당 간의 치열한 정치적 대결이 예고되고 있습니다. 상원 내 역학 관계 변화에도 주목이 필요합니다.",
+      "pub_date": "2026-07-13T12:48:39+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "이란, 호르무즈 해협 폐쇄 선언",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUVSajdWQ2V2LWpHeVFNOG9Ed21vclVjRjNKTmZfTWN5c1E5eGNZU1NkeVRjM2JxSjNhWEx6OG1Xa3RlbV91ZF9EWllDZGoweVNrZWdHWkNZSUUyUXZXeDVaXy1OYVZodmNjRl8yWHRDRDh0VmNRVGpPaHppenVyVFhkdVk0VnZ6aEwwNEVULVlEUQ?oc=5",
-      "summary": "이란이 세계 주요 석유 수송로인 호르무즈 해협의 폐쇄를 전격 선언했다.이는 미국과의 긴장이 최고조에 달한 상황에서 나온 조치로, 국제 유가와 해상 무역에 막대한 영향을 미칠 수 있다.국제사회는 이란의 이번 결정이 중동 지역의 군사적 충돌 가능성을 높일 것을 우려하며 사태를 주시하고 있다.",
-      "pub_date": "2026-07-12T01:47:00+00:00"
+      "title": "미군, 이란 항구 봉쇄 화요일 재개 발표",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVpzZnBudVJLRjMwMlAwWDhLU2ZqSWpWNGx6MUNndXhCY0M5Z0ROZVdLbldGV3BlcTlYMGdMZ2hlNm5nMjFzSWhDRjhtVVViRk1aU2k3bndrak5FQmtuNFVKbkNtWWQ1czBjZm8xV3ZrMnBwTDlET1NpanF6U0FKV2JadTJaWkladWV4S3BqdDBCUHNrSEo0?oc=5",
+      "summary": "미군이 이란 항구 봉쇄를 화요일부터 재개할 것이라고 발표했습니다. 이는 미국과 이란 간의 긴장이 다시 고조되고 있음을 시사합니다. 호르무즈 해협을 둘러싼 군사적 충돌 우려가 커지고 있습니다.",
+      "pub_date": "2026-07-13T19:29:51+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미국과 이란의 해협 통제권 경쟁 격화로 해운업계 딜레마 심화",
-      "link": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
-      "summary": "미국과 이란이 호르무즈 해협의 통제권을 놓고 경쟁하면서 전 세계 해운업계의 딜레마가 심화되고 있다.해협을 통한 선박 운항의 불안정성이 커지며 해상 운송료 인상과 공급망 차질 우려가 제기되고 있다.이는 글로벌 무역과 에너지 가격에 직접적인 영향을 미쳐 세계 경제에 상당한 부담을 줄 것으로 예상된다.",
-      "pub_date": "2026-07-10T18:02:56+00:00"
+      "title": "연준 크리스토퍼 월러 이사, 인플레이션 지속 시 조만간 추가 금리 인상 경고",
+      "link": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
+      "summary": "미국 연방준비제도(Fed)의 크리스토퍼 월러 이사가 높은 인플레이션이 지속될 경우 조만간 추가 금리 인상이 불가피할 것이라고 경고했습니다. 이는 시장에 금리 인상에 대한 경계심을 높이고 있습니다. 향후 통화 정책 방향에 대한 불확실성이 커지고 있습니다.",
+      "pub_date": "2026-07-13T17:52:04+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "SK하이닉스, 미국 시장 첫 거래일 주가 상승",
-      "link": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
-      "summary": "SK하이닉스의 주식이 미국 시장 첫 거래일(ADR)에 상승하며 성공적인 데뷔를 알렸다.이는 인공지능(AI) 반도체 수요 증가에 대한 투자자들의 기대감을 반영한 것으로 분석된다.이번 상장은 국내 기업의 글로벌 시장 확장 가능성을 보여주며 긍정적인 신호로 해석된다.",
-      "pub_date": "2026-07-10T20:08:13+00:00"
+      "title": "파라마운트-워너 브라더스 합병, 캘리포니아 등 12개 주에서 법적 소송 직면",
+      "link": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
+      "summary": "파라마운트와 워너 브라더스의 합병이 캘리포니아를 포함한 12개 주로부터 법적 소송에 직면했습니다. 이들 주는 합병이 시장 독점을 심화할 것이라고 주장합니다. 거대 미디어 기업 간의 합병에 대한 규제 당국의 감시가 강화되고 있습니다.",
+      "pub_date": "2026-07-13T18:26:02+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "인공지능은 투자자들에게 보상을 주었지만, 이제 가장 큰 위험이 될 수도 있다",
-      "link": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
-      "summary": "인공지능(AI) 기술은 지난 몇 년간 투자자들에게 막대한 수익을 안겨주며 시장을 견인했다.그러나 이제 일부 전문가들은 AI가 과열된 시장을 초래하고 있으며, 잠재적으로 가장 큰 경제적 위험이 될 수 있다고 경고한다.AI 기술의 발전 속도와 규제 미비가 불러올 불확실성에 대한 신중한 접근이 요구된다.",
-      "pub_date": "2026-07-10T14:27:13+00:00"
+      "title": "이란과 미국 간 상호 공격 이후 유가 급등",
+      "link": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+      "summary": "이란과 미국 간의 군사적 충돌이 발생한 후 국제 유가가 급등했습니다. 중동 지역의 지정학적 불안정성이 에너지 시장에 직접적인 영향을 미치고 있습니다. 세계 경제에 부담을 주는 유가 상승세가 우려됩니다.",
+      "pub_date": "2026-07-13T20:13:52+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "반도체 대기업 SK하이닉스, 미국 증시 상장 후 주가 급등하며 265억 달러 조달",
-      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "반도체 대기업 SK하이닉스가 미국 증시 상장(ADR) 후 주가가 급등하며 265억 달러(약 36조 원)를 성공적으로 조달했다.이는 인공지능(AI) 반도체 수요 폭증에 대한 시장의 높은 기대감을 반영한 결과로 풀이된다.이번 대규모 자금 조달은 SK하이닉스의 향후 투자 및 성장에 중요한 동력이 될 전망이다.",
-      "pub_date": "2026-07-10T16:42:35+00:00"
+      "title": "폭스바겐, 전 세계적으로 최대 10만 개 일자리 감축 계획",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "summary": "독일 자동차 제조업체 폭스바겐이 전 세계적으로 최대 10만 개의 일자리를 감축할 계획을 발표했습니다. 이는 회사의 구조조정 및 비용 절감 노력의 일환입니다. 전 세계 자동차 산업에 큰 파장이 예상됩니다.",
+      "pub_date": "2026-07-13T16:19:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "미 지원 호르무즈 해협 항로, 신규 공격 여파로 유류 및 화물선 통행 급감",
-      "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "summary": "미국이 지원하는 호르무즈 해협 항로를 이용하는 유조선, 가스 운반선 및 화물선 통행량이 최근의 새로운 공격들로 인해 크게 감소했다.이 지역의 지정학적 긴장이 고조되면서 해상 안전에 대한 우려가 커져 운항사들이 대체 경로를 모색하고 있다.이는 글로벌 에너지 공급망과 무역 흐름에 심각한 차질을 초래하며 경제적 파장을 일으킬 수 있다.",
-      "pub_date": "2026-07-09T14:41:54+00:00"
+      "title": "파라마운트와 워너 브라더스의 1,100억 달러 규모 초대형 합병 저지를 위한 소송 제기",
+      "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "summary": "파라마운트와 워너 브라더스의 1,100억 달러 규모 합병을 막기 위한 소송이 제기되었습니다. 이 합병이 시장 독점 및 경쟁 저해를 초래할 수 있다는 우려 때문입니다. 미디어 산업의 거대 합병에 대한 규제 당국의 압박이 커지고 있습니다.",
+      "pub_date": "2026-07-13T18:25:05+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "미국과 이란, (주요 해협) 완전 재개방에 합의 실패",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMTNFRFVoeFVCQUhwbWx2UTMwdjlRN2tNclN1bzFFZWpPajlKUGJ4MHJBRnNrTkFhUlIwUnpndUlDWXJuTzFJNGtiWU1Qbmt3TC1ELTV2WFg0WkNBeVhsV25taHhXOGhxVHV4bnZXWDFZdHZIdjhmS29jUXlaaEk4R3lvdklfT2RodmFSUzlQZnN5QlVyTDlqMVc0SGFKREZWSF94QzBsWkxpUGJkdjZtZm45Y3pHenJIWURmWlFXTGZIR1VvSi1DS1ctVE9ual9ZRnFSSTNoRmRxbWZBYlhnVmhhSQ?oc=5",
-      "summary": "미국과 이란이 주요 해협의 완전한 재개방에 대한 합의에 도달하지 못했다.이는 중동 지역의 긴장이 지속되고 있음을 보여주며, 글로벌 에너지 시장에 불확실성을 가중시킨다.양국 간의 의견 불일치는 국제 무역 및 물류 공급망에도 부정적인 영향을 미칠 것으로 우려된다.",
-      "pub_date": "2026-07-11T22:30:12+00:00"
+      "title": "나이지리아에서 시작된 원격 학습, 전 세계로 확산",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm14aWhGUENscldFRTBLUTJTRlAySTJJelBKb19JSFVBeERrTEUzX3dFeklscXo0a2kwY2hvaEpLOC0xMlhjdG00NTdBQkZzVUIyV0VGenYzb3pudnFTTWZNMzFGNS1sT01NNlF0MFFNcjkyZERiV0FiWW5EX25BQVhjM1h4b1BnR0V6RWlzQVk2MjdPdWc?oc=5",
+      "summary": "나이지리아의 원격 학습 프로그램이 성공적으로 운영되며 전 세계적인 주목을 받고 있습니다. 이는 교육 격차 해소와 학습 기회 확장에 기여하고 있습니다. 팬데믹 이후 원격 학습의 잠재력을 보여주는 사례로 평가됩니다.",
+      "pub_date": "2026-07-13T16:48:14+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "오픈AI \"GPT-5.6 솔 울트라, 50년 수학 난제 1시간 만에 증명\"",
-      "link": "https://zdnet.co.kr/view/?no=20260712163409",
-      "summary": "오픈AI가 자사의 인공지능 모델인 'GPT-5.6 솔 울트라'가 50년간 풀리지 않던 수학 난제를 1시간 만에 증명했다고 발표했다.이 주장이 사실이라면 인공지능이 복잡한 추론과 문제 해결 능력에서 놀라운 발전을 이뤘음을 의미한다.이는 AI의 한계를 뛰어넘는 중대한 성과로, 과학계와 기술 업계에 큰 파장을 불러올 것으로 예상된다.",
-      "pub_date": "2026-07-12T07:58:55+00:00"
+      "title": "최태원 회장, \"AI는 국가 안보 문제, 정부의 지속적인 투자 필요\" 강조",
+      "link": "https://zdnet.co.kr/view/?no=20260714003534",
+      "summary": "최태원 회장이 인공지능(AI) 기술이 단순한 산업 문제를 넘어 국가 안보에 직결된다고 강조했습니다. 그는 AI 경쟁력 확보를 위해 정부의 지속적인 투자가 절실하다고 밝혔습니다. AI 분야의 중요성에 대한 사회적 인식을 제고하고 있습니다.",
+      "pub_date": "2026-07-13T15:59:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "KAIST, 뇌졸중 전조 증상 알려주는 인공지능 개발",
-      "link": "https://zdnet.co.kr/view/?no=20260710100936",
-      "summary": "KAIST(한국과학기술원) 연구팀이 뇌졸중의 전조 증상을 조기에 감지하여 알려주는 인공지능(AI) 시스템을 개발했다.이 AI는 환자의 생체 데이터를 분석하여 뇌졸중 발생 가능성을 예측, 신속한 대처를 가능하게 할 것으로 기대된다.이번 개발은 뇌졸중으로 인한 피해를 최소화하고 의료 현장에 혁신적인 변화를 가져올 중요한 진전으로 평가받는다.",
-      "pub_date": "2026-07-12T03:00:04+00:00"
+      "title": "SK하이닉스, 미국 증시 상장 첫날 13% 상승 후 국내 증시에서 15% 급락, 그 배경은?",
+      "link": "https://zdnet.co.kr/view/?no=20260713135435",
+      "summary": "SK하이닉스가 미국 증시 상장 첫날 13% 급등했으나, 국내 증시에서는 15% 급락하는 이례적인 현상을 보였습니다. 이는 차익 실현 매물과 국내외 투자 환경 차이에서 비롯된 것으로 분석됩니다. 글로벌 시장에서의 기업 가치 평가가 국내외에서 상이하게 나타나고 있습니다.",
+      "pub_date": "2026-07-13T10:16:12+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "휴머노이드 로봇, 세계 최초 원격 생체 수술 성공",
-      "link": "https://www.etnews.com/20260709000301",
-      "summary": "휴머노이드 로봇이 세계 최초로 원격으로 생체 수술을 성공적으로 수행하는 데 성공했다.이는 로봇 기술이 정교한 의료 분야에서 인간을 보조하거나 대체할 가능성을 보여주는 중요한 이정표다.이번 성과는 미래 원격 의료 시스템과 로봇 수술의 발전에 큰 영향을 미칠 것으로 기대된다.",
-      "pub_date": "2026-07-12T13:30:00+00:00"
+      "title": "국가재정전략회의, 올해 안에 무료 국산 AI 챗봇 출시 '모두의 AI' 사업 시작",
+      "link": "https://www.etnews.com/20260713000383",
+      "summary": "국가재정전략회의에서 올해 안에 전 국민이 무료로 사용할 수 있는 국산 AI 챗봇이 출시될 예정이라고 발표했습니다. '모두의 AI' 사업은 인공지능 기술의 대중화를 목표로 합니다. 이는 정부 주도로 AI 서비스 접근성을 높이는 중요한 발걸음입니다.",
+      "pub_date": "2026-07-13T07:53:51+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "사람처럼 잡고 느끼는 촉각 로봇 손 개발",
-      "link": "https://www.etnews.com/20260710000286",
-      "summary": "인간의 손처럼 물체를 잡고 촉각을 느낄 수 있는 고도로 발전된 로봇 손이 개발되었다.이 로봇 손은 정교한 센서와 인공지능을 통해 물체의 질감과 압력을 섬세하게 감지할 수 있다.이번 기술은 로봇이 더욱 복잡한 작업을 수행하고 인간과의 상호작용을 개선하는 데 기여할 것으로 기대된다.",
-      "pub_date": "2026-07-12T21:00:00+00:00"
+      "title": "삼성전자, 테슬라 'AI5' 칩 개발 완료, 파운드리 사업 반등 기대",
+      "link": "https://www.etnews.com/20260713000364",
+      "summary": "삼성전자가 테슬라의 차세대 인공지능 칩인 'AI5' 테이프아웃을 완료하며 기술력을 입증했습니다. 이는 파운드리 사업의 경쟁력을 강화하고 시장 점유율을 확대하는 계기가 될 것으로 기대됩니다. 삼성전자의 시스템 반도체 부문 실적 개선에 긍정적 신호입니다.",
+      "pub_date": "2026-07-13T07:00:15+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK하이닉스, 나스닥 데뷔 첫날 13% 급등…인공지능 투자 열기 지속",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667855",
-      "summary": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 급등하며 성공적인 시장 진입을 알렸다.이는 고성능 인공지능(AI) 반도체에 대한 글로벌 투자 열기가 지속되고 있음을 명확히 보여준다.전문가들은 SK하이닉스의 이번 성과가 향후 AI 산업 발전과 한국 반도체 기업의 위상 강화에 기여할 것으로 분석한다.",
-      "pub_date": "2026-07-11T09:57:32+00:00"
+      "title": "애플의 소송 제기, 오픈AI의 AI 기기 전략에 영향 미칠까?",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668027",
+      "summary": "애플이 오픈AI를 상대로 소송을 제기하면서, 오픈AI의 AI 기기 개발 및 시장 전략에 중대한 영향을 미칠지 관심이 쏠리고 있습니다. 지적 재산권 침해 여부가 핵심 쟁점이 될 것으로 보입니다. 이번 소송 결과에 따라 AI 산업 전반의 경쟁 구도에도 변화가 예상됩니다.",
+      "pub_date": "2026-07-14T02:58:31+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "[파운드리 리턴즈] 세계 최초 3나노, 수율의 벽을 넘지 못하다",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=667822",
-      "summary": "세계 최초로 개발된 3나노미터(nm) 반도체 기술이 여전히 낮은 수율(양품 비율) 문제에 직면해 있다는 분석이 나왔다.첨단 파운드리 공정에서 미세화 기술은 진전됐으나, 실제 대량 생산으로 이어지기 위한 수율 확보가 관건이다.이는 차세대 반도체 시장의 주도권 경쟁에서 중요한 변수로 작용하며 기술 개발의 난항을 보여준다.",
-      "pub_date": "2026-07-12T22:00:00+00:00"
+      "title": "과학기술정보통신부, '모두의 AI' 프로젝트 본격 추진으로 외산 AI 모델 독점 방지",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668016",
+      "summary": "과학기술정보통신부가 국내 인공지능(AI) 생태계 강화를 위해 '모두의 AI' 프로젝트를 본격화합니다. 이는 외산 AI 모델의 독점 현상을 막고 국산 AI 기술 경쟁력을 확보하기 위함입니다. 정부 주도의 AI 육성 정책이 구체적인 실행 단계에 접어들었습니다.",
+      "pub_date": "2026-07-13T21:14:48+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "앤트로픽, 장외시장 기업가치 1조 2천억 달러 돌파…오픈AI 추월",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/12/FJVTRZR3YJGTZIH36LNJPF3EUQ/",
-      "summary": "인공지능 기업 앤트로픽의 장외시장 기업가치가 1조 2천억 달러(약 1,600조 원)를 돌파하며 오픈AI를 넘어섰다.이는 AI 시장 내 경쟁이 심화되고 있으며, 투자자들이 앤트로픽의 기술력과 성장 잠재력을 높이 평가하고 있음을 보여준다.이번 평가는 AI 산업의 주도권 경쟁과 기술 패권 다툼에 새로운 국면을 열 것으로 분석된다.",
-      "pub_date": "2026-07-12T01:58:25+00:00"
+      "title": "오라클의 대규모 AI 투자, 시장의 뇌관인가 후발주자의 반격인가?",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/14/AETZBR2BQVD4BMCUFAZMOUSSBU/",
+      "summary": "오라클의 대규모 인공지능(AI) 투자를 두고 시장의 우려와 기대가 교차하고 있습니다. 일각에서는 과도한 투자가 뇌관이 될 수 있다는 시각과 후발주자의 강력한 반격이 될 수 있다는 시각이 공존합니다. AI 시장의 치열한 경쟁 속에서 오라클의 행보가 주목됩니다.",
+      "pub_date": "2026-07-13T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "삼성전자, 용인 반도체 공장 양산 1~2년 앞당겨 2029년 첫 가동",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/12/HLFHBB6AMZHEDLZPMGVLRW5N74/",
-      "summary": "삼성전자가 용인 반도체 클러스터 공장의 양산 시기를 1~2년 앞당겨 2029년 첫 가동을 목표로 한다고 발표했다.이는 글로벌 반도체 시장의 경쟁 심화와 첨단 기술 수요에 신속하게 대응하기 위한 전략으로 풀이된다.이번 조치는 한국 반도체 산업의 경쟁력을 강화하고 국가 경제 활성화에 기여할 것으로 기대된다.",
-      "pub_date": "2026-07-12T01:33:04+00:00"
+      "title": "정부, 전 국민 대상 무료 AI 서비스 '모두의 AI' 연내 출시 계획",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/13/W7M5FXFZHFE5XKO52O6UZJM3BE/",
+      "summary": "정부가 모든 국민이 무료로 이용할 수 있는 인공지능(AI) 서비스 '모두의 AI'를 연내에 출시할 예정입니다. 이 프로젝트는 AI 기술의 대중화를 목표로 하며, 국민들의 AI 접근성을 높일 것으로 기대됩니다. AI 서비스가 일상생활에 더욱 깊숙이 들어올 전망입니다.",
+      "pub_date": "2026-07-13T07:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "애플, 오픈AI를 기업 비밀 절취 혐의로 고소",
+      "title": "애플, 오픈AI 고소, 기업 비밀 절취 혐의 제기",
       "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "summary": "애플이 오픈AI를 상대로 기업 비밀 절취 혐의로 소송을 제기하며 기술 업계에 큰 파장을 일으키고 있다.애플은 오픈AI가 자사의 기술과 데이터를 무단으로 사용했다고 주장하며 지식재산권 침해를 비난했다.이 소송은 인공지능 기술 개발 경쟁 속에서 기업 비밀 보호와 공정 경쟁의 중요성을 다시 한번 강조한다.",
+      "summary": "애플이 오픈AI를 상대로 기업 비밀 절취 혐의로 소송을 제기했습니다. 이는 두 거대 기술 기업 간의 법적 분쟁을 촉발하며 AI 산업 전반에 파장을 예고하고 있습니다. 이번 소송 결과가 AI 기술 개발 및 경쟁 구도에 중대한 영향을 미칠 것으로 보입니다.",
       "pub_date": "2026-07-11T18:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 인스타그램 인공지능 기능 사용자 반발에 사흘 만에 철회",
-      "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-      "summary": "메타가 인스타그램에 도입했던 새로운 인공지능(AI) 기능에 대한 사용자들의 거센 반발에 부딪혀 사흘 만에 해당 기능을 철회했다.이 기능은 사용자들의 공개된 이미지를 AI 학습에 활용하는 것을 포함하고 있어, 개인정보 보호 및 사생활 침해 논란을 일으켰다.이번 사태는 AI 기술 도입 시 사용자 동의와 윤리적 고려가 얼마나 중요한지를 보여주는 사례로 남을 것이다.",
-      "pub_date": "2026-07-11T12:34:16+00:00"
+      "title": "오픈AI, 현재까지 가장 강력한 AI 모델 'GPT-5.6 Sol' 출시",
+      "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+      "summary": "오픈AI가 현재까지 개발된 자사의 AI 모델 중 가장 강력한 'GPT-5.6 Sol'을 출시했습니다. 이 모델은 성능 면에서 상당한 발전을 이루며 AI 기술의 새로운 지평을 열 것으로 기대됩니다. 인공지능 기술의 발전 속도가 더욱 가속화될 전망입니다.",
+      "pub_date": "2026-07-09T19:34:23+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "애플, 오픈AI 및 직원들을 기업 비밀 절취 혐의로 고소",
+      "title": "메타, 수일간의 비판 끝에 새로운 AI 이미지 기능 철회",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "메타가 사용자들의 강한 반발에 부딪혀 새로운 AI 이미지 생성 기능을 결국 철회했습니다. 개인 정보 및 초상권 침해 논란이 주된 원인이었습니다. AI 기술 도입에 있어 윤리적, 사회적 합의의 중요성을 보여주는 사례입니다.",
+      "pub_date": "2026-07-11T01:45:59+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "BBC",
+      "title": "애플, 오픈AI와 그 직원들을 상대로 기업 영업 비밀 절취 혐의로 소송 제기",
       "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "summary": "애플이 인공지능(AI) 기업 오픈AI와 그 직원들을 상대로 기업 비밀 절취 혐의로 소송을 제기했다.애플은 오픈AI가 자사 기술 및 데이터를 불법적으로 활용했다고 주장하며 지식재산권 보호를 강조했다.이 소송은 AI 개발 경쟁 속에서 기업 간의 기술 탈취 및 윤리 문제에 대한 경각심을 높이고 있다.",
+      "summary": "애플이 오픈AI와 일부 직원들을 상대로 기업 영업 비밀 절취 혐의로 소송을 제기했습니다. 이는 AI 분야의 두 거대 기업 간의 첨예한 법적 분쟁을 의미합니다. 이번 소송은 기술 기업들의 지적 재산권 보호와 AI 개발 윤리에 대한 논의를 촉발할 것입니다.",
       "pub_date": "2026-07-10T22:54:16+00:00"
     },
     {
       "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "나이지리아의 원격 학습, 전 세계로 확산 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm14aWhGUENscldFRTBLUTJTRlAySTJJelBKb19JSFVBeERrTEUzX3dFeklscXo0a2kwY2hvaEpLOC0xMlhjdG00NTdBQkZzVUIyV0VGenYzb3pudnFTTWZNMzFGNS1sT01NNlF0MFFNcjkyZERiV0FiWW5EX25BQVhjM1h4b1BnR0V6RWlzQVk2MjdPdWc?oc=5",
+      "summary": "나이지리아에서 시작된 원격 학습 모델이 성공적으로 운영되며 국제적인 주목을 받고 있습니다. 이 프로그램은 교육 접근성을 높이고 학습 기회를 확대하는 데 기여하고 있습니다. 교육 기술 혁신의 모범 사례로 평가받고 있습니다.",
+      "pub_date": "2026-07-13T16:48:14+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "미시간 주, 3천 건 이상 발생한 설사병 집단 발병이 상추 및 샐러드 채소와 관련 있을 수 있다고 발표 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3V4NHNmaHBLTE9nd1Bwd1V3dkJUdlBoNWpWc0dyLWNHTnJINVVYWFRxQWxvRVNmV3FDbVpWNkNwSTAwOE9mMkUxYWRRTVpXb2lRSUROU2Y0dERtYmVjUHpDaWx3Y0ozbjJ0WVFLT0hGWndaSWc1TTV4QnZacnJtN19pVGNoOERZSVoxZw?oc=5",
+      "summary": "미시간 주에서 3천 건이 넘는 설사병 집단 발병 사례가 보고되었으며, 보건 당국은 이를 상추 및 샐러드 채소와 연관 지을 가능성을 조사 중입니다. 주민들에게 식품 안전에 대한 주의를 당부했습니다. 식품 유통 및 위생 관리의 중요성이 다시 한번 부각되고 있습니다.",
+      "pub_date": "2026-07-13T15:28:49+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "중국, 최초의 부스터 회수 성공으로 재사용 로켓 이정표 달성 - 정치 투데이",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFgyaEVsckxJRlMtQ1A3SGlIcXpEd1ZxNjZkVDVuR3JwV2FxZU5Vc1M1V3daam9yRjU3dVQzM19WU1gteTFqRGJ2WmlQR3U4aVctVFJqUG5saXpGSzhWYkVXQ0oyNnBGdFdoVGtnc0xMR3N6dVo4bmJMdTJHbG1Yb2ltZXJNWXBXU0NzV2llLVJZN3BUbWhyaXZjV3NDSXRFcFVhZ1c2aW1yQQ?oc=5",
+      "summary": "중국이 재사용 로켓의 핵심 기술인 부스터 회수에 최초로 성공하며 우주 개발 분야에서 중요한 이정표를 세웠습니다. 이는 중국의 우주 기술력을 한 단계 끌어올리는 성과로 평가됩니다. 글로벌 우주 경쟁에서 중국의 입지를 더욱 강화할 것입니다.",
+      "pub_date": "2026-07-13T11:02:08+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "실시간 업데이트: 미군, 이란에 대한 새로운 공습 시작",
+      "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+      "summary": "미군이 이란에 대한 새로운 공습을 시작했다는 실시간 업데이트가 전해졌습니다. 이는 미국과 이란 간의 군사적 긴장이 최고조에 달하고 있음을 보여줍니다. 중동 지역의 정세 불안이 더욱 심화될 우려가 커지고 있습니다.",
+      "pub_date": "2026-07-13T21:51:44+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "영국, '그루밍 갱' 지도자 추방 허용을 위한 법 개정 추진",
+      "link": "https://www.nytimes.com/2026/07/13/world/europe/uk-deportation-law-change-grooming-gang.html",
+      "summary": "영국 정부가 '그루밍 갱' 지도자들을 추방할 수 있도록 법 개정을 추진하고 있습니다. 이는 아동 착취 범죄에 대한 강력한 대응 의지를 보여주는 것입니다. 이 법안이 통과될 경우, 범죄자 처벌과 피해자 보호에 중요한 전환점이 될 것입니다.",
+      "pub_date": "2026-07-13T18:55:33+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "일본, 제2차 세계대전 이후 처음으로 정보기관 창설",
+      "link": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+      "summary": "일본이 제2차 세계대전 이후 처음으로 독자적인 정보기관을 창설했습니다. 이는 급변하는 국제 안보 환경에 대응하고 정보 수집 역량을 강화하기 위함입니다. 일본의 안보 정책 변화와 역내 영향력 확대에 주목됩니다.",
+      "pub_date": "2026-07-13T12:57:30+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "로봇 군대가 우크라이나 지상전을 재편하다",
+      "link": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+      "summary": "로봇 군대가 우크라이나 전쟁의 지상전 양상을 근본적으로 변화시키고 있습니다. 정찰, 운송, 공격 등 다양한 임무에 로봇이 투입되며 인명 피해를 줄이고 전술적 우위를 제공합니다. 미래 전쟁의 패러다임이 바뀌고 있음을 보여줍니다.",
+      "pub_date": "2026-07-13T16:09:36+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "트럼프, 해상 봉쇄 재개하며 미국과 이란의 공습 격화",
+      "link": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
+      "summary": "도널드 트럼프 대통령이 이란에 대한 해상 봉쇄를 재개하며 미국과 이란 간의 군사적 공습이 격화되고 있습니다. 호르무즈 해협의 긴장이 최고조에 달하면서 국제 유가 및 무역에 대한 불확실성이 커지고 있습니다. 중동 정세의 불안정성이 심화될 우려가 제기됩니다.",
+      "pub_date": "2026-07-13T21:25:45+00:00"
+    },
+    {
+      "category": "세계",
       "outlet": "BBC",
-      "title": "메타, 사용자 반발 후 새로운 인공지능 이미지 기능 철회",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 인스타그램에 도입했던 새로운 인공지능(AI) 이미지 생성 기능을 사용자들의 거센 반발 끝에 결국 철회했다.이 기능은 공개된 사용자 사진을 AI 학습에 활용하면서 개인 정보 침해 우려와 윤리적 논란을 야기했다.이번 철회는 AI 기술 도입 시 사용자 의견 수렴과 프라이버시 보호의 중요성을 시사한다.",
-      "pub_date": "2026-07-11T01:45:59+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "실시간 업데이트: 미국과 이란의 공방 재개로 휴전 협상 위태",
-      "link": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
-      "summary": "미국과 이란 간의 상호 공격이 다시 시작되면서 중동 지역의 휴전 협상이 무산될 위기에 처했다.양측의 군사적 대치 격화는 불안정한 지역 정세에 더 큰 불확실성을 가중시키고 있다.국제사회는 전면적인 분쟁으로 확산될 가능성에 우려를 표하며 사태 추이를 예의주시하고 있다.",
-      "pub_date": "2026-07-12T21:46:50+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "이란의 호르무즈 해협 선박 공격 후 미국, 이란에 보복 공습",
-      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "summary": "이란이 호르무즈 해협에서 선박을 공격한 직후, 미국이 이란에 대한 보복 공습을 단행했다.이번 군사적 충돌은 중동 지역의 긴장을 최고조로 끌어올리며 양국 관계를 더욱 악화시켰다.세계 각국은 확전을 우려하며 사태 해결을 위한 외교적 노력을 촉구하고 있다.",
-      "pub_date": "2026-07-12T01:08:40+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "태풍 바비 중국 강타, 대규모 대피령, 홍수 및 항공편 지연 발생",
-      "link": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-      "summary": "강력한 태풍 바비가 중국을 강타하여 광범위한 지역에 대규모 대피령이 발령되었다.태풍으로 인한 폭우로 곳곳에서 홍수가 발생했으며, 항공편 지연 및 결항이 잇따르고 있다.중국 당국은 인명 피해를 최소화하고 재산 복구를 위해 총력을 기울이고 있다.",
-      "pub_date": "2026-07-12T17:13:47+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "베트남에서 고속정 전복 사고로 15명 사망",
-      "link": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-      "summary": "베트남 해상에서 고속정 전복 사고가 발생하여 최소 15명이 사망하는 비극이 발생했다.사고 원인은 아직 밝혀지지 않았으며, 현지 당국은 구조 및 수색 작업을 벌이고 있다.희생자 대부분이 관광객인 것으로 알려져 안타까움을 더하고 있으며, 안전 규정 준수에 대한 목소리가 높아지고 있다.",
-      "pub_date": "2026-07-11T16:08:27+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "스페인 남부 산불로 12명 사망…최신 소식",
-      "link": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
-      "summary": "스페인 남부 지역에서 발생한 대형 산불로 인해 최소 12명이 사망하는 참사가 발생했다.산불은 빠른 속도로 확산하며 주택과 삼림을 파괴했고, 수천 명의 주민이 대피했다.기후 변화로 인한 극심한 가뭄과 고온이 산불의 원인으로 지목되며 재난 예방 대책 강화가 시급하다.",
-      "pub_date": "2026-07-11T14:46:11+00:00"
+      "title": "트럼프, 이란 항구 봉쇄 재개 및 호르무즈 통과 화물에 20% 통행료 부과 공약",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "도널드 트럼프 대통령이 이란 항구 봉쇄를 재개하고 호르무즈 해협을 통과하는 화물에 20%의 통행료를 부과하겠다고 공약했습니다. 이는 이란에 대한 경제적 압박을 극대화하려는 전략입니다. 중동 정세와 국제 무역에 큰 파장을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-07-13T21:46:06+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국, 이란과의 공방 속 호르무즈 해협 개방 재확인",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국은 이란과의 상호 군사 공방이 계속되는 와중에도 호르무즈 해협이 여전히 개방되어 있음을 강조했다.이는 이란이 해협 폐쇄 가능성을 시사한 것에 대한 반박으로, 국제 해상 운송로의 안정을 유지하려는 미국의 의지를 보여준다.양국 간 긴장 속에서도 글로벌 에너지 공급망의 핵심 통로가 계속 기능하도록 하는 것이 중요하다.",
-      "pub_date": "2026-07-12T16:46:24+00:00"
+      "title": "스페인 산불 생존 영국인, 차 안에서 생존했지만 아내와 친구들은 대피 중 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "summary": "스페인 산불 현장에서 한 영국인이 차량 안에서 가까스로 살아남았지만, 그의 아내와 친구들은 안전한 곳으로 대피하려다 사망하는 비극이 발생했습니다. 역대급 폭염과 건조한 날씨로 스페인 전역에 대규모 산불이 확산되고 있습니다. 기후 변화의 심각성을 보여주는 안타까운 인명 피해입니다.",
+      "pub_date": "2026-07-13T17:31:54+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "중국, 강력한 태풍 상륙으로 약 2백만 명 대피",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "중국에 강력한 태풍이 상륙하면서 약 2백만 명에 달하는 주민들이 안전을 위해 대피했다.태풍은 광범위한 지역에 폭우와 강풍을 동반하며 심각한 피해를 일으킬 것으로 예상된다.중국 정부는 비상 체제를 가동하고 재난 지역에 대한 긴급 구호 및 복구 작업을 준비 중이다.",
-      "pub_date": "2026-07-12T07:39:45+00:00"
+      "title": "헝가리 의회, 대통령 해임안 통과",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "summary": "헝가리 의회가 대통령 해임안을 표결에 부쳐 가결시켰습니다. 이는 대통령의 사면 논란이 불거진 이후 촉발된 정치적 위기의 결과입니다. 이번 해임 결정은 헝가리 정치 지형에 큰 변화를 가져올 것으로 보입니다.",
+      "pub_date": "2026-07-13T20:39:14+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "방콕 바 화재로 최소 27명 사망",
+      "title": "방콕 바 화재로 최소 28명 사망, 25명 중상",
       "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "summary": "태국 방콕의 한 유흥주점에서 발생한 화재로 인해 최소 27명이 사망하는 참사가 발생했다.화재는 순식간에 번져 많은 인명 피해를 냈으며, 당국은 정확한 사고 원인을 조사 중이다.이번 사고는 다중 이용 시설의 안전 관리와 비상 탈출 경로 확보의 중요성을 다시 한번 상기시킨다.",
-      "pub_date": "2026-07-12T20:13:14+00:00"
+      "summary": "태국 방콕의 한 바에서 화재가 발생하여 최소 28명이 사망하고 25명이 중상을 입는 참사가 발생했습니다. 화재 원인은 아직 밝혀지지 않았으나, 많은 인명 피해가 발생하여 충격을 주고 있습니다. 당국은 정확한 사고 경위와 원인을 조사 중입니다.",
+      "pub_date": "2026-07-13T15:04:36+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "베트남 고속정 전복 사고로 인도인 관광객 포함 15명 사망",
-      "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "베트남에서 발생한 고속정 전복 사고로 인도인 관광객들을 포함해 총 15명이 사망했다.사고는 관광객들을 태운 고속정이 운항 중 전복되면서 발생했으며, 현지 당국이 수색 및 구조 작업을 진행 중이다.이번 비극은 수상 스포츠 및 해상 관광의 안전 수칙 준수와 관리 감독 강화의 필요성을 부각시킨다.",
-      "pub_date": "2026-07-11T13:44:03+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "스페인 산불 현장에서 중상 입은 영국인 부부 극적 구조 보도",
-      "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "summary": "스페인 산불이 휩쓴 계곡에서 심한 화상을 입은 영국인 부부가 극적으로 구조되었다는 보도가 나왔다.이 부부는 산불로 인해 고립된 상황에서 생명을 위협받았으나, 구조대의 도움으로 위기를 넘겼다.이번 사례는 대규모 산불 재난 상황에서 인명 구조의 어려움과 중요성을 동시에 보여준다.",
-      "pub_date": "2026-07-12T13:35:01+00:00"
+      "title": "118년 만에 스페인과의 국경 통제 해제로 지브롤터의 새 시대 개막",
+      "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "summary": "영국령 지브롤터가 스페인과의 118년 된 국경 통제를 해제하며 새로운 시대를 맞이했습니다. 이는 브렉시트 이후 양측 간 협상의 결과로, 지역 경제 활성화에 기여할 것으로 기대됩니다. 국경 통제 해제로 사람과 물자의 이동이 더욱 자유로워질 것입니다.",
+      "pub_date": "2026-07-12T23:29:06+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스페인 산불로 최소 12명 사망",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FcmpBYzd5eVF1QnpPVUt6ZjlYeE1VZ09ONV9aenZ3RzFkemZ3Nl9WY1VUTFBiZUJKN19CWWM2R0FpVTVfSFBZZzUwdzBQbVhYTGhNeXBzSFM2bTd3ekp3cXZIejlOMGxSQnVJd0tzUU9LdnlyRndjcXdZSzQ?oc=5",
-      "summary": "스페인에서 발생한 대규모 산불로 인해 최소 12명이 사망하는 참사가 발생했다.산불은 여러 지역으로 빠르게 확산하며 광범위한 피해를 입혔고, 수천 명의 주민들이 대피했다.당국은 진화 작업을 벌이는 동시에 피해 규모와 원인을 조사하고 있다.",
-      "pub_date": "2026-07-12T08:15:04+00:00"
+      "title": "페루인들, 취업 제안에 속아 러시아 전쟁에 가담했다고 밝혀 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeF9iWVQ5bktuWWdnNHNnVjBfRHZ1cHc1bWNUM2tPY1NjWDdkRlZGUzRqcXJibWtTcDM0dEdzOEtSdVduX0k2bEppVDdvQzMwU1dLRUVSZDBsOFpMUjBaVEFtRWNqWTFSbnItVTdqM3lVQlZfM25oWm96SEFaekdaRjg0V1R3ZzFYYUdCcUZR?oc=5",
+      "summary": "일부 페루인들이 러시아에서 고임금 일자리를 제안받아 갔다가, 실제로는 러시아군에 징집되어 우크라이나 전쟁에 투입되었다고 주장했습니다. 이들은 기만당했다고 호소하며 국제사회의 도움을 요청하고 있습니다. 러시아의 용병 모집 방식에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-07-13T20:25:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "베네수엘라, 지진 피해로 동물 보호소 수용 능력 초과",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjBuc2Z1MmVQVV9yVExhUVlyNXVoVks2SW1XTG9IcGJBeVc1RU9nRDRoUmhaX1Z4MDk1LThYOEYxZGw3MW5TcmtJUGFzV2dac1V6NURWMkxvMHU4UGk3TzlkNU5wdGw3Z2JmM2FCTTZaUGFoczRiVjl1SGdGX2J1Z05HWWVuZi1ENjFYblBGWE45NGQzazh1REZMRWw2Mm8?oc=5",
-      "summary": "베네수엘라가 최근 발생한 지진으로 인해 많은 동물이 피해를 입었으며, 동물 보호소의 수용 능력이 한계에 도달했다.지진으로 집을 잃거나 다친 유기동물이 급증하여 보호 및 치료에 비상이 걸린 상황이다.국제사회의 지원과 관심이 절실하며, 동물 보호 단체들은 긴급 구조 활동을 벌이고 있다.",
-      "pub_date": "2026-07-12T09:03:22+00:00"
+      "title": "미군, 이란 항구 봉쇄 화요일 재개 발표 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHBDQWVWWWhaQTdqX2lXV191N09xRV91Y3BLRlM5enM0WU5hc1FGeHpXOS1SSjdkalhXZ09Ucl9HUGprbDZBcGdEWllybjJxOXdWR2Q1Wkw3ZDhiSjZlLTg0TzRJYWlSNUEwbm9hcUpZcUxaWF9adjdkSHRyV2NhWlBpZk5PWW9PZmpScTRsazhSQQ?oc=5",
+      "summary": "미군이 이란 항구 봉쇄를 화요일부터 재개할 것이라고 공식 발표했습니다. 이는 미국과 이란 간의 긴장이 다시 고조되고 있음을 명확히 보여줍니다. 호르무즈 해협을 둘러싼 군사적 충돌 가능성이 높아지고 있습니다.",
+      "pub_date": "2026-07-13T19:29:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "중국, 사막에 미국 전함 실물 크기 복제품 건설",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0tTY052dTZZZUJ4eW5TMzYzY09aMDhVSzQ4dWhtVVI5X3dfdVhqaGR4ZDJPSkJMNDgySWJ5X0pPUDJsRlp0UklQM1E4d24tSW5NU0pkSi1yT3FiODBVSnZCVnJvdjdmbEIwa2todTlfWWtoM1BTM0RKOEFGLThqZTA0SzRia3RwSU15dW5MUE5iTEVrWGMzRjJ4UDBOYmtPX2ZYbXFyaFp3REVXYVZFbmJqeXBxSVdvbzdJU1JFdw?oc=5",
-      "summary": "중국이 사막 지역에 미국 전함의 실물 크기 복제품을 건설한 사실이 위성 사진 분석을 통해 드러났다.이는 중국 해군이 미 해군 함정에 대한 공격 훈련을 위해 제작한 것으로 추정되며, 군사적 긴장을 고조시킨다.전문가들은 이를 미국의 해상 패권에 도전하려는 중국의 의도이자 잠재적 위협으로 해석하고 있다.",
-      "pub_date": "2026-07-12T03:10:08+00:00"
+      "title": "서안 지구에서 아들 살해 현장으로 향한 아버지의 위험한 여정 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOWlPa3FZSC1OWmdpX1pFSld0b0JmVVU3TF9wRE5VSDN4Rm1mSERvT0RkOXBIbERySzJRd19VdG5WSHQ5ZE5MVGhLaVJQZWEtbXp6Qkp0TVBzTkxBX01ibW1QbHc3aEV5bWRzT29XcFJhelU4dEdVQXR1Wlc?oc=5",
+      "summary": "서안 지구에서 아들을 잃은 한 아버지가 아들이 살해당한 현장으로 향하는 위험한 여정을 떠났습니다. 이는 비극적인 사건의 진실을 찾고 아들의 죽음을 애도하려는 간절한 마음에서 비롯되었습니다. 팔레스타인 지역의 불안정한 상황과 개인들의 고통을 보여주는 사례입니다.",
+      "pub_date": "2026-07-13T14:31:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "월드컵: 잉글랜드, 노르웨이 꺾고 준결승 진출 확정",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObC1JOERjNFI4R3MzWnNvRFNpNXRvY0s5dnNlQ2tzMmQ5eGwwX0poR0Izek1YczZnTEd4T2ZpeG9DQlRHU3R2QlFrMzE3MFd2eTFwOUt2ckNxZ0pZUUI3UHVER1YtRTJXWk1USTNhX0Y0NGxWZmZFclBSV3JZNUFXb3drOVBGU3otNEVKRkU2TWpxZDh3Y2Vfd0ppLThKYnQtN0p3QkNsZDhLSlIxcWhv?oc=5",
-      "summary": "잉글랜드가 월드컵 경기에서 노르웨이를 꺾고 준결승 진출을 확정 지었다.잉글랜드는 강력한 경기력을 선보이며 이번 대회 유력 우승 후보임을 다시 한번 입증했다.전 세계 축구 팬들의 관심이 집중된 가운데, 잉글랜드가 과연 결승까지 진출할 수 있을지 기대가 모인다.",
-      "pub_date": "2026-07-12T05:13:00+00:00"
+      "title": "방콕 술집 화재로 수십 명 사망 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM09lX3ZLbzRCRlRPWmhqSGgzcXp4dGRTazAxajhuSUdvQnUyYlZpVGo2eGFnZm1CTjhzQ3hqVVdNTWs1VFhWdU94T3c1Zk9zS1hKQnYxbWZzVG9XemY0MjBxNVUwTVdYQ1VJWFpaQUZxRlZ2bERpN1ZRU2RYLXNTWEN4Yw?oc=5",
+      "summary": "태국 방콕의 한 술집에서 발생한 대형 화재로 수십 명이 사망하는 참사가 발생했습니다. 이 사고로 많은 인명 피해가 발생했으며, 현장은 아수라장이 되었습니다. 당국은 정확한 화재 원인과 함께 안전 관리 부실 여부를 조사하고 있습니다.",
+      "pub_date": "2026-07-13T04:49:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "아르헨티나, 스위스 연장전에서 3대1로 꺾고 월드컵 준결승 진출",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmZSdmRBMGVuUW83UzRVMmp2dzM1Z21OQWxfSkZZS2dqQm9KM05DTWJLanBtdXROakozUUdGR2dLR2dJVjlvcktwUUhzTDJobnNNZk51NG1id2FGYlVTa3VyMFF1UVdqQ3kyZXgyWVFNSjZvdzFZRkxxS2d2MmlXRXhyVG15WWlSbWl1dU5wRzFCbURMOU5qVTh1eVl3TmdtZHdwUnFhYkpsaVHSAb8BQVVfeXFMUHR0Zy1qMUVhM1BIVmJmNEU3cUo0bnVkcUx2ZlRXVzZYS2QxN0NnZHFiWS1ZelBpZ2ZyYW5NcFBLVmNQNTU0d3YybXlPakd1dTFFVk5nekFReVRmTXE2Wl9vMHdaVzF6UF90YkRuallhbjJtdEpjOXEwM05Ma2QtblctYUxSY2xYSVIzeDA4RXhrTy1pQmpHQjJob2FKWXFaUW11YXdNT1lmc294a29reVZKWmVfUlBEV1M4YlFxNnc?oc=5",
-      "summary": "아르헨티나가 스위스와의 월드컵 경기에서 연장전까지 가는 접전 끝에 3대1로 승리하며 준결승에 진출했다.리더 메시의 활약과 팀워크가 빛을 발하며 어려운 경기를 승리로 이끌었다.이제 아르헨티나는 결승행을 놓고 또 다른 강팀과 맞붙게 되며, 팬들의 기대가 뜨겁다.",
-      "pub_date": "2026-07-12T03:48:00+00:00"
+      "title": "미국, 이란에 대한 두 번째 밤 연속 공습 시작 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVtN2FtcVJJUy1QQ19VaGp0VWtEeUFMMGVBY3labVU0dXdmWDEzckFfX0ZXR3VYaTNYQzgtd1JzS0tmam00LU5LQU1vcjM4ajJrUTAyOW9PdWstajVtb0ZtdkxMQ2VEMU9TWXdWZEFNN3NmQnpRd0hyY20zNE53SHJBWmlqaEFZSjFOWmJPZG5rSWdiZFhTRUxB?oc=5",
+      "summary": "미국이 이란에 대해 두 번째 밤 연속 공습을 단행했습니다. 이는 미국과 이란 간의 군사적 대치가 더욱 심화되고 있음을 의미합니다. 중동 지역의 안정성이 크게 위협받고 있으며, 국제 사회의 우려가 커지고 있습니다.",
+      "pub_date": "2026-07-13T02:36:00+00:00"
     }
   ]
 }
