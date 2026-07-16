@@ -1,301 +1,397 @@
 {
-  "last_updated": "2026-07-15T22:04:21.735639+00:00",
+  "last_updated": "2026-07-16T22:05:00.679901+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "'보완수사권' 충돌 격화…\"대통령이 안 원해\" 파장",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008660047&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:20:00+00:00"
+      "title": "무너진 선거 관리: 잠실7동 제2투표소 CCTV 속 그날의 진실",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662046&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "잠실7동 제2투표소에서 선거 관리 부실 문제가 발생했다. 이 투표소에서는 투표 연장에도 혼란이 가중되었으며, 관련 장면이 CCTV에 포착되었다. 선거관리위원회의 부적절한 대응으로 공정성에 대한 논란이 커지고 있다.",
+      "pub_date": "2026-07-16T21:14:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "민주당, 국힘 주진우 '김 여사 손털기 영상' 공개에 \"악의적 조작 선동\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008660068&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T20:44:00+00:00"
+      "title": "민주당 최고위 소집, 송영길 당대표 후보 복당 자격 논의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008661954&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "민주당이 최고위원회를 소집하여 송영길 후보의 당대표 자격 논란을 논의했다. 송영길 후보는 복당한 지 6개월이 채 되지 않아 자격 문제가 제기되었다. 이번 논의 결과가 향후 당대표 경선에 큰 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-07-16T14:23:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "Hegseth Plans to Screen All Troops, Even Women, for Low Testosterone",
-      "link": "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:48:36+00:00"
+      "title": "트럼프, 연설에서 선거 사기 주장 재론 예상: 주요 내용",
+      "link": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html",
+      "summary": "도널드 트럼프 전 대통령이 연설을 통해 지난 선거 사기 의혹을 다시 제기할 것으로 보인다. 이는 미국의 정치적 분열을 심화시키고 대선 국면에 영향을 미칠 가능성이 크다. 연설의 내용과 파장이 주목된다.",
+      "pub_date": "2026-07-16T16:20:17+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
-      "link": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:21:03+00:00"
+      "title": "이란 전쟁 관련, 국방부의 침묵",
+      "link": "https://www.nytimes.com/2026/07/16/us/politics/hegseth-iran-war-briefings.html",
+      "summary": "이란과의 전쟁 상황에 대해 미국 국방부가 침묵을 유지하고 있다. 이는 상황의 민감성을 반영하거나 전략적 판단에 따른 것으로 보인다. 언론과 대중은 국방부의 공식 입장을 기다리고 있다.",
+      "pub_date": "2026-07-16T20:33:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "U.S. Military Forces Again Blockade Iranian Ports",
-      "link": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T20:57:35+00:00"
+      "title": "공화당 톰 틸리스 상원의원, 토드 블랑쉬에 엡스타인 피해자와의 만남 요구",
+      "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
+      "summary": "공화당 소속 톰 틸리스 상원의원이 토드 블랑쉬에게 엡스타인 성범죄 피해자들과 만날 것을 요구했다. 블랑쉬는 트럼프 관련 인물로, 엡스타인 스캔들이 정치권으로 확산되는 모양새다. 이번 만남 요구는 사건의 진실 규명과 책임 추궁에 대한 압박으로 해석된다.",
+      "pub_date": "2026-07-16T17:02:31+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "[AM-PM] 이 대통령 업무보고 이틀째…과기부·국토부 순 外",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260716065530g7F",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:55:30+00:00"
+      "title": "\"투표 연장에도 문 닫은 잠실7동 투표소…새벽 외부인 출입\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260717003113Umy",
+      "summary": "잠실7동 투표소가 투표 시간 연장에도 불구하고 문을 닫아 논란이 일었다. 더욱이 새벽 시간대 외부인이 출입한 정황이 포착되어 선거 관리의 부실이 드러났다. 이는 선거의 공정성에 대한 심각한 의문을 제기하고 있다.",
+      "pub_date": "2026-07-16T15:31:14+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "통합 사관학교, '대전 자운대 4년제' 추진…오늘 발표",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260716052218QCE",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T20:22:19+00:00"
+      "title": "검찰 보완수사권: 전면 폐지인가, 일부 존치인가",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260716224531Hgc",
+      "summary": "검찰의 보완수사권 폐지를 두고 정치권에서 치열한 논쟁이 벌어지고 있다. 일부에서는 전면 폐지를 주장하는 반면, 다른 측에서는 일부 존치의 필요성을 제기한다. 이는 검찰의 수사 권한과 역할에 중대한 변화를 가져올 핵심 쟁점이다.",
+      "pub_date": "2026-07-16T13:45:33+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T14:13:44+00:00"
+      "title": "스타머 총리, 총리로서 마지막 방문에서 우크라이나에 대한 '변함없는 지지' 약속",
+      "link": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "스타머 총리가 총리로서의 마지막 방문에서 우크라이나에 대한 변함없는 지지를 약속했다. 이는 영국의 지속적인 국제적 연대 의지를 재확인하는 것이다. 그의 발언은 우크라이나 전쟁 상황에 중요한 메시지를 전달했다.",
+      "pub_date": "2026-07-16T19:50:54+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-      "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T17:13:06+00:00"
+      "title": "번햄, 총리 취임 초 영국 여름 순회 계획",
+      "link": "https://www.bbc.co.uk/news/articles/c62v3w45199o?at_medium=RSS&at_campaign=rss",
+      "summary": "앤디 번햄이 총리로 취임한 후 초기 몇 주 안에 영국 순회 계획을 세우고 있다. 이는 그가 총리로서의 리더십을 강화하고 대중과의 소통을 확대하려는 시도로 보인다. 그의 순회 일정과 메시지가 주목된다.",
+      "pub_date": "2026-07-16T17:34:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "“트럼프, 中에 함께 맞설 韓日 어려운 처지 몰아… 대만 문제 약한 모습 우려”",
-      "link": "https://www.chosun.com/international/us/2026/07/16/3LY4LVK3TZBWTDL2DANAVIVKBU/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T19:06:09+00:00"
+      "title": "공청회 없이 통합 사관학교 강행…군 내부 “육사 없애기 수순” 비판",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/07/17/7O6REUPBT5C4FIRZFMGBMFCTUU/",
+      "summary": "공청회 없이 통합 사관학교 설립이 강행되면서 군 안팎의 반발이 거세다. 이는 육군사관학교 폐지로 이어질 수 있다는 우려가 제기되고 있다. 국방 정책의 중요한 변화에 대한 논란이 커지고 있다.",
+      "pub_date": "2026-07-16T15:53:00+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "트럼프 연설문 조작원, 내부자 거래 혐의로 조사 중",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHZWpQS3pTZloxazAtcmQwNmV3d2JiRXgwem02T2F1aEZNR044TWRMdlRWWklralBWdkdmRDNCazJLWFAyNy1lSzhGamE5X0JvcmdBb1dtbFA2SHdrSFA2bEp1MUZwODZkRDJTSnNhTnU0QQ?oc=5",
+      "summary": "트럼프 전 대통령의 연설문 조작원이 내부자 거래 혐의로 조사를 받고 있다는 소식통의 전언이 나왔다. 이 사건은 트럼프 주변 인물들의 불법 행위 의혹으로 확대될 수 있다. 백악관과 관련된 잠재적 부패 스캔들이 주목된다.",
+      "pub_date": "2026-07-16T16:14:22+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "단독: 미군, 이란 학교 공격 관련 정보 표준 검토 미실시",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUI5OVQwYTF2MFRDS19Ka2NQWlhuQWtZbWtOS1oyV25RQXdPWTVQYW9BdFd2RU5GaTQ5QWgxTGswVUVJWTNXX1o0VjZ0UllqNTZuSGUxcW9wVjhpQVVpaWpsS2syVXNjWmtFNUhnYzJwLWFOVDRFTUxTNVlmNjlobEY5Sm9zRUV2eUtBRWdpelNPSG1a?oc=5",
+      "summary": "미군이 이란 학교 공격과 관련된 정보에 대한 표준 검토를 실시하지 않았다고 소식통이 전했다. 이는 군사 작전의 투명성과 책임성에 대한 심각한 우려를 제기한다. 공격의 정당성과 정보 평가 과정에 대한 논란이 예상된다.",
+      "pub_date": "2026-07-16T05:00:25+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "단독: 와일즈와 파텔 주도 하에 백악관 공무원들, 기밀 유출 조사 일환으로 전화기 제출 요구받아",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT3FWYU1YbHUtbGZtQXJOUlVFcVhreTZYMHUyOWtwV0xyLVlxLTNlbng4b1pIV3FUWENtd0g3MWhNQUpibldGRGVzcXBnUHdXQmJIUUlwRnZUbGswdGlsS2Y2LVJiNVdzcGRKLUMyYVZwYmNwLWlnX2pkd29GRmpUay1VMkE0OG53a0RIZ0ZSOHdNckI0Tlc3cTNObGtVQXNDS2MwRWVRSHJVLS1tOE9YUjFYMzlqaEpOcjRqSkdwMnVGbkdiQzA1SGRRZTE4b1plXzFvUEstSzRpaE8yWjhmeWVhQTFqVXA5cEcxbGM4azd0b3Nj?oc=5",
+      "summary": "백악관 공무원들이 기밀 유출 조사 과정에서 휴대폰 제출을 요구받았다는 단독 보도가 나왔다. 와일즈와 파텔이 주도하는 이번 조사는 백악관 내부의 심각한 기밀 유출 문제와 관련이 있다. 이는 행정부의 보안 및 내부 규율에 대한 의문을 증폭시킨다.",
+      "pub_date": "2026-07-16T00:12:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "PayPal Receives $53 Billion Takeover Offer Involving Stripe",
-      "link": "https://www.nytimes.com/2026/07/15/business/paypal-stripe-advent-takeover-bid.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:05:49+00:00"
+      "title": "TSMC, 미국 투자 계획에 1,000억 달러 추가",
+      "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
+      "summary": "세계 최대 파운드리 기업인 TSMC가 미국 투자 계획에 1,000억 달러를 추가하기로 했다. 이는 미국 내 반도체 생산 능력 강화와 일자리 창출에 크게 기여할 전망이다. 글로벌 반도체 공급망 재편에 중요한 영향을 미칠 결정이다.",
+      "pub_date": "2026-07-16T13:53:09+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "United Airlines Will Soon Let You Take Over the Middle Seat, for a Price",
-      "link": "https://www.nytimes.com/2026/07/15/travel/united-airlines-middle-seat.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T19:59:06+00:00"
+      "title": "영국, 마지막 주요 제철소 브리티시 스틸 국유화",
+      "link": "https://www.nytimes.com/2026/07/16/business/britain-nationalizes-steel-mill.html",
+      "summary": "영국 정부가 자국 내 마지막 주요 제철소인 브리티시 스틸을 국유화했다. 이는 영국 철강 산업의 생존을 위한 조치로, 수많은 일자리와 국가 핵심 산업을 보호하려는 목적이다. 정부의 경제 개입이 가져올 파장에 관심이 쏠린다.",
+      "pub_date": "2026-07-16T13:48:57+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
-      "link": "https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T19:59:04+00:00"
+      "title": "미국 이란 봉쇄 재개로 유가 소폭 상승",
+      "link": "https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html",
+      "summary": "미국이 이란에 대한 봉쇄 조치를 재개하면서 국제 유가가 소폭 상승했다. 이는 중동 정세 불안정과 공급 차질 우려가 복합적으로 작용한 결과다. 유가 상승은 글로벌 경제에 추가적인 부담을 줄 것으로 예상된다.",
+      "pub_date": "2026-07-15T20:04:06+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "SpaceX share price drops below stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T18:11:57+00:00"
+      "title": "브리티시 스틸, 핵심 공급망 보호 위해 국유화 조치",
+      "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부가 핵심 공급망 보호를 위해 브리티시 스틸을 국유화했다. 이는 국가 경제 안보와 일자리 유지를 위한 필수적인 조치로 평가된다. 정부의 이례적인 개입이 산업 전반에 미칠 영향이 주목된다.",
+      "pub_date": "2026-07-16T11:31:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "Salary information to be shown on job ads under new laws",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T18:46:26+00:00"
+      "title": "칩 거대 기업 TSMC, 미국 생산 확장에 1,000억 달러 추가 투자 약속",
+      "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "세계적인 칩 제조사 TSMC가 미국 내 생산 능력 확대를 위해 추가로 1,000억 달러를 투자하겠다고 밝혔다. 이는 미국 정부의 반도체 자국 생산 강화 정책과 맞물려 이루어지는 대규모 투자다. 글로벌 반도체 산업 지형에 큰 변화를 가져올 것으로 보인다.",
+      "pub_date": "2026-07-16T10:23:00+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "서울경제",
+      "title": "속보: 정부, 단일 종목 레버리지 마케팅 금지 및 예탁금 3천만 원 상향 발표",
+      "link": "https://www.sedaily.com/article/20068645",
+      "summary": "정부가 단일 종목 레버리지 상품 마케팅을 전면 금지하고 예탁금을 3천만 원으로 상향 조정한다고 발표했다. 이는 과도한 투기를 억제하고 투자자 보호를 강화하기 위한 조치다. 이번 규제 강화가 개인 투자자와 증시 전반에 미칠 영향이 주목된다.",
+      "pub_date": "2026-07-16T07:12:02+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "이란 전쟁 시작 이후 주택 담보 대출 금리 최고치 기록",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlZwX01COXBTYTVtdnNZOE5tRFVOMUNXbTZhZlh0SWZWSXVxR295dUxkcGptcWljcTN3RWpFZVZKTUE5VmJwdXBUaWhXRHcwdjFOaVVzb0xWUXNwb3FvZHlNRHVjSE0?oc=5",
+      "summary": "이란 전쟁 발발 이후 주택 담보 대출 금리가 역대 최고치를 기록했다. 이는 중동 지역의 지정학적 불안정이 전 세계 경제에 미치는 영향을 보여준다. 높은 금리는 주택 시장과 가계 경제에 상당한 부담으로 작용할 전망이다.",
+      "pub_date": "2026-07-16T16:04:10+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "미국, 브라질에 '불공정 무역 관행'으로 25% 새 관세 부과 발표",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUkFWbFVzSG05OEY5RHhrYWJpQlRqb3luYjZ5WXYweDJWZFhIaHF1R1BTeEhab3ZWOXJkcEdSeHB1R1BuTVV2TmZUUmV5Um1taGdOQUNHb0lKNnd2RU5ueVdlaG1BQlJJT3BoaXFJY2RtS3R1Wmt3Q1BVV08?oc=5",
+      "summary": "미국이 브라질의 '불공정 무역 관행'을 이유로 25%의 새로운 관세를 부과하겠다고 발표했다. 이는 두 나라 간의 무역 관계에 긴장을 고조시키고 글로벌 무역 환경에 영향을 미 미칠 수 있다. 관세 부과가 브라질 경제와 국제 시장에 어떤 영향을 줄지 주목된다.",
+      "pub_date": "2026-07-16T05:51:13+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "트럼프 연설문 조작원, 내부자 거래 혐의로 조사 중",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbHEtV2tfLUl6ek11SFhNcjNpSlZ0bFNTLVlXNzhESThOWmQ4dU0wZDg3OVZVZXVmZ3dpa1RxWV9YMmpSb3YyOVRlZGtiNjI5SDdPazhKX0NfVGZvWWo3VnlqS3ZDeE0tcXBzWGhMR3k4R2Q3OVc5MG1DeGo4ZG1hd0JoMFRqM2hnUFhJRWRnbDNqYkYyY084a2JZSElGUWh3cTZyaWo2WFVuaXVERE0zT0x3bVp1emU0VFVyQ0FHX0pOSjQtbV85QXBfYXd2VXJhY2JRRDgxckI5MjhkU2hCbVlHMnJRWll5eS1rT0hYalN4aE96LU9KTm9n?oc=5",
+      "summary": "트럼프 전 대통령의 연설문 조작원이 내부자 거래 혐의로 조사를 받고 있다고 소식통이 전했다. 이 사건은 백악관 주변 인물들의 불법 행위 의혹으로 확대될 수 있다. 이는 행정부의 투명성과 윤리적 문제에 대한 논란을 촉발할 수 있다.",
+      "pub_date": "2026-07-16T19:40:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "NABR: 미 어류야생동물관리국, 멸종위기종법에 근거한 긴꼬리 마카크 원숭이 등재 청원 재차 기각",
-      "link": "https://zdnet.co.kr/view/?no=20260716021003",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T17:10:03+00:00"
+      "title": "반년 만에 AI 검색 시장 판도 변화…한국인, 챗GPT 대신 제미나이 선택 시작",
+      "link": "https://zdnet.co.kr/view/?no=20260716210925",
+      "summary": "반년 만에 국내 AI 검색 시장의 판도가 뒤집히며, 한국인들이 챗GPT 대신 제미나이를 선택하기 시작했다. 이는 AI 기술 경쟁의 심화와 사용자들의 선호도 변화를 보여준다. 앞으로 AI 서비스 시장의 주도권 경쟁이 더욱 치열해질 것으로 예상된다.",
+      "pub_date": "2026-07-16T12:09:25+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "위지윅스튜디오-엔피 통합법인 '컴투스엔' 공식 출범",
-      "link": "https://zdnet.co.kr/view/?no=20260715235246",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T14:52:46+00:00"
+      "title": "인텔, 우주용 AI 칩 '스타파이어' 공개…18A 공정으로 궤도 위 AI 추론 가능",
+      "link": "https://zdnet.co.kr/view/?no=20260716210822",
+      "summary": "인텔이 18A 공정을 적용한 우주용 AI 칩 '스타파이어'를 공개했다. 이 칩은 궤도 위에서 AI 추론을 가능하게 하여 우주 기술 발전에 기여할 예정이다. 이는 인텔의 기술력과 우주 산업의 미래를 보여주는 중요한 진전이다.",
+      "pub_date": "2026-07-16T12:08:22+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "배송비 15원·5분 배송 노린다…비행기처럼 나는 배송 드론",
-      "link": "https://www.etnews.com/20260715000441",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:00:00+00:00"
+      "title": "TSMC 2분기 매출 58조 원으로 사상 최대 기록…미국에 147조 원 추가 투자",
+      "link": "https://www.etnews.com/20260716000351",
+      "summary": "TSMC가 2분기 58조 원의 매출을 기록하며 사상 최대 실적을 달성했다. 또한 미국에 147조 원을 추가 투자할 계획을 밝혀 글로벌 반도체 시장에서의 입지를 더욱 강화하고 있다. 이는 미국 내 반도체 공급망 안정화에도 크게 기여할 전망이다.",
+      "pub_date": "2026-07-16T13:51:31+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“잠이 보약”은 사실이었다…비만·당뇨·치매 부르는 '이 습관'",
-      "link": "https://www.etnews.com/20260715000407",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:00:00+00:00"
+      "title": "우버, 배달의민족 모회사 DH 22조 원에 인수…“한국 시장 투자 지속”",
+      "link": "https://www.etnews.com/20260716000310",
+      "summary": "우버가 배달의민족 모회사인 딜리버리히어로(DH)를 22조 원에 인수하기로 했다. 이는 글로벌 배달 시장의 판도를 바꿀 대규모 M&A로 평가된다. 우버는 한국 시장에 대한 투자를 이어갈 것이라고 밝혔다.",
+      "pub_date": "2026-07-16T07:31:20+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "스페이스X, 공모가 턱걸이 마감…IPO 열기 식었나",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=668208",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-16T05:27:06+00:00"
+      "title": "미국 대표 한국 ETF에 사상 최대 자금 유입…SK하이닉스 효과",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668313",
+      "summary": "미국의 대표적인 한국 상장지수펀드(ETF)에 사상 최대 규모의 자금이 유입되었다. 이는 주로 SK하이닉스의 주가 상승 효과에 힘입은 것으로 분석된다. 해외 투자자들의 한국 시장 및 주요 반도체 기업에 대한 관심이 높아지고 있음을 보여준다.",
+      "pub_date": "2026-07-17T06:05:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "버핏 \"주식시장, 투자보다 도박 선호…알파벳 투자 내가 시작\"",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=668206",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-16T01:40:54+00:00"
+      "title": "\"파운드리 인력 81% 이탈 고민\"…삼성전자 초기업노조, 인력 유출 방지 요구",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668257",
+      "summary": "삼성전자 초기업노조가 파운드리 사업부 인력의 81%가 이탈을 고민하고 있다며 인력 유출 방지 대책을 요구했다. 이는 반도체 산업의 심각한 인력난과 경쟁 심화를 보여주는 지표다. 삼성전자의 인력 유출 문제가 생산성과 경쟁력에 미칠 영향이 우려된다.",
+      "pub_date": "2026-07-16T15:13:42+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "젠슨황, SK하이닉스 ADR에 호평…“믿을 수 없을 만큼 성공적”",
-      "link": "https://biz.chosun.com/topics/topics_social/2026/07/15/ARYONW3DZBEITGOUUKZK4ZQG3Q/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T11:45:14+00:00"
+      "title": "삼성전자 파운드리 사업부 직원 10명 중 8명, \"이직 의향 높다\"",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/16/4WOKEY6AQZCMJI3NSYKIU3MPWU/",
+      "summary": "삼성전자 파운드리 사업부 직원 10명 중 8명이 이직 의향이 높은 것으로 조사되었다. 이는 반도체 산업 내 인력 경쟁이 심화되고 있음을 시사한다. 핵심 인력 유출은 삼성전자 파운드리의 경쟁력에 부정적인 영향을 미칠 수 있다.",
+      "pub_date": "2026-07-16T08:21:45+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "SKT, ‘AI 데이터센터 구축’ 전담 조직 신설",
-      "link": "https://biz.chosun.com/topics/topics_social/2026/07/15/NNKJEYB7ZFE7NJQDAH6EQA2JFA/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T12:01:09+00:00"
+      "title": "우버, 딜리버리히어로 22조 원에 인수하며 배달의민족 품어",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/16/LE3OEPOKONEHJL2MTWHHJAOQME/",
+      "summary": "우버가 딜리버리히어로를 22조 원에 인수하는 계약을 체결하며 배달의민족도 우버의 우산 아래로 들어오게 되었다. 이번 인수는 글로벌 배달 시장의 지형을 크게 변화시킬 대형 딜이다. 한국을 포함한 아시아 시장에서 우버의 영향력 확대가 예상된다.",
+      "pub_date": "2026-07-16T07:07:24+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
-      "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-13T13:19:52+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+      "title": "애플, 오픈AI를 기업 비밀 절취 혐의로 고소",
       "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "summary": "애플이 오픈AI를 기업 비밀 절취 혐의로 고소했다. 이는 두 거대 기술 기업 간의 인공지능 분야 경쟁이 법적 분쟁으로 확산되고 있음을 보여준다. 이번 소송 결과가 AI 기술 개발 및 시장 환경에 큰 영향을 미칠 것으로 예상된다.",
       "pub_date": "2026-07-11T18:00:01+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "SpaceX share price drops below stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T18:11:57+00:00"
+      "outlet": "NYT",
+      "title": "구글, 안드로이드 스마트폰에서 AI 경쟁사에 더 많은 접근 권한 제공 명령받아",
+      "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+      "summary": "구글이 안드로이드 스마트폰에서 인공지능(AI) 경쟁사들에게 더 많은 접근 권한을 제공하라는 명령을 받았다. 이는 공정 경쟁을 촉진하고 독점적 지위 남용을 방지하기 위한 조치다. 이번 명령이 모바일 AI 생태계에 어떤 변화를 가져올지 주목된다.",
+      "pub_date": "2026-07-16T13:56:58+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T11:24:29+00:00"
+      "title": "애플, 오픈AI 및 직원들을 기업 비밀 절취 혐의로 고소",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "summary": "애플이 오픈AI와 그 직원들을 기업 비밀 절취 혐의로 고소했다. 이는 거대 기술 기업들 간의 치열한 AI 경쟁이 법정 다툼으로 이어지고 있음을 보여준다. 이번 소송은 AI 산업의 지적 재산권 보호와 기술 개발 방향에 중요한 영향을 미칠 것이다.",
+      "pub_date": "2026-07-10T22:54:16+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "BBC",
+      "title": "유럽연합, '중독성' 페이스북 및 인스타그램에 메타 벌금 부과 경고",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "summary": "유럽연합이 '중독성' 기능을 가진 페이스북과 인스타그램에 대해 메타에 벌금을 부과할 수 있다고 경고했다. 이는 빅테크 기업의 사회적 책임과 사용자 보호에 대한 규제 압박이 강화되고 있음을 의미한다. 이번 조치가 소셜 미디어 플랫폼의 설계와 운영 방식에 변화를 가져올지 주목된다.",
+      "pub_date": "2026-07-10T12:02:40+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
-      "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:51:02+00:00"
+      "title": "이란 전쟁 실시간 업데이트: 미국과 이란 공방 주고받으며 호르무즈 해협 긴장 고조",
+      "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "summary": "미국과 이란이 공방을 주고받으면서 호르무즈 해협의 긴장이 고조되고 있다. 이는 중동 지역의 군사적 대치 상황이 심화되고 있음을 나타낸다. 국제 사회는 이란 전쟁 확산 가능성에 촉각을 세우고 있다.",
+      "pub_date": "2026-07-16T21:50:16+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
-      "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T17:59:48+00:00"
+      "title": "드론 전쟁 지지하던 우크라이나 국방장관 해임",
+      "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+      "summary": "드론 전쟁의 강력한 지지자였던 우크라이나 국방장관이 해임되었다. 이는 우크라이나 전쟁 전략에 중요한 변화가 있을 수 있음을 시사한다. 이번 해임이 전황과 국제적 지원에 어떤 영향을 미칠지 주목된다.",
+      "pub_date": "2026-07-16T11:41:48+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
-      "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T15:37:17+00:00"
+      "title": "여론조사 결과, 세계적으로 미국보다 중국을 선호하는 경향으로 전환",
+      "link": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
+      "summary": "여론조사 결과, 세계적으로 미국보다 중국을 선호하는 경향으로 전환되고 있는 것으로 나타났다. 이는 국제 관계에서 중국의 영향력이 커지고 있음을 보여주는 중요한 지표다. 미중 경쟁 구도 속에서 각국의 외교 정책에 영향을 미칠 전망이다.",
+      "pub_date": "2026-07-16T10:43:35+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer",
-      "link": "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T14:20:36+00:00"
+      "title": "이탈리아 치명적 교량 붕괴 사건으로 고속도로 관리 책임자 12년 형 선고",
+      "link": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
+      "summary": "이탈리아에서 발생한 치명적인 교량 붕괴 사고와 관련하여 고속도로 관리 책임자에게 12년 형이 선고되었다. 이는 대형 참사에 대한 책임 소재를 분명히 하고자 하는 사법부의 의지를 보여준다. 이 판결은 유사 사고의 예방과 기업 책임 강화에 경종을 울릴 것이다.",
+      "pub_date": "2026-07-16T17:15:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "link": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T14:44:50+00:00"
+      "title": "홍콩 경찰, 독립 서점 급습 및 5명 체포",
+      "link": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+      "summary": "홍콩 경찰이 독립 서점을 급습하고 5명을 체포했다. 이는 홍콩 내 언론과 출판의 자유가 더욱 위축되고 있음을 시사한다. 국제 사회는 홍콩의 인권 상황과 자치권 침해에 대한 우려를 표명하고 있다.",
+      "pub_date": "2026-07-16T12:22:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T17:29:26+00:00"
+      "title": "미국, 새로운 공습 개시하며 이란에서 폭발음 보도",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "미국이 이란에 대한 새로운 공습을 시작하면서 이란 전역에서 폭발음이 보고되었다. 이는 중동 지역의 군사적 긴장이 최고조에 달했음을 나타낸다. 이번 공습으로 인해 중동 정세가 더욱 불안정해질 우려가 커지고 있다.",
+      "pub_date": "2026-07-16T21:44:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:55:04+00:00"
+      "title": "젤렌스키, 인기 국방장관 해임 후 우크라이나에서 시위 촉발",
+      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "젤렌스키 대통령이 대중의 인기를 얻던 국방장관을 해임하면서 우크라이나 내에서 시위가 촉발되었다. 이는 전시 상황에서의 정치적 불안정을 보여준다. 이번 해임이 전선과 국내 정세에 미칠 영향이 주목된다.",
+      "pub_date": "2026-07-16T16:36:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-14T23:17:27+00:00"
+      "title": "제노아 교량 붕괴 참사로 이탈리아 공무원들에게 징역형 선고",
+      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "summary": "제노아 교량 붕괴 참사로 43명이 사망한 사건에 대해 이탈리아 공무원들이 징역형을 선고받았다. 이는 정부 기관의 책임과 안전 관리의 중요성을 다시 한번 강조한다. 이번 판결은 국가 인프라 안전에 대한 경각심을 높일 것으로 기대된다.",
+      "pub_date": "2026-07-16T17:22:31+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "title": "알제리, 위탁 보호 시설 화재로 사망자 중 어린이 포함",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "summary": "알제리의 한 위탁 보호 시설에서 화재가 발생하여 사망자 중 어린이들이 포함된 것으로 확인되었다. 이는 사회적 약자인 어린이들의 안전 문제에 대한 심각성을 부각시킨다. 정부는 사고 원인 규명과 재발 방지 대책 마련에 나섰다.",
+      "pub_date": "2026-07-16T16:14:45+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "퓨 리서치 연구, 전 세계적으로 미국보다 중국을 선호하는 사람들 증가 시사",
       "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "summary": "퓨 리서치 센터의 연구 결과, 전 세계적으로 미국보다 중국을 선호하는 사람들이 증가하고 있는 것으로 나타났다. 이는 국제 사회에서 중국의 영향력이 확대되고 있음을 보여준다. 미국의 외교 정책과 국제 관계에 대한 재평가가 필요할 수 있다.",
       "pub_date": "2026-07-15T17:02:41+00:00"
     },
     {
       "category": "세계",
-      "outlet": "BBC",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-07-15T21:21:19+00:00"
+      "outlet": "CNN",
+      "title": "이란, 미국 공습 확대 속 호르무즈 해협은 '깨뜨릴 수 없는 레드라인' 경고",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzR1OTJaVnMzdmdoOWQ3c3ZGbW5YWC1DSlVpNUpjdFEzNjhSMHB4bFZEVG5QVkREb1ZKYXYtcUlPXzdPclIweFBvRl9nRE9PVmhuY3JXdGNyblNaOGczdjR6dEl5Rnp6eHRWZUJvUEE4TVNEQlViTjlPZ3J4b1V1c1RLZldVcmFnbDUyM18yMGM?oc=5",
+      "summary": "미국이 이란에 대한 공습을 확대하자 이란은 호르무즈 해협이 '깨뜨릴 수 없는 레드라인'이라고 경고했다. 이는 양국 간의 군사적 긴장이 최고조에 달했음을 보여준다. 이란의 경고는 국제 유가와 해상 안보에 심각한 영향을 미칠 수 있다.",
+      "pub_date": "2026-07-16T18:28:41+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "이란 병원, 인근 폭발로 수백 명 대피",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUpodTVCSjA4Q3htc2RGSU1GN0FSRzY1ZFkyTHk1eUJyR01HaG1wNFROYUUtM3ZwaHJwdG4tdndVdDFqZXNBaW5pWU5KUkw1S2lzcjF4bFZwSm9XVHpqU0didFNaM0pVNURMa3FNOEh0TC1nekNLQTRlbG9sVGhHLXUtdVo5ZlVrYWU4R2RkWVVNaWNyN2pJRFVaRzVRZ2h4TVE?oc=5",
+      "summary": "이란의 한 병원에서 인근 폭발 사고로 인해 수백 명의 환자가 대피하는 소동이 벌어졌다. 이는 현재 이란의 불안정한 정세와 군사적 충돌이 민간 시설에 미치는 영향을 여실히 보여준다. 병원 대피는 해당 지역 주민들에게 큰 혼란과 공포를 안겨주었다.",
+      "pub_date": "2026-07-16T09:11:00+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "텍사스 힐 컨트리 강타한 홍수 속 다락방에서 가족들 구조",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUpKSTBPejNzRDBueTZ5VEJ3alZvMEppaVhwMjdrcTlIU3AzdkUyRDZ0RjBxdUl0NUt1Nm11TEh2SXpVQUR0Nmx4b2ZRcUN4bXRsWERZWnBTcWdBQ29od3BWdE5VNTdzeTdBYVhSNEdXUkNyb3l3STlNMXBrVlJDR0VMNDBTMjEyTGlvVXRWZnhoeXppZ2VVUQ?oc=5",
+      "summary": "텍사스 힐 컨트리 지역을 강타한 홍수 속에서 다락방에 고립된 가족들이 극적으로 구조되었다. 기록적인 폭우로 인해 지역 전역에 심각한 홍수 피해가 발생했다. 구조대는 고립된 주민들을 구출하기 위해 밤샘 작업을 벌였다.",
+      "pub_date": "2026-07-16T15:21:08+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "트럼프, 이란이 2024년부터 억류했던 미국 여성 석방 발표",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZGNuaXpUb2FYckFoRVFRZEtXSmFBWExseXFST3Jxd2ZFekFZWkdjeGo5bnN4MzRfakRLQklQZ2xWdnZ5aERmUk55UWQ3eE5KM0dCa2R2UzFiX3B0ZlVmQkhJZVZwTWpaWlVmeQ?oc=5",
+      "summary": "트럼프 전 대통령이 이란에 2024년부터 억류되어 있던 미국 여성의 석방 소식을 발표했다. 이는 이란과 미국 간의 민감한 외교 관계 속에서 이루어진 중요한 진전이다. 이번 석방은 양국 관계 개선의 가능성을 시사할 수 있다.",
+      "pub_date": "2026-07-16T01:22:37+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "CNN: 국방부, 치명적인 이란 학교 공격에 대한 핵심 조사 지연",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQengxY0VOazNRMndKTEsyX3RCbU9FcHdFeTZXeTJVMllBQ3YyWWtMXzZSaXpJT2FIZVRiTEtYb1BQSmE5S01wSjVHb3A5SDNmTy1xWXREeE9NRG54YXFQcUZRM2hIU1ZjZUtObWRrTThKeWpjM1R5bzZlVEhoTmh6UFltV0ZyRWlWM3Q0SG15bG0?oc=5",
+      "summary": "CNN 보도에 따르면 미국 국방부가 이란 학교에 대한 치명적인 공격에 대한 핵심 조사를 지연하고 있다. 이는 군사 작전의 투명성과 책임성에 대한 심각한 우려를 불러일으킨다. 조사 지연은 해당 사건의 진실 규명을 더욱 어렵게 만들 수 있다.",
+      "pub_date": "2026-07-16T15:30:51+00:00"
     }
   ]
 }
