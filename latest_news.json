@@ -1,397 +1,421 @@
 {
-  "last_updated": "2026-07-20T22:01:55.627061+00:00",
+  "last_updated": "2026-07-21T22:05:56.107326+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "대통령 아파트 29억 매각, 17.7억 근저당 설정의 배경은?",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666258&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "대통령이 자신의 아파트를 29억 원에 매각했으나, 동시에 17억 7천만 원의 근저당을 설정해 그 이유에 대한 관심이 쏠리고 있다. 이는 매수인의 사정을 고려한 조치로 보이며, 정치적 배경에 대한 다양한 해석이 나오고 있다. 이 사안은 일반적인 부동산 거래와는 다른 이례적인 경우로 평가받고 있다.",
-      "pub_date": "2026-07-20T21:35:00+00:00"
+      "title": "외교관 포함 1만 명 정보 유출, 국가 배후 가능성 제기",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668295&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "외교관 등 약 1만 명의 개인 정보가 해킹으로 유출되었다.이번 정보 유출은 국가 배후의 소행일 가능성이 제기되고 있다.정부 당국은 유출 경위와 피해 규모를 조사 중이다.",
+      "pub_date": "2026-07-21T21:21:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "종합 특검 연장안 본회의 상정, 필리버스터로 대치",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666256&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "국회 본회의에 종합 특별검사 연장안이 상정되어 여야 간 긴장이 고조되고 있다. 야당은 법안 처리를 강행하는 반면, 여당은 필리버스터를 통해 법안 통과를 저지하려 하고 있다. 이에 따라 국회는 장시간 대치 국면에 들어설 것으로 예상되며, 법안 처리 시기는 불투명하다.",
-      "pub_date": "2026-07-20T21:33:00+00:00"
+      "title": "여야, 선관위 특별검사법 합의 및 국민추천위원회 구성",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668016&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "여야가 선거관리위원회 특별검사법안에 합의했다.특검 추천을 위해 국민추천위원회를 구성할 예정이다.이는 국회 정상화에 긍정적인 신호로 해석된다.",
+      "pub_date": "2026-07-21T13:03:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "백악관, 새 에어 포스 원 한 달간 업그레이드 위해 운항 중단 발표",
-      "link": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html",
-      "summary": "백악관은 새로운 대통령 전용기 에어 포스 원이 한 달 동안 업그레이드를 위해 운항을 중단할 것이라고 밝혔다. 이는 전용기의 성능 향상과 보안 강화가 목적이다. 해당 기간 동안 대통령의 이동에는 다른 수단이 활용될 예정이다.",
-      "pub_date": "2026-07-20T21:43:14+00:00"
+      "title": "트럼프, 중국의 선거 개입 위협 주장에도 서류상 러시아의 강력한 개입 드러나",
+      "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+      "summary": "트럼프 전 대통령이 중국의 선거 개입 위협을 강조했다.하지만 공개된 문서에는 러시아의 대선 개입 정황이 강하게 나타났다.이는 선거 외세 개입에 대한 논란을 심화시킬 것으로 보인다.",
+      "pub_date": "2026-07-21T18:27:44+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
+      "title": "트럼프 행정부 지원금 삭감 후 에이즈 치료 시설 1,700곳 폐쇄 연구 결과 발표",
+      "link": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+      "summary": "트럼프 행정부의 지원금 삭감 여파로 에이즈 치료 시설 1,700곳이 문을 닫았다.한 연구에 따르면 이로 인해 공중 보건에 심각한 영향이 우려된다.의료 서비스 접근성 악화에 대한 비판이 제기되고 있다.",
+      "pub_date": "2026-07-21T14:24:29+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
       "title": "트럼프, 캐나다산 제품 다수에 50% 관세 부과 예정",
       "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
-      "summary": "트럼프 전 대통령이 캐나다산 다양한 제품에 50%의 높은 관세를 부과할 계획을 밝혔다. 이는 양국 간의 무역 관계에 큰 영향을 미칠 것으로 예상된다. 이번 조치는 무역 불균형 해소를 목표로 하는 트럼프의 강경한 경제 정책 기조를 보여준다.",
-      "pub_date": "2026-07-20T21:09:47+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "NYT",
-      "title": "국방부, 이란 전쟁 중 발생한 수십 건의 미군 부상 사실 은폐",
-      "link": "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html",
-      "summary": "미국 국방부가 이란 전쟁 중에 발생한 수십 명의 미군 부상 관련 정보를 숨겼다는 보도가 나왔다. 이는 정부의 정보 투명성에 대한 의문을 제기하며 논란을 부르고 있다. 해당 사실이 확인될 경우 대중의 신뢰도 하락과 함께 추가 조사가 필요할 것으로 보인다.",
-      "pub_date": "2026-07-20T20:50:43+00:00"
+      "summary": "트럼프 전 대통령이 캐나다산 수입품에 50%의 높은 관세를 부과할 계획이다.이는 양국 간의 무역 관계에 심각한 영향을 미칠 것으로 예상된다.국제 통상 마찰이 다시 고조될 가능성이 크다.",
+      "pub_date": "2026-07-21T00:25:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "기후부, 북한의 임진강 상류 황강댐 무단 방류 확인",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260721051451yQN",
-      "summary": "기후부가 북한이 사전 통보 없이 임진강 상류 황강댐을 방류했다고 발표했다. 이는 남측 지역의 수위 변화에 영향을 미칠 수 있어 주의가 요구된다. 정부는 북한의 이러한 일방적 조치에 대해 유감을 표명하고 대책을 강구할 예정이다.",
-      "pub_date": "2026-07-20T20:14:51+00:00"
+      "title": "북한과 러시아, '백년대계' 동맹 강화 표명하며 한국 및 나토 견제",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260721211549yif",
+      "summary": "북한과 러시아가 장기적인 동맹 강화를 공식 표명했다.이는 한국과 북대서양조약기구(NATO)의 역내 영향력 확대를 견제하려는 움직임으로 분석된다.동북아 및 국제 안보 지형에 중대한 변화를 가져올 것으로 예상된다.",
+      "pub_date": "2026-07-21T12:15:51+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "국립외교원 9개월간 해킹 피해, 유출 내역 확인 어려워",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260720210440XnI",
-      "summary": "국립외교원이 9개월 동안 해킹 공격을 받아 정보 유출 가능성이 제기되었다. 해킹으로 인한 정확한 유출 내역은 아직 파악되지 않아 피해 규모를 예측하기 어렵다. 정부는 긴급 보안 조치를 취하고 상세한 조사를 진행 중이다.",
-      "pub_date": "2026-07-20T12:04:41+00:00"
+      "title": "여의도 10배 규모 군 보호구역 해제 및 완화: 용산, 마포, 고양 포함",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260722052217t0J",
+      "summary": "여의도 면적의 10배에 달하는 군사시설 보호구역이 해제되거나 완화된다.이번 조치에는 용산, 마포, 고양 등 주요 지역이 포함된다.이는 해당 지역의 개발 및 경제 활성화에 크게 기여할 것으로 기대된다.",
+      "pub_date": "2026-07-21T20:22:18+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "앤디 번햄 총리 취임, 핵심 정책 요약",
-      "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄이 영국 총리로 취임하며, 그의 향후 정책 방향에 대한 주요 내용들이 주목받고 있다. 그는 첫 연설에서 노숙자 문제 해결과 디지털 신분증 제도 폐지를 핵심 공약으로 내세웠다. 번햄 총리의 취임은 영국 정치에 상당한 변화를 가져올 것으로 전망된다.",
-      "pub_date": "2026-07-20T20:07:01+00:00"
+      "title": "10월부터 가정용 전기 요금의 부가가치세 인하 예정",
+      "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부가 오는 10월부터 가정용 전기 요금에 부과되는 부가가치세를 인하할 계획이다.이는 치솟는 생활비 부담을 경감하기 위한 조치로 풀이된다.수백만 가구의 가계 재정에 직접적인 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-07-21T14:25:22+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "번햄 총리, 첫 주요 정책으로 디지털 신분증 계획 폐지 발표",
-      "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄 신임 영국 총리가 첫 번째 주요 정책 발표로 디지털 신분증 도입 계획을 전면 폐지하겠다고 밝혔다. 이는 그의 선거 공약 중 하나로, 시민들의 프라이버시 보호에 중점을 둔 조치이다. 이번 결정은 영국 사회에 광범위한 영향을 미칠 것으로 예상된다.",
-      "pub_date": "2026-07-19T08:55:06+00:00"
+      "title": "번햄 정부의 템즈 워터 국유화 시 대출 기관들 법적 대응 준비",
+      "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "앤디 번햄 총리의 템즈 워터 국유화 방침에 대해 채권자들이 법적 이의 제기를 준비 중이다.이는 정부의 주요 경제 정책에 대한 심각한 반발을 예고한다.영국 공공 서비스의 소유권 논쟁이 격화될 전망이다.",
+      "pub_date": "2026-07-19T18:35:16+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "야당 주도로 종합 특검 연장법안 본회의 상정, 여당은 필리버스터로 맞대응",
-      "link": "https://www.chosun.com/politics/assembly/2026/07/20/4PKMLVJTIRCKLC6P46Y64HUDSM/",
-      "summary": "야당이 국회 원 구성도 완료되지 않은 상황에서 종합 특별검사 연장 법안을 단독으로 본회의에 상정했다. 이에 여당은 강력히 반발하며 필리버스터를 통해 법안 통과를 저지하려는 총력전에 돌입했다. 이로 인해 국회는 첨예한 대치 상태에 놓였으며, 정국 경색이 심화될 것으로 전망된다.",
-      "pub_date": "2026-07-20T05:40:53+00:00"
+      "title": "여야, '투표용지 부족 사태' 선관위 특별검사 합의로 국회 정상화 결정",
+      "link": "https://www.chosun.com/politics/politics_general/2026/07/22/SDFOV2A5KZAYVFZHMFB4SWZOOA/",
+      "summary": "여야가 '투표용지 부족 사태'와 관련된 선거관리위원회 특별검사 도입에 합의했다.이 합의로 국민의힘은 국회에 복귀하여 파행되었던 국회가 정상화될 예정이다.정치권의 오랜 대립이 해소되고 입법 활동에 속도가 붙을 것으로 기대된다.",
+      "pub_date": "2026-07-21T15:46:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "앤디 번햄, 영국의 새로운 총리로 취임",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2Y2eGxkd0syNTl1NTVFZVlBbllPdk5TVVo4XzZ1SHQxdTZaak5jWW9tWXFwTUZMcmNEMUtvV3VOTEZhNnhQQklaRU0xb1FJWTV5bWJYOXBUNTA0VDRJWTZTb29CRVhWZ1NXSWZ3UEFybGhmbTFqbUxYR2JRWDdHUVZ6MmNha0NaLUV0WGxGUkI1Y3pDMTJBR2gwZFlDTjc1Zk10REEtSHY?oc=5",
-      "summary": "앤디 번햄 노동당 대표가 영국 총리로 공식 취임했다. 그는 지난 선거에서 승리하며 보수당의 장기 집권을 끝냈다. 번햄 총리는 앞으로 영국의 주요 현안들을 해결해 나갈 예정이다.",
-      "pub_date": "2026-07-20T19:40:56+00:00"
+      "title": "펜스, 트럼프의 이란과의 전쟁 선포가 옳았다고 CNN에 발언",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORGR3LXVlVllRLVNXa29JRXRiQkdRWDg4NHNBcEg3dE9rVG5WOFN4eFExYURadVhCMGc0S3FJek9zVktXWkRUNzR2cGFtaDV4cWZXZ2hUV2NsLU8wYnlXN3lpUVI1czZ5bmdRS1JITVhsWnFiOFFPelViUmNzV0Vhd2tWRXpqamp0bkxMZWdLTFNLMUxUUWRwSFc4VEl3ZExzX0FqWHppZUNLVDN6TGFURWNfTlZlUjNxcWJuMDktUU4yWVVrWEZUZ2xJNS12RjBDdkpWRmhnRUpvc2JDcFE?oc=5",
+      "summary": "펜스 전 부통령이 CNN과의 인터뷰에서 트럼프 전 대통령의 이란과의 전쟁 선포가 정당했다고 밝혔다.이는 미국 내 이란 정책 및 외교 전략에 대한 논란을 재점화할 것으로 보인다.미국 정치권의 주요 인사들이 중동 문제에 대해 상반된 입장을 표명하고 있다.",
+      "pub_date": "2026-07-21T17:25:06+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "백악관, 트럼프의 새 에어 포스 원 보안 강화에 박차, 국내선은 계속 운항 예정",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90NmVHMVlGWm1CbHVLMmVELVlqMjAxbFY3dW5aUUx6YW5RVmFCYzgxb2h5cUJSX0QzQVRpT0l2TUNCNEpIT3NlSGxFd0xDQlRPcmo2MkMzZkZLMm9KQlp2SFBpQURtZXJOc0RvcmdDZGxSaU1BZ29wZDJ5YlQ?oc=5",
-      "summary": "백악관이 트럼프 전 대통령의 새 전용기 에어 포스 원의 보안 강화를 서두르고 있다. 하지만 트럼프 전 대통령은 국내선에서는 계속 이 전용기를 사용할 계획임을 밝혔다. 이는 전용기의 안전성 문제와 관련된 논란을 가중시키고 있다.",
-      "pub_date": "2026-07-20T21:41:45+00:00"
+      "title": "하원 민주당, 제프리 엡스타인의 해외 스파이 활동 여부 조사 착수",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFJIRG1sVjRGOEFEcFFKWWpnVTVRdHEyRURoMzZ0b0xJU29ZNGtMVzdKMHJ2ZWdDWHI5YXVHNXJQbGdwbGxoRTdpNV9HM0t0b0dMc3hTOGJXWFFrYUNLalAzRVJNdlRsd1pZQml4Z2NBOTVvUGxQeEJ2cU9hdTdURTlDUXJZZw?oc=5",
+      "summary": "하원 민주당이 고(故) 제프리 엡스타인이 해외 정보기관의 요원으로 활동했는지에 대한 조사에 착수했다.이는 엡스타인 사건의 새로운 국면을 열 수 있는 중요한 진전이다.성범죄와 국가 안보를 아우르는 대규모 조사가 진행될 예정이다.",
+      "pub_date": "2026-07-21T09:00:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 캐나다에 산불 연기 피해에 대한 배상 요구 시사",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWV9MUWUwRWMxRWtuVVhVVk1wQzlXaWo2b1RYRDV3RWVxV0hkOTNYeGRIaTMwVVJWRGRsaXpoclZpc0Fzdkh6UVpJb0tsbVZTd1Utd3REeG5hc0RMRHZnWHJXV1FKRlI1TkFnWTRpSUJfV2VqWXRmZHM5c0k2T0M4Sl8tS0d3RFRBNzRLNnVLZ0RtM1VtWEQ0TjREUEM4MnY2eDgwaERWRHVnU05JREpJ?oc=5",
-      "summary": "트럼프 전 대통령이 캐나다에 산불로 인한 연기 피해에 대한 배상을 지불해야 한다고 시사했다. 이는 북미 환경 문제에 대한 새로운 논쟁을 불러일으킬 수 있다. 캐나다 정부의 공식적인 반응은 아직 나오지 않았다.",
-      "pub_date": "2026-07-20T06:58:33+00:00"
+      "title": "프랑스, 유럽연합 국가 중 최초로 15세 미만 아동의 소셜 미디어 금지",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWp0eXNoTzZjb0w5bjd0aHd2dVl6LVhOZkFmeWNKSU03SzBUNEl6Vmk4U0x0YVdWYnpXanVVbW8xSl9MdjJsV2ppOUtqLTVWZy1qUmZBa29EZzhGc2Rod1JreDI5U3V3STNuWTdaOHhTUDRqQUt3Ry10aTM3Rjd1RnctN3d6aERVeEJoZXhZdzMwb1ZwRUZVYTVyRXN6cWhlZVBiMmFNNUNtVkVkdWdKMw?oc=5",
+      "summary": "프랑스가 유럽연합 국가 중 최초로 15세 미만 아동의 소셜 미디어 사용을 금지했다.이는 아동 보호를 위한 강력한 조치로, 디지털 시대의 새로운 규제 모델을 제시할 것으로 보인다.다른 유럽 국가 및 전 세계에도 유사 정책 도입에 대한 논의가 확산될 가능성이 크다.",
+      "pub_date": "2026-07-21T18:58:26+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프, 캐나다산 제품 다수에 50% 관세 부과 예정",
-      "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
-      "summary": "트럼프 전 대통령이 캐나다산 다양한 제품에 대해 50%의 높은 관세를 부과할 계획을 발표했다. 이 조치는 양국 간의 무역 관계에 심각한 영향을 미칠 것으로 예상된다. 이번 관세 부과는 미국 우선주의 경제 정책의 일환으로 해석된다.",
-      "pub_date": "2026-07-20T21:09:47+00:00"
+      "title": "후티 반군, 홍해 봉쇄 위협으로 유가 시장 위험 고조",
+      "link": "https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html",
+      "summary": "예멘 후티 반군이 홍해 봉쇄를 위협하며 국제 유가 시장의 불안을 키우고 있다.이로 인해 원유 수송 경로에 대한 우려가 커지면서 유가가 상승할 가능성이 높다.중동 지역의 지정학적 긴장이 글로벌 경제에 직접적인 영향을 미치고 있다.",
+      "pub_date": "2026-07-21T20:13:21+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "영국 신임 총리 앤디 번햄, 재무장관에 존 힐리 임명",
-      "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html",
-      "summary": "영국의 신임 총리 앤디 번햄이 존 힐리를 재무장관으로 지명했다. 이는 새 정부의 경제 정책 방향을 가늠할 수 있는 중요한 인사이다. 힐리 장관은 번햄 총리와 함께 영국의 경제 현안들을 다룰 예정이다.",
-      "pub_date": "2026-07-20T18:57:40+00:00"
+      "title": "트럼프, 캐나다 관세 전면 강화하며 마크 카니와 강경 대치",
+      "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+      "summary": "트럼프 전 대통령이 캐나다에 대한 관세를 전면적으로 강화하며 무역 갈등을 고조시켰다.이에 대해 캐나다 측은 강경한 입장을 고수하며 맞서고 있다.양국 간의 무역 전쟁이 격화될 조짐을 보이고 있다.",
+      "pub_date": "2026-07-21T17:21:51+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "이란 위기 고조로 미국 평균 휘발유 가격 다시 갤런당 4달러 기록",
-      "link": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html",
-      "summary": "이란 위기가 고조되면서 미국의 평균 휘발유 가격이 다시 갤런당 4달러를 넘어섰다. 이는 중동 정세 불안이 국제 유가에 직접적인 영향을 미치고 있음을 보여준다. 고유가는 소비자 물가 상승과 경제 전반에 부담을 줄 것으로 우려된다.",
-      "pub_date": "2026-07-20T18:47:17+00:00"
+      "title": "중국 문샷 AI, '키미 모델' 공개하며 미국의 기술 선도 위협",
+      "link": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
+      "summary": "중국의 문샷 AI가 최신 인공지능 모델인 '키미'를 공개했다.이 모델은 미국이 주도하는 AI 기술 분야에서의 리더십을 위협할 수준으로 평가된다.미중 간의 기술 패권 경쟁이 더욱 심화될 것으로 예상된다.",
+      "pub_date": "2026-07-17T20:04:57+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "존 힐리, 국방부 장관직 돌연 사임 후 몇 주 만에 재무장관 취임",
-      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-      "summary": "존 힐리가 국방부 장관직을 갑작스럽게 사임한 지 몇 주 만에 새로운 재무장관으로 취임했다. 이는 영국 내각의 주요 변화를 알리는 중요한 인사이다. 그는 신임 총리와 함께 영국의 경제 정책을 총괄하게 된다.",
-      "pub_date": "2026-07-20T18:44:55+00:00"
+      "title": "10월부터 가정용 전기 요금의 부가가치세 인하 예정",
+      "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부가 오는 10월부터 가정용 전기 요금에 부과되는 부가가치세를 인하할 계획이다.이는 생활비 상승에 따른 국민 부담을 줄이기 위한 핵심 정책이다.수백만 가구의 월별 지출에 직접적인 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-07-21T14:25:22+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "알리익스프레스, 불법 상품 판매 허용으로 EU로부터 5억 5천만 유로 벌금 부과",
-      "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "summary": "알리익스프레스가 불법 상품 판매를 허용한 혐의로 유럽연합(EU)으로부터 사상 최고액인 5억 5천만 유로의 벌금을 부과받았다. 이번 벌금은 온라인 플랫폼의 책임에 대한 EU의 강력한 입장을 보여준다. 알리익스프레스는 이번 결정에 대한 항소 여부를 검토 중이다.",
-      "pub_date": "2026-07-20T15:22:54+00:00"
+      "title": "템즈 워터 채권단, 국유화 저지를 위해 '황금주' 제안",
+      "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+      "summary": "템즈 워터 채권단이 국유화를 막기 위해 정부에 '황금주' 인수를 제안했다.이는 회사의 경영권과 소유권 문제를 둘러싼 갈등을 반영한다.영국 최대 수도 기업의 미래가 중대한 기로에 서 있다.",
+      "pub_date": "2026-07-21T10:30:45+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "DL그룹, 50년 역사 자동차 부품 사업 정리 결정",
-      "link": "https://www.sedaily.com/article/20069577",
-      "summary": "DL그룹이 50년간 이어온 자동차 부품 사업을 정리하기로 결정했다. 이는 그룹의 사업 구조 재편의 일환으로, 핵심 사업 역량 강화를 위한 전략적 선택으로 풀이된다. 이번 결정은 국내 자동차 부품 산업 생태계에도 적지 않은 영향을 미칠 것으로 예상된다.",
-      "pub_date": "2026-07-20T08:32:00+00:00"
+      "title": "JP모간 \"코스피 급락은 레버리지 상장지수펀드 때문, 청산 75% 진행\"",
+      "link": "https://www.sedaily.com/article/20070015",
+      "summary": "JP모간이 최근 코스피 급락의 주된 원인으로 레버리지 상장지수펀드(ETF)를 지목했다.보고서에 따르면 관련 ETF의 청산이 75% 가량 진행된 상태이다.이는 한국 증시의 변동성 확대와 투자 위험성에 대한 경고로 해석된다.",
+      "pub_date": "2026-07-21T06:22:35+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프 주니어의 1789 펀드, 수십억 달러 연방 자금 확보 기업에 투자",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmlOTy1wWnYwTEFrUU1McjFaSEpTUUJqT1JveTVjTGt5UFpBUVNPc0FZSnlRUFg0MkoyVTBVTEh3Vnk5U1BPTVhocDhia0pfOGlKcTBxc0Y2cGRkX1NWUUdGei02aWFIS2F1NXV2VFd6UUxfaldoWUdqZ1Babkx6QnhRQ014Znda?oc=5",
-      "summary": "트럼프 주니어의 '1789 펀드'가 수십억 달러의 연방 자금을 지원받은 기업들에 투자한 것으로 밝혀졌다. 이는 전 대통령 가족의 사업과 정부 자금의 연관성에 대한 의문을 제기하고 있다. 해당 투자가 공정하게 이루어졌는지에 대한 논란이 예상된다.",
-      "pub_date": "2026-07-20T10:00:25+00:00"
+      "title": "트럼프, 캐나다에 새 관세 부과로 무역 전쟁 재점화 위험",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzZfOTJFSFFmWC1YSWN5YWloMTlMUFY1dEZyRC1rQkw0TnNGM1BjOC1MS0VyY3dwYkZjLW10N2Vac1ROVm9qN2ZKb0phczM5cjJid2Y4TE1NM1ROQWxyRFNkY1MxSWdVVG1SdkxyN3dJUHU3OGhRcW9GaXk0ejdBdXdFUTI3R0NJWUFjTGs2bW44aUU?oc=5",
+      "summary": "트럼프 전 대통령이 캐나다에 새로운 관세를 부과하며 무역 전쟁 재점화의 위험을 키우고 있다.이는 양국 간의 경제적 관계에 심각한 긴장을 초래할 것으로 예상된다.글로벌 무역 질서에 혼란을 가중시킬 가능성이 크다.",
+      "pub_date": "2026-07-20T23:44:02+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "포르투갈, 39억 유로에 이탈리아 프리깃함 3척 도입 예정",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkhhSHMwbk9BdFZnX3A1OEo5cmF4MGZVQ1RtUEFKRl8zamxqRGpZS2lBdzhUYWM0TXFSdlRiYXNLemI3enNFaHBPYmxNSmZLMWRPZVkyV2FaamtZR1VqX3Z1WGNfVUhsUy1MRmU5RXpySmNNSGZmTVlEWXgzZlhkWjg4M1RMS2FhcFFwM1dZUzdnUVdrLW1HbWNQZHNLV09h?oc=5",
-      "summary": "포르투갈이 이탈리아로부터 39억 유로(약 5조 8천억 원) 규모의 프리깃함 3척을 구매할 예정이다. 이는 포르투갈 해군의 현대화와 방위력 강화를 위한 중요한 계약이다. 이번 거래는 양국 간의 국방 협력을 더욱 강화할 것으로 보인다.",
-      "pub_date": "2026-07-20T16:04:21+00:00"
+      "title": "호르무즈 해협 긴장 재고조로 유가 상승세",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDJvNDJjd2NVOE04emdKRDJENnM4Tk83RVZxN2Q0SmJic1JBeU9OTUx5V1ZvX0E2c09qYkNtXzRYX0FMOWV3dHBmQTZlWDVzQVNUdkFnelRSVE1jY2F4OGtHNHBBeld1R04welM5NW9yYlJmaE1MWkJaWUROOGdFcVRzNERWZGU4Y3hYdUs4WW5rUmRrblZKbE5RZ1pya0lDRk0yZlhsVndNakU4TnVlUTJINA?oc=5",
+      "summary": "호르무즈 해협의 긴장이 다시 고조되면서 국제 유가가 상승하고 있다.이는 중동 지역의 지정학적 불안이 에너지 시장에 직접적인 영향을 미 주고 있음을 보여준다.국제 사회는 해협의 안정에 촉각을 곤두세우고 있다.",
+      "pub_date": "2026-07-21T12:49:12+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "월드컵 개최, 과연 경제적 가치가 있었나?",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McWY3MTdjcUwwY0xTMkwxZmVCTDd4aWRCUUUtS3B6THJaZGRObVVTR1h4dHJuU1UzNnRRdXRyeHRLcl9kaTIxQjd2ZjZld1VNdmluc1V1algxcVJrUVpxamJaaVNWTkFXbHQ0QlpZX2RaSGhm?oc=5",
-      "summary": "최근 막을 내린 월드컵 개최가 과연 경제적으로 타당했는지에 대한 의문이 제기되고 있다. 막대한 투자 대비 실질적인 경제 효과에 대한 분석이 필요하다는 지적이다. 개최국의 장기적인 경제적 이익과 비용에 대한 심층적인 논의가 이어질 것으로 보인다.",
-      "pub_date": "2026-07-20T08:00:26+00:00"
+      "title": "중국은 월드컵이 필요 없다. 그들에게는 \"마을 슈퍼리그\"가 있다",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlJaRFY3aDVLck00bVplalR0Z0gtWjRNMG5LaWhLdDhkbkQ2aWZ0R3BoR3pVNlZRSGxLWVphekxhaFFxQ3JxZ1dtSFBaYWtDcmlBMUZmOUJBOEFEOHNieUdSM1VBM0l2YmZBSVlUbmxaeFF1SHFVUGRpWmh1Q1ZGME9IVl9ZbUdKQmVEVGtNdDNzOEx6M2R1Z0hOb2VYYk9oc0xEU0RYdFQtTk1sTnlfVWwwTGQ?oc=5",
+      "summary": "중국이 국제적인 월드컵 대신 자체적인 \"마을 슈퍼리그\"로 축구 열기를 이어가고 있다.이는 풀뿌리 축구의 성장과 지역 커뮤니티의 활성화를 보여주는 사례이다.자국 중심의 문화 콘텐츠 소비 경향이 두드러진다.",
+      "pub_date": "2026-07-21T09:14:44+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "카드뉴스: 중국 인공지능, 미국과의 격차를 맹렬히 추격",
-      "link": "https://zdnet.co.kr/view/?no=20260720102216",
-      "summary": "중국이 인공지능(AI) 분야에서 미국을 맹렬히 추격하며 기술 격차를 좁히고 있다. 이는 국가적 차원의 대규모 투자와 연구 개발 덕분이다. 미중 간의 AI 기술 패권 경쟁은 더욱 심화될 것으로 예상된다.",
-      "pub_date": "2026-07-20T13:08:21+00:00"
+      "title": "'키미 K3' 성공에 힘입어 문샷, 6개월 내 홍콩 증시 상장 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260721190432",
+      "summary": "중국의 AI 기업 문샷이 '키미 K3' 모델의 성공적인 출시에 힘입어 홍콩 증시 상장을 서두르고 있다.회사는 6개월 이내 상장을 목표로 하는 것으로 알려졌다.이는 글로벌 AI 시장에서 중국 기업의 입지를 더욱 강화할 중요한 움직임이다.",
+      "pub_date": "2026-07-21T10:04:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "배 부총리, 누리호 연 1회 발사로는 2035년 저궤도 위성 통신망 구축 난항 지적",
-      "link": "https://zdnet.co.kr/view/?no=20260720180814",
-      "summary": "배 부총리가 누리호를 연 1회 발사하는 현 체제로는 2035년까지 저궤도 위성 통신망 구축이 어렵다고 지적했다. 이는 한국의 우주 개발 목표 달성을 위한 발사 빈도 확대의 필요성을 강조한다. 정부는 우주 산업 육성을 위해 발사 인프라 확충 방안을 모색 중이다.",
-      "pub_date": "2026-07-20T09:08:14+00:00"
+      "title": "[AI 동향] 딥시크와 키미 부상에 미국-중국 동시 견제, AI 패권 전쟁 확전",
+      "link": "https://zdnet.co.kr/view/?no=20260721163403",
+      "summary": "중국의 딥시크와 키미 등 신흥 AI 모델들이 부상하면서 미국과 중국이 동시에 관련 기술 견제에 나섰다.이는 글로벌 AI 시장에서의 주도권을 차지하기 위한 패권 전쟁이 더욱 격화되고 있음을 시사한다.양국 간의 기술 경쟁은 국제 정세에 중대한 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-07-21T08:00:53+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "국방 특화 대규모 언어 모델 개발 사업, LIG·삼성SDS와 한화·네이버클라우드 컨소시엄 격돌",
-      "link": "https://www.etnews.com/20260720000364",
-      "summary": "국방 특화 대규모 언어 모델(LLM) 개발 사업을 놓고 LIG D&A-삼성SDS 컨소시엄과 한화-네이버클라우드 컨소시엄이 치열한 경쟁을 벌이고 있다. 이 사업은 국가 안보와 직결된 중요한 인공지능 기술 개발 프로젝트이다. 어떤 컨소시엄이 최종 승자가 될지 관심이 집중되고 있다.",
-      "pub_date": "2026-07-20T07:31:16+00:00"
+      "title": "메모리 반도체 3사, HBM4 수율 경쟁 점화…하반기 수익 판가름",
+      "link": "https://www.etnews.com/20260721000240",
+      "summary": "주요 메모리 반도체 3사가 차세대 고대역폭 메모리(HBM4) 수율 확보 경쟁에 본격 돌입했다.HBM4 수율이 하반기 실적을 좌우할 핵심 변수가 될 것으로 예상된다.첨단 반도체 시장에서의 기술 주도권 싸움이 더욱 치열해질 전망이다.",
+      "pub_date": "2026-07-21T07:30:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "정보통신기술 기금 적자 심화, 구조 전면 재설계 필요성 제기",
-      "link": "https://www.etnews.com/20260720000292",
-      "summary": "정보통신기술(ICT) 기금의 적자 규모가 눈덩이처럼 불어나면서 기금 구조의 전면적인 재설계가 필요하다는 지적이 나왔다. 이는 미래 ICT 산업 투자 및 육성에 차질을 빚을 수 있는 심각한 문제이다. 정부는 기금의 지속 가능성을 확보하기 위한 방안을 시급히 마련해야 할 것으로 보인다.",
-      "pub_date": "2026-07-20T07:30:00+00:00"
+      "title": "청와대 김용범 \"모두의 인공지능으로 AI 주권 확보, 시장 안착 시 정부는 퇴장\"",
+      "link": "https://www.etnews.com/20260721000297",
+      "summary": "청와대 김용범 비서실장이 '모두의 AI' 정책을 통해 인공지능 주권을 확보하겠다고 밝혔다.그는 AI 시장이 안정되면 정부는 개입을 줄이고 시장 자율에 맡길 것이라고 강조했다.이는 국가 AI 전략의 방향성을 제시하며 산업계의 관심을 모으고 있다.",
+      "pub_date": "2026-07-21T06:41:51+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "AMD, 최초의 인공지능 랙 시스템 '헬리오스'로 엔비디아에 도전장",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=668483",
-      "summary": "AMD가 엔비디아의 아성에 도전하기 위해 자사의 첫 인공지능(AI) 랙 시스템인 '헬리오스'를 출시했다. 이는 AI 서버 시장에서의 경쟁을 더욱 가속화할 전망이다. 헬리오스는 고성능 컴퓨팅 환경을 제공하며, 엔비디아가 독점해온 시장에 새로운 바람을 불어넣을 것으로 기대된다.",
-      "pub_date": "2026-07-21T03:44:52+00:00"
+      "title": "'모두의 AI', 올해 범용 챗봇 출시 및 내년 1인 1 에이전트 목표",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668552",
+      "summary": "정부 주도의 '모두의 AI' 프로젝트가 올해 범용 챗봇을 선보일 계획이다.나아가 내년에는 모든 국민이 개인 맞춤형 AI 에이전트를 가질 수 있도록 할 방침이다.이는 인공지능 기술의 대중화와 접근성 확대를 위한 국가적 노력이다.",
+      "pub_date": "2026-07-21T15:56:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "배달앱 주소 악용 방지 위한 개인정보보호법 개정안 국회 논의",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=668416",
-      "summary": "배달앱을 통한 개인 주소 정보 악용을 막기 위한 개인정보보호법 개정안이 국회에서 논의 중이다. 이는 배달 서비스를 이용하는 국민들의 프라이버시 보호를 강화하기 위함이다. 법안이 통과되면 배달앱 운영사의 정보 관리 책임이 더욱 커질 것으로 예상된다.",
-      "pub_date": "2026-07-20T14:27:21+00:00"
+      "title": "카카오뱅크 노조 31일 전면 파업 예고, 서비스 차질 우려",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=668536",
+      "summary": "카카오뱅크 노동조합이 오는 31일 전면 파업을 예고했다.이는 임금 및 단체 협상 결렬에 따른 것으로, 카카오뱅크는 물론 카카오 계열사의 첫 전면 파업이다.대규모 이용자들의 금융 서비스 이용에 상당한 차질이 발생할 수 있다.",
+      "pub_date": "2026-07-21T15:14:09+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "AMD, 엔비디아 독주에 제동 걸고 삼성전자·SK하이닉스 HBM4의 주요 고객으로 부상",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/21/7KESNS7L75H2XA7UP76V23KRLA/",
-      "summary": "AMD가 엔비디아의 독주를 견제하며 삼성전자와 SK하이닉스의 차세대 고대역폭 메모리(HBM4)의 주요 고객으로 떠오르고 있다. 이는 인공지능(AI) 반도체 시장의 지형 변화를 예고한다. AMD의 약진은 HBM 공급사들에게 새로운 기회를 제공할 것으로 보인다.",
-      "pub_date": "2026-07-20T21:00:01+00:00"
+      "title": "앤트로픽, 인공지능 저작권 침해 소송에서 2조원대 합의 도달… 사상 최대 규모",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/21/473XPA7WVVGPPFHYRHLM7OAMBI/",
+      "summary": "AI 개발사 앤트로픽이 저작권 침해 소송에서 약 2조원 규모의 합의금을 지급하기로 했다.이는 인공지능 관련 저작권 분쟁 역사상 가장 큰 규모의 합의 사례이다.향후 AI 기술 개발 및 활용에 있어 저작권 문제의 중요성을 강조하는 선례가 될 것이다.",
+      "pub_date": "2026-07-21T07:23:25+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "중국 인공지능 '키미 K3' 약진에 미국, 중국산 인공지능 차단 검토",
-      "link": "https://biz.chosun.com/it-science/ict/2026/07/21/QA5U7OWF65FBPMLRGBTVZDLR74/",
-      "summary": "중국의 인공지능(AI) 모델 '키미 K3'가 빠르게 약진하자 미국이 중국산 AI 기술 차단을 검토하고 있다. 이는 미중 기술 패권 경쟁의 심화를 보여주는 사례이다. Kimi K3는 저비용으로 미국 최고 성능 모델에 도전하며 글로벌 AI 시장에 큰 영향을 미치고 있다.",
-      "pub_date": "2026-07-20T15:40:20+00:00"
+      "title": "삼성전자, 대표이사 직속 로봇 조직 신설… 전략, 개발, 사업화 통합",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/21/U6WGESXZORA3TIAJDXDXMRFKEU/",
+      "summary": "삼성전자가 대표이사 직속으로 로봇 사업을 전담하는 조직을 신설했다.새로운 조직은 로봇 관련 전략 수립, 기술 개발, 사업화를 통합적으로 추진한다.이는 삼성이 미래 성장 동력으로 로봇 산업을 강력하게 육성하겠다는 의지를 보여준다.",
+      "pub_date": "2026-07-21T02:23:45+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "구글의 인공지능 검색이 개방형 웹을 위협하는 방식",
+      "title": "구글의 인공지능 검색이 '열린 웹'을 위협하는 방식",
       "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-      "summary": "구글의 인공지능(AI) 기반 검색 기능이 개방형 웹 생태계를 위협할 수 있다는 우려가 제기되고 있다. AI 검색이 자체적으로 정보를 요약 제공하면서 사용자들이 원본 웹사이트로 유입되는 것을 감소시키기 때문이다. 이는 콘텐츠 제작자들의 수익 감소와 웹 다양성 저하로 이어질 수 있다.",
-      "pub_date": "2026-07-20T19:06:27+00:00"
+      "summary": "구글의 AI 검색 기능이 '열린 웹' 생태계를 위협할 수 있다는 우려가 제기되고 있다.AI가 직접 정보를 요약 제공하며 사용자들의 웹사이트 방문을 줄일 수 있기 때문이다.이는 콘텐츠 창작자와 광고 수익 모델에 큰 영향을 미칠 것으로 전망된다.",
+      "pub_date": "2026-07-21T01:50:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 잠재적 100억 달러 규모로 앤스로픽에 컴퓨팅 파워 임대 협상 중",
+      "title": "메타, 앤트로픽에 잠재적 100억 달러 규모 컴퓨팅 파워 임대 협상 중",
       "link": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "summary": "메타가 인공지능(AI) 스타트업 앤스로픽에 약 100억 달러 규모의 컴퓨팅 파워를 임대하는 계약을 논의 중이다. 이는 거대 기술 기업들이 AI 인프라 확충에 막대한 투자를 하고 있음을 보여준다. 이번 계약이 성사될 경우 앤스로픽의 AI 연구 개발에 큰 추진력이 될 것으로 예상된다.",
+      "summary": "메타가 인공지능 스타트업 앤트로픽에 최대 100억 달러 규모의 컴퓨팅 파워를 임대하는 협상을 진행 중이다.이 계약이 성사될 경우, AI 인프라 시장에 큰 변화를 가져올 것으로 예상된다.거대 기술 기업 간의 협력이 AI 산업의 발전을 가속화할 전망이다.",
       "pub_date": "2026-07-17T17:44:24+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "틱톡, 아동 연령 확인 문제로 영국 통신 규제 기관 Ofcom 조사 직면",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "틱톡이 아동 연령 확인 시스템 미흡 문제로 영국 통신 규제 기관인 Ofcom의 조사를 받게 되었다. 이는 미성년자 보호에 대한 플랫폼의 책임이 강화되는 추세를 반영한다. 조사 결과에 따라 틱톡은 서비스 정책에 중대한 변화를 줘야 할 수도 있다.",
-      "pub_date": "2026-07-16T11:08:33+00:00"
+      "title": "중국 문샷 AI, '키미 K3' 모델이 오픈AI 및 앤트로픽과 경쟁 가능 주장",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "중국 문샷 AI가 자사의 '키미 K3' 모델이 오픈AI와 앤트로픽의 기술력에 필적할 수준이라고 주장했다.이는 글로벌 인공지능 시장에서 중국의 기술적 도전을 명확히 보여준다.미중 간의 AI 기술 패권 경쟁이 더욱 심화될 것으로 예상된다.",
+      "pub_date": "2026-07-17T16:53:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "메타, 사용자 반발 후 새로운 인공지능 이미지 기능 철회",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 출시한 새로운 인공지능(AI) 이미지 생성 기능이 사용자들의 거센 반발에 부딪혀 결국 철회되었다. 이는 AI 기술 도입 시 발생할 수 있는 윤리적, 사회적 문제에 대한 기업의 신중한 접근이 필요함을 보여준다. 메타는 향후 AI 서비스 개발 방향을 재검토할 것으로 예상된다.",
-      "pub_date": "2026-07-11T01:45:59+00:00"
+      "title": "틱톡, 아동 연령 확인 절차 관련 영국 방송통신위원회 조사 직면",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "틱톡이 아동 연령 확인 절차의 적절성 여부로 영국 방송통신위원회(Ofcom)의 조사를 받게 되었다.이는 아동 보호 및 온라인 플랫폼 규제에 대한 중요성을 강조한다.미성년자 사용자 안전에 대한 사회적 책임 요구가 커지고 있다.",
+      "pub_date": "2026-07-16T11:08:33+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "유치원생부터 인공지능을 배워야 할까?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUxRUS1YWGl6T2RvUzExeFBoS1M3Q3hmR1dZN0lsNndzc20wcnplUEFUWHlDbWNVbHpnR1V6VWgwY2JEcVpKaUgyTlExRlp2akxIRFhldk9JRGgwajZheFpNMG41amtHdHVYWVo5S1hRVU1OTmJnZ2hPa25vZHczUml4ZmlteFZjbjF5MjJ6ODFScDFpVThfdHZCWVREWndpOXZpOTI5OTdldmJxbzN0SDRqVWtTcWtsWndGUVZJZUJlZw?oc=5",
+      "summary": "유치원생부터 인공지능(AI) 교육을 시작해야 하는지에 대한 논의가 활발하다.찬성 측은 조기 교육이 미래 사회 적응력을 높인다고 주장한다.반대 측은 아동 발달 단계에 적합한 교육 방식에 대한 신중한 접근을 요구한다.",
+      "pub_date": "2026-07-21T12:12:50+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "Z세대 백만장자를 탄생시키는 '클리핑 경제'의 이면",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHdjcUozNkc5QzhGS21WWkZQU2pPTlRVZ2ZjN0RuaXl5NmdEclItTDNHM2Y4YmZjcnFmUDNzTDNGRGs1VlFvTjZfZm9odjJpa3p4aEZrVU1SN2h5WFF5cVQ2MUtqeHlpLTNUaVMwXy1NN1E0S2NkOVRQaTVCcUQ3OTdFeURKWG0zQi1NZko2UjllSUI2?oc=5",
+      "summary": "'클리핑 경제'가 Z세대 사이에서 새로운 부를 창출하며 백만장자를 만들고 있다.짧은 동영상 콘텐츠 편집 등으로 수익을 얻는 이 현상은 젊은 세대의 새로운 경제 활동 방식이다.디지털 미디어 환경 변화와 함께 나타난 독특한 경제 현상으로 주목받고 있다.",
+      "pub_date": "2026-07-21T09:00:08+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "미국, 사우디아라비아의 핵 농축 활동에 안전 조치 없이 승인",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmhCdXpGVC1fWE5VUXdhaExGY241VDYtWXRWVXVfLVJMWlVabFJNOWZ0eUVqWGNwQnFjTTVQMThfaURBQmRNR0tudmdlQWNHUFJ1REJnVGVUaWM3dVRSeG15N0FQYzA3N1A1ZEpub2JKOU9xeTRjRE9tWGZTSUV1X3dEeTFqYTVBU0l6bzNTcERvdTdjRWpPanR6OXQ2VFp1WFpNag?oc=5",
+      "summary": "미국이 사우디아라비아의 핵 농축 활동에 대해 별도의 안전 조치 없이 승인했다.이는 국제 핵 비확산 체제에 중대한 영향을 미칠 수 있는 결정이다.이란 언론은 이 소식을 보도하며 중동 정세의 변화를 주목했다.",
+      "pub_date": "2026-07-21T16:36:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "이란 전쟁 확대 속 또 다른 미군 사망자 발생",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-      "summary": "이란 전쟁이 확산되는 가운데 또 다른 미군 병사가 사망하는 사건이 발생했다. 이는 중동 지역의 긴장이 고조되고 있음을 보여주며 미국의 대응에 관심이 쏠린다. 미군의 추가 인명 피해는 전쟁의 심각성을 더욱 부각시키고 있다.",
-      "pub_date": "2026-07-20T20:36:28+00:00"
+      "title": "젤렌스키, 시위 이후 우크라이나군 최고 사령관 해임",
+      "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 대규모 시위가 벌어진 후 군 최고 사령관을 해임했다.이는 전시 상황에서 군 수뇌부의 중대한 변화를 의미한다.우크라이나 내부의 정치적 긴장이 고조되고 있음을 시사한다.",
+      "pub_date": "2026-07-21T21:39:09+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "하마스, 새로운 지도자로 칼릴 알-하이야 지명",
-      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
-      "summary": "팔레스타인 무장 정파 하마스가 새로운 지도자로 칼릴 알-하이야를 지명했다. 이는 하마스의 향후 전략과 중동 정세에 영향을 미칠 수 있는 중요한 변화이다. 알-하이야는 이스라엘과의 관계 등 여러 현안에 직면할 예정이다.",
-      "pub_date": "2026-07-20T17:22:44+00:00"
+      "title": "검찰, 영국 정치인 앤 위디콤이 망치로 살해당했다고 발표",
+      "link": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
+      "summary": "검찰은 영국 정치인 앤 위디콤이 망치에 맞아 살해되었다고 밝혔다.이 사건은 영국 사회에 큰 충격을 주고 있으며, 수사가 진행 중이다.고위 정치인 관련 살인 사건으로 사회적 관심이 집중되고 있다.",
+      "pub_date": "2026-07-21T16:00:47+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "젤렌스키, 우크라이나 최고 사령관 해임 압력 직면",
-      "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
-      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 군 최고 사령관 해임 압력에 직면했다. 이는 전쟁 중인 우크라이나 내부의 정치적 긴장을 반영한다. 군 지휘부 교체 가능성은 전황과 서방 지원에도 영향을 줄 수 있어 주목된다.",
-      "pub_date": "2026-07-20T18:55:43+00:00"
+      "title": "예멘 후티 반군, 미국-이란 전쟁에 개입 임박",
+      "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+      "summary": "예멘의 후티 반군이 미국-이란 분쟁에 직접 개입할 가능성이 높아지고 있다.이는 중동 지역의 지정학적 긴장을 최고조로 끌어올릴 수 있다.이 분쟁이 더 넓은 지역으로 확산될 위험이 커지고 있다.",
+      "pub_date": "2026-07-21T18:16:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "예멘 후티 반군, 사우디아라비아에 대한 홍해 봉쇄 선언",
-      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html",
-      "summary": "예멘의 후티 반군이 사우디아라비아를 겨냥해 홍해 봉쇄를 선언했다. 이는 국제 해상 운송에 심각한 차질을 초래할 수 있는 중요한 사건이다. 중동 지역의 불안정성이 심화되며 추가적인 군사적 충돌 가능성도 제기되고 있다.",
-      "pub_date": "2026-07-20T21:46:26+00:00"
+      "title": "필리핀, 중국 해경과의 충돌로 해군 병사 부상 발표",
+      "link": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html",
+      "summary": "필리핀이 남중국해에서 중국 해경과의 충돌로 해군 병사 한 명이 부상을 입었다고 발표했다.이는 남중국해 영유권 분쟁 지역에서의 긴장이 고조되고 있음을 보여준다.양국 간의 갈등이 군사적 충돌로 이어질 수 있다는 우려가 커지고 있다.",
+      "pub_date": "2026-07-21T10:25:33+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "인도 CJP당, 시험 유출 사태 후 의회에 항의 행진 주도",
-      "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html",
-      "summary": "인도 CJP당이 시험 문제 유출 사태에 항의하며 의회를 향한 대규모 행진을 주도했다. 이는 교육 시스템의 공정성에 대한 대중의 불만을 표출하는 움직임이다. 정부는 이번 사태 해결과 재발 방지를 위한 대책 마련에 나서야 할 상황이다.",
-      "pub_date": "2026-07-20T17:55:11+00:00"
+      "title": "니카라과 대통령 다니엘 오르테가, 선거 제도 폐지 계획 발표",
+      "link": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
+      "summary": "니카라과의 다니엘 오르테가 대통령이 선거 제도를 폐지할 계획이라고 밝혔다.이는 중미 지역의 민주주의에 대한 심각한 후퇴로 평가된다.국제 사회는 니카라과의 민주주의 위기에 대해 우려를 표명하고 있다.",
+      "pub_date": "2026-07-21T00:49:04+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국, 이란에 추가 공습 단행, 트럼프 병사 사망에 대한 보복 경고",
+      "title": "젤렌스키, 시위 발생 후 우크라이나군 최고 사령관 해임",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 연이은 시위 이후 군 최고 사령관을 해임했다.이는 전쟁 중 우크라이나 군 지도부의 중대한 변화를 의미한다.군 내부와 정치권의 긴장이 고조되고 있음을 시사한다.",
+      "pub_date": "2026-07-21T19:57:38+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "미국, 이란에 새로운 공습 단행…트럼프는 군인 사망에 대한 보복 경고",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "summary": "미국이 이란에 새로운 공습을 단행했으며, 트럼프 전 대통령은 미군 병사 사망에 대한 보복을 경고했다. 이는 중동 지역의 군사적 긴장을 최고조로 끌어올리고 있다. 국제 사회는 확전 가능성에 대해 깊은 우려를 표명하고 있다.",
-      "pub_date": "2026-07-20T21:09:31+00:00"
+      "summary": "미국이 이란에 대한 추가 공습을 단행했으며, 트럼프 전 대통령은 미군 사망에 대한 보복을 경고했다.이는 중동 지역의 군사적 긴장을 최고조로 끌어올리는 행위이다.양국 간의 직접적인 충돌 가능성이 더욱 높아지고 있다.",
+      "pub_date": "2026-07-21T16:10:56+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "예멘 후티 반군, 사우디아라비아에 대한 해상 봉쇄 발표",
+      "title": "가이아나 해안에서 페리 전복으로 최소 41명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "가이아나 해안에서 여객선이 전복되어 최소 41명이 사망하는 참사가 발생했다.구조 작업이 진행 중이지만 희생자 수가 더 늘어날 수 있다.사고 원인에 대한 조사가 시작되었으며, 국제 사회의 애도가 이어지고 있다.",
+      "pub_date": "2026-07-21T02:07:48+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "예멘 후티 반군, 사우디아라비아에 대한 '해상 봉쇄' 발표",
       "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "예멘의 후티 반군이 사우디아라비아를 상대로 해상 봉쇄를 선언했다. 이 조치는 홍해를 통한 주요 운송 경로에 영향을 미칠 것으로 예상된다. 국제 사회는 중동 지역의 안정성 저하에 대한 우려를 표하고 있다.",
+      "summary": "예멘의 후티 반군이 사우디아라비아에 대한 '해상 봉쇄'를 공식적으로 발표했다.이는 중동 지역의 물류 및 에너지 공급망에 심각한 영향을 미칠 수 있다.국제 해상 안보에 대한 중대한 위협으로 간주되고 있다.",
       "pub_date": "2026-07-20T21:30:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "하마스, 칼릴 알-하이야를 새로운 총 지도자로 선출",
-      "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "summary": "팔레스타인 무장 정파 하마스가 칼릴 알-하이야를 조직의 새로운 총 지도자로 선출했다. 이 인사는 하마스의 향후 대이스라엘 정책과 지역 내 역할에 영향을 줄 것으로 보인다. 알-하이야는 현재 하마스의 최고 협상가 중 한 명이다.",
-      "pub_date": "2026-07-20T14:02:31+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "러시아, 우크라이나 주요 도시에 대규모 탄도 미사일 공격 감행",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아가 우크라이나의 주요 도시들에 대규모 탄도 미사일 공격을 감행했다. 이는 민간 시설과 인프라에 심각한 피해를 입혔으며, 인명 피해도 발생했다. 우크라이나는 즉각적인 국제 사회의 개입과 추가적인 방공 시스템 지원을 촉구했다.",
-      "pub_date": "2026-07-19T18:25:40+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "인도 경찰, 의회로 향하는 수천 명의 시위대 저지",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "인도 경찰이 의회로 행진하려는 수천 명의 시위대를 저지하며 긴장이 고조되었다. 시위대는 정부 정책과 부패 문제에 항의하며 시위를 벌였다. 이번 충돌로 인해 인도 수도 델리는 혼란스러운 상황에 처했다.",
-      "pub_date": "2026-07-20T16:26:40+00:00"
+      "title": "악명 높은 마약 카르텔 두목 이스마엘 삼바다, 미국 감옥에서 종신형 선고",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "summary": "악명 높은 멕시코 마약 카르텔 두목 이스마엘 삼바다가 미국 법원에서 종신형을 선고받았다.그는 수십 년간 마약 밀매 조직을 이끌어온 거물급 범죄자이다.이번 판결은 국제적인 마약 범죄 조직에 대한 강력한 경고 메시지로 평가된다.",
+      "pub_date": "2026-07-20T21:03:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스페인, 두 번째 월드컵 우승 후 귀국",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEJQdU1aM3k5Qnc2MDVZemZnUkdJcGhMM195SWFKbXlub0dGblU3a05QYVFQOVdzUzdKRGZXYmhkdlVneGZwc2FaY3d1OTVXNFFZdWdEaTdVajFES0xrMUZsNHBNMVVRYjN2WUNJVzZMc1NJN0dSSXRTbHpLTjBNazdkN3VnMU51ZFNiQXltUEZPaDBEYk93SVMxbmpnTVBwT0JnY0FxRl9taXVra1l6OFVPR3I?oc=5",
-      "summary": "스페인 축구 대표팀이 두 번째 월드컵 우승을 차지한 후 고국으로 돌아왔다. 수많은 팬들이 공항과 거리로 나와 선수단을 열렬히 환영했다. 이번 우승은 스페인 국민들에게 큰 기쁨과 자부심을 안겨주었다.",
-      "pub_date": "2026-07-20T16:17:18+00:00"
+      "title": "프랑스, 유럽연합 최초로 15세 미만 아동의 소셜 미디어 금지",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWp0eXNoTzZjb0w5bjd0aHd2dVl6LVhOZkFmeWNKSU03SzBUNEl6Vmk4U0x0YVdWYnpXanVVbW8xSl9MdjJsV2ppOUtqLTVWZy1qUmZBa29EZzhGc2Rod1JreDI5U3V3STNuWTdaOHhTUDRqQUt3Ry10aTM3Rjd1RnctN3d6aERVeEJoZXhZdzMwb1ZwRUZVYTVyRXN6cWhlZVBiMmFNNUNtVkVkdWdKMw?oc=5",
+      "summary": "프랑스가 유럽연합 국가 중 최초로 15세 미만 아동의 소셜 미디어 사용을 금지했다.이는 디지털 환경에서 아동 보호를 위한 강력한 정부 정책이다.전 세계적으로 아동의 소셜 미디어 사용 연령 제한에 대한 논의가 확산될 것으로 예상된다.",
+      "pub_date": "2026-07-21T18:58:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스페인, 월드컵 챔피언 등극",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3JmU0Q2STM2dVhIREZJc3hqYjh4UEVPaXFEcklJYXlBSXJNX1dxeS1Fa1AwelNjSmhFZ2NJb1BoZUN6b1UxLV8wQ1FWd3JxemJsa08yek92VDNuUmN4eE1oOUV0cl9SdHY3NGtoX0ZlQmdDM2hrS3YtTlE2TF8zTlIzVER1VktzTVllaFkyVHdtWE5CbVByTWVBUTJ5RDVvNTFGWkp6SQ?oc=5",
-      "summary": "스페인이 월드컵 결승전에서 승리하며 마침내 챔피언의 자리에 올랐다. 이로써 스페인 축구는 세계 최정상임을 다시 한번 입증했다. 전 세계 축구 팬들이 스페인의 우승을 축하하며 환호하고 있다.",
-      "pub_date": "2026-07-20T09:14:16+00:00"
+      "title": "영국, 테이트 형제에 대한 강간 혐의 추가 문서 공개",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS2ZLUDljQUpLQlVubTZ1UC1jYVN0bGpsVzRQQWxsN2lJX2lRZ0I5LWM2VjlfekM0MjFZVUxkV2g0TG5XZTNyUzFEVVJRSEF3RmhPVU1GRVRVVVRzT01oN0IxdTBpTGNaZDhfR0t4eTNCcm5YemVRSGJSdVhIZm5wY2RPTS1QQXdPTkFYZ1ZmRUF2YlJLeVJFbEs0TUxoUHVlb0Y0cncyUXVHVTZGaDJ4TFNXWXE0bWsta3RxT29GMmlRMWRJb0I3c3ZhS09uMnhPNGlHbkRET2U?oc=5",
+      "summary": "영국에서 테이트 형제에 대한 강간 혐의와 관련된 새로운 문서가 공개되었다.이는 국제적으로 주목받는 이들의 법적 문제에 새로운 국면을 가져왔다.수사 및 법적 절차에 중대한 영향을 미칠 것으로 보인다.",
+      "pub_date": "2026-07-21T15:08:33+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스페인, 연장전 페란 토레스 결승골로 아르헨티나 1대0 꺾고 월드컵 우승",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTAtRUxWQjVYUGczOWVjT1I4NS1kSzlfeWQyckJqUm9heVJPd2NWTGZxLS1TWllUczBDZzd2dlhHMjIzcG1HYU5NRXIySWlXV3labkxPajVCcVN6ZVlEUXcwMDNZWnRoMGdEMWNoRTNRblFRMldrMF80TEVYTlVpUzJDb1dBMnZLem4xMlVpVVZQNkNDckxkWGRyQ081VlhmXzhDYjRab0lOVlHSAb8BQVVfeXFMUHRmR01UT1oxQXJSOTFseldLeFZic2U1T1F3QmFDX25mR3hXZjhKTWs4SDQzOVNudGR6eFVzdi12YUF2Ql9YNDd5X0tRYjBwRWtIeEFhOUVSVDQwdFVRTFdmQlRUVjNBaGQtSzBKNUt6SnNEaDJFaG11WjZ3UjBDQ3hBc2ZyRHZybUhFdGlFaWRFeUFKWjJSbUdWVWlPSVpBNzEzZk9aNWxzdzhJbm44RFZYM05sNXBIZ1B1Sm9DeXc?oc=5",
-      "summary": "스페인이 월드컵 결승전에서 연장전 끝에 페란 토레스의 결승골로 아르헨티나를 1대0으로 제압하고 우승을 차지했다. 양 팀은 정규 시간 동안 치열한 접전을 펼쳤으나 득점 없이 비겼다. 연장전에서 터진 극적인 골이 스페인에 승리를 안겨주었다.",
-      "pub_date": "2026-07-19T22:07:00+00:00"
+      "title": "이란 전쟁으로 두 번째 핵심 수로 위협받아",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnhzcjJqdjBya25WRVhqdzlqQ01yOFhOTE1rcEhpZVBuS2lSa1piWndONGM1Q2kzdG82WlRYNmYxTXZaLXdfSWpGc3U5dTJMbjNDWGFiVEYtSXZUSGtuTTJFN044NER4T2d5QjcyTWVHTzdxOVpkYkhqSl9QcGliMnRtbHluV0FBZG8zVk9iUi1CSG4tNXIzcW5iZ1hTQ25OdWotSkdvUjdQdDhJRjBEQlA0aVNKc3pONXEzSzFR?oc=5",
+      "summary": "이란과의 전쟁으로 인해 호르무즈 해협 외에 두 번째 핵심 해상 수로가 위협을 받고 있다.이는 글로벌 해상 무역 및 에너지 공급망에 심각한 차질을 초래할 수 있다.중동 지역의 군사적 긴장이 국제 경제에 미치는 영향이 확대될 우려가 있다.",
+      "pub_date": "2026-07-21T10:29:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "스페인, 연장전 페란 토레스의 골로 아르헨티나에 1대0 승리하며 월드컵 우승",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGJsLUQ5bUpKX3Z1QmE0clRxTzNxRmsydEZXeWQxZmZYdlJNWXRneEZDMHdmZVRKWWVhQXFxeEoxdE5fMy1JcTZ2UEs3ZmQtNGxwUlRweGhPRVo0WFF3UmtrRUR6Z2Zjd3BoNlp3ZTU2Vk9JNTBsV2pYekVfLU5qbkRwaXF6cGlXSHZkVVBheDNKcXNjbmxxclVKTjZzZ19nVEU0U25tZmRxT2VfdmZlc0JDRVQxa3E1N2xZZWViYW3SAcABQVVfeXFMTnRibC1EOW1KSl92dUJhNHJUcU8zcUZrMnRGV3lkMWZmWHZSTVl0Z3hGQzB3ZmVUSlllYUFxcXhKMXROXzMtSXE2dlBLN2ZkLTRscFJUcHhoT0VaNFhRd1Jra0VEemdmY3dwaDZad2U1NlZPSTUwbFdqWHpFXy1Oam5EcGlxenBpV0h2ZFVQYXgzSnFzY25scXJVSk42c2dfZ1RFNFNubWZkcU9lX3ZmZXNCQ0VUMWtxNTdsWWVlYmFt?oc=5",
-      "summary": "스페인이 월드컵 결승전에서 아르헨티나를 상대로 연장전까지 가는 접전 끝에 1대0으로 승리했다. 페란 토레스 선수의 귀중한 결승골이 스페인을 우승으로 이끌었다. 이번 승리로 스페인은 전 세계 축구 팬들에게 깊은 인상을 남겼다.",
-      "pub_date": "2026-07-19T22:07:00+00:00"
+      "title": "미국, 이란 공습 단행…트럼프는 사망한 군인에 대한 보복 예고",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUIxQlp5ZS13NXVuaVRfZktfdFFlX2RFZnA1UEN5X1RxZlAxQ09nVDQ0Rkx5MERVQ29EaFFGdHl6MWs0Z2NJQUVsZkdwcUZsMXcwdTRNZy1wcmNmd2FLQlNyeEt5djB4V2RzOWJ2TjZzRHYzbnVtS2RrcW1xUl85VndOVXJSSmtmMFVNN0VYeFZDODUtNTMwWG9IMUpudy0zN2VfVVp3?oc=5",
+      "summary": "미국이 이란에 대한 공습을 실시했고, 트럼프 전 대통령은 사망한 미군에 대한 보복을 약속했다.이는 중동 지역의 군사적 긴장을 최고조로 끌어올리는 중대한 조치이다.양국 간의 직접적인 충돌 위험이 심각하게 고조되고 있다.",
+      "pub_date": "2026-07-20T22:35:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "팬들, 스페인의 월드컵 우승에 열광적인 반응 보여",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNW40LVEwTGNWOGVlNVVyOFg5S1cxUVdJOGVkbGNNUFN3SnFLbV9NdVJOb0Zycmo3LVlsa2VzQ0JDVlh3UzNOQVJCMENkMGFtd0ZPMF9MVlFtejFqMVlzUi1RbXFwV1FPZnNmRFFrZzNOUWlkU2xiS3kxZDZHdjEyTU00NVFld2xDQm5ncDNvc1JhWmltX1E?oc=5",
-      "summary": "스페인의 월드컵 우승 소식에 전 세계 축구 팬들이 열광적인 반응을 보였다. 특히 스페인 현지에서는 밤새 축제가 이어지며 기쁨을 만끽했다. 이번 우승은 팬들에게 잊지 못할 감동과 추억을 선사했다.",
-      "pub_date": "2026-07-20T00:50:52+00:00"
+      "title": "미국, 브라질에 25%의 새로운 관세 부과 발표",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejJUSWlIbi1DZ0wyRmVvWUhkU2NTd25ZOFNpY1lkUXB0VjQ3VkEtXzJiOTZOeHlxdnB5MjhQQnp2eXNfRWFQYk9LLUZZVjY5LXN2ZnJ1RE1Fa1BfUjdYbkN4ZV80dEpyZUJmZFJfeWhHZ1AxaUdNaWxTMmtSend6OVpGckxVck5MVkw5NFFFaGhZQQ?oc=5",
+      "summary": "미국이 브라질산 수입품에 25%의 새로운 관세를 부과할 것이라고 발표했다.이는 양국 간의 무역 관계에 상당한 긴장을 유발할 것으로 보인다.글로벌 무역 정책의 변화와 함께 남미 경제에 미칠 영향이 주목된다.",
+      "pub_date": "2026-07-20T22:11:00+00:00"
     }
   ]
 }
