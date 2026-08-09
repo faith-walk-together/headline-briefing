@@ -1,356 +1,348 @@
 {
-  "last_updated": "2026-08-08T21:27:56.459913+00:00",
+  "last_updated": "2026-08-09T21:30:04.679534+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "이 대통령, 개인종합자산관리계좌 및 주가 억제 개편안 질타…전면 재검토",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696221&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "대통령이 개인종합자산관리계좌(ISA) 및 주가 억제 방지법 개편안을 강하게 질타하며 전면 재검토를 지시했다. 이 조치는 서민과 청년의 자산 형성을 돕기 위한 정책의 본질을 훼손한다는 우려 때문이다. 이에 따라 관련 법안의 수정 또는 철회가 예상된다.",
-      "pub_date": "2026-08-08T14:03:00+00:00"
+      "title": "선관위, 지선·대선·총선서 117건의 투표자 수 미리 입력 의혹",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008697166&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "선거관리위원회가 지방선거, 대통령 선거, 총선 등 3개 선거에서 총 117건의 투표자 수를 미리 입력한 정황이 포착되었습니다. 이는 '미래에서 투표자 수를 예측해 입력한 것'이라는 강한 의혹을 낳고 있으며, 선거 조작 논란으로 확대될 가능성이 있습니다. 현재 국회는 선관위 국정조사 특별위원회를 한 달 연장하고 오늘 3차 청문회를 실시하며 진실 규명에 박차를 가하고 있습니다.",
+      "pub_date": "2026-08-09T21:23:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "김민석, 민주당 전당대회 제주·인천 당원 투표서 승리",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696246&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "김민석 후보가 민주당 전당대회 제주 및 인천 지역 당원 투표에서 승리했다. 이는 정청래 후보와의 치열한 2차전 결과로, 당 대표 경선의 판세에 큰 영향을 미칠 전망이다. 최종 당 대표 선출까지 남은 경선 지역 결과에 귀추가 주목된다.",
-      "pub_date": "2026-08-08T11:31:00+00:00"
+      "title": "대통령, 'ISA·주가누르기 방지법' 개편안 강력 질타 및 전면 재검토 지시",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696221&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "대통령이 최근 발표된 ISA 개편안 및 주가 누르기 방지법에 대해 강력하게 질타하며 전면 재검토를 지시했습니다. 대통령은 관련 정책이 국민에게 불이익을 줄 수 있다는 점을 지적하며, '왜 그렇게 했느냐'고 강하게 추궁한 것으로 알려졌습니다. 이로 인해 해당 정책들의 추진 방향에 큰 변화가 있을 것으로 예상됩니다.",
+      "pub_date": "2026-08-08T14:03:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "상원, 블랑쉬 인준으로 트럼프 영향력 아래 법무부 승인",
-      "link": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
-      "summary": "상원에서 토드 블랑쉬의 법무부 장관 인준이 확정되면서, 도널드 트럼프 전 대통령의 영향력 아래에 있는 법무부를 사실상 승인했다는 평가가 나온다. 이는 향후 법무부의 방향성과 정치적 중립성에 대한 우려를 증폭시키고 있다. 트럼프 전 대통령의 사법 개입 가능성에 대한 논란이 재점화될 것으로 보인다.",
-      "pub_date": "2026-08-08T16:28:57+00:00"
+      "title": "상원, 임시 예산안 통과시켜 정부 셧다운 위기 모면",
+      "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html",
+      "summary": "미국 상원이 정부 셧다운(부분 업무 정지)을 피하기 위한 임시 예산안을 통과시켰습니다. 이로써 다가오는 중간선거를 앞두고 발생할 수 있었던 정치적 혼란을 일단락지었습니다. 해당 법안은 정부 운영에 필요한 자금을 단기적으로 확보하는 내용을 담고 있습니다.",
+      "pub_date": "2026-08-08T08:04:22+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "미국, 이란에서 무기 빠르게 소진…러시아와 중국이 주시",
+      "title": "미국, 이란과의 갈등으로 무기 소모 급증…러시아와 중국 예의주시",
       "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-      "summary": "미국이 이란과의 분쟁에서 무기를 빠르게 소모하고 있으며, 이에 러시아와 중국이 주목하고 있다는 보고가 나왔다. 이는 미국의 군사 자원 고갈 가능성과 지정학적 경쟁 구도에 미칠 영향을 시사한다. 중동 지역의 긴장 상태가 지속될 경우 국제 안보에 중대한 변화를 초래할 수 있다.",
+      "summary": "미국이 이란 관련 작전에서 무기 재고를 빠르게 소모하고 있어 우려를 낳고 있습니다. 이에 러시아와 중국이 미국의 군사력 동향을 면밀히 주시하고 있는 것으로 알려졌습니다. 이는 중동 지역의 긴장 고조와 맞물려 국제 안보 상황에 복합적인 영향을 미칠 수 있습니다.",
       "pub_date": "2026-08-08T19:56:38+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "상원, 정부 셧다운 방지 임시 법안 통과…중간선거 전 충돌 회피",
-      "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html",
-      "summary": "미국 상원이 연방정부의 셧다운을 피하기 위한 임시 예산안을 통과시켰다. 이로써 중간선거를 앞두고 발생할 수 있었던 정치적 혼란을 일시적으로 막게 되었다. 그러나 장기적인 예산 합의 없이는 언제든 셧다운 위협이 재발할 수 있다는 지적이다.",
-      "pub_date": "2026-08-08T08:04:22+00:00"
+      "title": "트럼프 관련 암호화폐, 수상한 사업가로부터 1억 달러 유치",
+      "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
+      "summary": "도널드 트럼프 전 대통령과 연관된 암호화폐 사업이 '의심스러운 정황'이 있는 사업가로부터 1억 달러를 유치한 것으로 드러났습니다. 이는 트럼프의 재정 활동과 관련된 논란을 다시 불러일으키고 있습니다. 자금의 출처 및 사용처에 대한 투명성 문제가 제기되고 있습니다.",
+      "pub_date": "2026-08-09T12:58:12+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여당 제주·인천 당 대표 경선에서 김민석 승리",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260808192025Tvh",
-      "summary": "김민석 후보가 국민의힘(여당) 당 대표 경선 제주 및 인천 지역 당원 투표에서 승리했다. 이는 당내 리더십 경쟁에서 중요한 전환점이 될 것으로 보인다. 최종 당 대표 선출을 향한 남은 경선 결과에 관심이 집중되고 있다.",
-      "pub_date": "2026-08-08T10:20:26+00:00"
+      "title": "국민의힘 주진우 의원, '선관위 투표자 수 미리 입력은 타임머신 조작'",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809194551zkR",
+      "summary": "국민의힘 주진우 의원이 선거관리위원회가 투표자 수를 미리 입력한 것에 대해 '타임머신 조작'이라고 강하게 비판했습니다. 이는 선거 조작 의혹을 제기하며 선관위의 신뢰도에 대한 논란을 증폭시키고 있습니다. 정치권에서는 이 문제에 대한 진상 규명 요구가 거세지고 있습니다.",
+      "pub_date": "2026-08-09T10:45:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김민석, 제주·인천 승리로 재역전…격차는 '초박빙'",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260809010552UDA",
-      "summary": "김민석 후보가 제주와 인천 경선 승리를 통해 당 대표 경선 판세에서 정청래 후보를 재역전했다. 현재 누적 득표율은 초박빙 양상으로, 당내 경쟁이 더욱 치열해질 전망이다. 이번 결과는 향후 전당대회에 큰 영향을 미칠 것으로 분석된다.",
-      "pub_date": "2026-08-08T16:05:53+00:00"
+      "title": "한 총리, 인천 모터보트 실종 사건에 '인명구조 최우선' 긴급 지시",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608100607464XC",
+      "summary": "한덕수 국무총리가 인천 모터보트 실종 사건과 관련하여 '인명구조 최우선'을 원칙으로 하는 긴급 지시를 내렸습니다. 총리는 해양경찰청 등 관계 당국에 가용 자원을 총동원하여 실종자 수색 및 구조에 만전을 기할 것을 주문했습니다. 이로써 국가적 차원의 인명구조 노력이 집중될 예정입니다.",
+      "pub_date": "2026-08-09T21:07:47+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "수감자 조기 석방 논란, 번햄 총리의 첫 시험대로 부상",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "수감자 조기 석방 논란이 앤디 번햄 총리의 첫 번째 큰 시험대가 되고 있다. 이 문제에 대한 정부의 대처 방식은 그의 리더십과 향후 정치적 입지에 중대한 영향을 미칠 것이다. 대중과 정치권 모두 그의 결정을 예의주시하고 있다.",
-      "pub_date": "2026-08-07T15:18:00+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "BBC",
-      "title": "보수당, 외국인 사회 주택 거주 금지 공약 발표",
+      "title": "영국 보수당, 외국인 사회 주택 거주 금지 공약 발표",
       "link": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "보수당이 외국인들의 공공 주택 입주를 금지하겠다는 공약을 발표했다. 이 공약은 이민 문제와 주택 부족 문제를 해결하려는 의도로 보이지만, 인권 단체와 야당의 강한 비판에 직면할 가능성이 높다. 사회 통합과 차별에 대한 논란이 예상된다.",
+      "summary": "영국 보수당이 외국인의 사회 주택 거주를 금지하겠다는 정책 공약을 발표했습니다. 이는 이민 문제와 주택난 해소를 겨냥한 것으로 보이며, 다가오는 선거에서 주요 쟁점이 될 것으로 예상됩니다. 해당 공약은 사회 내 이민자들에 대한 논쟁을 심화시킬 가능성이 있습니다.",
       "pub_date": "2026-08-07T07:43:31+00:00"
     },
     {
       "category": "정치",
+      "outlet": "BBC",
+      "title": "번햄, 아동 그루밍 범죄자 조기 석방에 대한 재검토 명령",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "맨체스터 시장 앤디 번햄이 아동 그루밍 범죄자들의 조기 석방 결정에 대한 즉각적인 재검토를 지시했습니다. 이는 공공의 안전과 정의에 대한 우려를 반영하는 중요한 조치로 평가됩니다. 번햄에게는 이 문제가 그의 정치적 리더십을 시험하는 첫 번째 주요 과제가 될 것으로 보입니다.",
+      "pub_date": "2026-08-06T13:56:53+00:00"
+    },
+    {
+      "category": "정치",
       "outlet": "조선일보",
-      "title": "이 대통령, 개인종합자산관리계좌 및 주가 억제 방지법 재검토 지시…여당 환영·야당 졸속 비판",
-      "link": "https://www.chosun.com/politics/assembly/2026/08/08/ER5BJKEI6BF6DEACPYGCVRBSBM/",
-      "summary": "이 대통령이 개인종합자산관리계좌(ISA) 및 주가 억제 방지법 개편안에 대해 전면 재검토를 지시했다. 이에 여당은 환영의 입장을 표명한 반면, 야당은 졸속 행정이라며 비판했다. 이번 지시는 청년층의 거센 반발과 관련한 것으로, 향후 금융 정책에 큰 변화를 가져올 전망이다.",
-      "pub_date": "2026-08-08T03:18:47+00:00"
+      "title": "선거관리위원회, '오후 1시 투표율을 오전 11시에 입력'…조작 의혹 증폭",
+      "link": "https://www.chosun.com/politics/assembly/2026/08/11/HAVANEEXBBCZLP3D726YXATGNM/",
+      "summary": "선거관리위원회가 오후 1시 투표율을 오전 11시에 미리 입력한 사실이 드러나면서 조작 의혹이 더욱 커지고 있습니다. 이는 선관위의 데이터 관리 부실을 넘어선 계획적인 부정 행위일 수 있다는 비판을 받고 있습니다. 정치권은 이번 사태의 심각성을 인지하고 철저한 진상 규명을 촉구하고 있습니다.",
+      "pub_date": "2026-08-09T15:49:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "미 상원, 토드 블랑쉬 법무부 장관 인준",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0RYd0dxWUJ6NVJBUDRaUDFkcW1IV1dKY09BVWlTT0EzQXFuV2VXZkZuVnpBaDBhNmdXNDl1MWtBbHFfVkhsaXhKaDYwZXExOXFESThIZ19waHJ3cEpQUlh6eFpkNDJzR2NNemdtOFJoTXIyQTVXMDVRMEVDRDM3cHpPSlhNZElDSEh1eG9CNnQ3UjdLUTNzRGJLaHlOMXRlNVRr?oc=5",
-      "summary": "미국 상원이 토드 블랑쉬를 법무부 장관으로 인준했다. 이는 트럼프 전 대통령과의 연관성으로 인해 많은 논란이 있었던 인물로, 향후 법무부의 독립성과 정치적 중립성에 대한 우려가 커지고 있다. 블랑쉬 장관 체제에서 법무부의 운영 방향에 관심이 쏠리고 있다.",
-      "pub_date": "2026-08-08T14:21:21+00:00"
+      "title": "트럼프 최고 사령관, 이란 전쟁 '출구 전략' 모색 중",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2Y2OHkzWUNRVzBramctOU9qY2V0QkdWa3Q5Wm9Db05sMEFwS0NiQmloTi1QZjl6bXlyalFLdVhHNnRwMkE0Z1pMVTctQzRpZWZwOXJkM3JNUGU0anI0Z2x4SGFpc2ljQnI0c0tBNUxXMU0zU3IwbEg2UGY1eTREQzRfOEUzbkZ4aUV2aUNCMldBTkxRZGRpdjYzNzRKRzFX?oc=5",
+      "summary": "트럼프 행정부의 최고 사령관이 이란과의 전쟁에서 '출구 전략'을 찾고 있는 것으로 알려졌습니다. 이는 미국이 이란과의 군사적 대결에서 제한적인 선택지에 직면해 있음을 시사합니다. 중동 지역의 긴장 완화를 위한 미국의 고민이 깊어지고 있는 상황입니다.",
+      "pub_date": "2026-08-09T02:14:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프 최고위 장성, 이란 전쟁 출구 전략 모색…미군 선택지 제한적",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJydUExaTBnUDVITW9LOE1mUjBJN1ppaVp4SFo2LXZTLVFOeWpsTmZKelJjZUJPTl9ua1JhaDJUZ0hwNUZPT0hUT2Ric3lzWE41TzI2aGFCUldzbnNCejV3NEVKc3NKeXU5eGJpdXFsTGtaRThuQzdRZUEtMTRsWQ?oc=5",
-      "summary": "소식통에 따르면 트럼프 행정부의 최고위 장성이 이란 전쟁에서 '출구 전략'을 모색하고 있으며, 미국의 군사적 선택지가 제한적이라는 분석이 나왔다. 이는 중동 지역에서의 갈등 지속 가능성과 미국의 대이란 정책 변화에 대한 논의를 촉발할 것으로 예상된다. 군사 개입의 한계가 드러나고 있다는 해석이다.",
-      "pub_date": "2026-08-07T21:27:04+00:00"
+      "title": "이스라엘, 트럼프의 최신 가자 평화안 거부",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkswSWtKVWZRczhIMlNMX0U1cEdmcV80TUVWNGpaVUhPNHdwR21CYUQzOVFjZnctY0dzd3BxcWN5aFBraWpLOVh5VUo3QXN2d0FDZlluaElRZ0xEb1lqUlJYdGE5NmpLNEZWUm5Uc3B1M2laTHBOUXozMlUzZHJyOUxvdGhYYzMwUGJOWUhtRG5PQ3hJWi1sR1BNOVU?oc=5",
+      "summary": "이스라엘이 도널드 트럼프 전 대통령이 제안한 최신 가자지구 평화안을 거부했습니다. 이는 중동 평화 협상에 또 다른 걸림돌이 될 것으로 보입니다. 가자지구의 불안정한 상황이 지속될 가능성이 커졌습니다.",
+      "pub_date": "2026-08-09T19:30:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "상원, 정부 셧다운 방지 예산안 통과…중간선거 전 혼란 회피",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZ1l4eGVrb2tLbzNXeW5TY0cxaFVJSkJSaDlZcEMwN1g3VFRWYWhiT0tTdnZPMWZPV19QZHFEdk9pazVMcUNJNlh1Mmg4SEJQeElNSS1XTzdzQUgyVVRMaDR4eVdMYmZENmJsVHZUdVJ2WE95MlY5dkxObmxwUDg?oc=5",
-      "summary": "미국 상원이 중간선거를 앞두고 연방정부 셧다운을 막기 위한 예산안을 통과시켰다. 이 법안은 정부 운영에 필요한 자금을 일시적으로 제공하며, 주요 선거를 앞둔 정치적 혼란을 피하려는 목적이다. 그러나 근본적인 예산 합의 없이는 셧다운 위험이 언제든 다시 불거질 수 있다.",
-      "pub_date": "2026-08-08T09:27:25+00:00"
+      "title": "오바마와 압둘 엘-사예드, 미시간 상원 경선 후 민주당 단합 논의",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ2h1NXl5cEc4U3RKYmlhZ2FKTVFsRmt1V2dYY1ljcUhOSnczWldCUGY2REZMdHJ3Wi1uNGM0QW5KRDEtdXB4Q2pndXUxd3B6UTVVVlZfaDRKeXFpNkVUT0FKNC1qakRUTWF5SHA2MGdYMmxXS1ZpcEozWDRla3BTUGU2T0ZJeGpXOGNreHR2TQ?oc=5",
+      "summary": "버락 오바마 전 대통령과 압둘 엘-사예드가 미시간 상원 예비선거 이후 민주당의 단합을 논의하기 위해 회동했습니다. 이들의 대화는 '매우 따뜻했다'고 전해졌으며, 민주당은 치열했던 경선 이후 내부 결속을 다지는 데 주력하고 있습니다. 이는 다가오는 중요한 선거들을 앞두고 당의 힘을 모으려는 노력의 일환입니다.",
+      "pub_date": "2026-08-09T21:17:50+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미약한 고용 보고서에도 금리 인상 가능성 여전",
+      "title": "부진한 고용 보고서에도 금리 인상 가능성 여전, 노동 시장 역전 신호",
       "link": "https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html",
-      "summary": "예상보다 약한 고용 보고서에도 불구하고 금리 인상 가능성이 여전히 남아있다는 분석이 나왔다. 이는 연방준비제도(Fed)가 인플레이션 억제를 위해 긴축 기조를 유지할 수 있음을 시사한다. 투자자들은 향후 Fed의 발표에 촉각을 곤두세우고 있다.",
+      "summary": "최근 발표된 고용 보고서가 예상보다 부진했음에도 불구하고, 여전히 금리 인상 가능성이 남아있다는 분석이 나왔습니다. 기업들이 고용을 꺼리면서 노동 시장이 역전되는 현상이 나타나고 있습니다. 이는 인플레이션 압력과 경기 침체 우려가 공존하는 복잡한 경제 상황을 반영합니다.",
       "pub_date": "2026-08-07T14:24:49+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "중국의 수출 호황, 무역 갈등에도 지속",
-      "link": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html",
-      "summary": "무역 갈등에도 불구하고 중국의 수출 호황이 지속되고 있다. 이는 글로벌 공급망의 복원력과 중국 경제의 강력한 회복세를 보여준다. 서방 국가들의 견제에도 불구하고 중국의 경제적 영향력은 더욱 확대될 것으로 예상된다.",
-      "pub_date": "2026-08-07T07:20:24+00:00"
+      "title": "트럼프, 현 연방준비제도 이사 해고 시도 재개",
+      "link": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
+      "summary": "도널드 트럼프 전 대통령이 현 연방준비제도(Fed) 이사인 리사 쿡을 해고하려는 시도를 다시 시작했습니다. 이는 연준의 독립성을 침해하려는 움직임으로 해석될 수 있어 큰 파장을 낳을 전망입니다. 이 같은 시도가 연준의 통화 정책 결정에 어떤 영향을 미칠지 주목됩니다.",
+      "pub_date": "2026-08-07T18:54:45+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "가뭄, 유럽 핵심 경제 동맥 위협",
+      "title": "유럽 심장부의 핵심 경제 동맥, 가뭄으로 위협받아",
       "link": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
-      "summary": "유럽을 강타한 가뭄이 핵심 경제 동맥인 주요 강들의 운송을 위협하고 있다. 수위가 낮아지면서 운송 비용이 증가하고 공급망에 차질이 발생해 경제 전반에 악영향을 미칠 우려가 커지고 있다. 기후 변화가 경제에 미치는 심각성을 보여주는 사례다.",
+      "summary": "유럽 중심부를 관통하는 중요한 경제 동맥이 심각한 가뭄으로 인해 위협받고 있습니다. 이는 물류 및 운송에 차질을 빚어 유럽 경제 전반에 부정적인 영향을 미칠 수 있습니다. 기후 변화가 핵심 인프라에 미치는 영향에 대한 우려가 커지고 있습니다.",
       "pub_date": "2026-08-06T16:32:53+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "지난달 미국 일자리 예상 밖 감소…느린 여름 지속",
+      "title": "지난달 미국 일자리 예상 밖 감소, 여름철 둔화 지속",
       "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-      "summary": "지난달 미국 일자리가 예상외로 감소하여 여름철 경제 둔화가 지속되고 있음을 보여주었다. 이는 연방준비제도(Fed)의 금리 인상 정책에 영향을 미칠 수 있으며, 경기 침체에 대한 우려를 증폭시키고 있다. 고용 시장의 약세는 소비 심리에도 부정적인 영향을 미칠 전망이다.",
+      "summary": "지난달 미국의 일자리가 예상과 달리 감소한 것으로 나타나, 여름철 고용 시장의 둔화가 지속되고 있음을 보여줍니다. 이는 미국 경제의 전반적인 성장 모멘텀에 대한 우려를 증폭시키고 있습니다. 연방준비제도(Fed)의 향후 통화 정책 결정에도 영향을 미칠 수 있는 중요한 지표입니다.",
       "pub_date": "2026-08-07T14:03:55+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "트럼프, 중국 견제 위해 핵심 반도체 소재에 15% 관세 부과",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "summary": "트럼프 행정부가 중국을 견제하기 위해 핵심 반도체 소재에 15%의 관세를 부과했다. 이는 미중 무역 갈등을 심화시키고 글로벌 반도체 공급망에 큰 영향을 미칠 것으로 예상된다. 첨단 기술 경쟁에서 우위를 점하려는 미국의 의지가 반영된 조치로 풀이된다.",
-      "pub_date": "2026-08-07T01:03:35+00:00"
+      "title": "메타, 아동 안전 관련 최대 규모 벌금 5억 6천7백만 달러 부과",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "summary": "메타(Meta)가 아동 안전 규정 위반으로 5억 6천7백만 달러에 달하는 대규모 벌금을 부과받았습니다. 이는 소셜 미디어 거대 기업에 대한 아동 안전 관련 판결 중 역대 최대 규모입니다. 이번 판결은 기술 기업들의 아동 보호 책임에 대한 경종을 울리는 중요한 사례가 될 것입니다.",
+      "pub_date": "2026-08-07T09:22:03+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프 이민 단속 혼란에 산업계 우려 표명",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlMya1BoaDhnN0w4ZExrZnlNWnBQSFBzZGVuYUZ5N0N4LW5YUV9aUjlrRjFTajJGeUpveWo2b0pIT2RLTE9vZk0xakE2bmJOX1dOZ1luN3VCU2FjVV9VazlFZ3cxd0Fvb2JacjhrLUVZb29mS2xfbDUwWk0zdmdHcUNZeEhnbV9UZDcwcXZfTkpaWlh4SWc?oc=5",
-      "summary": "트럼프 행정부의 강도 높은 이민 단속으로 인해 산업계가 큰 우려를 표명하고 있다. 노동력 부족과 불확실성 증가로 인해 기업 운영에 차질이 발생할 수 있다는 지적이다. 이민 정책이 경제 전반에 미치는 영향에 대한 논의가 확대될 전망이다.",
-      "pub_date": "2026-08-08T10:30:31+00:00"
+      "title": "하셋 고문, '암울한 고용 보고서에도 경제 호황' 발언 후 테퍼와 공방",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnZFa2VmQjdUQjRCeGRPbmJKSEQ2LTN6SDlic2p4WFlLUmVOaEdzd3RuOXZXb3YxNXBVbWdxNHNKOUhqdHBuTXZiNFJ0MDVDYXVQR24zWGxZWW03dE50Z0x6RXc0SmhGZnZHWFUtZ0szcTJCMFF4UHVya2VwMTc3emlR?oc=5",
+      "summary": "트럼프 행정부의 경제 고문 케빈 하셋이 '암울한 고용 보고서에도 전반적인 경제는 매우 호황'이라고 주장했습니다. 이에 대해 CNN의 제이크 태퍼는 해당 발언의 현실성을 두고 하셋 고문과 대립했습니다. 이는 현재 미국 경제 상황에 대한 상반된 해석과 정치적 논쟁을 반영하고 있습니다.",
+      "pub_date": "2026-08-09T14:26:02+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "미국 최대 컨테이너 항만 책임자, 관세 문제 논의",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnQySm9SR3h4OHkwRFgxWU1MWWFlUFZKZzdJNEU4d1dsSFRZR2dEZ2diM3o1QzJCcFIwa2Z5Ui1peGdvaFVxZ0k0bm5kajNOeVlmMWFndUwyakxQN1ZrTFZneUlpZ3hCZy0tRjhXU1JoWTgtVlpNaEN5SzNLRE1oQVZIVWdodEFLV2NrR2RlNzJGcUlQVlQwX2FSNzNEbmN5LVktUmpVUnh6Ukp5WktpMGFoUGpnWlBxc2NB?oc=5",
-      "summary": "미국에서 가장 번잡한 컨테이너 항만 책임자가 관세 문제에 대해 논의했다. 관세 부과가 무역 흐름과 물류 비용에 미치는 영향이 커지고 있으며, 이는 소비자 물가 상승으로 이어질 수 있다는 우려가 제기되고 있다. 글로벌 무역 정책 변화가 항만 운영에 미치는 영향이 주목된다.",
-      "pub_date": "2026-08-07T22:07:52+00:00"
+      "title": "트럼프의 이민 단속 강화, 산업계 우려 증폭",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWlpNGxacXBWZXhqd3pSTW9XemtJQWt4Z3FpOHpxX0NrNUN2SF9PTWFNVkoxNEdMYkxkMWlCeENobE1OcUNCTXJfOWpCdkFKTDBBN1lCMTVHbGdvZ01qbGkyenVJUTBaM2ZsS1BTSlMxVmNJaGplNjZXeUk4bXVkUzBfY1NpOXZVUnZUTy1zT0VfSjFwY1JySHhvTnQ3VXRhSXc?oc=5",
+      "summary": "도널드 트럼프 전 대통령의 이민 단속 강화 정책이 산업계 전반에 걸쳐 깊은 우려를 불러일으키고 있습니다. 산업 단체들은 이민자 노동력에 대한 의존도가 높은 여러 분야에서 인력난이 심화될 수 있다고 경고하고 있습니다. 이는 경제 성장과 고용 시장에 부정적인 영향을 미칠 가능성이 있습니다.",
+      "pub_date": "2026-08-09T08:40:35+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "메타, 아동 정신 건강 기금에 5억 6천 7백만 달러 지급 명령",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU190UkJvbU9IbUI1dzdJdWxPejVvZFdtNmlpZTdieTFVYjZqcm1qSU9tMlgtUHo1elVMWnpzbjJLSThXNjlaWnZKSEdvZWp2dEYycm4zcndfS2tKYXFWZmNocWNyeHM4Y3VoOVZLMlI4aVRqUFdMRUVJbEkzMFdwbFIzazZlLU4xVFdhdmpHbUI3WGxWNEd0WEtRMFh3TWctYVJ3?oc=5",
-      "summary": "소셜 미디어 기업 메타가 아동 정신 건강 기금에 5억 6천 7백만 달러를 지급하라는 명령을 받았다. 이는 소셜 미디어가 아동 및 청소년의 정신 건강에 미치는 부정적인 영향에 대한 책임이 부과된 것이다. 이번 판결은 기술 기업들의 아동 보호 책임에 대한 중요한 선례가 될 것으로 보인다.",
-      "pub_date": "2026-08-07T22:03:47+00:00"
+      "title": "트럼프, 공화당의 주요 두 분야 전통적 우위 상실",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDdYeFJ5UWc3V3RBR0JhRlIwUi1ySWhmSmlWbEc3eDBFOHFraFUxaTVEZUROMnFWSWRzUElVTnVWWU80d0ZKanBqcW1ZZ2hzYUJFMFROR09weklYdUdyaXlURDBiZU9RS0NpRkFaN2JNakJnbVoyWVl0QlBLeDhCUUlR?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 공화당이 전통적으로 강세를 보이던 두 가지 핵심 분야에서 우위를 잃었다는 분석이 나왔습니다. 이는 다가오는 선거에서 공화당에게 큰 도전이 될 수 있음을 시사합니다. 트럼프의 리더십과 당의 미래 전략에 대한 심도 깊은 논의가 필요할 것으로 보입니다.",
+      "pub_date": "2026-08-09T04:00:29+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "세계 첫 다이아몬드 양자컴퓨터 화제…상온에서 작동",
-      "link": "https://zdnet.co.kr/view/?no=20260808070504",
-      "summary": "세계 최초로 다이아몬드를 기반으로 한 양자컴퓨터가 개발되어 상온에서 작동 가능하다고 발표되었다. 이는 기존 양자컴퓨터의 가장 큰 한계점 중 하나를 극복한 것으로, 상용화 가능성을 크게 높였다는 점에서 혁명적인 기술 발전으로 평가받고 있다. 양자 컴퓨팅 시대 개막에 한 발 더 다가섰다는 분석이다.",
-      "pub_date": "2026-08-08T00:47:58+00:00"
+      "title": "미국 ITC, 모노리식3D 특허 공세에 SK하이닉스 두 번째 특허 침해 조사 착수",
+      "link": "https://zdnet.co.kr/view/?no=20260810002022",
+      "summary": "미국 국제무역위원회(ITC)가 모노리식3D의 특허 침해 소송에 따라 SK하이닉스에 대해 두 번째 특허 침해 조사에 착수했습니다. 이는 글로벌 반도체 시장에서의 특허 분쟁이 심화되고 있음을 보여줍니다. SK하이닉스는 이번 조사 결과에 따라 큰 영향을 받을 수 있어 귀추가 주목됩니다.",
+      "pub_date": "2026-08-09T15:41:12+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "오픈AI, 차세대 AI '아스트라' 개발 늦춘다…사이버보안 우려",
-      "link": "https://zdnet.co.kr/view/?no=20260808063232",
-      "summary": "인공지능(AI) 선도 기업 오픈AI가 차세대 AI 모델 '아스트라' 개발을 사이버보안 우려로 인해 늦추기로 결정했다. 이는 AI 기술의 발전 속도만큼 보안 위험에 대한 신중한 접근이 필요하다는 인식을 보여준다. 향후 AI 개발 방향과 윤리적 문제에 대한 논의가 더욱 활발해질 것으로 예상된다.",
-      "pub_date": "2026-08-07T23:24:17+00:00"
+      "title": "엔비디아, 전력망 투자 대폭 확대…미국 랜시엄에 4조 2천억 원 베팅",
+      "link": "https://zdnet.co.kr/view/?no=20260809132821",
+      "summary": "엔비디아가 인공지능(AI) 시대의 핵심 인프라인 전력망 투자를 대폭 확대하고 있습니다. 특히 미국 랜시엄에 약 4조 2천억 원(4.2조 원)을 투자하며 전력 인프라 기술을 강화하고 있습니다. 이는 AI 데이터센터의 안정적인 운영을 위한 필수적인 조치로, 미래 기술 경쟁력 확보에 중요한 역할을 할 것입니다.",
+      "pub_date": "2026-08-09T04:35:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "트럼프, 중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판",
-      "link": "https://www.etnews.com/20260808000003",
-      "summary": "도널드 트럼프 전 대통령이 중국이 인공지능(AI)과 가상자산 분야에서 미국을 추월하는 것을 두고 볼 수 없으며, 다음 달 시진핑 주석과 담판을 벌일 것이라고 밝혔다. 이는 기술 패권 경쟁이 심화되고 있음을 보여주며, 향후 양국 간의 갈등이 더욱 격화될 수 있음을 시사한다. AI와 가상자산을 둘러싼 미국의 견제 움직임이 본격화될 전망이다.",
-      "pub_date": "2026-08-07T23:26:33+00:00"
+      "title": "“진짜 사람 같네”…소름 돋는 인공지능 휴머노이드 기술 발전",
+      "link": "https://www.etnews.com/20260807000304",
+      "summary": "인공지능(AI) 휴머노이드 기술이 인간과 구별하기 어려울 정도로 발전하며 놀라움을 자아내고 있습니다. 이는 로봇 공학과 AI 기술의 융합으로 가능해졌으며, 미래 사회의 다양한 분야에 혁명적인 변화를 가져올 것으로 기대됩니다. 인간과의 상호작용 및 노동 시장에 미칠 영향에 대한 논의가 활발합니다.",
+      "pub_date": "2026-08-09T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "AI가 짜준대로 '45일 만에 20kg' 감량한 중국 남성…중환자실 실려갔다, 왜?",
-      "link": "https://www.etnews.com/20260808000004",
-      "summary": "인공지능(AI)이 설계한 다이어트 계획에 따라 45일 만에 20kg을 감량한 중국 남성이 중환자실에 실려 가는 사건이 발생했다. AI의 무분별한 사용과 전문가의 개입 없는 극단적인 건강 관리 방식의 위험성을 경고하는 사례다. AI 기술 활용 시 인간의 건강과 안전을 최우선으로 고려해야 한다는 경각심을 일깨운다.",
-      "pub_date": "2026-08-08T21:00:00+00:00"
+      "title": "인공지능 데이터센터의 급증으로 전력반도체 업계 '새 먹거리'로 급부상",
+      "link": "https://www.etnews.com/20260807000243",
+      "summary": "인공지능(AI) 데이터센터 건설이 급증하면서 전력반도체 업계가 새로운 성장 동력을 확보하며 주목받고 있습니다. AI 학습과 운영에 필요한 막대한 전력을 효율적으로 제어하는 전력반도체는 필수 부품으로 자리매김하고 있습니다. 이는 반도체 시장의 지형을 변화시키고 새로운 투자 기회를 창출할 것으로 보입니다.",
+      "pub_date": "2026-08-09T08:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK하이닉스, 용인·청주 팹에 54조 투자…D램·낸드 동시 증설",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=670396",
-      "summary": "SK하이닉스가 용인과 청주 지역의 반도체 생산 시설에 54조 원을 투자하여 D램과 낸드를 동시에 증설할 계획을 발표했다. 이는 고대역폭 메모리(HBM) 시장의 폭발적인 성장에 대응하고, 글로벌 반도체 시장에서의 주도권을 강화하기 위한 대규모 투자다. 국가 경제와 첨단 산업 발전에 크게 기여할 것으로 기대된다.",
-      "pub_date": "2026-08-07T16:50:32+00:00"
+      "title": "이스트시큐리티·퓨리오사AI, NPU 결합 'K-AI 보안 인프라' 구축",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=670331",
+      "summary": "이스트시큐리티와 퓨리오사AI가 NPU(신경망처리장치) 기술을 결합하여 'K-AI 보안 인프라'를 구축한다고 발표했습니다. 이는 국내 인공지능(AI) 보안 기술 경쟁력을 강화하는 중요한 발걸음으로 평가됩니다. 국가 안보 및 디지털 전환 시대의 핵심 인프라 보호에 기여할 전망입니다.",
+      "pub_date": "2026-08-09T07:30:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=670370",
-      "summary": "네이버가 'AI 서비스'와 'AI 팩토리'라는 투트랙 성장 전략을 본격적으로 가동한다. 이는 AI 기술을 기반으로 한 다양한 서비스 개발과 동시에 자체 AI 인프라 구축을 강화하여 경쟁력을 확보하려는 목적이다. 네이버의 새로운 AI 전략은 국내외 AI 시장에서 중요한 변수로 작용할 전망이다.",
-      "pub_date": "2026-08-07T18:13:55+00:00"
+      "title": "스페이스X, 이틀 만에 시가총액 3,270억 달러 급증…공모가 회복 눈앞",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=670433",
+      "summary": "스페이스X의 시가총액이 이틀 만에 3,270억 달러(약 440조 원) 급증하며 공모가 회복을 눈앞에 두고 있습니다. 이는 민간 우주 산업에 대한 투자자들의 높은 기대감을 반영하는 것입니다. 일론 머스크의 스페이스X는 혁신적인 기술력과 성장 잠재력으로 시장의 주목을 받고 있습니다.",
+      "pub_date": "2026-08-08T17:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "SK하이닉스, 용인·청주 신규 팹에 54조원 투자… HBM·낸드 생산 확대",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/07/C2NFL4RH2NGJXBWTXOEWQCQB2I/",
-      "summary": "SK하이닉스가 용인과 청주에 신규 반도체 생산 시설을 건설하기 위해 54조 원을 투자한다고 밝혔다. 이번 투자는 고대역폭 메모리(HBM)와 낸드플래시 생산을 대폭 확대하여 인공지능(AI) 시대의 수요에 대응하기 위함이다. 이는 한국 반도체 산업의 미래 경쟁력을 강화하는 중요한 전환점이 될 것이다.",
-      "pub_date": "2026-08-07T08:36:00+00:00"
+      "title": "틱톡 모회사 중국 바이트댄스, '미토스급' 초대형 인공지능 개발 착수",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/09/HA5WPBG5SVGWNLT26WHGVTV7OE/",
+      "summary": "틱톡의 모회사인 중국 바이트댄스가 '미토스급'으로 불리는 초대형 인공지능(AI) 모델 개발에 착수했습니다. 이는 글로벌 AI 기술 경쟁에서 중국의 입지를 더욱 강화하려는 움직임으로 해석됩니다. AI 분야의 패권 다툼이 심화되는 가운데, 바이트댄스의 행보가 주목받고 있습니다.",
+      "pub_date": "2026-08-09T08:27:37+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "구글 창업자 브린, 구글 AI 지휘권 쥔다… 허사비스는 장기 연구 전념",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/07/GBIDWW6WZZC6FHABAOLFI6DEOU/",
-      "summary": "구글 공동 창업자인 세르게이 브린이 구글의 인공지능(AI) 개발 지휘권을 맡게 되며, 데미스 허사비스는 장기 연구에 전념할 예정이다. 이는 구글 AI 전략에 큰 변화를 예고하는 것으로, 브린의 직접적인 개입이 구글 AI 기술 발전에 어떤 영향을 미칠지 주목된다. 빅테크 기업의 리더십 변화가 기술 개발 방향에 미치는 영향이 크다.",
-      "pub_date": "2026-08-07T07:39:45+00:00"
+      "title": "엔비디아 '베라 루빈' 원가 중 메모리 비중 62%…HBM4보다 높은 '소캠2' 영향",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/10/QHNNV6OHJVAT7JVY4QWZLBFUXA/",
+      "summary": "엔비디아의 새로운 제품 '베라 루빈'의 원가 중 메모리가 62%를 차지하는 것으로 분석되었습니다. 이는 고대역폭 메모리(HBM) 4세대보다 '소캠2' 기술의 비중이 더 크기 때문인 것으로 알려졌습니다. 최첨단 반도체 제품의 원가 구조와 기술 트렌드를 이해하는 데 중요한 정보를 제공합니다.",
+      "pub_date": "2026-08-09T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "구글, 데미스 허사비스에 새로운 AI 역할 부여…리더십 재편",
+      "title": "뉴멕시코 법원, 메타에 5억 6천7백만 달러 벌금 부과 명령",
+      "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+      "summary": "뉴멕시코 법원이 메타(Meta)에게 5억 6천7백만 달러의 벌금 지급을 명령했습니다. 이는 아동 안전 관련 규정 위반에 대한 판결로, 소셜 미디어 기업에 대한 강력한 규제 의지를 보여줍니다. 이번 판결은 기술 기업들의 책임에 대한 사회적 요구가 커지고 있음을 시사합니다.",
+      "pub_date": "2026-08-07T09:50:24+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "구글, 데미스 하사비스를 새로운 인공지능 책임자로 임명하며 리더십 재편",
       "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
-      "summary": "구글이 인공지능(AI) 리더십 재편의 일환으로 데미스 허사비스에게 새로운 AI 역할을 부여했다. 이는 구글의 AI 개발 방향과 전략에 중요한 변화를 가져올 것으로 예상된다. 빅테크 기업의 핵심 인력 재배치는 AI 경쟁 구도에도 큰 영향을 미칠 수 있다.",
+      "summary": "구글이 인공지능(AI) 분야 리더십 재편을 통해 데미스 하사비스를 새로운 AI 총괄 책임자로 임명했습니다. 이는 구글의 AI 전략에 중요한 변화가 있을 것을 예고합니다. AI 기술 경쟁이 심화되는 가운데, 구글의 이번 인사가 어떤 결과를 가져올지 업계의 이목이 집중되고 있습니다.",
       "pub_date": "2026-08-05T19:17:33+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "스페이스X, IPO 후 첫 실적 발표에서 AI 지출 급증 보고",
-      "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-      "summary": "스페이스X가 기업 공개(IPO) 이후 첫 실적 발표에서 인공지능(AI) 지출이 급증했다고 보고했다. 이는 우주 산업을 선도하는 스페이스X가 AI 기술 개발에 막대한 투자를 하고 있음을 시사한다. AI가 우주 탐사 및 관련 산업에 미칠 영향과 미래 기술 융합에 대한 기대감이 커지고 있다.",
-      "pub_date": "2026-08-04T22:52:45+00:00"
-    },
-    {
-      "category": "IT/과학",
       "outlet": "BBC",
-      "title": "메타, 아동 안전 관련 역대 최대 규모 5억 6천 7백만 달러 벌금 부과",
+      "title": "메타, 아동 안전 관련 최대 규모 벌금 5억 6천7백만 달러 부과",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "소셜 미디어 대기업 메타가 아동 안전 관련 소송에서 5억 6천 7백만 달러의 벌금을 부과받았다. 이는 소셜 미디어 기업에 부과된 아동 안전 관련 벌금 중 가장 큰 규모로, 기술 기업의 사회적 책임과 아동 보호 의무에 대한 경각심을 높이는 판결이다. 플랫폼의 유해 콘텐츠 관리 중요성이 강조된다.",
+      "summary": "메타(Meta)가 아동 안전 규정 위반으로 5억 6천7백만 달러에 달하는 대규모 벌금을 부과받았습니다. 이는 소셜 미디어 거대 기업에 대한 아동 안전 관련 판결 중 역대 최대 규모입니다. 이번 판결은 기술 기업들의 아동 보호 책임에 대한 경종을 울리는 중요한 사례가 될 것입니다.",
       "pub_date": "2026-08-07T09:22:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "오픈AI에 이어 메타까지…AI 해킹 왜 계속 발생하나?",
+      "title": "오픈AI에 이어 메타까지…인공지능 해킹 사고가 계속 발생하는 이유",
       "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "summary": "오픈AI에 이어 메타까지 인공지능(AI) 관련 해킹 사고가 잇따라 발생하면서, AI 시스템의 보안 취약성에 대한 우려가 커지고 있다. 이는 AI 기술의 급속한 발전 이면에 존재하는 심각한 보안 문제를 드러낸다. AI 해킹 방지를 위한 업계의 공동 대응과 기술적 보완이 시급하다는 지적이다.",
+      "summary": "오픈AI에 이어 메타까지 인공지능(AI) 해킹 사고가 잇따라 발생하면서, AI 보안 취약성에 대한 우려가 커지고 있습니다. 전문가들은 AI 기술의 급속한 발전과 함께 보안 시스템 구축의 중요성을 강조하고 있습니다. AI 해킹은 개인 정보 유출은 물론 사회 시스템 전반에 심각한 위협을 초래할 수 있습니다.",
       "pub_date": "2026-08-06T15:59:34+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "자율주행 세미트럭, 미래 운송의 대안인가?",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWZuXzMyUTBsZjBhSHhHNG1uSmRiSTU5ZlFpdUlOemNaUl9HamVrdjAyak5sNkxNZFBhWi15V1hIM1hleUdzM3p4WUs3X2NTX1RlTUhBU0Z4bDZRUmEtVmdTcE0ySFFsRlJiUUQzdndLYXg3MDM1LS12dGxsbXYwTzRrVTdvMFhNZmlvVmFjS3R3amExdnp3UEE5c2hLZWIyb3MyVU1Sa2RhZw?oc=5",
-      "summary": "자율주행 세미트럭이 미래 운송 산업의 대안이 될 수 있을지에 대한 논의가 활발하다. 이 기술은 운송 효율성을 높이고 인건비를 절감할 잠재력을 가지고 있지만, 안전 문제와 법적 규제 등 해결해야 할 과제도 많다. 상용화가 이루어질 경우 물류 산업 전반에 혁명적인 변화를 가져올 것이다.",
-      "pub_date": "2026-08-08T07:47:16+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "트럼프 최고위 장성, 이란 전쟁 출구 전략 모색…미군 선택지 제한적",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJydUExaTBnUDVITW9LOE1mUjBJN1ppaVp4SFo2LXZTLVFOeWpsTmZKelJjZUJPTl9ua1JhaDJUZ0hwNUZPT0hUT2Ric3lzWE41TzI2aGFCUldzbnNCejV3NEVKc3NKeXU5eGJpdXFsTGtaRThuQzdRZUEtMTRsWQ?oc=5",
-      "summary": "트럼프 행정부의 최고위 장성이 이란과의 전쟁에서 '출구 전략'을 모색 중이며, 미국의 군사적 선택지가 제한적이라는 분석이 나왔다. 이는 중동 지역의 긴장 완화를 위한 외교적 노력이 필요하다는 인식을 반영한다. 군사적 해결책의 한계가 명확해지면서 새로운 접근 방식에 대한 요구가 커지고 있다.",
-      "pub_date": "2026-08-07T21:27:04+00:00"
+      "title": "인공지능은 가장 큰 사이버 보안 문제가 아니다, 사람이 문제다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZHgtTC03TkxvTUVUMDJpb3BOM1hqdUxOb29kT1pqUHhKYUJWemplZGlaQ0hDbEo1VWZIeXdPcmx0bEdma3lHMjhDTU9mOWNEV0tFR3JSNmo0T2JRbmdneF9MV2ZXaEYxcUJJ?oc=5",
+      "summary": "보고서에 따르면, 인공지능(AI) 자체가 가장 큰 사이버 보안 위협은 아니며, 오히려 '사람'이 가장 큰 문제라고 지적했습니다. 이는 기술적 취약점보다 인간의 실수, 부주의, 또는 악의적인 행동이 보안 사고의 주요 원인임을 강조합니다. 사이버 보안 강화에 있어 인간 요소에 대한 교육과 관리가 필수적임을 시사합니다.",
+      "pub_date": "2026-08-09T10:30:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "이란, 호르무즈 해협 재개방 요구 조건 제시…희망 약화",
-      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-      "summary": "이란이 호르무즈 해협 재개방을 위한 요구 사항 목록을 발표하면서 해협 개방에 대한 희망이 줄어들고 있다. 이는 국제 유가와 에너지 안보에 큰 영향을 미칠 수 있으며, 중동 지역의 지정학적 긴장을 더욱 고조시킬 전망이다. 이란의 요구 사항과 서방 국가들의 반응에 국제 사회의 이목이 집중되고 있다.",
-      "pub_date": "2026-08-08T19:04:41+00:00"
+      "title": "이란, 호르무즈 해협 재개방 희망 꺾고 6월 MOU 복귀 요구",
+      "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "summary": "이란이 호르무즈 해협 재개방에 대한 희망을 꺾고 6월 양해각서(MOU)로 복귀할 것을 요구하고 나섰습니다. 이는 해협의 통행 자유와 글로벌 에너지 공급에 상당한 영향을 미칠 수 있습니다. 이란이 요구 조건을 내세우면서, 호르무즈 해협을 둘러싼 긴장이 더욱 고조될 가능성이 있습니다.",
+      "pub_date": "2026-08-09T17:58:22+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "예멘, 내전 직전 위기…지역 안정성 위태",
-      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-      "summary": "예멘이 내전 직전의 위기 상황에 처해 있으며, 이로 인해 역내 안정성이 위태로워지고 있다. 장기화된 분쟁은 심각한 인도주의적 위기를 초래하고 있으며, 주변국과 국제 사회의 개입 필요성이 커지고 있다. 중동 지역의 복잡한 정치적 역학 관계가 더욱 불안정해질 우려가 있다.",
-      "pub_date": "2026-08-08T14:57:24+00:00"
+      "title": "시리아, 러시아군 주둔 재편성 동의…중동 내 러시아 영향력 강화",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+      "summary": "시리아가 자국 내 러시아군의 주둔 재편성에 동의했습니다. 이는 중동 지역에서 러시아의 군사적 영향력을 더욱 강화하는 중요한 조치로 평가됩니다. 국제 사회의 역학 관계에 변화를 가져올 수 있으며, 시리아 내전 종식에도 영향을 미칠 수 있습니다.",
+      "pub_date": "2026-08-09T15:57:53+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "태국, 잦은 총기 난사로 총기 규제 강화 약속",
+      "title": "유럽, 또 다른 폭염 대비…동유럽과 중앙유럽, 기록적인 폭염 강타",
+      "link": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
+      "summary": "유럽이 또다시 강력한 폭염에 대비하고 있으며, 동유럽과 중앙유럽 일부 지역은 이번 주 기록적인 폭염을 기록했습니다. 고온으로 인한 건강 문제와 산불 위험이 커지고 있어 각국 정부는 비상 대응에 나섰습니다. 기후 변화의 심각성을 보여주는 사례로, 여름철 유럽 전역에 걸쳐 광범위한 영향을 미치고 있습니다.",
+      "pub_date": "2026-08-09T12:23:03+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "태국, 총기 난사 사건으로 악명 높아지자 총기 규제 강화 서약",
       "link": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
-      "summary": "태국에서 잦은 총기 난사 사건으로 인해 총기 규제 강화를 위한 새로운 공약들이 쏟아지고 있다. 최근 발생한 대규모 총격 사건들은 사회에 큰 충격을 주었으며, 정부는 국민의 안전을 위해 더욱 강력한 조치를 취할 것을 약속했다. 총기 폭력 문제 해결을 위한 근본적인 대책 마련이 시급하다는 목소리가 높다.",
+      "summary": "태국이 반복되는 총기 난사 사건으로 인해 악명이 높아지면서, 총기 법규를 개정하고 강화하겠다는 새로운 서약을 발표했습니다. 이는 대규모 인명 피해를 막기 위한 국가적 노력의 일환입니다. 사회 안전에 대한 국민적 요구가 높아지는 가운데, 실질적인 총기 규제 도입 여부가 주목됩니다.",
       "pub_date": "2026-08-08T14:47:22+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "캐나다 브리티시컬럼비아 서머랜드 산불로 1만 8천 명 대피",
-      "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-      "summary": "캐나다 브리티시컬럼비아주 서머랜드 지역에서 발생한 대규모 산불로 인해 1만 8천 명의 주민이 대피했다. 건조한 날씨와 강한 바람으로 산불이 빠르게 확산되면서 재산 피해와 인명 피해에 대한 우려가 커지고 있다. 기후 변화로 인한 극단적인 기상 현상이 전 세계적인 문제가 되고 있음을 보여주는 사례다.",
-      "pub_date": "2026-08-08T19:52:29+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "사우디아라비아, 튀르키예, 파키스탄 공동 국방 협정 체결",
-      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "summary": "사우디아라비아, 튀르키예, 파키스탄이 공동 국방 협정을 체결했다. 이는 중동 및 남아시아 지역의 새로운 안보 동맹을 형성하며 지정학적 균형에 중대한 변화를 가져올 것으로 예상된다. 역내 안보 강화와 군사적 협력 확대를 목표로 하며, 국제 정세에 미칠 영향이 주목된다.",
-      "pub_date": "2026-08-07T16:29:25+00:00"
+      "title": "러시아 구금 중 전 미 해병대원, 학대 후 반응 없어 가족 우려",
+      "link": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
+      "summary": "러시아에 구금된 전 미국 해병대원이 학대를 당한 후 반응이 없는 상태라는 가족의 주장이 나왔습니다. 이는 러시아 내 외국인 수감자의 인권 문제에 대한 심각한 우려를 불러일으키고 있습니다. 미국과 러시아 간의 외교적 긴장을 더욱 고조시킬 수 있는 사안입니다.",
+      "pub_date": "2026-08-08T09:58:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "러시아, 키이우 인근 미사일 공격으로 어린이 포함 3명 사망",
+      "title": "네타냐후 총리, 이스라엘은 트럼프의 가자지구 평화안 거부",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 전 미국 대통령이 제시한 15개 항의 가자지구 평화 계획을 거부했다고 밝혔습니다. 이는 중동 지역의 평화 정착 노력에 큰 난관이 될 것으로 보입니다. 가자지구를 둘러싼 복잡한 정치적 이해관계가 다시 한번 드러났습니다.",
+      "pub_date": "2026-08-09T21:25:04+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "캐나다 산불 통제 불능 상태로 확산, 주민들 최악의 상황 대비 경고",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "캐나다에서 통제 불능 상태의 대형 산불이 급속도로 확산되면서 주민들에게 최악의 상황에 대비하라는 경고가 내려졌습니다. 수많은 인명 및 재산 피해가 우려되는 상황이며, 당국은 진화 작업에 총력을 기울이고 있습니다. 기후 변화로 인한 대형 산불의 위험성이 더욱 부각되고 있습니다.",
+      "pub_date": "2026-08-09T18:03:55+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "키이우 근처 러시아 미사일 공격으로 어린이 포함 3명 사망",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아의 키이우 인근 미사일 공격으로 어린이 한 명을 포함해 세 명이 사망했다. 이는 우크라이나 전쟁의 잔혹성과 민간인 피해의 심각성을 다시 한번 보여준다. 국제 사회는 러시아의 공격을 강력히 규탄하며 평화적 해결을 촉구하고 있다. 전쟁의 비극이 계속되고 있다.",
+      "summary": "우크라이나 수도 키이우 인근에서 러시아군의 미사일 공격으로 어린이 1명을 포함해 최소 3명이 사망했습니다. 이번 공격은 민간인 피해를 야기하며 전쟁의 비극성을 다시 한번 보여줍니다. 국제 사회는 러시아의 공격을 규탄하며 즉각적인 중단을 촉구하고 있습니다.",
       "pub_date": "2026-08-08T18:06:25+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "태풍 돌핀, 일본 오키나와 강타 후 중국 향해 이동",
-      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "태풍 돌핀이 일본 오키나와를 강타한 후 중국 본토로 향하면서 광범위한 피해가 우려되고 있다. 강풍과 폭우를 동반한 태풍으로 인해 항공편 결항 및 정전 등 피해가 속출하고 있다. 동아시아 지역에 자연재해에 대한 대비 태세 강화가 요구된다.",
-      "pub_date": "2026-08-08T15:15:17+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "빠르게 확산되는 캐나다 산불, 규모 두 배…수천 명 대피",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "캐나다에서 빠르게 확산되는 산불이 규모를 두 배로 키우며 수천 명의 주민들이 대피를 강요당했다. 건조한 기후와 고온으로 인해 산불 진화에 어려움을 겪고 있으며, 심각한 인명 및 재산 피해가 예상된다. 기후 변화가 전 세계적인 재난을 심화시키고 있음을 보여주는 사례다.",
-      "pub_date": "2026-08-08T21:06:48+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "태국 총리, 총격 사망자 8명 발생 후 총기 규제 강화 약속",
+      "title": "태국 총리, 8명 사망 총격 사건 후 총기 규제 강화 약속",
       "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "summary": "태국 총리가 최근 총격 사건으로 8명이 사망한 후 더욱 엄격한 총기 규제법 도입을 약속했다. 잇따른 총기 난사 사건으로 인해 사회적 불안감이 고조되면서, 정부는 총기 폭력 근절을 위한 강력한 의지를 표명했다. 국민들의 안전을 위한 실질적인 정책 변화에 대한 기대가 크다.",
+      "summary": "태국 총리가 최근 8명의 사망자를 낸 총격 사건 이후 더욱 엄격한 총기 규제 법안을 도입하겠다고 약속했습니다. 이는 반복되는 총기 폭력에 대한 사회적 우려를 반영한 조치입니다. 총기 규제 강화를 통해 국민 안전을 확보하려는 정부의 노력이 주목됩니다.",
       "pub_date": "2026-08-07T21:19:27+00:00"
     },
     {
@@ -358,48 +350,48 @@
       "outlet": "BBC",
       "title": "사우디아라비아, 튀르키예, 파키스탄 국방 협정 체결",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "사우디아라비아, 튀르키예, 파키스탄이 새로운 국방 협정을 체결했다. 이는 지역 안보 강화를 목적으로 하며, 중동과 남아시아 지역의 지정학적 지형에 중대한 영향을 미칠 것으로 예상된다. 세 국가 간의 군사 및 방위 산업 협력이 더욱 확대될 전망이다.",
+      "summary": "사우디아라비아, 튀르키예(터키), 파키스탄이 새로운 국방 협정을 체결했습니다. 이는 중동 및 남아시아 지역의 안보 지형에 중대한 변화를 가져올 수 있는 동맹 강화로 평가됩니다. 역내 국가들 간의 군사적 협력 증진과 함께 새로운 세력 균형이 형성될 가능성이 있습니다.",
       "pub_date": "2026-08-07T17:42:54+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "트럼프 최고위 장성, 이란 전쟁 출구 전략 모색…미군 선택지 제한적",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJydUExaTBnUDVITW9LOE1mUjBJN1ppaVp4SFo2LXZTLVFOeWpsTmZKelJjZUJPTl9ua1JhaDJUZ0hwNUZPT0hUT2Ric3lzWE41TzI2aGFCUldzbnNCejV3NEVKc3NKeXU5eGJpdXFsTGtaRThuQzdRZUEtMTRsWQ?oc=5",
-      "summary": "소식통에 따르면 트럼프 행정부의 최고위 장성이 이란과의 전쟁에서 '출구 전략'을 모색하고 있으며, 미국의 군사적 선택지가 제한적이라는 분석이 나왔다. 이는 중동 지역 갈등의 장기화와 미국의 군사 자원 고갈 가능성에 대한 우려를 증폭시키고 있다. 외교적 해법 모색의 필요성이 강조되고 있다.",
-      "pub_date": "2026-08-07T21:27:04+00:00"
+      "title": "걸프 국가들, 미국으로부터 멀어지나…이란, 호르무즈 해협 개방 조건 제시",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmJReVpBajdCcWV0Rm1yRVEzX05ZcE13T3ZBVnBaekk0eVJHeWFSVEZ0cjdUcmxjaUJxZlVCZFQ3Q0JGWHJOdGx2a3A0em8yQmZKS0hTejhHcUFQY1psd3huSVRocFYyQ01PSmd0VTg5NXFrVHFGRFdSOGhEMGdYaTlhTmhZSHRHb1RCdGpjUy1oVlVi?oc=5",
+      "summary": "걸프 국가들이 미국으로부터 점차 멀어지는 조짐을 보이면서 국제 정세에 변화가 감지되고 있습니다. 이와 함께 이란은 호르무즈 해협 개방을 위한 조건을 제시하며 전략적 우위를 점하려 하고 있습니다. 이는 중동 지역의 안보 및 에너지 공급에 복합적인 영향을 미칠 중대한 사안으로 평가됩니다.",
+      "pub_date": "2026-08-09T15:02:56+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "태국 학교 총격 사건 희생 교사들 추모 물결",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWnlYRVh2Qll3S1MzZ3hXbmZpX0hVSE5VY2Eya1k3SXBDaGFZdEt0azN5ZlQzMmRHS0dsSXFaTEFZRF9PQTVHV2tNU3c0bVJrSkwxWVJyZzBhMlpGd045NWdXcVBkSjBzYUNNYWlxNDFMZDFLV1l4RzZiNjVEVTd5dDNxWG5JM0Z4Tzhxb2dQeV9OTm5ERV81Y042RHM2aWZKTUE3bmM2X08?oc=5",
-      "summary": "태국에서 발생한 치명적인 총격 사건 이후 희생된 학교 교사들을 추모하는 물결이 이어지고 있다. 이번 사건은 교육 현장의 안전 문제와 총기 폭력의 심각성을 전 세계에 다시 한번 일깨웠다. 슬픔에 잠긴 태국 사회는 희생자들을 애도하며 재발 방지를 위한 노력을 다짐하고 있다.",
-      "pub_date": "2026-08-08T16:41:00+00:00"
+      "title": "이스라엘, 트럼프의 최신 가자 평화 계획 거부",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkswSWtKVWZRczhIMlNMX0U1cEdmcV80TUVWNGpaVUhPNHdwR21CYUQzOVFjZnctY0dzd3BxcWN5aFBraWpLOVh5VUo3QXN2d0FDZlluaElRZ0xEb1lqUlJYdGE5NmpLNEZWUm5Uc3B1M2laTHBOUXozMlUzZHJyOUxvdGhYYzMwUGJOWUhtRG5PQ3hJWi1sR1BNOVU?oc=5",
+      "summary": "이스라엘이 도널드 트럼프 전 대통령이 제안한 최신 가자지구 평화 계획을 거부했습니다. 이는 이스라엘-팔레스타인 분쟁 해결을 위한 국제적 노력에 또 다른 난관을 조성할 것으로 보입니다. 가자지구의 불안정한 상황이 지속될 가능성이 커지면서 국제 사회의 우려가 깊어지고 있습니다.",
+      "pub_date": "2026-08-09T19:30:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "실종 미 육군 병사 수색에 가족들 노력 이어져",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnBFMTNqd0RyTEdjUUpHdllqNjdPcTcyblRTTVRfTVlxRzdReTJ0Z3VtcU9GV3VMWGZkOG02Z0hXSEg1OG5pVlAxblpQd2Q5Rjc3VHczVWxTRjNwNkVaN2RIZEtkUy1xdklBZk4yc092MzAwQnllSUdTUUtieGsyTERwZk42cmFOLXdoTFJXeGZad3h2Y2t0M2RjdW91QW5K?oc=5",
-      "summary": "실종된 미 육군 병사를 찾기 위한 가족들의 애타는 수색 노력이 계속되고 있다는 소식이 전해졌다. 이 사건은 군 복무 중 실종된 장병들에 대한 관심과 지원의 중요성을 부각시킨다. 가족들은 정부와 대중의 지속적인 관심을 호소하며 희망의 끈을 놓지 않고 있다.",
-      "pub_date": "2026-08-08T13:32:52+00:00"
+      "title": "미 합참의장, 이란 전쟁 '출구 전략' 모색 중이라고 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3VFWC05MG92bkg5cDhLdEJwbHFZWHBxZm4yX1ZIMC1hN3pPVXZmWXlJNVJnYllWYXkzMTJueGNrZGhXUFV4MnJrOTNCaTVnWlZjMF9rNGptbVpkbnhsQVRZRW51cTdpQU1zR2NDZEdBWmxyaGtNbzhhLTJhd0Y3b0lKQlB0YzEwUmgwS0pGWFBEWS1CTDV3MlpUYTIyeFhBZjFwMGVNZTZrVGFvVy1oUkphMGVwM28?oc=5",
+      "summary": "미국 합참의장이 이란과의 전쟁에서 '출구 전략'을 모색하고 있다고 밝혔습니다. 이는 미국이 중동 지역의 군사적 긴장을 완화하고 장기적인 해결책을 찾으려는 노력을 시사합니다. 이란과의 대치 상황이 지속되는 가운데, 미국의 외교적, 군사적 접근 방식에 변화가 있을지 주목됩니다.",
+      "pub_date": "2026-08-09T05:41:05+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "태국, 치명적인 총격 사건 이후 애도 분위기",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmxyTGl4SlZKdTlTTXA5X2NLcExUdUJ0NWx4S2NoYVpvbmJEcjE1MFlMeEM1cUpfRXBhaHNSclE1MDFKLUdwXy1jbWVUbVJheGV3ak04YjhIbFJDaVlrTExlZ0NhUXNnakpNQmhrRzRwWkZpM0ZoOUViMDZoeGhVOU95bnpvd2M?oc=5",
-      "summary": "태국에서 발생한 비극적인 총격 사건으로 전 국민이 애도 분위기에 휩싸였다. 특히 어린 학생들과 교사들이 희생되면서 사회 전반에 큰 충격과 슬픔을 안겨주었다. 태국 정부는 총기 규제 강화를 포함한 재발 방지 대책 마련에 총력을 기울이고 있다.",
-      "pub_date": "2026-08-08T13:39:00+00:00"
+      "title": "러시아와 우크라이나, 공중전 격화…민간인 피해 심화",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVVpTll1TS1oR1lQWWxFQTZKOVJWNEJsdWp3clkzX1lEOS1hVW5XaFRLLS1GM1FHN1RqVkQyTmpVQ3Nwbllzek9pbXA0ODYzN3hJektBNy03dldTSnFZRkhvREQtMUlFZWZ0emVIUmszRFY2N1p1dGEtM1VuaGZMTVdqamVBRHRZa2R5MWZNVVRlajBYRG9YVmJBUWZHN2FHeTBCYXIwYTNDUGJYcEFHVng0OGZqNUk?oc=5",
+      "summary": "러시아와 우크라이나가 공중전 공격을 강화하면서 민간인들이 그 대가를 치르고 있습니다. 양국 간의 공중 공격이 빈번해지면서 무고한 민간인들의 피해가 심화되고 있습니다. 이는 전쟁의 잔혹성을 다시 한번 보여주며 국제 사회의 즉각적인 개입을 요구하는 목소리가 커지고 있습니다.",
+      "pub_date": "2026-08-09T09:30:58+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "미 해군, 유도 미사일 잠수함 20척 증강 계획…중국 주변에 중요 전략적 의미",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR25Wb3R6YXZoUVp3NGh2R2NnX2xYRURIU2xRblBhOXdlOE9kdjZPNFdaMF9ha3A4THhhNzFUdGEyZUtWVm1EWVROWEY2T3NjUDZNOXhhZldvMmtqaHFzUGdSYWhobG02bnYzNUdYTk1ONDhPNTlkNU1mS0E4eUFmU2F3SUpHb013NjRTcjFTTTY4dw?oc=5",
-      "summary": "미국 해군이 약 20척의 유도 미사일 잠수함을 증강할 계획이며, 이는 중국 주변 지역에서 중요한 전략적 의미를 가질 것이라는 분석이 나왔다. 이번 증강 계획은 인도-태평양 지역에서 중국의 해군력 확장에 대응하기 위한 미국의 의지를 보여준다. 이로 인해 미중 간의 군사적 긴장이 더욱 고조될 가능성이 있다.",
-      "pub_date": "2026-08-08T04:01:29+00:00"
+      "title": "아랍에미리트, 아일랜드 범죄 조직 보스 다니엘 키나한 인도",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2hoeEVkRE1wWXpKSEVpTUVLckl0OUhqSi1oejVWSWRSV0NTVlBuOXNFZHNZbHZSXzdxd2hTUllDcWxXbmNWQTFFVkRydzZ1by1UX2dXX1dlX3pJY2VnemNRWW1vMlNDUERSUHR2TWtoX1kxZ242LVAwYnhDMUJZaFljc2x2Zw?oc=5",
+      "summary": "아랍에미리트(UAE)가 아일랜드의 악명 높은 범죄 조직 보스로 알려진 다니엘 키나한을 인도했습니다. 이는 국제 범죄 조직 소탕을 위한 국제 공조의 중요한 성과로 평가됩니다. 키나한은 오랫동안 수사망을 피해왔으며, 이번 인도로 인해 그의 범죄 행각이 낱낱이 드러날 것으로 예상됩니다.",
+      "pub_date": "2026-08-09T13:44:54+00:00"
     }
   ]
 }
