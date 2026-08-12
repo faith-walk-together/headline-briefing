@@ -1,413 +1,389 @@
 {
-  "last_updated": "2026-08-11T21:45:53.894975+00:00",
+  "last_updated": "2026-08-12T21:47:50.939445+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "북한, 동쪽으로 미상 발사체 발사...탄도미사일일 경우 6일 만",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701061&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "북한이 동해상으로 미상 발사체를 발사했습니다. 이는 지난 발사 이후 6일 만에 이루어진 것으로, 탄도미사일 가능성이 제기되고 있습니다. 한반도 안보 상황에 대한 우려가 커지고 있습니다.",
-      "pub_date": "2026-08-11T21:30:00+00:00"
+      "title": "안보 위협하는 중화권 스파이, 단순 촬영 넘어 도청 및 포섭까지 감행",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702922&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "중화권 스파이들이 한국의 안보를 위협하며 활동하고 있습니다. 이들은 단순한 촬영을 넘어 도청과 인물 포섭 등 고도화된 수법을 사용하고 있습니다. 이는 국가 안보에 심각한 문제로 대두되고 있습니다.",
+      "pub_date": "2026-08-12T21:34:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "여야, 부동산 세제개편안 놓고 공방…보완 필요성에 한목소리",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700302&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "정부의 부동산 세제개편안을 두고 여야가 치열한 공방을 벌이고 있습니다. 양측 모두 현행 개편안에 대한 보완이 필요하다는 데 의견을 같이하고 있습니다. 비거주 1주택 규제 등으로 인한 전월세 가격 상승 우려가 제기되고 있습니다.",
-      "pub_date": "2026-08-11T08:13:00+00:00"
+      "title": "북한, 한국 핵잠수함 보유 계획에 \"생존 불가능한 보복 공격으로 응대할 것\" 경고",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702291&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "북한이 한국의 핵잠수함 보유 시도에 대해 강력히 반발했습니다. 북한은 이를 한반도 안보 환경을 불안정하게 만드는 요인으로 지목했습니다. 생존 불가능한 보복 공격으로 대응할 것이라고 위협하며 긴장을 고조시켰습니다.",
+      "pub_date": "2026-08-12T08:20:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 이란 위협 속 터키에서 비밀리에 군용기 사용해 출국",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
-      "summary": "도널드 트럼프 전 대통령이 이란의 위협 고조로 인해 터키를 떠날 때 비밀리에 군용기를 사용했다고 보도되었습니다. 이는 당시 미국의 안보 상황에 대한 우려를 반영하는 조치로 해석됩니다. 전직 대통령의 이례적인 이동 방식에 관심이 집중되고 있습니다.",
-      "pub_date": "2026-08-11T16:46:36+00:00"
+      "title": "트럼프, 진실 소셜 게시물 조기 접근권 판매 계획으로 피소",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
+      "summary": "도널드 트럼프 전 대통령이 자신의 소셜 미디어 플랫폼인 '진실 소셜'의 게시물 조기 접근권을 판매하려다 소송을 당했습니다. 이는 플랫폼의 수익 모델과 관련된 법적 문제로 이어지고 있습니다. 이번 소송은 트럼프의 사업 활동과 관련하여 논란을 불러일으킬 것으로 예상됩니다.",
+      "pub_date": "2026-08-12T20:37:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "전직 해병대원 로버트 길먼, 4년간 러시아 교도소 복역 후 석방",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-      "summary": "전직 미 해병대원 로버트 길먼이 러시아에서 4년간 복역한 끝에 석방되었습니다. 그의 석방은 미국과 러시아 간의 긴장 관계 속에서 이루어진 것으로, 외교적 성과로 평가됩니다. 길먼은 구금 기간 동안 건강이 좋지 않았던 것으로 알려졌습니다.",
-      "pub_date": "2026-08-11T20:01:16+00:00"
+      "title": "트럼프 전 대통령, 비밀경호국 지시로 에어포스원 항공기 교체했다고 밝혀",
+      "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-threat-plane-iran-decoy.html",
+      "summary": "도널드 트럼프 전 대통령이 비밀경호국의 명령으로 에어포스원 항공기를 비밀리에 교체했다고 주장했습니다. 이 사건은 대통령의 안전과 관련된 이례적인 조치로 해석됩니다. 이로 인해 당시 상황과 그 배경에 대한 궁금증이 증폭되고 있습니다.",
+      "pub_date": "2026-08-12T08:44:38+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "샌더스, '재앙 방지' 위해 인공지능 기업에 개발 중단 촉구",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html",
-      "summary": "버니 샌더스 상원의원이 인공지능(AI) 기술 개발의 잠재적 위험에 대해 경고했습니다. 그는 '재앙'을 피하기 위해 AI 기업들에게 개발을 일시 중단할 것을 촉구했습니다. 이는 AI의 급속한 발전에 따른 사회적, 윤리적 논의의 필요성을 강조하는 발언입니다.",
-      "pub_date": "2026-08-10T21:21:32+00:00"
+      "title": "위스콘신, 미네소타, 사우스캐롤라이나 예비선거에서 얻은 교훈들",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html",
+      "summary": "최근 치러진 위스콘신, 미네소타, 사우스캐롤라이나 주 예비선거에서 중요한 시사점들이 도출되었습니다. 각 지역 선거 결과는 해당 정당 내 역학 관계와 유권자들의 변화된 표심을 보여주었습니다. 이는 다가오는 본선거에 큰 영향을 미칠 핵심 요소로 분석됩니다.",
+      "pub_date": "2026-08-12T14:42:37+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "합동참모본부, 북한의 동쪽 방향 미상 발사체 발사 발표…탄도미사일 추정시 6일 만",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608120613411XA",
-      "summary": "합동참모본부가 북한이 동쪽 방향으로 미상 발사체를 발사했다고 밝혔습니다. 만약 탄도미사일로 확인될 경우, 이는 최근 발사 이후 6일 만에 이루어진 도발입니다. 우리 군은 북한의 움직임을 예의주시하며 대비 태세를 강화하고 있습니다.",
-      "pub_date": "2026-08-11T21:13:44+00:00"
+      "title": "선거관리위원회, 국민의힘이 제기한 선거소청 모두 기각 결정에 국민의힘 소송 추진",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260813002751GbP",
+      "summary": "선거관리위원회가 국민의힘이 제기한 선거소청을 전면 기각했습니다. 이에 국민의힘은 불복하고 소송을 제기할 방침을 밝혔습니다. 이번 결정은 정치권에 파장을 일으키며 법정 다툼으로 이어질 전망입니다.",
+      "pub_date": "2026-08-12T15:27:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, '불법 증축' 논란 김상호 춘추관장 면직안 재가",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812051625ANE",
-      "summary": "이 대통령이 '불법 증축' 논란에 휩싸였던 김상호 춘추관장의 면직안을 재가했습니다. 김 춘추관장은 자택의 불법 증축 사실이 드러나면서 여론의 비판을 받았습니다. 이번 면직 결정은 관련 논란을 해소하고 국정 운영의 기강을 바로잡기 위한 조치로 풀이됩니다.",
-      "pub_date": "2026-08-11T20:16:27+00:00"
+      "title": "이 대통령, \"인공지능 시대 이후 대비 위해 7대 첨단기술을 성장 엔진으로 삼아야\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260812204515RTx",
+      "summary": "이 대통령이 인공지능 시대 이후를 대비하기 위한 국가 비전을 제시했습니다. 7대 첨단기술을 미래 성장 동력으로 삼아 경쟁력을 강화해야 한다고 강조했습니다. 이는 대한민국의 새로운 먹거리를 찾고 경제 성장을 이끌 중요한 정책 방향으로 보입니다.",
+      "pub_date": "2026-08-12T11:45:16+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "경찰청장들, 하퍼 경관 살해범들의 조기 석방 막아달라며 총리에 촉구",
-      "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
-      "summary": "경찰청장들이 총리에게 PC 하퍼 경관 살해범들의 조기 석방을 막아달라고 공식적으로 요청했습니다. 이 사건은 영국 사회에 큰 파장을 일으켰으며, 사법 정의에 대한 논란을 불러일으키고 있습니다. 총리실은 이 요청에 대한 입장을 곧 발표할 예정입니다.",
-      "pub_date": "2026-08-11T21:21:44+00:00"
+      "title": "영국 총리, 생활비 지원 부족 인정하며 추가 지원 가능성 시사",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 총리가 현재의 생활비 지원 대책이 충분하지 않음을 인정했습니다. 총리는 물가 상승으로 어려움을 겪는 국민을 위해 추가 지원책을 강구할 수 있음을 시사했습니다. 이는 영국 정부가 심화되는 생활비 위기에 대해 더욱 적극적으로 대응할 것임을 나타냅니다.",
+      "pub_date": "2026-08-12T04:13:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "보수당, 외국인 사회주택 입주 금지 공약 발표",
-      "link": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "보수당이 외국인의 사회주택 입주를 금지하겠다는 공약을 발표했습니다. 이는 이민 문제와 주거 복지 정책에 대한 새로운 접근 방식을 제시하는 것입니다. 해당 공약은 찬반 논란을 불러일으키며 총선 주요 쟁점으로 부상할 전망입니다.",
-      "pub_date": "2026-08-07T07:43:31+00:00"
+      "title": "소형 보트 이용 채널 횡단 이민자, 기록적인 230명 발생",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+      "summary": "소형 보트를 이용해 영국 해협을 건너온 이민자 수가 기록적인 230명에 달했습니다. 이는 영국의 불법 이민 문제의 심각성을 다시 한번 부각시키고 있습니다. 정부의 이민 정책에 대한 압박이 더욱 커질 것으로 예상됩니다.",
+      "pub_date": "2026-08-10T14:51:06+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "합동참모본부, 북한의 동쪽 방향 미상 발사체 발사 속보 발표",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/12/MIND73H4IBCPNC4NRVRNKSFVDQ/",
-      "summary": "합동참모본부가 북한이 동해상으로 미상 발사체를 발사했다고 긴급 발표했습니다. 현재 우리 군은 북한 발사체의 종류와 비행 거리에 대한 정밀 분석을 진행 중입니다. 이번 발사는 한반도 긴장 완화 노력에 찬물을 끼얹는 행위로 비판받고 있습니다.",
-      "pub_date": "2026-08-11T21:13:38+00:00"
+      "title": "북한, 엿새 만에 또다시 탄도미사일 도발…700km 이상 비행",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/13/BBRS7CLDKRF6NDR3WE4MRWHZ54/",
+      "summary": "북한이 엿새 만에 또다시 탄도미사일을 발사하며 도발을 감행했습니다. 발사된 미사일은 700km 이상 비행한 것으로 파악되었습니다. 이는 한반도 긴장을 고조시키고 국제사회에 대한 위협으로 인식되고 있습니다.",
+      "pub_date": "2026-08-12T15:48:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "한 관계자, 보안 우려로 인해 트럼프가 터키에서 비밀리에 비행기를 바꿨다고 언급",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmVYcFNTSzNWdzRnbGJfX21YY2hzc0xXODAzN1NqS3RiaHNOM0xhR0Z4WHVUcVRQblppQUU4aFR3RVJ5RWJpYW15TW5kY2RZcTZTX0toRkl6eUI3ZEMzbEFVWU1xZ3VKUzI1Q3J6X0pBR0xaaTBud0dWUms0RW9KZnhadmg?oc=5",
-      "summary": "한 관계자에 따르면, 도널드 트럼프 전 대통령이 보안상의 심각한 우려 때문에 터키에서 비밀리에 비행기를 교체했다고 합니다. 이 조치는 당시 이란으로부터의 위협이 고조되는 상황에서 이루어졌습니다. 전직 대통령의 이례적인 이동 방식이 논란을 불러일으키고 있습니다.",
-      "pub_date": "2026-08-11T14:31:37+00:00"
+      "title": "이란 전쟁 격화 가능성 속 중동 주재 미국 대사관들, 인력 축소 장기화 대비",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NERZd0gtX2pCeW04Uk1XcXcyOUg5X1VfSkp2enNWRDBPSGJSNy1LZ3Q1LUtNclNHVXZ4LWh4M1EwQlR3OUJsNmlRc1ZxMlBHbURFaFJDRV9ReF8zal9LOFltQ3ZRb1AzVElKMUQtTFRPYWh0cGQyeW95UzBZZw?oc=5",
+      "summary": "이란 전쟁이 장기화될 가능성에 대비하여 중동 지역 주재 미국 대사관들이 인력 축소를 준비하고 있습니다. 이는 역내 안보 상황이 더욱 불안정해질 수 있음을 시사합니다. 미국 외교 정책과 중동 정세에 중대한 영향을 미칠 수 있는 조치입니다.",
+      "pub_date": "2026-08-12T09:00:29+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프 지지 후보들, 중간선거 앞두고 선거 사기 주장 확대 재생산",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHU2QVU0WDhYaDZwNlI2cU15MDdzRVlOR3BDS3RmYld3Q3FiSHNuc193b20yYTZMeEJQcWEtSmdvNzV6a1FpeU80VE5tT044OWdHbER2c2pjY01Hb3NId1lDTkNXLTIzeENRTEdXRWJHNjF5VTRfZHAxNXVvMkV6czFFdGtVelowaXNpcHpxUC1yQQ?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 지지하는 후보들이 중간선거를 앞두고 선거 사기 주장을 더욱 확산시키고 있습니다. 이는 유권자의 투표 신뢰도에 부정적인 영향을 미칠 수 있다는 우려를 낳고 있습니다. 민주주의의 근간을 흔들 수 있는 행위라는 비판이 제기되고 있습니다.",
-      "pub_date": "2026-08-11T00:41:40+00:00"
+      "title": "트럼프 전 대통령의 비밀 항공기 교체 과정 상세 보도",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzNfMExaNV80OXhOcHF6QzJnUDhJR0NucURIX3lyY2JlZmdfU2J3dTdCMUMtVmItMmJBYXJpamU5ejZMdmlINU1hYUdaSEhBd1lHR0FnNXF0eENLMHMyX1YxX3N5cUFjbG42alBHYlZqNFlRems4bXhtVGhNRGcyclV2ZGNXUWpUN0dEUVhn?oc=5",
+      "summary": "도널드 트럼프 전 대통령의 비밀스러운 전용기 교체 과정이 공개되었습니다. 이 사건은 언론과 대중의 이목을 집중시키며 큰 화제가 되었습니다. 대통령의 이동 방식과 보안에 대한 의문을 불러일으키고 있습니다.",
+      "pub_date": "2026-08-11T23:39:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "위스콘신주, 민주사회주의 주지사 후보 등 화요일 예비선거 주요 경합 주목",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdW0wUTBNblp3cjh3TDh4a2QwWkdfaVA5OFE5eUE5QXM4SU1VUTJPWk1GRmRNSlN2eXFZeXpNd0xaNUVIRGZNeGEyVXV4Z3h5MmxsTzJpN3M0cm1qZUp4amNKcjNSUmE2NU5ObXJRUkR0Rkthei1qU1JyeDRqNEVJZnd2MXhuX2Vtbllzby1yWDBFaXlQUGlubi15NlA3UHc?oc=5",
-      "summary": "위스콘신주에서는 화요일 예비선거에서 민주사회주의 주지사 후보의 당선 가능성이 주목받고 있습니다. 이와 함께 여러 핵심 경합 지역의 결과가 관심사로 떠오르고 있습니다. 이번 예비선거는 미국 정치 지형의 변화를 가늠할 중요한 시험대가 될 것으로 보입니다.",
-      "pub_date": "2026-08-11T09:00:29+00:00"
+      "title": "CNN 예측, 데이비드 크롤리가 위스콘신 민주당 주지사 예비선거 승리",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjJxZ1hTeG8tZUstaWZ1Zm5ndmdsclpxRllycV9MZGQ4ZjRTOHJ4V3U3cjJ3UnFZX2lpdU80UFJuS0R4SEhJYUhQX0JrVGo5RXJjeTJMOHJhelZEZk8xWVpkVS0yMlh2MThyd0dmUnltYkdJZWh4eHF4TUpOSzhDOVBSb01wYXIyWVZtRXpRSnFGSUg0cG9uRXVlLVBpb0VpU3RkcmMxaDlvMXRLQm41ZlZmcS1mRDNWS1pSZFhB?oc=5",
+      "summary": "CNN은 데이비드 크롤리가 위스콘신 주 민주당 주지사 예비선거에서 승리할 것으로 예측했습니다. 이는 위스콘신 주 차기 주지사 선거 구도에 큰 영향을 미칠 전망입니다. 민주당 내부의 새로운 정치적 흐름을 보여주는 결과로 평가됩니다.",
+      "pub_date": "2026-08-12T08:31:08+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미국-이란 대치로 유가 배럴당 90달러 도달",
+      "title": "7월 인플레이션 소폭 완화되었으나, 전쟁 지속으로 물가 여전히 높은 수준 유지",
+      "link": "https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html",
+      "summary": "7월 물가 상승률이 소폭 완화되었으나, 현재 진행 중인 전쟁의 영향으로 여전히 높은 수준을 유지하고 있습니다. 이는 소비자와 기업에 지속적인 경제적 부담을 주고 있습니다. 인플레이션 압력이 완전히 해소되기까지는 시간이 걸릴 것으로 예상됩니다.",
+      "pub_date": "2026-08-12T18:04:27+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "미국과 이란의 교착 상태로 유가 배럴당 90달러 기록",
       "link": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-      "summary": "미국과 이란 간의 긴장 고조로 인해 국제 유가가 배럴당 90달러를 기록했습니다. 호르무즈 해협의 지정학적 불안정성이 원유 공급 차질 우려를 증폭시킨 것입니다. 이는 세계 경제에 상당한 영향을 미칠 것으로 예상됩니다.",
+      "summary": "미국과 이란 간의 교착 상태가 지속되면서 국제 유가가 배럴당 90달러를 넘어섰습니다. 이는 전 세계 에너지 시장에 불안감을 조성하고 있습니다. 고유가는 글로벌 경제 성장에 부정적인 영향을 미칠 수 있습니다.",
       "pub_date": "2026-08-11T18:57:37+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "월스트리트, 인공지능 호황 위해 5천억 달러 추가 투자 희망",
+      "title": "월스트리트, 인공지능(AI) 붐에 5천억 달러 추가 투자 요구",
       "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
-      "summary": "월스트리트는 인공지능(AI) 산업의 폭발적인 성장을 위해 추가적으로 5천억 달러 규모의 투자를 모색하고 있습니다. 이는 AI 기술이 미래 경제의 핵심 동력이 될 것이라는 기대감을 반영합니다. 그러나 급격한 자금 유입에 따른 시장 과열 및 잠재적 위험에 대한 경고도 나오고 있습니다.",
-      "pub_date": "2026-08-10T23:28:13+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "NYT",
-      "title": "폭염, 화재, 연기, 폭풍 등 기후 재난이 경제에 큰 피해를 주고 있다",
-      "link": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
-      "summary": "전 세계적으로 폭염, 대형 화재, 연기, 강력한 폭풍 등 기후 재난이 발생하며 경제에 심각한 피해를 입히고 있습니다. 농업 생산량 감소, 인프라 손실, 관광업 위축 등이 주요 문제로 지적됩니다. 기후 변화가 경제 성장에 미치는 부정적인 영향이 점차 가시화되고 있습니다.",
-      "pub_date": "2026-08-11T16:58:58+00:00"
+      "summary": "월스트리트가 인공지능(AI) 기술 개발 붐에 맞춰 추가로 5천억 달러 규모의 투자를 요구하고 있습니다. 이는 AI 산업의 급격한 성장을 반영하는 것입니다. 대규모 투자는 AI 기술 발전을 더욱 가속화할 것으로 보입니다.",
+      "pub_date": "2026-08-10T23:28:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "월스트리트 거대 기업들, 엔비디아에 5천억 달러 투자해 인공지능 프로젝트 지원",
+      "title": "미국 인플레이션, 식품 및 연료 비용 하락으로 완화",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "미국의 인플레이션이 식품 및 연료 비용 하락에 힘입어 완화되는 추세를 보였습니다. 이는 소비자들이 느끼는 경제적 부담을 다소 덜어줄 것으로 기대됩니다. 연방준비제도(Fed)의 통화정책 결정에도 영향을 미칠 중요한 지표입니다.",
+      "pub_date": "2026-08-12T17:03:05+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "BBC",
+      "title": "월스트리트 거대 기업들, 인공지능(AI) 붐 지원 위해 엔비디아에 5천억 달러 투자",
       "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "월스트리트의 주요 투자사들이 엔비디아에 5천억 달러를 투자하여 인공지능(AI) 프로젝트의 급증을 지원하고 있습니다. 이는 AI 기술이 미래 산업의 핵심 동력이 될 것이라는 시장의 강력한 신뢰를 보여줍니다. 막대한 자금 유입으로 AI 개발 경쟁이 더욱 치열해질 전망입니다.",
+      "summary": "월스트리트의 주요 금융 기업들이 인공지능(AI) 기술 개발 붐을 지원하기 위해 엔비디아에 5천억 달러를 투자했습니다. 이는 AI 산업이 전례 없는 성장세를 보이고 있음을 나타냅니다. 엔비디아의 기술력이 AI 시대의 핵심 동력으로 인정받고 있음을 보여줍니다.",
       "pub_date": "2026-08-11T08:44:52+00:00"
     },
     {
       "category": "경제",
-      "outlet": "BBC",
-      "title": "메타, 소셜 미디어 거대 기업 중 가장 큰 아동 안전 위반으로 5억 6천 7백만 달러 벌금 부과",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 아동 안전 관련 규정 위반으로 5억 6천 7백만 달러의 벌금을 부과받았습니다. 이는 소셜 미디어 거대 기업에게 부과된 아동 안전 관련 벌금 중 역대 최대 규모입니다. 이번 판결은 플랫폼 기업의 아동 보호 책임에 대한 경종을 울리는 계기가 될 것으로 보입니다.",
-      "pub_date": "2026-08-07T09:22:03+00:00"
+      "outlet": "서울경제",
+      "title": "“이자도 못 내는” 깡통대출 6조 원 돌파…고금리 및 경기 침체로 중소기업·가계 위기 심화",
+      "link": "https://www.sedaily.com/article/20078431",
+      "summary": "이자조차 감당하지 못하는 깡통대출이 6조 원을 돌파하며 심각한 수준에 이르렀습니다. 고금리와 경기 침체 장기화로 중소기업과 가계의 재정난이 심화되고 있습니다. 금융 시스템 전반의 불안정성이 커질 수 있다는 우려가 제기되고 있습니다.",
+      "pub_date": "2026-08-12T00:37:44+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "전 재무부 고위 관계자, \"우리는 금융 위기 위험에 직면해 있지 않다고 생각한다\"고 밝혀",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2ZaZi1SeklYY3UyUXExbzEyY3J3cDdaYTdiQlJXaDFTNFYyUmNKU3RlT3FaMEVJSFNhT0pZanZUcTBnSmhjOFd3U091d2R2ZUlGVTBCajdsdjFFbHYxb3NBOGpVU1l0N3lMSEJxME50UWdxdnZUX004clRYMU1iRDhJb0pNSW03QnhzRURYSFRSZw?oc=5",
-      "summary": "한 전 재무부 고위 관계자가 현재 경제 상황에서 금융 위기 위험은 없다고 진단했습니다. 그는 글로벌 경제의 탄탄한 기초와 정부의 선제적 대응 능력을 근거로 들었습니다. 다만, 일부 불확실성 요인에 대한 지속적인 모니터링의 필요성은 강조했습니다.",
-      "pub_date": "2026-08-11T18:27:26+00:00"
+      "title": "미국 연간 인플레이션, 7월 유가 하락으로 3.4%로 완화",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TRVhVVWVfXzVqOEtFenNFaHRZS3dOUVdYS1FxelR3U2ZMVDdycU5zN0FybzRySzF6NGFlRnFWNV85Tnd3QWVsYnNJeDRIc2tENXBpY2dMZ2RCeEY0MHRWc0dHV2s0R1c0?oc=5",
+      "summary": "7월 미국 연간 인플레이션이 유가 하락에 힘입어 3.4%로 둔화되었습니다. 이는 인플레이션 압력이 완화되고 있음을 나타내는 긍정적인 신호입니다. 미국 경제가 점진적으로 안정화될 가능성을 시사합니다.",
+      "pub_date": "2026-08-12T12:33:04+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "중국의 공장 휴머노이드 로봇 도입 경쟁 내부 들여다보기",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjRQeHNPb0RZa3lrVl9uMlAxMVh1OXFaUjhrSlRRYkk0R2c1UWVqcGdXZ09Wd0FTRUN6ZXQ5MVdmZnlOamhPVjZKZlhzVkFFNVFsV0pJdTRxdmpzRTBRdU1ZYWtxVFZScThIb0swY0dsQmRtN0o4S2RPWWY0SExtNW1ySlRTdm8tWkhHSlFCNA?oc=5",
-      "summary": "중국이 공장에 휴머노이드 로봇을 대규모로 도입하려는 경쟁에 박차를 가하고 있습니다. 이는 인력난 해소와 생산성 향상을 목표로 하는 전략입니다. 세계 제조업 지형을 바꿀 수 있는 중대한 변화로 평가받고 있습니다.",
-      "pub_date": "2026-08-11T07:25:42+00:00"
+      "title": "LA 레이커스, 디즈니 전 최고경영자와 재러드 쿠슈너 동생에게 125억 달러라는 기록적인 가격에 매각",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFhONHZSUm1pbThKcnBaUzVBWGpPWm5Ndl9ZRS1rYUdrc2hXLVJaQmYtM2dvQVNkYk9HYjk5R255NHZvMnV0RDQzQWR6QzlxRmlRVGZ4NUw1bmlNalY1c2lfbmV4MEl0RUUwWVhrWVRlQnU1eFNyWEpYOTNSVEtEY2twWGs?oc=5",
+      "summary": "미국 프로농구(NBA) LA 레이커스가 디즈니 전 최고경영자 로버트 아이거와 재러드 쿠슈너의 동생 조쉬 쿠슈너에게 125억 달러라는 사상 최고가에 매각되었습니다. 이는 스포츠 구단 거래 역사상 전례 없는 규모입니다. 이번 매각은 스포츠 산업의 가치와 투자 트렌드를 다시 한번 보여주는 사례입니다.",
+      "pub_date": "2026-08-12T15:07:57+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "\"모든 것이 새롭다\": 데이터 센터가 소도시 경제를 어떻게 변화시켰는가",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekhDdFZCZ0RBZEkwNGNrTko3ZFBjS2dCWWpPS3Z3NTlvOTF5NXBreVY2UU5tV011X3dibGd2dUluNVVHSnFJTm5XWlBMd1A4aXBIUFpCdl8tNkc2M191Zk1kNzdQZW9PeHJrRWJuSlZKUGxvV1NjbTEzbERfc3U3RFhQVVN4T0d6aDBGcEU0OXRQc0ROSFkxMzgzSUJNTmZOMElob3RhR212TmdxaWRpbl81UmxBUXdNM1VGdks3X19GR0IyeWJ4N3FPQ3A4QWxla2c0bEJUaHBCM0xHc0tSVm5KVW15UQ?oc=5",
-      "summary": "데이터 센터 유치가 한 소도시의 경제를 완전히 탈바꿈시킨 사례가 주목받고 있습니다. 새로운 일자리 창출과 인구 유입으로 지역 경제에 활력을 불어넣었습니다. 이는 기술 인프라 투자가 지역 발전에 미치는 긍정적 효과를 보여줍니다.",
-      "pub_date": "2026-08-11T10:00:29+00:00"
+      "title": "파라마운트-스카이댄스, 반독점 합병 문제 해결 위해 CNN 매각 검토 중",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGNMd1I0OTROT3NfMVpkU3RocTlMc3BOcG14OXNJU3djNXR4NlhxcFkwUV9rUzRfc3NlR2RpMW0wX2FLdFRFSVU4dWJkdmU3NWtBOFRJWlVMMFBwalFTWDBwdkVnSXhmdGdWZExwcVZHaUJtNGNyNHc4WEo0NFdLaXJqWjE4NzV3aDR5NVFPZ3NxVEh0N1JDTV9xTi1sNTlveVc1eUtLeElMX2dhOGfSAbMBQVVfeXFMTjVqdUt0TmVNeEp5azMwME81cHk2VEpvaVhJT1Rpc2dha1VnRmxrNm1uRmFaeU9NcDlMZ3NVbFBOQmFEODRjVElJUWlvTFc1c0VaRXFpRjRwcm1WOEtkeDlXZUg0SThxcEdycmlGT1NlZzlRcEY5a1NNV1QyejZHNHc5MDFlT2dwSHpDTDRqUnpISW82MWZRdE1yWXhFRlVWWVQwYmpxQlFFdjQtaVVlVmUzakU?oc=5",
+      "summary": "파라마운트와 스카이댄스가 반독점 합병 문제를 해결하기 위해 CNN 매각을 검토하고 있습니다. 이는 대규모 미디어 기업 간의 합병 과정에서 발생하는 규제 문제를 보여줍니다. 미디어 산업의 지형도에 큰 변화를 가져올 수 있는 중요한 결정입니다.",
+      "pub_date": "2026-08-12T18:26:53+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "삼성전자, 고대역폭 메모리 HBM4 수율 80% 돌파…양산 6개월 만에 목표 달성",
-      "link": "https://zdnet.co.kr/view/?no=20260811213914",
-      "summary": "삼성전자가 차세대 고대역폭 메모리(HBM)인 HBM4의 수율 80%를 돌파하며 양산 6개월 만에 목표를 달성했습니다. 이는 인공지능(AI) 반도체 시장에서의 경쟁력을 크게 강화하는 성과로 평가됩니다. 기술력 확보를 통해 시장 주도권 경쟁에서 유리한 고지를 점하게 되었습니다.",
-      "pub_date": "2026-08-11T12:39:14+00:00"
+      "title": "10년 뒤 대한민국의 미래 먹거리로 양자, SMR 등 7대 분야에 '씨앗투자' 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260812180452",
+      "summary": "대한민국 정부가 10년 뒤 국가의 핵심 먹거리가 될 7대 '씨앗 기술' 분야를 선정했습니다. 양자 기술, 소형모듈원자로(SMR) 등이 포함된 이 분야에 집중적인 투자가 이루어질 예정입니다. 이는 미래 성장 동력을 확보하고 글로벌 기술 경쟁력을 강화하기 위한 국가 전략입니다.",
+      "pub_date": "2026-08-12T09:04:52+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "북한 해커 김수키, 로컬 거대 언어 모델 구축…Ollama·GPT4All 흔적 확인",
-      "link": "https://zdnet.co.kr/view/?no=20260811213820",
-      "summary": "북한 해커 조직 김수키가 자체 로컬 거대 언어 모델(LLM)을 구축한 정황이 포착되었습니다. 이는 Ollama와 GPT4All 등 오픈소스 LLM의 흔적을 통해 확인되었습니다. 북한의 AI 기술 활용 능력이 예상보다 높다는 점이 드러나면서 사이버 안보 위협에 대한 우려가 커지고 있습니다.",
-      "pub_date": "2026-08-11T12:38:20+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "SK하이닉스, 경쟁사인 일본 키옥시아의 사실상 1대 주주로 부상",
-      "link": "https://www.etnews.com/20260811000300",
-      "summary": "SK하이닉스가 경쟁사인 일본 키옥시아의 지분을 추가 확보하여 사실상 최대 주주로 올라섰습니다. 이는 글로벌 낸드플래시 시장에서 SK하이닉스의 영향력을 크게 확대할 것으로 보입니다. 반도체 산업의 지각변동을 예고하며 업계의 이목이 집중되고 있습니다.",
-      "pub_date": "2026-08-11T06:29:30+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "삼성SDI, 미국 제너럴모터스(GM) 합작 공장 지분 전량 인수",
-      "link": "https://www.etnews.com/20260811000270",
-      "summary": "삼성SDI가 미국 제너럴모터스(GM)와의 합작 공장 지분 전량을 인수하기로 결정했습니다. 이로써 삼성SDI는 북미 시장에서 배터리 생산 거점을 단독으로 확보하게 되었습니다. 전기차 배터리 시장 주도권 경쟁에서 중요한 발판을 마련한 것으로 평가됩니다.",
-      "pub_date": "2026-08-11T05:40:46+00:00"
+      "title": "SK하이닉스, 미국 인디애나 패키징 팹 27일 착공식 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260812170124",
+      "summary": "SK하이닉스가 미국 인디애나주에 새로운 첨단 패키징 공장 착공식을 27일 개최합니다. 이는 글로벌 생산 거점을 확대하고 인공지능(AI) 시대에 필요한 고성능 반도체 수요에 대응하기 위한 전략입니다. 미국 내 반도체 공급망 강화에도 기여할 것으로 기대됩니다.",
+      "pub_date": "2026-08-12T08:43:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK하이닉스, 도시바 제치고 키옥시아 최대주주 등극",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=670619",
-      "summary": "SK하이닉스가 일본 도시바를 제치고 키옥시아의 최대주주 지위를 확보했습니다. 이는 낸드플래시 시장에서 SK하이닉스의 입지를 더욱 강화하는 중요한 사건입니다. 글로벌 반도체 산업 생태계에 큰 변화를 가져올 것으로 예상됩니다.",
-      "pub_date": "2026-08-11T16:11:14+00:00"
+      "title": "취임 후 첫 메시지 밝힌 SK하이퍼 정석근, \"풀스택 인공지능으로 시장 선점\"",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=670786",
+      "summary": "SK하이퍼의 정석근 대표가 취임 후 첫 메시지에서 '풀스택 인공지능(AI)'으로 시장을 선점하겠다는 포부를 밝혔습니다. 이는 AI 기술과 서비스를 통합하여 경쟁 우위를 확보하려는 전략입니다. 국내 AI 산업의 향방에 중요한 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-08-12T17:44:11+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "인텔, 유상증자 규모 200억 달러로 확대…주당 95달러",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=670670",
-      "summary": "인텔이 유상증자 규모를 200억 달러로 확대하며 주당 95달러에 발행할 예정입니다. 이는 인공지능(AI) 반도체 경쟁력 강화와 시설 투자에 필요한 자금을 확보하기 위함입니다. 대규모 자금 조달을 통해 인텔의 미래 전략 추진에 탄력이 붙을 것으로 보입니다.",
-      "pub_date": "2026-08-12T00:54:29+00:00"
+      "title": "현대자동차, \"인공지능(AI) 활용해 중국차보다 긴 차량 개발 기간 단축 목표\" 제시",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=670736",
+      "summary": "현대자동차가 인공지능(AI) 기술을 활용하여 차량 개발 기간을 단축하겠다는 목표를 발표했습니다. 이는 중국 자동차 제조사보다 긴 개발 기간을 효율적으로 줄이기 위한 전략입니다. AI 도입을 통해 연구 개발 효율성을 극대화하고 시장 경쟁력을 강화하려는 움직임입니다.",
+      "pub_date": "2026-08-12T16:00:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "SK하이닉스, 일본 키옥시아의 사실상 최대 주주로… 도시바 지분 매각으로 순위 역전",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/11/3NTOJ66UIRBWTJBAOYR33RJNLM/",
-      "summary": "SK하이닉스가 도시바의 지분 매각으로 인해 일본 키옥시아의 사실상 최대 주주로 등극했습니다. 이는 글로벌 낸드플래시 시장에서 SK하이닉스의 영향력을 크게 확대할 것으로 예상됩니다. 이번 지분 변동으로 반도체 산업 내 경쟁 구도에도 변화가 있을 것으로 보입니다.",
-      "pub_date": "2026-08-11T07:23:01+00:00"
+      "title": "중국 CXMT, PC 이어 모바일 D램으로 사업 확장…삼성·SK 추격 가속화",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/13/N2VCVEITFFAY3E2A6BSAV7QMVA/",
+      "summary": "중국 CXMT(창신메모리테크놀로지)가 PC D램에 이어 모바일 D램 시장으로 사업 영역을 확대하고 있습니다. 이는 삼성전자와 SK하이닉스 등 선두 기업들을 빠르게 추격하려는 움직임으로 해석됩니다. 글로벌 D램 시장의 경쟁 구도에 큰 변화를 가져올 것으로 예상됩니다.",
+      "pub_date": "2026-08-12T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "오픈AI, 상장 전 직원 구주 10조 원 규모 매입",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/11/7ABC5V3QFJHP3EQQ4HFQSVN4SU/",
-      "summary": "오픈AI가 기업공개(IPO)를 앞두고 직원들의 구주를 약 10조 원 규모로 매입했습니다. 이는 회사의 가치 상승과 직원 보상 강화라는 두 마리 토끼를 잡기 위한 전략입니다. 인공지능(AI) 산업의 성장 기대감을 반영하며 오픈AI의 기업 가치가 주목받고 있습니다.",
-      "pub_date": "2026-08-11T08:44:29+00:00"
+      "title": "TSMC, 인공지능(AI) 수요 대응 위해 42조 원 투자…2나노 및 첨단 패키징 확대",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/12/BMKX4QUOENCMJEM5KVXJS3Y3XY/",
+      "summary": "TSMC가 인공지능(AI) 수요 증가에 대응하기 위해 42조 원 규모의 대규모 투자를 단행합니다. 2나노 공정 기술과 첨단 패키징 역량을 확대하여 AI 칩 생산 능력을 강화할 계획입니다. 이는 글로벌 반도체 파운드리 시장의 기술 경쟁을 더욱 심화시킬 것입니다.",
+      "pub_date": "2026-08-12T06:46:57+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 가장 강력한 인공지능 모델의 오픈소스 버전 공개",
-      "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "summary": "메타가 자사의 가장 강력한 인공지능(AI) 모델을 오픈소스 버전으로 공개했습니다. 이는 AI 기술의 대중화와 개발 생태계 확장을 목표로 합니다. 경쟁사들과의 차별화를 통해 AI 분야에서의 리더십을 강화하려는 전략으로 풀이됩니다.",
-      "pub_date": "2026-08-10T18:00:55+00:00"
+      "title": "메타, 가장 강력한 인공지능(AI) 모델의 오픈 소스 버전 공개",
+      "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+      "summary": "메타가 자사의 가장 강력한 인공지능(AI) 모델을 오픈 소스 버전으로 공개했습니다. 이는 AI 기술의 접근성을 높이고 개발 커뮤니티의 혁신을 촉진할 것으로 기대됩니다. 오픈 소스 전략은 AI 생태계에 큰 영향을 미칠 중요한 결정으로 평가됩니다.",
+      "pub_date": "2026-08-10T09:02:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "뉴멕시코주 판사, 메타에 5억 6천 7백만 달러 벌금 지불 명령",
+      "title": "뉴멕시코 법원, 메타에 5억 6,700만 달러 벌금 부과 명령",
       "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-      "summary": "뉴멕시코주 법원 판사가 메타에 5억 6천 7백만 달러의 벌금 지불을 명령했습니다. 이번 판결은 아동 보호 및 개인 정보 침해와 관련된 문제에서 비롯되었습니다. 이는 빅테크 기업의 책임과 규제 강화에 대한 목소리를 더욱 키울 것으로 예상됩니다.",
+      "summary": "뉴멕시코 법원이 메타(Meta)에 5억 6,700만 달러에 달하는 벌금 지급을 명령했습니다. 이는 빅테크 기업에 대한 규제와 아동 안전 문제에 대한 책임이 강화되고 있음을 보여줍니다. 이번 판결은 소셜 미디어 플랫폼의 운영 방식에 중대한 영향을 미칠 것입니다.",
       "pub_date": "2026-08-07T09:50:24+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "월스트리트 거대 기업들, 엔비디아에 5천억 달러 투자해 인공지능 프로젝트 활성화",
+      "title": "월스트리트 거대 기업들, 인공지능(AI) 붐 지원 위해 엔비디아에 5천억 달러 투자",
       "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "월스트리트의 주요 기업들이 엔비디아에 5천억 달러를 투자하여 인공지능(AI) 프로젝트의 급성장을 지원합니다. 이는 AI 기술이 차세대 기술 혁신의 핵심 동력이 될 것이라는 강력한 시장의 기대를 반영합니다. 막대한 자금 유입은 AI 연구 개발 및 인프라 확장에 가속도를 붙일 전망입니다.",
+      "summary": "월스트리트의 주요 금융 기업들이 인공지능(AI) 기술 개발 붐을 지원하기 위해 엔비디아에 5천억 달러를 투자했습니다. 이는 AI 산업이 전례 없는 성장세를 보이고 있음을 나타냅니다. 엔비디아의 기술력이 AI 시대의 핵심 동력으로 인정받고 있음을 보여줍니다.",
       "pub_date": "2026-08-11T08:44:52+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "메타, 소셜 미디어 거대 기업 중 최대 규모의 아동 안전 위반으로 5억 6천 7백만 달러 벌금 부과",
+      "title": "메타, 소셜 미디어 대기업 대상 최대 규모 아동 안전 판결로 5억 6,700만 달러 벌금 부과",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 아동 안전 관련 규정 위반으로 5억 6천 7백만 달러의 벌금을 부과받았습니다. 이는 소셜 미디어 플랫폼의 아동 보호 책임에 대한 경고로 해석됩니다. 기술 기업들이 사용자 안전, 특히 미성년자 보호에 더 많은 노력을 기울여야 한다는 사회적 요구가 커지고 있습니다.",
+      "summary": "메타가 소셜 미디어 대기업을 상대로 한 최대 규모의 아동 안전 관련 판결로 5억 6,700만 달러의 벌금을 부과받았습니다. 이번 판결은 온라인 아동 보호의 중요성을 강조하고 있습니다. 소셜 미디어 플랫폼들의 책임에 대한 사회적 요구가 커지고 있음을 보여줍니다.",
       "pub_date": "2026-08-07T09:22:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "인공지능 통제권 둘러싼 논쟁 격화",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcEJmM1B4RU1VOThaTGNjMlQyZ0dXXzRIZEZtYXBvX3VOVHV0QnlKblhzcDN0S3I5SllKOTRWN0FFaUt5eGNjMFZERkxESk9tb1VPaXN1RlVORzcyR3Q1djZKbTlveDJheEg2bEZYOEVRTlVGbTNzX1RvcTdzclhYbGg2enZ4dzlxb3UxU0RnVTlhT2c?oc=5",
-      "summary": "인공지능(AI) 기술이 급속도로 발전하면서 누가 이를 통제해야 하는지에 대한 논쟁이 격화되고 있습니다. 정부, 기업, 시민 사회 등 다양한 주체들이 AI의 윤리적 사용과 규제 방안에 대해 목소리를 내고 있습니다. AI의 미래 방향을 결정할 중대한 기로에 서 있습니다.",
-      "pub_date": "2026-08-11T17:31:16+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "중국의 공장 휴머노이드 로봇 도입 경쟁 현황",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjRQeHNPb0RZa3lrVl9uMlAxMVh1OXFaUjhrSlRRYkk0R2c1UWVqcGdXZ09Wd0FTRUN6ZXQ5MVdmZnlOamhPVjZKZlhzVkFFNVFsV0pJdTRxdmpzRTBRdU1ZYWtxVFZScThIb0swY0dsQmRtN0o4S2RPWWY0SExtNW1ySlRTdm8tWkhHSlFCNA?oc=5",
-      "summary": "중국이 제조업 분야에 휴머노이드 로봇을 대거 도입하려는 경쟁에 박차를 가하고 있습니다. 이는 생산 효율성 극대화와 인력난 해소를 위한 전략적 움직임입니다. 중국의 이러한 행보는 글로벌 로봇 시장과 제조업 공급망에 큰 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-08-11T07:25:42+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "인공지능 통제권 둘러싼 논쟁 격화",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcEJmM1B4RU1VOThaTGNjMlQyZ0dXXzRIZEZtYXBvX3VOVHV0QnlKblhzcDN0S3I5SllKOTRWN0FFaUt5eGNjMFZERkxESk9tb1VPaXN1RlVORzcyR3Q1djZKbTlveDJheEg2bEZYOEVRTlVGbTNzX1RvcTdzclhYbGg2enZ4dzlxb3UxU0RnVTlhT2c?oc=5",
-      "summary": "인공지능(AI) 기술이 급속도로 발전하면서 누가 이를 통제해야 하는지에 대한 논쟁이 격화되고 있습니다. 정부, 기업, 시민 사회 등 다양한 주체들이 AI의 윤리적 사용과 규제 방안에 대해 목소리를 내고 있습니다. AI의 미래 방향을 결정할 중대한 기로에 서 있습니다.",
-      "pub_date": "2026-08-11T17:31:16+00:00"
+      "title": "인공지능(AI)으로 치명적인 비행기 추락 사고 음성 재현, 규제 당국 개입 촉발",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQlBtVU4xWnNRcEhrM3BDVUZhUjJ3Tzd5SzJoRkNlSTNIODk3VHNBY2dUMEFKUFpyNldibTNueUhSYjh3NFh1ajVRZ2JsQVJQdXZzcU1OMFFZUmhkOVNTUTE4VlZFemttSHJuU0N4TFU?oc=5",
+      "summary": "치명적인 비행기 추락 사고의 음성이 인공지능(AI) 기술로 재현되면서 논란이 일고 있습니다. 이에 따라 규제 당국이 AI 기술의 윤리적 사용과 안전성 문제에 개입하기 시작했습니다. AI의 오용 가능성에 대한 심각한 우려가 제기되고 있습니다.",
+      "pub_date": "2026-08-12T09:00:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "콜롬비아 지진 사망자 최소 181명으로 증가, 구조대 생존자 수색 총력",
+      "title": "콜롬비아 지진 사망자 최소 181명으로 증가, 구조대 생존자 수색 계속",
       "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
-      "summary": "콜롬비아 지진으로 인한 사망자 수가 최소 181명으로 늘어났습니다. 구조대는 무너진 건물 잔해 속에서 생존자를 찾기 위해 필사적인 수색 작업을 벌이고 있습니다. 국제 사회는 콜롬비아에 구호 지원을 약속하며 애도를 표하고 있습니다.",
-      "pub_date": "2026-08-11T20:11:24+00:00"
+      "summary": "콜롬비아 지진으로 인한 사망자가 최소 181명으로 늘어났습니다. 구조대는 여전히 생존자를 찾기 위한 필사적인 수색 작업을 이어가고 있습니다. 이번 지진은 콜롬비아에 막대한 인명 및 재산 피해를 남겼습니다.",
+      "pub_date": "2026-08-12T00:44:28+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "우크라이나 공습 확대 속 러시아 민간인 사망자 급증",
+      "title": "우크라이나 공중전 확대되면서 러시아 민간인 사망자 급증",
       "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-      "summary": "우크라이나가 공습 작전을 확대하면서 러시아 민간인 사망자 수가 빠르게 증가하고 있습니다. 양측의 교전이 장기화됨에 따라 민간인 피해가 걷잡을 수 없이 커지고 있습니다. 유엔은 즉각적인 휴전과 민간인 보호를 촉구하고 나섰습니다.",
+      "summary": "우크라이나가 공중전을 확대하면서 러시아 민간인 사망자가 급격히 증가하고 있습니다. 이는 전쟁의 양상이 변화하고 있음을 보여줍니다. 민간인 피해 증가는 국제사회의 우려를 더욱 키우고 있습니다.",
       "pub_date": "2026-08-11T11:43:18+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "예멘 정부, 홍해 선박 후티 공격으로 4명 사망 발표",
-      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-      "summary": "예멘 정부는 홍해에서 발생한 선박에 대한 후티 반군의 공격으로 4명이 사망했다고 밝혔습니다. 이번 공격은 이 지역의 해상 안보를 더욱 위협하는 심각한 사건입니다. 국제사회는 후티 반군의 도발을 강력히 규탄하고 있습니다.",
-      "pub_date": "2026-08-11T18:29:19+00:00"
+      "title": "짐바브웨 카리바 호수에서 페리 전복, 40명 이상 사망",
+      "link": "https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html",
+      "summary": "짐바브웨 카리바 호수에서 페리가 전복되는 사고가 발생하여 40명 이상이 사망했습니다. 이번 사고는 지역 사회에 큰 충격을 주었습니다. 정확한 사고 원인과 피해 규모에 대한 조사가 진행 중입니다.",
+      "pub_date": "2026-08-12T18:28:48+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "전직 해병대원 로버트 길먼, 4년간 러시아 교도소 복역 후 석방",
-      "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-      "summary": "전직 미 해병대원 로버트 길먼이 러시아에서 4년간 복역한 끝에 석방되었습니다. 그의 석방은 미국과 러시아 간의 긴장 관계 속에서 이루어진 것으로, 외교적 성과로 평가됩니다. 길먼은 구금 기간 동안 건강이 좋지 않았던 것으로 알려졌습니다.",
-      "pub_date": "2026-08-11T20:01:16+00:00"
+      "title": "수십 년 만에 유럽에서 펼쳐진 개기일식, 낮이 밤으로 변하는 장관 연출",
+      "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "summary": "수십 년 만에 유럽 대륙에서 개기일식이 관측되어 낮이 밤으로 변하는 경이로운 장관을 연출했습니다. 많은 사람들이 이 희귀한 천문 현상을 보기 위해 모여들었습니다. 개기일식은 과학적 관심과 대중적 흥미를 동시에 불러일으켰습니다.",
+      "pub_date": "2026-08-12T21:29:31+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "소셜 미디어가 스페인과 모로코 간 난민 위기를 촉발한 방법",
-      "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-      "summary": "소셜 미디어가 스페인과 모로코 국경 지대에서 난민 위기를 촉발하는 데 중요한 역할을 했습니다. 잘못된 정보와 유언비어가 난민들의 대규모 이동을 부추긴 것으로 분석됩니다. 이는 소셜 미디어의 역기능과 국경 문제의 복잡성을 보여주는 사례입니다.",
-      "pub_date": "2026-08-11T13:23:37+00:00"
+      "title": "유럽인들, 2026년 다섯 번째 폭염에 지쳐",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
+      "summary": "유럽인들이 2026년에 들어서 다섯 번째 폭염에 시달리며 극심한 피로감을 느끼고 있습니다. 기록적인 고온은 건강 문제와 산불 위험을 가중시키고 있습니다. 이는 기후 변화의 심각성을 다시 한번 일깨우는 중요한 이슈입니다.",
+      "pub_date": "2026-08-12T12:50:01+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "콜롬비아 지진 사망자 180명, 구조대 생존자 수색에 총력",
-      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "콜롬비아에서 발생한 강진으로 현재까지 180명 이상의 사망자가 발생했습니다. 구조팀은 무너진 잔해 속에서 생존자를 구하기 위해 밤샘 수색 작업을 벌이고 있습니다. 국제 사회는 신속한 지원과 구조 활동을 약속하며 피해 복구에 힘을 보태고 있습니다.",
-      "pub_date": "2026-08-11T19:09:52+00:00"
+      "title": "우크라이나 흑해 항구 공격으로 러시아 주요 곡물 수출 터미널 타격",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "summary": "우크라이나의 흑해 항구 공격으로 러시아의 주요 곡물 수출 터미널이 타격을 입었습니다. 이는 글로벌 곡물 시장과 식량 안보에 큰 영향을 미칠 수 있습니다. 러시아와 우크라이나 간의 전쟁이 경제적 측면에서 더욱 격화되고 있음을 보여줍니다.",
+      "pub_date": "2026-08-12T17:47:01+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "젤렌스키, 러시아가 우크라이나 공격에 북한 미사일 사용한다고 밝혀",
-      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 러시아가 자국 공격에 북한산 미사일을 사용하고 있다고 주장했습니다. 이는 국제사회에 큰 파장을 일으키며 러시아와 북한 간의 군사 협력 의혹을 증폭시키고 있습니다. 서방 국가들은 이에 대한 강력한 조치를 논의 중입니다.",
-      "pub_date": "2026-08-11T16:19:44+00:00"
+      "title": "콜롬비아 지진, 잔해 속에서 36시간 만에 여성 생존자 극적으로 구조",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "summary": "콜롬비아 지진 현장에서 잔해에 갇혀있던 한 여성이 36시간 만에 극적으로 구조되었습니다. 이는 희망을 주는 소식으로, 구조대원들의 헌신적인 노력을 보여줍니다. 지진 피해 속에서도 인명 구조의 기적은 계속되고 있습니다.",
+      "pub_date": "2026-08-12T20:56:11+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "레바논 의회, 사형제 폐지 법안 통과",
+      "title": "짐바브웨 카리바 호수 페리 침몰, 최소 44명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "summary": "짐바브웨 카리바 호수에서 페리 침몰 사고가 발생하여 최소 44명이 사망했습니다. 이 비극적인 사고는 현지 사회에 큰 충격과 슬픔을 안겨주었습니다. 당국은 정확한 사고 원인 규명에 나섰습니다.",
+      "pub_date": "2026-08-12T13:55:56+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "레바논 의회, 사형제 폐지 법안에 찬성표 던져",
       "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "레바논 의회가 사형제 폐지 법안을 통과시켰습니다. 이는 중동 지역에서 인권 신장을 위한 중요한 진전으로 평가됩니다. 수십 년간 지속된 사형제 논란에 종지부를 찍고 새로운 사법적 전환점을 맞게 되었습니다.",
+      "summary": "레바논 의회가 사형제 폐지 법안에 찬성표를 던지면서 사형제를 폐지하기로 결정했습니다. 이는 레바논의 인권 개선에 중대한 진전을 의미합니다. 중동 지역에서 사형제를 폐지하는 중요한 선례가 될 수 있습니다.",
       "pub_date": "2026-08-11T15:24:07+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "축출된 시리아 독재자 바샤르 알아사드, 궐석 재판에서 사형 선고",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "축출된 시리아 독재자 바샤르 알아사드가 궐석 재판에서 사형을 선고받았습니다. 이는 국제 형사 재판소에서 전쟁 범죄와 반인도적 범죄 혐의로 기소된 데 따른 것입니다. 정의 구현을 위한 중요한 상징적 판결로 여겨지며 국제 사회의 주목을 받고 있습니다.",
-      "pub_date": "2026-08-11T14:50:10+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "러시아, 건강 상태 좋지 않다고 보고된 전직 미 해병대원 석방",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아가 건강 상태가 좋지 않다고 알려진 전직 미 해병대원을 석방했습니다. 그는 러시아에서 수년간 구금되어 있었으며, 미국 정부는 그의 석방을 위해 노력해 왔습니다. 이번 석방은 양국 간의 관계에 긍정적인 영향을 미칠 수 있을 것으로 기대됩니다.",
-      "pub_date": "2026-08-11T17:02:22+00:00"
+      "title": "대통령 위장용 미끼 항공기는 흔하지만, 트럼프의 정교한 속임수는 차원이 달랐다",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "대통령의 안전을 위해 미끼 항공기를 사용하는 것은 흔한 일이지만, 트럼프 전 대통령의 경우 그 수법이 매우 정교하고 이례적이었습니다. 이 사건은 대통령의 보안 전략과 관련된 논란을 불러일으켰습니다. 일반적인 상식을 뛰어넘는 전례 없는 사례로 기록되었습니다.",
+      "pub_date": "2026-08-11T20:39:42+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "강력한 지진 후 잔해 더미 아래에서 콜롬비아 아기 구조",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTlqcndJbC1rcnBTWXdTTkRlZjNTbmpVTFJUY2ctbm5HWUt6eG9qMmNhemF5emtvdW5BMTEtZm95ZE5wMXFiSE9jNnctT2RvUkc0TEpzejNYcERmbUNzVXM2TVAzSDlobWdiOUZDa3ctdmpvYkVvUzJUdG1wTHdHVjk4TU9JRVRS?oc=5",
-      "summary": "콜롬비아를 강타한 강력한 지진으로 무너진 잔해 더미 아래에서 아기가 극적으로 구조되었습니다. 이는 절망적인 상황 속에서 희망을 주는 소식으로 전 세계의 주목을 받고 있습니다. 구조대원들의 헌신적인 노력에 찬사가 이어지고 있습니다.",
-      "pub_date": "2026-08-11T19:38:36+00:00"
+      "title": "젤렌스키 대통령, 러시아 탄도미사일 공격 및 추가 요격 미사일 필요성에 대해 CNN과 인터뷰",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZk1MQTVwTXJKcWE5Sm5IZlY5V1BtQWg4RmlXeU1mdGNrYXU0TERlVXNRYnlMOTBpZkY4WVA5d3BRaVplVU8zSHlhbTFZU1ZsUEZ5NG1ZOTJ2WjJIcmNkdFR4N3RFbnpnc1RjMGp3bnprR010clVndS1LVGZ6SVlxSHl4bVM3STBKSjZxSVA0UGpTcFlvQkFDREs5dUo4aGxkbmJvQXdIQS1jdUJNakE?oc=5",
+      "summary": "젤렌스키 우크라이나 대통령이 CNN과의 인터뷰에서 최근 러시아의 탄도미사일 공격에 대해 언급했습니다. 그는 러시아의 공습에 대응하기 위한 추가적인 요격 미사일의 필요성을 강조했습니다. 이는 우크라이나 전쟁의 현재 상황과 서방의 지속적인 군사 지원 요구를 보여줍니다.",
+      "pub_date": "2026-08-12T21:09:14+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "시리아 전 대통령 알아사드, 궐석 재판에서 사형 선고",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3RSd2RQdEY3eERQNHlfVm85bl9TRkc4SjJOSHN3Nl9JOUViVk9ZNFN6SWVSelBfaS1WNkJYRHU5X2NwWHhKbkNQdWpPaXlTVUQ1ZDJsR2NTTGx3d2k4MXBrZ1V3eFFJdlZIdjFLUnBfR1E4UklQNzJCRDFXZmpmb1JVMVp1Ym50X2c?oc=5",
-      "summary": "시리아 전 대통령 알아사드가 궐석 재판에서 사형을 선고받았습니다. 그는 전쟁 범죄 및 반인도적 범죄 혐의로 국제 재판에 넘겨진 바 있습니다. 이번 판결은 국제 정의 구현을 위한 중요한 발걸음으로 평가되고 있습니다.",
-      "pub_date": "2026-08-11T09:01:02+00:00"
+      "title": "콜롬비아 지진 발생 후 구조 작업 진행 중",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1ZxN2k4ZXduSmU5YmFfT0dfNW1tNUNabkN0U1dCRkhKOFE2aUU0alhYZHIwQUo4VVcyQmc5SjY4enFaa051clpYVl9yMXRRd1ppWkJGR3g1S2lFUl8xaUxLaGJmME0yWUlBeHlESHR4U1RnU2RnR1RIenNwdm93T2ZQYTctb21fQUdyWlBkZi1keGRTck1kWE9UaGt4NHFvQnFNVVYtMWJuLUhkdlNPREdQcDdRQ3dmQXBCNkZlUk9wajhfSlZnUDVYTmc1YzR5eTNOU21LRQ?oc=5",
+      "summary": "콜롬비아에서 발생한 지진 이후 광범위한 구조 작업이 활발히 진행되고 있습니다. 수많은 인명 피해가 우려되는 가운데, 생존자 수색에 총력을 기울이고 있습니다. 이번 지진은 콜롬비아에 큰 비극을 안겨주었으며, 국제적인 지원이 필요한 상황입니다.",
+      "pub_date": "2026-08-12T17:33:27+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "중국 로켓 발사 몇 초 만에 폭발",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHk2TkEzUklGYmNuNFdneUxjeEMza2pKN1VOYmFrV3FEdElBSC02bG5nNjFGNkswN0pxUV9rLUYtRGxQSktoU2RZbGRiZXhKUE5XZmZ3am4zSk0ySEJZd2VvWktnck1DZ0pWX3BPbFZ5RzFleUVLRTQ2SzROUFlZUjJQOF96XzJnZzVkdXVQSVhqQ1hxS2dlNUpXWQ?oc=5",
-      "summary": "중국이 발사한 로켓이 발사 몇 초 만에 폭발하는 사고가 발생했습니다. 이는 중국의 우주 개발 프로그램에 차질을 줄 것으로 예상됩니다. 정확한 폭발 원인 조사가 진행 중이며, 재발 방지 대책 마련이 시급합니다.",
-      "pub_date": "2026-08-11T07:52:00+00:00"
+      "title": "이란 전쟁 장기화 대비, 중동 주재 미국 대사관들 인력 축소 준비",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11NERZd0gtX2pCeW04Uk1XcXcyOUg5X1VfSkp2enNWRDBPSGJSNy1LZ3Q1LUtNclNHVXZ4LWh4M1EwQlR3OUJsNmlRc1ZxMlBHbURFaFJDRV9ReF8zal9LOFltQ3ZRb1AzVElKMUQtTFRPYWh0cGQyeW95UzBZZw?oc=5",
+      "summary": "중동 지역 주재 미국 대사관들이 이란과의 전쟁 장기화에 대비하여 인력 축소를 준비하고 있습니다. 이는 중동 정세의 불안정성이 심화될 수 있음을 시사합니다. 미국 외교 정책의 변화와 역내 긴장 고조에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-08-12T09:00:29+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "워싱턴포스트: 트럼프가 기내식 트럭 이용해 비밀리에 비행기를 바꾼 방법",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3lzbzJ2TlBGNEdOTjQ3ajd4M3Zmb180Y3RVcXNzdFBlRllIZmNidTA5RTBLY3NnNHRucWQ4QUlkQUJIZ3hjX0ZFVWs1Uk03M0NpRm9tNUFxZzNZMm1RdHdyRl9XQ1dqT1FzSm5xd2hzSmJLeG9DV1pTd3c4aXFWdTdoQjRaX281aGlsV2hR?oc=5",
-      "summary": "워싱턴포스트는 도널드 트럼프 전 대통령이 기내식 트럭을 이용해 비밀리에 비행기를 교체했다고 보도했습니다. 이 비정상적인 방법은 보안상의 이유로 취해진 것으로 알려졌습니다. 전직 대통령의 이례적인 이동 방식에 대한 궁금증이 커지고 있습니다.",
-      "pub_date": "2026-08-11T01:40:49+00:00"
+      "title": "시리아 전 대통령 아사드, 궐석 재판에서 사형 선고",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UTkZ0bTdKX2RNQzBaR2FVUkhZUjlETXl3WmxuY1B0Y0l2a2Q1cUJHSkJQaHlhTFhNN1d4a04tcXJCUU13RExvcXE4VVJTVklKOU9za2tjYnJkM0VjVjFkREpiczVNSDJjSGZ6UVZ0ODFlcTNCRGlva3g5OXZpdw?oc=5",
+      "summary": "바샤르 알아사드 시리아 전 대통령이 궐석 재판에서 사형을 선고받았습니다. 이는 국제법과 인권 문제에 대한 중요한 판결로 평가됩니다. 시리아 내전과 관련된 정의 실현에 대한 국제사회의 의지를 보여줍니다.",
+      "pub_date": "2026-08-12T02:00:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "콜롬비아에서 잔해에 갇힌 사람들을 구하기 위해 긴급 구조대 투입",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUxqWGZpSWN1WmZhWXJYTl9QVmJvaDhPUUJMOEUxMk9lb3E2dzBZY2pBM0lHcGJLS2wtaUFUblhkOGxJZ0MxMjhnOV9rU2hfbkRtalRVTm9HenVkZTM0b2lYX2pCVVJ4VmNOTFlTNFdzaTU4NEVWcDg4bV9TaGtaOHZxZHJES2hLY2c0TVZzOXY?oc=5",
-      "summary": "콜롬비아 지진 피해 현장에 긴급 구조대원들이 투입되어 잔해 속에 갇힌 사람들을 필사적으로 구조하고 있습니다. 시간과의 싸움 속에서 한 명이라도 더 많은 생존자를 찾기 위한 노력이 계속되고 있습니다. 현장에서는 절박한 구조 요청과 함께 국제사회의 도움이 절실한 상황입니다.",
-      "pub_date": "2026-08-11T13:41:21+00:00"
+      "title": "뉴욕타임스, 트럼프 전 대통령이 지대공 미사일 위협 때문에 비행기 교체했다고 보도",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHBBOC05eWQzMklIOXJiSENHWmVBWTl5Y2hESnRRRjZMejYzODRTaVUxM3g0bTR0MVoyczlyMTRkbDBOd3pGbW9HQ0l6VHlOSDg4TkhSbmtXVk9RVFVabXZreXhmaHEwbHdmMHVIZU15YVQ4T0pnU3BqX2hkeThqT3FtX21zSDJjUnNzU0RxV3NkZEdTZGtJZDBpXzdGbEg3V3JN?oc=5",
+      "summary": "뉴욕타임스(NYT)가 도널드 트럼프 전 대통령이 지대공 미사일 위협 때문에 비행기를 교체했다고 보도했습니다. 이 보도는 대통령의 안전과 관련된 중대한 사안으로 받아들여지고 있습니다. 당시 상황에 대한 진실 공방과 안보 문제에 대한 논의가 확대될 것으로 보입니다.",
+      "pub_date": "2026-08-12T03:00:45+00:00"
     }
   ]
 }
