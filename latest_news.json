@@ -1,293 +1,365 @@
 {
-  "last_updated": "2026-08-14T21:26:17.283526+00:00",
+  "last_updated": "2026-08-15T21:18:41.631801+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "이 대통령, 4년 중임 또는 연임 개헌 입장 고수하며 임기 단축 수용 의사 밝혀",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706319&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "이 대통령이 4년 중임 또는 연임제 개헌에 대한 일관된 입장을 재차 강조했다. 개헌 논의를 위해 필요하다면 임기 단축까지 수용할 수 있다는 의사를 표명했다. 이는 책임 정치를 구현하기 위한 방안으로 제시되었다.",
-      "pub_date": "2026-08-14T11:11:00+00:00"
+      "title": "이 대통령 \"전쟁 당사자 간 종전 논의 시작하자…북핵 해법도 모색\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706856&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령은 광복절 경축사에서 북핵 문제 해결과 평화 공존을 위한 대북 청사진을 제시했습니다. 남북한이 직접 전쟁을 끝내기 위한 논의를 시작할 것을 제안하며, 북핵을 멈출 방안도 함께 모색하자고 강조했습니다. 이는 실용적 대일 외교와 더불어 대북 관계 개선 의지를 드러낸 것으로 풀이됩니다.",
+      "pub_date": "2026-08-15T04:42:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "갤럽 조사에서 이 대통령 지지율 최저치 기록, 향후 30%대 하락 가능성 제기",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705926&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "한국갤럽 조사 결과 이 대통령의 국정 지지율이 역대 최저치인 44%를 기록했다. 부정 평가의 주된 이유로는 경제 문제와 소통 부족 등이 꼽혔다. 전문가들은 상승 동력을 찾지 못하면 지지율이 30%대로 떨어질 수 있다고 분석했다.",
-      "pub_date": "2026-08-14T07:15:00+00:00"
+      "title": "정부, 일본 야스쿠니 공물 및 참배에 '개탄'…일본 관계자 초치해 강력 항의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706962&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "한국 정부는 일본의 야스쿠니 신사 공물 봉헌 및 참배에 대해 깊은 개탄을 표했습니다. 외교부는 일본 관계자들을 초치하여 강하게 항의했으며, 이는 일본의 역사 인식을 비판하고 올바른 역사 인식을 촉구하는 메시지로 해석됩니다. 한일 관계에 있어 역사 문제가 여전히 중요한 쟁점임을 보여줍니다.",
+      "pub_date": "2026-08-15T07:12:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 에이브러햄 링컨호의 심각한 상황 보고서 일축",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-      "summary": "트럼프 전 대통령이 미 해군 항공모함 에이브러햄 링컨호의 열악한 상황에 대한 보고를 부정했다. 이 보고서는 함상 근무 환경과 장기 배치로 인한 승조원들의 어려움을 지적했다. 트럼프는 해당 보고의 신뢰성에 의문을 제기하며 심각성을 경시했다.",
-      "pub_date": "2026-08-14T20:59:22+00:00"
+      "title": "민주당, 2028년 대선 예비선거에서 사우스캐롤라이나를 첫 경선 지역으로 확정",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+      "summary": "민주당 전국위원회는 2028년 대선 경선 일정을 확정하며 사우스캐롤라이나를 첫 경선지로 지정했습니다. 이는 당내 소수 유권자의 영향력을 강화하고, 다양한 유권자층의 목소리를 반영하려는 전략으로 보입니다. 이 결정은 향후 대선 후보 경선에 큰 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-08-15T18:27:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "탈레반, 미국을 아프가니스탄에서 축출했으나 이제는 그 복귀를 원해",
-      "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
-      "summary": "탈레반은 미국을 아프가니스탄에서 철수시킨 후, 이제는 미국의 복귀를 요청하고 있다. 이는 경제 위기와 인도주의적 문제 해결을 위한 국제적 지원의 필요성 때문이다. 탈레반은 관계 정상화를 통해 국제 사회의 인정을 얻으려 한다.",
-      "pub_date": "2026-08-14T16:01:43+00:00"
+      "title": "검찰, 트럼프 성추문 입막음 재판 담당 판사와 연관된 기업 조사",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+      "summary": "검찰이 트럼프 전 대통령의 성추문 입막음 재판을 담당하는 판사와 연관된 한 기업에 대한 조사를 진행했습니다. 이 조사는 재판의 공정성 논란을 불러일으킬 수 있어 주목됩니다. 트럼프 전 대통령 관련 재판에 또 다른 복잡한 변수가 추가되었습니다.",
+      "pub_date": "2026-08-15T21:09:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "의원들의 주식 거래, 중간선거 운동에서 공격의 표적이 되다",
-      "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-      "summary": "미국 의원들의 주식 거래 내역이 중간선거 캠페인에서 주요 비판 대상이 되고 있다. 이는 공직자의 이해충돌과 투명성 문제에 대한 유권자들의 불만을 반영한다. 양당 후보들은 상대방 의원들의 주식 투자 행위를 문제 삼으며 공정성 논란을 부각하고 있다.",
-      "pub_date": "2026-08-14T20:23:38+00:00"
+      "title": "트럼프 대통령, 급격한 범죄율 감소에 대한 공로 주장",
+      "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
+      "summary": "트럼프 대통령은 최근 발표된 급격한 범죄율 감소 통계에 대해 자신의 공이라고 주장했습니다. 이는 차기 대선 출마를 앞두고 자신의 치적을 부각하려는 의도로 풀이됩니다. 실제 범죄율 감소 원인에 대한 전문가들의 다양한 분석이 나오고 있습니다.",
+      "pub_date": "2026-08-14T22:02:24+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 개헌 논의 시 필요할 경우 임기 단축 수용 입장 표명",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260814214752Ja1",
-      "summary": "이 대통령은 4년 중임 또는 연임 개헌을 위한 논의가 진행될 경우 임기 단축까지 수용할 수 있다는 뜻을 밝혔다. 이는 국정 운영의 안정성과 책임 정치를 강화하기 위한 방안으로 제시되었다. 여야 정치권에 개헌 논의에 대한 전향적인 협조를 당부했다.",
-      "pub_date": "2026-08-14T12:47:54+00:00"
+      "title": "여당의 호남 당심, 김민석 후보가 박빙을 깨고 과반 득표 압승",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260815231147tCD",
+      "summary": "여당 전당대회 호남 순회경선에서 김민석 후보가 과반 득표로 압승을 거두며 이목이 집중됩니다. 이는 당내 최대 승부처로 꼽히던 호남에서 확실한 우위를 점한 결과로 분석됩니다. 김민석 후보는 누적 과반 1위를 기록하며 선두를 굳건히 지키게 되었습니다.",
+      "pub_date": "2026-08-15T14:11:50+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "'미국 투자 압박' 보도에 청와대, 대미 통상 현안에 긴밀히 대응 중이라고 밝혀",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260815011304z88",
-      "summary": "미국이 한국 기업들의 대미 투자 지연 시 관세 인상을 언급하며 압박하고 있다는 보도가 나왔다. 이에 청와대는 대미 통상 현안에 대해 다양한 채널을 통해 긴밀히 논의하고 있다고 밝혔다. 정부는 한국 기업의 이익을 보호하고 통상 마찰을 최소화하기 위해 노력 중이다.",
-      "pub_date": "2026-08-14T16:13:04+00:00"
+      "title": "이 대통령, \"프로야구 한 시대를 빛낸 故 백인천 감독에 깊은 애도\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202608152017081gg",
+      "summary": "이 대통령은 한국 프로야구의 전설인 故 백인천 감독의 별세 소식에 깊은 애도를 표했습니다. 백 감독은 한국 프로야구 역사에 큰 족적을 남긴 인물로 평가받고 있습니다. 이 대통령의 애도는 그의 업적을 기리고 스포츠계에 대한 예우를 보인 것으로 해석됩니다.",
+      "pub_date": "2026-08-15T11:17:10+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "파라지, 클랙턴 보궐선거 승리 후 감시 기관의 재수사 직면",
+      "title": "나이절 패라지, 클랙턴 보궐선거 승리 후 감시 기관 재조사 직면",
       "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
-      "summary": "나이젤 파라지 영국 리폼당 대표가 클랙턴 보궐선거에서 승리한 후 새로운 감시 기관 조사를 받게 되었다. 이는 그의 재정 문제와 관련된 의혹이 다시 불거진 데 따른 것이다. 그의 승리에도 불구하고 정치적 투명성에 대한 의문은 계속될 것으로 보인다.",
+      "summary": "나이절 패라지 전 영국독립당 대표가 클랙턴 보궐선거에서 승리했으나, 선거 자금 관련 감시 기관의 재조사에 직면했습니다. 이는 그의 정치적 입지에 잠재적인 영향을 미칠 수 있어 주목됩니다. 패라지의 이번 승리는 영국 정치 지형에 상당한 파장을 일으키고 있습니다.",
       "pub_date": "2026-08-14T13:58:55+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "영국, 푸틴의 위협에도 불구하고 유령선단 유조선 압류 정당성 방어",
+      "title": "영국, 푸틴의 위협에도 '쉐도우 함대' 유조선 압류 방어",
       "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 정부가 러시아 푸틴 대통령의 위협에도 불구하고 유령선단 유조선을 압류한 조치를 옹호하고 나섰다. 해당 유조선은 러시아 유류 제재를 회피하기 위해 운용되던 것으로 알려졌다. 영국은 국제 제재 준수와 해상 안전을 위해 필요한 조치였다고 강조했다.",
+      "summary": "영국 정부는 러시아 푸틴 대통령의 위협에도 불구하고 '쉐도우 함대' 소속 유조선을 압류한 조치를 옹호했습니다. 이는 국제 제재를 회피하려는 러시아 선박에 대한 강력한 대응을 시사합니다. 러시아-서방 간 긴장이 고조되는 가운데 중요한 외교적 마찰로 부각되고 있습니다.",
       "pub_date": "2026-08-13T15:05:12+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "이 대통령, 4년 중임 또는 연임 개헌 시 임기 단축 수용 의사 표명",
-      "link": "https://www.chosun.com/politics/blue_house/2026/08/15/6AKAOSG2AVDB3KFVEFWVWCLUAQ/",
-      "summary": "이 대통령이 4년 중임 또는 연임제 개헌을 위해 필요하다면 임기 단축도 수용할 수 있다고 밝혔다. 이는 책임 정치를 강화하고 권력 구조를 개선하려는 의지를 드러낸 것이다. 개헌 논의가 국회에서 활발하게 이루어지기를 기대한다는 입장을 전했다.",
-      "pub_date": "2026-08-14T15:44:00+00:00"
+      "title": "이 대통령, 북한에 \"전쟁 당사자 간 종전 논의 시작하자\" 제안",
+      "link": "https://www.chosun.com/politics/blue_house/2026/08/15/VHJGEQSWNRFVHH44BHXAQ2PMJI/",
+      "summary": "이 대통령이 광복절 경축사에서 북한에 대해 \"전쟁을 끝낼 당사자 간 논의를 시작하자\"고 제안했습니다. 이는 한반도 평화 체제 구축을 위한 대북 대화 의지를 표명한 것으로 해석됩니다. 동시에 북핵 문제 해결을 위한 방안도 함께 모색할 것을 강조했습니다.",
+      "pub_date": "2026-08-15T01:34:11+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "힘든 역경에도 불구하고 의회를 지키려는 트럼프 선거 캠프의 전략 분석",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yb2ZKd2laNFhoSUpBeFh1RmpMTGVsS01FMlItWEgxLV9qSEl6M2xRcmFfVFJVVUN6eFl5akVmRjZiSzlKVno4ZU8wTTVCNUtZV09VQUdneGdnZ3JtQVBGenl0TWUyQjBJMlZ4YkpLRFhBeW9HQUppV1BpY3M?oc=5",
+      "summary": "트럼프 전 대통령의 선거 캠프가 힘든 상황 속에서도 의회 다수당 지위를 유지하기 위한 전략을 추진하고 있습니다. 공화당 내부에서는 이에 대한 기대와 우려가 교차하고 있습니다. 다가오는 중간선거의 주요 쟁점으로 떠오르며 주목을 받고 있습니다.",
+      "pub_date": "2026-08-15T10:00:29+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "트럼프, 대법원에 백악관 무도회장 건설 지속 허가 요청",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52RFlEWmM5N280Q2dOLXdaRDQyYTRpTjZnVnNfUmNfWjNoX1hPbHZmbnVsNklsZWNEM0FNcUxobWlUOTYxRzJDTktTYnNLYVJiYmM0OXBqUC1JR0FGYU9WZWJBTXVxVWs5UUdXMld3?oc=5",
+      "summary": "트럼프 전 대통령이 백악관 무도회장 건설을 계속할 수 있도록 대법원에 요청했습니다. 이는 자신의 재임 기간 중 추진했던 사업의 완성을 위한 것으로 보입니다. 이번 요청이 대법원에서 어떻게 판단될지 관심이 모아지고 있습니다.",
+      "pub_date": "2026-08-15T00:57:27+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "CNN",
+      "title": "탈레반 아프가니스탄 장악 5주년: 이후 상황",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjdHR3IxU3J2dzEtVTlDN2QzZWI0X2R4cWRFbk1DV293ZmpWTXJwb2dZTWVNR3pKNWo3VTM0YmZpY2xYanlYd1BCdFI1cUNvS3BmQnFSbHowWnlUWHFBblBzSzBoalNPall3bmhFQ0Z3bXZJUGcyUjA0dWtHQ3JRMWtHOUFUQ3JoaFhLczRR?oc=5",
+      "summary": "탈레반이 아프가니스탄을 장악한 지 5년이 지났습니다. 아프간의 사회, 경제, 인권 상황은 여전히 심각한 도전에 직면해 있습니다. 국제 사회의 지원과 개입의 필요성이 지속적으로 제기되고 있습니다.",
+      "pub_date": "2026-08-15T13:03:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "7월 소매 판매, 1년여 만에 최대 폭 하락 기록",
+      "title": "노동자 임금, 또 다시 인플레이션을 따라잡지 못해",
+      "link": "https://www.nytimes.com/2026/08/15/business/inflation-worker-pay.html",
+      "summary": "최근 발표된 경제 지표에 따르면 노동자들의 임금 상승률이 인플레이션 속도를 따라가지 못하고 있습니다. 이는 실질 임금 하락으로 이어져 가계 구매력에 부정적인 영향을 미치고 있습니다. 물가 상승 압력이 지속되는 가운데 서민 경제의 어려움이 가중되고 있습니다.",
+      "pub_date": "2026-08-15T09:02:16+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "7월 소매 판매, 1년여 만에 가장 큰 폭으로 하락",
       "link": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
-      "summary": "지난 7월 미국의 소매 판매가 1년여 만에 가장 큰 폭으로 감소했다. 이는 고금리와 인플레이션 지속으로 소비 심리가 위축된 결과로 풀이된다. 이러한 지표는 경기 둔화 가능성에 대한 우려를 다시 키우고 있다.",
-      "pub_date": "2026-08-14T17:59:58+00:00"
+      "summary": "7월 소매 판매가 지난 1년여 만에 가장 큰 폭으로 감소했습니다. 이는 소비 심리 위축과 경기 둔화 우려를 키우고 있습니다. 고금리 및 고물가 환경이 소비 지출에 지속적으로 영향을 미치는 것으로 분석됩니다.",
+      "pub_date": "2026-08-14T17:59:59+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "일본 엔화 가치 하락, 정부의 방어 노력에도 불구하고 지속되는 이유",
+      "title": "일본 엔화 가치 하락을 막기 위해 고군분투하는 일본",
       "link": "https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html",
-      "summary": "일본 정부와 중앙은행이 엔화 가치 하락을 막기 위해 노력하고 있지만, 엔화 약세가 계속되고 있다. 이는 미국과의 금리 차이, 일본 경제의 낮은 성장률 등이 복합적으로 작용한 결과다. 엔화 약세는 수입 물가 상승을 초래하여 일본 경제에 부담을 주고 있다.",
-      "pub_date": "2026-08-14T18:41:17+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "NYT",
-      "title": "걸프만 석유 대기업들, 호르무즈 해협 우회로 건설에 수십억 달러 투자",
-      "link": "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html",
-      "summary": "걸프만 주요 산유국들이 호르무즈 해협을 우회하는 새로운 송유관 및 운송 인프라 건설에 수십억 달러를 투자하고 있다. 이는 호르무즈 해협의 지정학적 불안정성에 대비하여 원유 수출 경로의 안전성을 확보하려는 전략이다. 이를 통해 중동 지역의 에너지 안보가 강화될 것으로 기대된다.",
-      "pub_date": "2026-08-13T08:17:04+00:00"
+      "summary": "일본이 엔화 가치 하락을 막기 위해 애쓰고 있지만, 지속적인 약세에 고전하고 있습니다. 이는 일본 경제에 복합적인 영향을 미치며 수출 기업에는 유리하나 수입 물가 상승 압력으로 작용합니다. 일본은행의 통화 정책 방향에 대한 관심이 더욱 커지고 있습니다.",
+      "pub_date": "2026-08-14T18:41:18+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "자동차 제조사들의 압력으로 전기차 판매 목표 하향 조정될 가능성",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "summary": "자동차 제조사들의 강력한 로비와 압력으로 인해 각국 정부의 전기차 판매 목표가 하향 조정될 수 있다는 전망이 나왔다. 이는 생산 비용 증가, 충전 인프라 부족, 소비자 수요 둔화 등이 복합적으로 작용한 결과이다. 전기차 전환 속도 조절이 불가피하다는 목소리가 커지고 있다.",
-      "pub_date": "2026-08-14T15:58:21+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "BBC",
-      "title": "영국 경제 성장세 보였으나 전문가들 향후 몇 달간 어려움 경고",
+      "title": "영국 경제 성장세 보이나, 전문가들은 향후 몇 달간의 어려움 경고",
       "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 경제가 최근 성장세를 기록했지만, 전문가들은 앞으로 몇 달간 상당한 어려움이 예상된다고 경고했다. 높은 인플레이션과 금리 인상, 글로벌 경기 둔화 등 복합적인 요인이 경제를 압박할 것으로 분석된다. 정부는 물가 안정과 경제 활성화를 위한 대책 마련에 고심하고 있다.",
+      "summary": "영국 경제가 성장세를 기록했지만, 경제 전문가들은 앞으로 몇 달 동안 어려운 시기가 올 것이라고 경고했습니다. 높은 인플레이션과 금리 인상 압력이 지속될 것으로 예상됩니다. 경기 침체에 대한 우려가 여전히 남아있어 신중한 접근이 필요합니다.",
       "pub_date": "2026-08-13T10:17:56+00:00"
     },
     {
       "category": "경제",
-      "outlet": "서울경제",
-      "title": "올해 가계대출 총량 증가율 목표 1.5%에서 3%로 상향, 주택담보대출 숨통 트여",
-      "link": "https://www.sedaily.com/article/20078835",
-      "summary": "올해 가계대출 총량 증가율 목표가 기존 1.5%에서 3%로 두 배 상향 조정되었다. 이에 따라 주택담보대출을 비롯한 가계 대출 공급에 숨통이 트일 전망이다. 정부는 부동산 프로젝트파이낸싱(PF) 대출 규제 완화 등 주택 시장 활성화 정책도 함께 추진한다.",
-      "pub_date": "2026-08-13T03:01:05+00:00"
+      "outlet": "BBC",
+      "title": "제로아워 계약 단속 강화, 기업에 연간 최대 29억 파운드 비용 초래 가능성",
+      "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부의 제로아워 계약(초단시간 근로 계약) 단속 강화 조치가 기업들에게 연간 최대 29억 파운드의 추가 비용을 발생시킬 수 있다는 분석이 나왔습니다. 이는 기업의 고용 방식과 비용 구조에 상당한 변화를 가져올 것입니다. 노동자 권리 보호와 기업 부담 사이의 균형이 주요 쟁점으로 떠오르고 있습니다.",
+      "pub_date": "2026-08-13T11:12:33+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "최태원 회장과 빌 게이츠, 한국의 소형모듈원전(SMR) 동맹 확대 논의",
-      "link": "https://zdnet.co.kr/view/?no=20260814174410",
-      "summary": "최태원 SK그룹 회장과 빌 게이츠 마이크로소프트 창업자가 서울에서 만나 소형모듈원전(SMR) 협력 방안을 논의했다. 양측은 차세대 원전 기술인 SMR 개발 및 공급망 구축에 대한 협력을 강화하기로 했다. 특히 한국의 우수한 원전 기술력을 바탕으로 SMR 생태계 확대를 모색했다.",
-      "pub_date": "2026-08-14T09:00:03+00:00"
+      "title": "엔비디아, 스페이스X 지분 210억 달러 및 인텔 지분 300억 달러 보유",
+      "link": "https://zdnet.co.kr/view/?no=20260815145938",
+      "summary": "엔비디아가 스페이스X와 인텔의 상당한 지분을 보유하고 있는 것으로 나타났습니다. 이는 엔비디아가 단순한 반도체 기업을 넘어선 투자 전략을 펼치고 있음을 시사합니다. 기술 산업 전반에 걸친 엔비디아의 영향력이 더욱 확대될 것으로 예상됩니다.",
+      "pub_date": "2026-08-15T09:55:51+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "GPT-5.6, 14배 빨라진 오픈AI의 '울트라패스트' 기술 공개",
-      "link": "https://zdnet.co.kr/view/?no=20260814194946",
-      "summary": "오픈AI가 차세대 인공지능 모델인 'GPT-5.6'을 공개하며 기존보다 14배 빨라진 처리 속도를 자랑하는 '울트라패스트' 기술을 선보였다. 이 기술은 대규모 언어 모델의 추론 및 응답 시간을 획기적으로 단축할 것으로 예상된다. 이는 AI의 실시간 상호작용 능력을 크게 향상시켜 다양한 응용 분야에 파급 효과를 미칠 전망이다.",
-      "pub_date": "2026-08-14T10:49:46+00:00"
+      "title": "마이크로소프트, 소비자 및 기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260815015013",
+      "summary": "마이크로소프트가 소비자 및 기업용 AI 도구 '코파일럿'의 통합을 시작하며 '슈퍼 앱' 전략을 본격화했습니다. 이는 마이크로소프트의 다양한 서비스에 AI 기능을 접목하여 사용자 경험을 혁신하려는 시도입니다. 인공지능 분야에서 마이크로소프트의 경쟁력이 더욱 강화될 것으로 기대됩니다.",
+      "pub_date": "2026-08-15T00:10:49+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "로봇팔 장착 드론, 고층 건물 유리창 청소 시대 개척",
+      "link": "https://www.etnews.com/20260814000293",
+      "summary": "로봇팔이 장착된 드론이 고층 건물 유리창 청소에 활용될 수 있음을 보여주며 주목받고 있습니다. 이는 위험하고 어려운 작업을 자동화하여 효율성과 안전성을 높이는 기술 혁신입니다. 건설 및 유지보수 산업에 큰 변화를 가져올 잠재력을 가졌습니다.",
+      "pub_date": "2026-08-15T13:30:00+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "챗GPT 활용해 20년 묵은 수학 난제 해결…의사의 놀라운 성과",
+      "link": "https://www.etnews.com/20260814000281",
+      "summary": "한 의사가 챗GPT를 활용하여 20년간 풀리지 않던 수학 난제를 해결하는 놀라운 성과를 거두었습니다. 이는 인공지능의 문제 해결 능력이 전문가들의 영역까지 확장될 수 있음을 보여줍니다. 인공지능이 인간의 지적 한계를 보완하고 새로운 발견을 돕는 도구로 자리매김할 가능성을 제시합니다.",
+      "pub_date": "2026-08-15T08:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "최태원 회장과 빌 게이츠, 서울서 소형모듈원전(SMR) 협력 논의...SK, 단순 투자 넘어 사업자로 전환",
+      "title": "최태원 회장과 빌 게이츠, 서울에서 'SMR 회동'…SK, 단순 투자자 넘어 사업자로 도약",
       "link": "https://www.bloter.net/news/articleView.html?idxno=671052",
-      "summary": "최태원 SK그룹 회장과 빌 게이츠 마이크로소프트 창업자가 서울에서 소형모듈원전(SMR) 사업 협력을 위한 회동을 가졌다. SK그룹은 단순 SMR 투자자를 넘어 직접 사업자로 참여하여 차세대 에너지 시장을 선도할 계획이다. 이번 만남을 통해 양측은 SMR 기술 개발 및 상용화를 위한 전략적 제휴를 강화할 것으로 보인다.",
+      "summary": "최태원 SK 회장과 빌 게이츠 테라파워 회장이 서울에서 소형모듈원자로(SMR) 사업 논의를 위해 만났습니다. SK는 단순 투자자를 넘어 SMR 개발 및 상용화 사업자로 적극 참여할 계획입니다. 이는 차세대 에너지 기술 확보와 탄소 중립 목표 달성에 중요한 발판이 될 전망입니다.",
       "pub_date": "2026-08-14T21:37:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK스퀘어, SK하이닉스 호실적 힘입어 2분기 사상 최대 영업이익 및 순이익 달성",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=671034",
-      "summary": "SK스퀘어가 자회사 SK하이닉스의 실적 개선에 힘입어 올해 2분기 사상 최대의 영업이익과 순이익을 기록했다. 반도체 시장의 회복세와 고대역폭 메모리(HBM) 수요 증가가 주요 원인으로 분석된다. 이는 SK스퀘어의 투자 포트폴리오의 견고함을 보여주며 향후 실적에 대한 기대감을 높이고 있다.",
-      "pub_date": "2026-08-14T17:00:00+00:00"
+      "title": "인공지능 윤리 선도하는 카카오, 학습 데이터 공개 명시에는 우려 표명",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671054",
+      "summary": "카카오가 인공지능(AI) 윤리 정책을 선도하며 모범적인 행보를 보이고 있습니다. 그러나 AI 학습 데이터 공개 의무화에 대해서는 우려를 표명했습니다. 이는 AI 기술 개발과 개인 정보 보호, 그리고 데이터 활용의 투명성 사이의 균형점을 찾는 중요한 논쟁이 될 것입니다.",
+      "pub_date": "2026-08-14T18:16:38+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "삼성전자, 상반기 연구개발 및 시설 투자 각각 27조 원, 28조 원으로 역대 최대치 기록",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/14/IUPED7GGYRC45COB4J3KZJX4QM/",
-      "summary": "삼성전자가 올해 상반기에만 연구개발(R&D)에 27조 원, 시설투자에 28조 원을 집행하며 동기 기준 역대 최대 규모를 기록했다. 이는 미래 성장 동력 확보를 위한 과감한 투자 전략으로 풀이된다. 특히 반도체 부문의 고도화와 신기술 개발에 집중적인 투자가 이루어졌다.",
-      "pub_date": "2026-08-14T08:39:14+00:00"
+      "title": "애플, 알리바바와 협력하여 중국 시장 전용 인공지능 개발 추진",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/14/GZY2RZV6CFEYVKIYYVLLMJSGG4/",
+      "summary": "애플이 중국 시장을 겨냥해 알리바바와 손잡고 자체 인공지능(AI) 개발에 나섭니다. 이는 중국의 강력한 규제 환경 속에서 현지화된 AI 서비스를 제공하려는 전략으로 보입니다. 글로벌 빅테크 기업들이 중국 시장에 특화된 전략을 강화하고 있음을 보여줍니다.",
+      "pub_date": "2026-08-14T09:09:39+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "AI 열풍으로 반도체와 SSD 수출 급증, 7월 ICT 수출 역대 최대 기록",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/14/BYNATZ2TJRCJPJFQYJ4KQ62QGA/",
-      "summary": "인공지능(AI) 열풍에 힘입어 반도체와 SSD 수출이 큰 폭으로 증가하며, 지난 7월 정보통신기술(ICT) 수출액이 역대 최대치를 기록했다. 이는 글로벌 AI 시장의 빠른 성장이 국내 첨단 기술 산업에 긍정적인 영향을 미치고 있음을 보여준다. 특히 한국의 메모리 반도체가 AI 시대의 핵심 부품으로 주목받으며 수출을 견인하고 있다.",
-      "pub_date": "2026-08-14T06:01:12+00:00"
+      "title": "SK스퀘어, SK하이닉스 실적 덕분에 2분기 영업이익 1920억 원으로 사상 최대 기록",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/14/RQSYBWEZCBDETC2WZB6YAVHEWE/",
+      "summary": "SK스퀘어가 2분기에 SK하이닉스의 호실적에 힘입어 1920억 원의 영업이익을 달성하며 사상 최대 실적을 기록했습니다. 이는 반도체 시장의 회복세와 SK하이닉스의 견조한 성장이 그룹 전체의 수익성을 견인했음을 의미합니다. 투자형 지주회사인 SK스퀘어의 포트폴리오 전략이 성과를 내고 있습니다.",
+      "pub_date": "2026-08-14T08:55:09+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 가장 강력한 인공지능 모델의 오픈소스 버전 공개",
+      "title": "구글, '클래스룸 앱' 사용 학생들을 위해 제미니 AI 기능 활성화",
+      "link": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+      "summary": "구글이 교육용 '클래스룸 앱'을 사용하는 학생들을 위해 제미니 AI 기능을 활성화했습니다. 이는 교육 분야에 인공지능 기술을 적극적으로 도입하여 학습 경험을 향상시키려는 시도입니다. AI가 교육 환경에 미칠 영향과 잠재적 이점에 대한 논의를 촉발할 것으로 보입니다.",
+      "pub_date": "2026-08-14T18:54:36+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "메타, 가장 강력한 인공지능 모델의 오픈 버전 공개",
       "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "summary": "메타(Meta)가 자사에서 개발한 가장 강력한 인공지능 모델의 오픈소스 버전을 발표했다. 이는 AI 기술 접근성을 높여 개발자 커뮤니티의 혁신을 촉진하려는 전략으로 해석된다. 오픈소스 모델 공개는 AI 기술 경쟁 구도에 상당한 영향을 미칠 것으로 예상된다.",
+      "summary": "메타가 자사의 가장 강력한 인공지능(AI) 모델의 오픈 소스 버전을 공개했습니다. 이는 AI 개발의 개방성을 촉진하고 혁신을 가속화하려는 전략으로 해석됩니다. AI 기술 경쟁이 심화되는 가운데, 오픈 소스 모델 공개가 산업 전반에 어떤 영향을 미칠지 주목됩니다.",
       "pub_date": "2026-08-10T18:00:55+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "플록 카메라, 미국 내 모든 차량 추적 가능...경찰은 선호하지만 시민들은 반대",
-      "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-      "summary": "플록(Flock) 카메라 시스템이 미국 전역에서 모든 차량을 추적할 수 있는 기능을 갖추어 논란이 되고 있다. 경찰은 범죄 수사에 효과적이라며 적극적으로 사용을 확대하고 있다. 하지만 시민 단체들은 사생활 침해와 감시 사회로의 전환을 우려하며 강하게 반대하고 있다.",
-      "pub_date": "2026-08-12T00:46:43+00:00"
+      "outlet": "BBC",
+      "title": "트위치 사용자들, 아마존이 동의 없이 AI 훈련에 콘텐츠 활용에 격분",
+      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "summary": "트위치 사용자들이 아마존이 자신들의 콘텐츠를 AI 훈련에 사용하고 있으며, 이 기능이 기본 '옵트아웃'으로 설정되어 있다는 사실에 격분하고 있습니다. 이는 사용자 동의 및 데이터 활용 윤리 문제에 대한 심각한 논란을 불러일으켰습니다. AI 기술 발전과 개인 정보 보호 사이의 중요한 갈등 지점을 보여줍니다.",
+      "pub_date": "2026-08-13T10:39:02+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "아마존, 트위치 플랫폼 활용하여 생성형 인공지능 훈련 중",
-      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "summary": "아마존이 자사 라이브 스트리밍 플랫폼인 트위치를 활용하여 생성형 인공지능(AI)을 훈련하고 있는 것으로 알려졌다. 이는 방대한 라이브 콘텐츠를 AI 학습 데이터로 활용하려는 전략이다. 사용자들은 자신의 콘텐츠가 AI 학습에 동의 없이 사용될 수 있다는 점에 대해 우려와 불만을 표출하고 있다.",
-      "pub_date": "2026-08-13T07:04:31+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "기술 리더들은 인공지능이 업무를 줄인다고 주장하나, 직원들은 주 90시간까지 일한다고 밝혀",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "다수의 기술 기업 리더들은 인공지능(AI) 도입으로 직원들의 업무량이 줄어들 것이라고 강조했다. 그러나 실제 현장에서는 AI 개발 및 관리 부담으로 인해 일부 직원들이 주 90시간에 달하는 초과 근무를 하고 있다고 토로했다. 이는 AI 기술 발전이 가져오는 실제적인 업무 환경 변화에 대한 상반된 시각을 보여준다.",
-      "pub_date": "2026-08-10T05:00:32+00:00"
+      "title": "일본 기업들이 인공지능 도입에 느린 이유",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "일본 기업들이 인공지능(AI) 기술 도입에 상대적으로 느린 속도를 보이는 이유에 대한 분석이 나왔습니다. 경직된 기업 문화, 투자 부족, 인력난 등이 복합적으로 작용하고 있습니다. 이는 AI 시대의 글로벌 경쟁력 확보에 일본 기업들이 직면한 과제를 보여줍니다.",
+      "pub_date": "2026-08-12T23:00:47+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "러시아, 몰도바의 친서방 정부 전복을 위한 캠페인 전개",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-      "summary": "러시아가 몰도바의 친서방 정부를 전복시키기 위한 대규모 캠페인을 벌이고 있는 것으로 드러났다. 러시아는 정보 조작, 정치적 불안정 조장 등 다양한 방식으로 몰도바 내 친러 세력을 지원하고 있다. 이는 동유럽에서 러시아의 영향력을 확대하려는 시도로 분석된다.",
-      "pub_date": "2026-08-14T20:54:32+00:00"
+      "title": "인도네시아 강진 발생, 최소 47명 사망",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "summary": "인도네시아에서 규모 7.7의 강력한 지진이 발생하여 최소 47명이 사망했습니다. 이 지진은 광범위한 지역에 피해를 입혔으며, 구조 및 복구 작업이 긴급하게 진행 중입니다. 인도네시아는 '불의 고리'에 위치해 지진과 화산 활동이 잦은 지역입니다.",
+      "pub_date": "2026-08-15T13:08:44+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "유럽, 다시 폭염 강타...극심한 기후 변화의 현실 보여줘",
-      "link": "https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html",
-      "summary": "유럽 대륙이 다시 한번 기록적인 폭염에 시달리며 심각한 기후 변화의 현실을 보여주고 있다. 이로 인해 여러 국가에서 산불, 가뭄, 열사병 등 광범위한 피해가 발생하고 있다. 전문가들은 기후 위기 대응을 위한 국제적 협력과 실질적인 대책 마련이 시급하다고 경고했다.",
-      "pub_date": "2026-08-14T15:33:45+00:00"
+      "title": "뿌리내리고, 고군분투하며, 저항하는 탈레반, 집권 5주년 기념",
+      "link": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+      "summary": "탈레반이 아프가니스탄 집권 5주년을 기념했습니다. 국제 사회의 제재와 내부 저항에도 불구하고 권력을 유지하며 통치를 강화하고 있습니다. 하지만 국가 재건과 인권 문제 등은 여전히 큰 과제로 남아 있습니다.",
+      "pub_date": "2026-08-15T04:01:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "트럼프의 하마스 협정 위태로운 가운데, 쿠슈너 가자지구 회담 위해 이스라엘 방문 예정",
-      "link": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-      "summary": "도널드 트럼프 전 대통령이 추진했던 하마스와의 협정이 위기에 처하자, 사위 재러드 쿠슈너가 가자지구 관련 회담을 위해 이스라엘을 방문할 예정이다. 이번 방문은 중동 평화 프로세스의 지속 가능성과 미국의 역할에 대한 관심이 집중되고 있다. 하마스와의 갈등 완화 및 지역 안정을 위한 돌파구를 찾을 수 있을지 주목된다.",
-      "pub_date": "2026-08-14T13:20:34+00:00"
+      "title": "벨기에 옛 양조장 지하에서 1천만 달러 상당의 금괴 발견",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "summary": "벨기에의 옛 양조장 지하에서 1천만 달러(약 130억 원) 상당의 금괴가 발견되어 화제입니다. 이 금괴는 100년 넘게 묻혀 있던 것으로 추정되며, 발견 경위와 소유권에 대한 관심이 집중되고 있습니다. 마치 영화 같은 이야기가 현실이 되며 많은 이들을 놀라게 했습니다.",
+      "pub_date": "2026-08-15T21:07:17+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "일본, 기록적인 폭우로 8명 사망, 수천 명 고립",
-      "link": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
-      "summary": "일본 전역에 걸친 기록적인 폭우로 최소 8명이 사망하고 수천 명의 이재민이 발생했다. 집중 호우로 인한 산사태와 강 범람이 광범위한 지역에서 인명 및 재산 피해를 야기했다. 정부는 긴급 구조 및 복구 작업을 진행하며 추가 피해 방지에 총력을 기울이고 있다.",
-      "pub_date": "2026-08-14T12:47:33+00:00"
+      "title": "탈레반, 미국을 아프가니스탄에서 축출했으나 이제는 그들의 복귀를 원해",
+      "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
+      "summary": "탈레반이 미국을 아프가니스탄에서 축출한 뒤 5년이 지났지만, 이제는 미국의 복귀를 원하는 딜레마에 빠졌습니다. 이는 아프가니스탄의 심각한 경제 위기와 인도주의적 상황 해결을 위한 외자 유치 및 국제적 지원의 필요성 때문입니다. 과거의 적에게 손을 내밀어야 하는 복잡한 현실을 보여줍니다.",
+      "pub_date": "2026-08-14T16:01:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "탈레반 통치 5년간, 아프가니스탄 여성들 공적 생활에서 지워져",
-      "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-      "summary": "탈레반 집권 5년 동안 아프가니스탄 여성들이 교육, 노동, 정치 등 공적 생활에서 완전히 배제되었다. 탈레반은 여성의 이동의 자유를 제한하고 엄격한 복장 규정을 강요하며 인권을 심각하게 침해하고 있다. 국제 사회는 아프간 여성들의 인권 회복을 위한 강력한 조치를 촉구하고 있다.",
-      "pub_date": "2026-08-14T05:08:37+00:00"
+      "title": "프랑스 최고 법원, 아동 소셜 미디어 금지법 기각",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/france-court-strikes-down-ban-social-media-children.html",
+      "summary": "프랑스 최고 법원이 아동의 소셜 미디어 사용을 금지하려던 법안을 기각했습니다. 이 판결은 미성년자의 디지털 권리와 부모의 양육권 간의 복잡한 법적, 윤리적 논쟁을 다시 불러일으켰습니다. 아동 보호와 표현의 자유 사이의 균형점을 찾는 것이 중요해졌습니다.",
+      "pub_date": "2026-08-14T16:00:22+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "아프간 여성들, 탈레반 통치 5년간 삶이 완전히 달라졌다고 BBC에 증언",
+      "title": "인도네시아 규모 7.7 강진으로 최소 47명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "summary": "인도네시아에서 발생한 규모 7.7의 강력한 지진으로 최소 47명이 목숨을 잃었습니다. 수많은 건물이 파괴되고 인명 피해가 속출하며 국제사회의 관심이 집중되고 있습니다. 현재 구조 및 수색 작업이 활발히 진행 중이며, 추가 피해가 우려됩니다.",
+      "pub_date": "2026-08-15T20:00:15+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "이스라엘, 레바논 남부 공습으로 11명 사망 발표",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "레바논 당국에 따르면 이스라엘의 레바논 남부 공습으로 11명이 사망했습니다. 이스라엘과 레바논 간의 긴장이 고조되며 중동 지역의 안보 불안이 커지고 있습니다. 국제 사회는 추가적인 확전 가능성에 대해 우려를 표하고 있습니다.",
+      "pub_date": "2026-08-15T20:21:14+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "BBC에 아프간 여성들 증언, 탈레반 통치 5년 만에 삶이 알아볼 수 없을 정도로 변해",
       "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "아프가니스탄 여성들이 탈레반 통치 5년 만에 자신들의 삶이 완전히 알아볼 수 없게 변했다고 BBC에 증언했다. 이들은 교육과 취업 기회를 박탈당하고 기본적인 자유조차 제한받는 현실을 고발했다. 탈레반의 가혹한 통치 아래 여성들의 인권 탄압이 심각한 수준에 이르렀음이 드러났다.",
+      "summary": "아프가니스탄 탈레반 집권 5주년을 맞아 BBC와의 인터뷰에서 아프간 여성들은 삶이 완전히 파괴되었다고 증언했습니다. 교육 및 직업 활동이 제한되고 인권이 심각하게 침해받는 현실을 고발했습니다. 국제 사회는 아프간 여성들의 인권 개선을 위한 노력을 촉구하고 있습니다.",
       "pub_date": "2026-08-14T18:25:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "일본, 전례 없는 폭우로 8명 사망",
-      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "일본에서 전례 없는 기록적인 폭우가 쏟아져 최소 8명이 사망하는 인명 피해가 발생했다. 폭우는 광범위한 지역에 홍수와 산사태를 유발하며 도로와 주택을 파괴했다. 일본 정부는 피해 지역에 긴급 구조 인력을 파견하고 추가 피해를 막기 위한 조치를 취하고 있다.",
-      "pub_date": "2026-08-14T10:36:14+00:00"
+      "title": "벨기에 건물 벽에서 9백만 유로 상당의 금괴 뭉치 발견",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "벨기에의 한 건물 보수 공사 도중 벽 안에서 약 9백만 유로(약 130억 원)에 달하는 금괴 뭉치가 발견되었습니다. 이 금괴는 수십 년간 숨겨져 있던 것으로 추정되며, 발견 소식에 현지 사회가 떠들썩합니다. 발견된 금괴의 출처와 소유권에 대한 조사가 진행될 예정입니다.",
+      "pub_date": "2026-08-14T13:18:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "프랑스 최고 법원, 15세 미만 청소년 소셜 미디어 금지 법안 제동",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "프랑스 최고 법원이 15세 미만 청소년의 소셜 미디어 사용을 금지하려던 법안에 제동을 걸었다. 정부는 청소년 보호를 위해 해당 법안을 추진했으나, 법원은 표현의 자유 등 헌법적 가치를 침해할 소지가 있다고 판단했다. 이번 결정으로 미성년자의 온라인 활동 규제에 대한 사회적 논의가 더욱 활발해질 전망이다.",
-      "pub_date": "2026-08-14T16:35:06+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "잠비아, 투표 관리 요원 공격 의혹으로 중단되었던 개표 작업 재개",
+      "title": "잠비아, 투표소 직원 공격 주장으로 중단되었던 개표 재개",
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "summary": "잠비아에서 투표 관리 요원에 대한 공격 의혹으로 일시 중단되었던 대통령 선거 개표 작업이 재개되었다. 이번 선거는 폭력 사태와 부정 선거 의혹이 제기되며 혼란을 겪고 있다. 국제 사회는 잠비아의 민주적인 선거 절차가 공정하게 마무리되기를 주시하고 있다.",
+      "summary": "잠비아에서 투표소 직원들에 대한 공격 주장으로 잠정 중단되었던 대선 개표가 재개되었습니다. 선거 과정의 투명성과 공정성에 대한 우려가 제기되고 있습니다. 잠비아 선거 결과는 지역 정치 안정에 중요한 영향을 미 미칠 것으로 보입니다.",
       "pub_date": "2026-08-14T16:28:59+00:00"
     },
     {
       "category": "세계",
-      "outlet": "BBC",
-      "title": "미국, 수십 개국이 중국의 트럼프 관세 회피를 도왔다고 주장",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 정부가 수십 개국이 중국이 트럼프 전 행정부의 관세를 회피하는 데 도움을 주었다고 주장했다. 이는 제3국을 통해 제품을 우회 수출하는 방식 등으로 관세 장벽을 무력화했다는 내용이다. 미국은 이러한 관세 회피 행위에 대한 추가 조치를 검토하고 있어 국제 통상 갈등이 심화될 가능성이 있다.",
-      "pub_date": "2026-08-14T08:39:46+00:00"
+      "outlet": "CNN",
+      "title": "유럽의 폭염, 가뭄 및 산불 유발 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjhsMlRBcFhoNU9NRFJnR2hWd195SXBIWEtlQzgyb0pYQWFOZlRYb3VFck9xamtwbE9uZXFZMU5XbzNzZ0szTjJCSmhXUFhVZE1wQUFxaHZmVWFuLUUwV2VlTU9DYTBhWDdMcWR3UkY2V3FLNFhtZ0tnM1gteGtxZnByTVc0MmIxem4zeGIzdUFfLUYwQzBUTFFfaXEyb0R0?oc=5",
+      "summary": "유럽 전역에 기록적인 폭염이 지속되면서 심각한 가뭄과 대규모 산불이 발생하고 있습니다. 이는 기후 변화의 직접적인 영향으로 분석되며, 인명 및 재산 피해가 커지고 있습니다. 유럽 각국은 비상 체제를 가동하고 진화 및 피해 복구에 총력을 기울이고 있습니다.",
+      "pub_date": "2026-08-15T06:06:08+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "탈레반 아프가니스탄 장악 5주년: 현재 상황 분석",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjdHR3IxU3J2dzEtVTlDN2QzZWI0X2R4cWRFbk1DV293ZmpWTXJwb2dZTWVNR3pKNWo3VTM0YmZpY2xYanlYd1BCdFI1cUNvS3BmQnFSbHowWnlUWHFBblBzSzBoalNPall3bmhFQ0Z3bXZJUGcyUjA0dWtHQ3JRMWtHOUFUQ3JoaFhLczRR?oc=5",
+      "summary": "탈레반이 아프가니스탄을 장악한 지 5년이 지났습니다. 국가 경제는 붕괴 직전이며, 주민들은 극심한 빈곤과 인권 탄압에 시달리고 있습니다. 국제 사회의 인도적 지원이 절실한 상황이며, 탈레반의 통치 능력에 대한 의문이 계속 제기되고 있습니다.",
+      "pub_date": "2026-08-15T13:03:00+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "인도네시아 치명적 지진 후 건물 붕괴 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2IzV0szQnFTdWE4akI4cWZqMDdzUWNCa1NuUEQ1V0VBTkVvQVJDVjFBX3BUS19TM3VLZXBPejE2dVZJRTNFaFVsd05pRTV6REd2NllWa1BSdFQwMDQ1dVUwNm90LWRzRUE5Q1RiYWMxR1RFRXZwQTJkU0c2WFd1OGJRWU9wbUxLRFJVVEtVTk9Lc0ZvTDAtMkJ6RmhJQQ?oc=5",
+      "summary": "인도네시아에서 발생한 치명적인 지진으로 수많은 건물이 붕괴되었습니다. 현재까지 많은 인명 피해가 보고되었으며, 피해 지역의 구조 작업이 긴급하게 진행 중입니다. 지진은 인도네시아 동부 지역을 강타했으며, 여진 발생 가능성도 높습니다.",
+      "pub_date": "2026-08-15T08:54:00+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "인도네시아 강진으로 수십 명 사망, 수백 명 피난 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yX2ZaMTUzbFQ3QjBDRnNuN0hxVVE1b2x6NU43VmwtOUx3WE1MTFp3ZWl4ZVEtdk40LU9iNEt1Z1ZNcm40ZXNTOTJueDJfSmRRc2tNemN4WW9WcHhpNGwxQktjT1NHbjA4M3lKMDhPTzEyNk96d0E?oc=5",
+      "summary": "인도네시아를 강타한 강력한 지진으로 수십 명이 사망하고 수백 명이 피난길에 올랐습니다. 지진은 주민들의 생활 기반을 송두리째 파괴했으며, 광범위한 지역에서 피해가 보고되고 있습니다. 정부와 국제 구호 단체들은 긴급 구조 및 인도적 지원을 확대하고 있습니다.",
+      "pub_date": "2026-08-14T23:16:31+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "CNN",
+      "title": "공화당, 의회 장악 가능성 희박에 우려 표명. 트럼프 캠페인의 전략 분석",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTERmZlpZWVFySmlsLTV4VVI0Wm9EZEh6dFpjSHlrOEJmd09HQnZ5UnQzN1gxLXZQa1dxNkdwRVI4QUFKb1ZCZzlHek5wanhOMGU4Vk9BLW9KaEhONnJCT3BqX0VpZjBnU3d6ZFdKSFgzSXJLSkhqZGF2UG81OUtFTVdXb29TV19SZ0hOLUJCaGNiTTg0V1ZIbm1adzJ3RXVidEVOZk1oSVQtYkNNRUY1T3RSTzBUbUtRS3I0UU9iTXFVVHB0TUtpYlZQV0k4eXRtY0Z3QXM1bVpRXzdJOEx2NHYwcw?oc=5",
+      "summary": "공화당 내부에서 다가오는 선거에서 의회 다수당 지위를 유지할 가능성이 희박하다는 우려가 커지고 있습니다. 트럼프 캠프는 이러한 상황을 반전시키기 위한 새로운 전략을 모색하고 있습니다. 공화당의 선거 전략과 트럼프 전 대통령의 영향력이 어떻게 작용할지 주목됩니다.",
+      "pub_date": "2026-08-15T12:17:45+00:00"
     }
   ]
 }
