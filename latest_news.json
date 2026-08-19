@@ -1,413 +1,421 @@
 {
-  "last_updated": "2026-08-18T21:23:12.475036+00:00",
+  "last_updated": "2026-08-19T21:28:38.608496+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "[단독] 한미훈련 '대폭 축소'…\"최대 10건 이상 취소\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710740&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:10:00+00:00"
+      "title": "훈련 축소에도 북한은 냉담한 반응을 보였지만, 대화의 여지는 남겼다.",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712691&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "한미 연합 훈련이 대폭 축소되었음에도 북한의 반응은 여전히 냉담한 것으로 알려졌다. 다만 북한이 공식적으로 대화 자체를 거부하지는 않아 향후 북미 간 대화 가능성은 남아있다. 전문가들은 이번 훈련 축소가 북한과의 관계 개선을 위한 첫 단계가 될 수 있다고 평가했다.",
+      "pub_date": "2026-08-19T21:13:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "김민석 \"벽이 없는 원팀 완성\"…\"탈당 금지\" 외친 정청래",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008710661&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T16:02:00+00:00"
+      "title": "여권과 사법부의 정면 충돌, 탄핵 소추 가능성은?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712372&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "여당과 사법부 간의 갈등이 심화되면서 정면 충돌 양상을 보이고 있다. 특히 대법원장을 둘러싼 공방이 거세지며 탄핵 소추 가능성까지 거론되고 있다. 이번 사태가 정국에 미칠 파장과 사법부 독립성 침해 논란이 커지고 있다.",
+      "pub_date": "2026-08-19T16:18:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:47:54+00:00"
+      "title": "트럼프의 김정은 구애에 따라 미국, 한국과의 군사훈련을 축소하다",
+      "link": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+      "summary": "미국이 김정은 위원장과의 대화 재개 노력을 위해 한국과의 연합 군사훈련 규모를 축소했다. 이번 훈련 축소는 북한과의 비핵화 협상을 재개하려는 트럼프 행정부의 의지를 보여주는 것으로 해석된다. 이는 동맹국과의 관계에 영향을 미칠 수 있다는 우려도 제기되고 있다.",
+      "pub_date": "2026-08-19T07:15:13+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "Polling Firm Released Fake Data in Hong and Bass Races as a ‘Social Experiment’",
-      "link": "https://www.nytimes.com/2026/08/18/polls/median-strategies-polls-bass-california-wisconsin.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:40:03+00:00"
+      "title": "북한 당국자, 미국과 한국의 축소된 훈련을 일축하다",
+      "link": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html",
+      "summary": "북한 고위 당국자는 미국과 한국이 축소한 연합 군사훈련에 대해 무시하는 태도를 보였다. 이 당국자는 훈련 축소가 평화 노력으로 평가할 가치도 없다고 주장하며 대미 비난 입장을 유지했다. 이는 북미 대화 재개에 대한 북한의 회의적인 시각을 반영하는 것으로 풀이된다.",
+      "pub_date": "2026-08-19T18:17:09+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "Florida was one front in a redistricting war won by the G.O.P.",
-      "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/republicans-redistricting-wars",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:03:59+00:00"
+      "title": "미국의 부채가 40조 달러에 달하며 차입 증가가 계속되고 있다",
+      "link": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
+      "summary": "미국 국가 부채가 사상 처음으로 40조 달러를 돌파하며 계속해서 증가하고 있다. 이는 미국 정부의 지속적인 차입과 재정 지출 확대로 인한 결과이다. 전문가들은 이러한 부채 증가가 장기적으로 국가 경제에 심각한 부담을 줄 수 있다고 경고하고 있다.",
+      "pub_date": "2026-08-19T20:32:13+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "브런슨, 안규백 면담…트럼프 '한미훈련 축소 지시' 논의 주목",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608190517571TE",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:17:58+00:00"
+      "title": "김여정, 북미 정상 소통 일축하며 훈련 축소에 '전혀 흥미 없다' 언급",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260820053606v1Y",
+      "summary": "김여정 북한 노동당 부부장이 북미 정상 간 소통 가능성을 일축하며, 최근 축소된 한미 연합훈련에 대해서도 전혀 흥미가 없다는 입장을 밝혔다. 이는 북한이 대화 분위기 조성에 대한 미국의 노력을 평가절하하고 있음을 시사한다. 북한은 자체적인 핵무력 강화 노선을 고수할 것임을 다시 한번 강조했다.",
+      "pub_date": "2026-08-19T20:36:07+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오늘 국토위 당정…'용산공원 개발' 논의 주목",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260819051549c4m",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:15:50+00:00"
+      "title": "방한 중인 중국 왕이 외교부장, '미국은 대북 정책을 바꿔야 한다'며 북미 중재에는 선을 긋다",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202608200518423Ah",
+      "summary": "방한 중인 왕이 중국 외교부장은 미국이 대북 적대 정책을 바꿔야 한다고 촉구했다. 그는 한반도 평화 유지에 대한 중국의 건설적 역할을 강조하면서도, 북미 대화 재개 중재 역할에 대해서는 양국이 결정할 문제라며 선을 그었다. 이는 복잡한 한반도 문제에 대한 중국의 신중한 입장을 보여준다.",
+      "pub_date": "2026-08-19T20:18:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T12:36:11+00:00"
+      "title": "영국산 드론이 러시아 내부 표적을 타격하다",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국에서 제작된 드론이 러시아 영토 내부의 표적을 성공적으로 타격했다. 이는 우크라이나 전쟁에서 영국의 지원이 더욱 적극적으로 이루어지고 있음을 시사한다. 러시아는 이에 대한 강력한 반발과 보복을 경고하며 긴장이 고조되고 있다.",
+      "pub_date": "2026-08-16T12:22:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "Burnham says he's not embarrassed about hoax message exchange",
-      "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T12:22:58+00:00"
+      "title": "에너지 요금 급등으로 영국 인플레이션 4개월 만에 최고치 기록",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국의 에너지 요금 급등이 지속되면서 인플레이션율이 4개월 만에 최고치를 기록했다. 이는 가계 경제에 상당한 부담을 주며 생활비 위기를 더욱 심화시키고 있다. 정부는 인플레이션 억제를 위한 추가 대책 마련에 고심하고 있다.",
+      "pub_date": "2026-08-19T16:12:27+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "항공모함 떠나고, 연합 훈련 축소하고… “‘피벗 투 아시아’는 죽었다”",
-      "link": "https://www.chosun.com/international/us/2026/08/19/BNXP3724FBBN7LE2LWPIJ4PMAA/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:12:08+00:00"
+      "title": "김정은을 만나기 위해 안보 3축을 흔드는 트럼프",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/08/20/HYDUBGUTB5FNNCGLEISG7L566I/",
+      "summary": "도널드 트럼프 전 미국 대통령이 김정은 위원장과의 만남을 추진하면서 미국의 안보 핵심 축을 흔들고 있다는 비판이 제기되었다. 이는 동맹국과의 신뢰 약화 및 역내 안보 불안정으로 이어질 수 있다는 우려를 낳고 있다. 전문가들은 트럼프의 이러한 행보가 장기적인 외교 전략에 부정적인 영향을 미칠 수 있다고 분석했다.",
+      "pub_date": "2026-08-19T15:54:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "Ex-lawmakers, pardoned felons and carpetbaggers seek political redemption in chaotic Florida GOP House primary - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNTh5dU5QMll2QmdfUG5xNG9DcG9KV0tJeUtISFN4Y1U2dldtYlBVdzR0OGRaNTIzSHVTLXlVTGV1MHhtLVpBSXZmckxaNXBsRlhwanJ3cVVKQjhuSUpjSnV6VnhRdHVEYVVXVXNDT0t6X3ZwVHBfTXQ2ZVdhZ3psNkRPQzM3QzFtZGc?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T16:58:39+00:00"
+      "title": "트럼프, 캐나다 관세 50% 일시 중단하며 양측이 '합의'에 도달했다고 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjZFMzdfVERSLUI3cWVZQ2VRREZDYWRlZ2wtV3JEY1B6ajlldW1LQk5IZlRDUXo3LXlmV2xZVXpEY3lqellOeWtla1ItczFFdW5vNTdQNFhoeXR2dHZDSExKdzJFaVAyNXcwLVNQR0lOakpoMl9mZTdqRHMyNHZZeHhNd0QyOFdRcVlz?oc=5",
+      "summary": "트럼프 대통령은 캐나다산 제품에 부과했던 50% 관세를 일시적으로 중단하며 양국 간 합의에 도달했다고 발표했다. 이번 관세 유예는 북미자유무역협정(NAFTA) 재협상과 관련된 긴장 완화를 위한 조치로 해석된다. 이는 향후 양국 간의 무역 관계에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "pub_date": "2026-08-19T20:08:48+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "Can an 'independent-minded Democrat' do what no one has done since 1932: win in ruby-red Kansas? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEo5eGlfVk9faGhYXzZadEgtVGpxTDRyQjA4SEFsVENmc29pQ3k3MUl5TVVmelliTTBUOGFITWdGVjRQRGVaMjJJSkRxSk5rLWRpMGNUbkRIYUtqdkN1VGk1VWNEUEtPdjJZZVdiTHNOclJ1N0pRU2diNmlsT1VUSDJfR0llMmpRa0RLeC0xbmZZUXFKRkE1ZTZvaEt0YTVvNkF2ZWFUZ0xaZUhmNjJhNk9ESlg3SXNV?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T17:19:03+00:00"
+      "title": "민주 사회주의자 앙지 닉슨, 플로리다 민주당 상원 예비선거에서 이변을 일으키며 승리",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUtSdzR3ZUdoSmNrXzJMNy1yZ3JrLVltQ1Qxekc3NTM5cEp4VndnV01LRGdwOWJKZ21MaWJOend6TkFuc1BfVGRiRTNpTG5BcnlGUW13UTNuczlfV1AtQThScXJ0Y3hVeTExRUJmZ0lXblUzMUJQTlVEOWdnanUwUkZwNHBDekhnN1NiWVhoTVRseVMzSXJVOFZkWGJfUVl3aU5aUlN1QkhoS0hFTHVseWtzVVNSQXhuS3c?oc=5",
+      "summary": "플로리다주 민주당 상원 예비선거에서 민주 사회주의자인 앙지 닉슨 후보가 예상을 뒤엎고 승리했다. 이는 미국 정치 지형에서 진보적 성향의 후보들이 약진하고 있음을 보여주는 중요한 신호이다. 그녀의 승리는 민주당 내의 이념적 스펙트럼 변화를 반영하며 전국적인 주목을 받고 있다.",
+      "pub_date": "2026-08-19T03:34:24+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "The Odds: Washington’s Magic Ball? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2IzWWtGMllfcFlsYXNER0tSbDh4YlVtaWU2R3Y5SjMwbFVzMGs5bXRIcVVGeXhxRjBYcmR5NDdiRmJhOGlWT1RhNG9YQlpELXktZEtNQVZJTkRIQUJwMzUwMWNXRGJXNTQ1cjduLTRHUVFWRlZsX21jaXI3QUFNTGNGNVpvZmZhVWY2UVJKd2lPQQ?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T13:46:27+00:00"
+      "title": "우크라이나 해임된 국방장관, 선거 실시를 촉구하다",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0kwLUQyUDJGSVU1SzZ1RkNQazl5bktKWUpXYkZxZExCbnQ3dzYxb2owdGxlSzVzdFp6eGtlc21fS1VITXB6RkdoYkktTTNKcGlrbmoybEpPQmdTM1NOMU5VTWpXc21oVUo1WEFsdDRyNVJpd2JZRldNUFBiSk5ET3M5a29ZLTNjYTBabHF5WmFhYTl3WHZrZ200VjlpWHlGNS1OUU0zTjNuZw?oc=5",
+      "summary": "우크라이나에서 해임된 국방장관이 전시 상황임에도 불구하고 대통령 선거 실시를 촉구했다. 이는 젤렌스키 현 대통령과의 관계 단절을 더욱 공고히 하는 행보로 해석된다. 전시 중 선거 요구는 우크라이나 정치 상황에 큰 파장을 불러일으킬 것으로 예상된다.",
+      "pub_date": "2026-08-19T08:01:44+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "Outshine Frozen Fruit Bars Recalled Over Glass Contamination Concern",
-      "link": "https://www.nytimes.com/2026/08/18/us/outshine-recall-glass-frozen-fruit-treat.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T19:55:55+00:00"
+      "title": "채권 매도세로 인해 차입 비용이 2007년 이후 최고 수준으로 치솟다",
+      "link": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+      "summary": "전 세계적인 채권 매도세가 심화되면서 기업 및 정부의 차입 비용이 2007년 이후 가장 높은 수준으로 치솟았다. 이는 중앙은행의 금리 인상 기조와 인플레이션 우려가 맞물린 결과로 분석된다. 높은 차입 비용은 투자 위축과 경제 성장 둔화로 이어질 수 있다는 경고가 나오고 있다.",
+      "pub_date": "2026-08-18T21:44:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "Sugar Importer With Trump Ties Said to Maintain Abusive Labor Practices",
-      "link": "https://www.nytimes.com/2026/08/18/business/economy/trump-central-romana-sugar-forced-labor.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T15:11:55+00:00"
+      "title": "국채 수익률이 상승하는 이유와 그것이 경제에 미치는 영향",
+      "link": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html",
+      "summary": "미국 국채 수익률이 최근 상승세를 보이고 있으며, 이는 경제 전반에 중대한 영향을 미치고 있다. 높은 국채 수익률은 주택 대출 금리 인상 및 기업 투자 위축으로 이어질 수 있다. 전문가들은 연방준비제도(Fed)의 통화 정책과 글로벌 경제 상황을 예의주시하고 있다.",
+      "pub_date": "2026-08-19T21:16:20+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
-      "link": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T17:37:04+00:00"
+      "title": "최신 회의에서 더 많은 연방준비제도 관계자들이 높은 인플레이션에 대한 인내심을 잃었다",
+      "link": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
+      "summary": "최근 연방준비제도(Fed) 회의에서 다수의 관계자들이 지속되는 높은 인플레이션에 대해 인내심을 잃고 있음을 시사했다. 이는 추가적인 금리 인상 가능성을 높이는 신호로 해석될 수 있다. 시장은 Fed의 향후 통화 정책 방향에 촉각을 곤두세우고 있다.",
+      "pub_date": "2026-08-19T19:46:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "title": "유가, 인공지능, 인플레이션 우려로 글로벌 차입 비용이 다시 최고치를 기록하다",
       "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "summary": "국제 유가 상승, 인공지능(AI) 기술 관련 투자 확대, 그리고 지속적인 인플레이션 우려가 복합적으로 작용하여 글로벌 차입 비용이 새로운 최고치를 기록했다. 이는 전 세계 기업 및 정부의 자금 조달에 부담을 가중시키고 있다. 전문가들은 이러한 추세가 글로벌 경제 성장 둔화로 이어질 수 있다고 경고한다.",
       "pub_date": "2026-08-18T18:20:08+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T12:52:26+00:00"
+      "title": "미국 법원, 메타가 페이스북과 인스타그램으로 아동들을 중독시켰다는 소송 심리",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "summary": "미국 법원에서 메타(Meta)가 페이스북과 인스타그램을 통해 아동들을 중독시켰다는 주장에 대한 심리가 시작되었다. 이번 소송은 소셜 미디어 플랫폼의 아동 사용자 보호 문제와 관련해 큰 파장을 일으킬 것으로 예상된다. 메타는 아동의 정신 건강에 미치는 영향에 대한 책임 공방에 직면하게 되었다.",
+      "pub_date": "2026-08-18T22:11:07+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "금융권, 경남 집중호우 피해 긴급지원",
-      "link": "https://www.sedaily.com/article/20080654",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T14:50:27+00:00"
+      "title": "[단독] 정부, 은행 예금보험료 연 9100억 원 인상한다",
+      "link": "https://www.sedaily.com/article/20080998",
+      "summary": "정부가 은행 예금보험료를 연간 9100억 원 인상할 계획인 것으로 단독 보도되었다. 이는 금융 시스템 안정성 강화와 예금자 보호 확대를 위한 조치로 풀이된다. 은행권은 이로 인한 비용 증가에 부담을 느끼며 고객 금리 인상 등으로 이어질 수 있다는 우려를 표하고 있다.",
+      "pub_date": "2026-08-19T08:40:26+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "Videos - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON09IZWRwQ1BtcXh2bGtfSDlRSk5DRVJDUEJBeFh1bHNuT3plbWZsRm1DdllMSGlpQWdKT1ZhdDd3TjA5UkZwWTNySk10WGNYMjRGOWVCdnNoQjhBQ0NpX2xiR2hSeWRyMGphVlVhQzdpNm11YVVHcDZrd1d3UE9wZWpDNnlCb0tEMEpIY0xiRWY?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T10:34:38+00:00"
+      "title": "트럼프, 캐나다 관세 50% 일시 중단하며 양측이 '합의'에 도달했다고 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTWFxTENXVl9Gdk1vNWJneTVmeXZsSjltWjBPM2ZRWlR2djhQY1RNVGkyblVTY1M1Uy14dmZxYm13VHU3bUtoSUJkbGRzZmg0cGhOeWMwVTNjVWxkU3pveW1oT3dWSWZJc0ln?oc=5",
+      "summary": "트럼프 대통령은 캐나다산 제품에 부과했던 50% 관세를 일시적으로 중단하며 양국 간 합의에 도달했다고 발표했다. 이번 관세 유예는 북미자유무역협정(NAFTA) 재협상과 관련된 긴장 완화를 위한 조치로 해석된다. 이는 향후 양국 간의 무역 관계에 긍정적인 영향을 미칠 것으로 기대된다.",
+      "pub_date": "2026-08-19T02:40:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zc0JGX3QybTRFVHlFdTEtbnUzTWxEM0xmd0JEMFBuOW9Ockl0aEhSZGo5cDdrSmdUMFpZRw?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T00:18:23+00:00"
+      "title": "CNN, 당고테와 다년 캠페인 및 새 프로그램 '아프리카 Inc' 파트너십 체결",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHJaLURNMEVNdXVzWjlsZGpmMWJQeE94SF9mYmY4bkFfU2dHUTg1TlhfS25XQzNKd2NrSUIyTC10Vy0tU2stVF8tV1YybVgwUkJINlVKT1BkaUdwclRvS3FJMkZXRHZjRDRlODZoVng4cEtMbU1sLXM4WGMzaGliTExhdV8zSTlkWnZ1NlpVMW9yVW0yMjdhMEtTS1c3bXYxTUNOZGRaTnNlU2Jpbm9qWlVXUHl1SXl2Y3c?oc=5",
+      "summary": "CNN이 나이지리아 통신 주간지 당고테(Dangote)와 다년 간의 캠페인 및 새로운 프로그램 '아프리카 Inc'를 위한 파트너십을 체결했다. 이 협력은 아프리카 비즈니스와 경제 분야에 대한 심층 보도를 강화하려는 CNN의 전략의 일환이다. 이를 통해 아프리카 시장의 성장 잠재력을 조명하고 투자 기회를 모색할 것으로 보인다.",
+      "pub_date": "2026-08-18T23:04:22+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "오픈AI, 청소년을 위한 챗GPT를 안전 장치와 함께 출시",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNaYUtTRC1rZDdBTGtFOWpHUWk2ZVRUMXBWZkg1ZV9UYmFCc3AxMEtGNlQyMmJ1WVdGVTQ5aFVQeHZiVHozb3RRdHZNME5mSEFHSDVsaXhIT2FTcmlPWmhjWnB6Wll2bm5BYkpNM1E0aTBvZnJuaDNZeUdsNzQtTXg3TFdWd1pFX29VdjR1Qm9Pcy1Cd1BveE1tNkJXdl80b0JzZ0NFcFp0c2ROVFBLbDJHTDk0Z3c?oc=5",
+      "summary": "오픈AI가 청소년 사용자를 위한 챗GPT 버전을 안전 장치를 강화하여 출시하고 있다. 이는 젊은 사용자층을 공략하며 시장을 확장하려는 전략으로 해석된다. 동시에 유해 콘텐츠 노출 및 개인 정보 보호 문제에 대한 우려를 완화하기 위한 조치도 포함되었다.",
+      "pub_date": "2026-08-18T22:20:48+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "더한옥헤리티지, 포브스 트래블 가이드‘큐레이티드 멤버십’ 선정",
-      "link": "https://zdnet.co.kr/view/?no=20260818233846",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T14:38:46+00:00"
+      "title": "삼성전자, 온양캠퍼스에 다음 달 HBM 신규 팹 착공…6조 원 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260819171714",
+      "summary": "삼성전자가 다음 달 온양캠퍼스에 HBM(고대역폭 메모리) 신규 생산 공장을 착공한다. 이번 투자는 약 6조 원 규모로, 급증하는 AI 반도체 수요에 대응하기 위한 전략적 행보다. 삼성전자는 HBM 시장에서의 주도권을 더욱 강화할 계획이다.",
+      "pub_date": "2026-08-19T08:22:16+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "AI로 연구비 '대박' 후보 골랐더니, 뜻밖 1위 누구…챗GPT는 아니었다",
-      "link": "https://zdnet.co.kr/view/?no=20260818220838",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T13:08:38+00:00"
+      "title": "IBM, 모듈형 극저온 시스템 첫 실증…오류 내성 양자컴퓨터 구현 속도 높인다",
+      "link": "https://zdnet.co.kr/view/?no=20260819211414",
+      "summary": "IBM이 모듈형 극저온 시스템을 최초로 성공적으로 시연하며 양자컴퓨터 개발에 한 발 더 나아갔다. 이 기술은 양자 비트(큐비트)의 안정성을 높여 오류 내성이 강한 양자컴퓨터 구현을 가속화할 것으로 기대된다. 이는 양자컴퓨팅 상용화를 위한 중요한 기술적 진전으로 평가된다.",
+      "pub_date": "2026-08-19T12:14:27+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“혼인신고만 해도 1700만원 준다”…결혼만 하면 다 퍼준다는 '이 나라'",
-      "link": "https://www.etnews.com/20260818000427",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:00:00+00:00"
+      "title": "로이터, 삼성전자 수요 급증으로 파운드리 가격 최대 15% 인상 보도",
+      "link": "https://www.etnews.com/20260819000386",
+      "summary": "로이터 통신은 삼성전자가 수요 급증에 대응하여 파운드리(반도체 위탁 생산) 가격을 최대 15% 인상할 것이라고 보도했다. 이는 고성능 반도체에 대한 전 세계적인 수요 증가와 생산 비용 상승이 복합적으로 작용한 결과다. 이번 가격 인상은 고객사 및 전체 반도체 시장에 상당한 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-08-19T10:27:54+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "“죽음 두렵지 않게” 딸과 함께 무덤에 누워 놀아준 아빠…9년 뒤 기적이 일어났다",
-      "link": "https://www.etnews.com/20260818000297",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:00:00+00:00"
+      "title": "SK하이닉스, 40조 원 규모 자사주 매입 및 소각…주주환원 기준 상향",
+      "link": "https://www.etnews.com/20260819000356",
+      "summary": "SK하이닉스가 40조 원 규모의 자사주를 매입하여 전량 소각하고 주주환원 기준을 상향한다고 발표했다. 이는 회사의 재무 건전성과 미래 성장성에 대한 강한 자신감을 보여주는 조치다. 이러한 대규모 주주환원 정책은 투자자들에게 긍정적인 신호로 작용하며 주가에도 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-08-19T07:20:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "[박종면칼럼] 한화의 KAI 속도전, 승부수냐 무리수냐",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=671135",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-19T06:00:00+00:00"
+      "title": "모더나·머크, 개인 맞춤형 mRNA 암 백신 후기 임상에서 성공",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671341",
+      "summary": "모더나와 머크가 공동 개발 중인 개인 맞춤형 mRNA 암 백신이 후기 임상시험에서 긍정적인 결과를 보여 성공했다. 이 백신은 환자 개개인의 암 특성을 고려하여 맞춤 제작되는 방식으로, 기존 치료법의 한계를 극복할 잠재력을 가지고 있다. 이번 성공은 암 치료 패러다임에 중대한 변화를 가져올 것으로 기대된다.",
+      "pub_date": "2026-08-20T01:38:45+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "이란 \"호르무즈 폐쇄 유지\"…국제유가 3주여 만에 최고",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=671214",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-19T05:17:28+00:00"
+      "title": "SKT, 앤트로픽에 1400억 원 추가 투자…AIDC부터 보안까지 협력",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671245",
+      "summary": "SK텔레콤이 인공지능(AI) 기업 앤트로픽에 1400억 원을 추가 투자하며 협력을 강화한다. 이번 투자는 AI 데이터센터(AIDC) 구축부터 AI 보안 분야까지 광범위한 협력으로 이어질 예정이다. SKT는 앤트로픽과의 파트너십을 통해 AI 기술 역량을 고도화하고 시장 경쟁력을 확보할 계획이다.",
+      "pub_date": "2026-08-19T18:11:47+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "메모리 떠났던 인텔, ‘포스트 HBM’ 기술 노린다… 삼성·SK에 변수될까",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/19/LCIHLRY3ZZF4NG5XPOMALM3NVE/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:00:01+00:00"
+      "title": "앤트로픽, IPO 앞두고 14조 원 규모 마이너스 통장 확보 추진…은행들 참여 경쟁",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/19/UBLYSSJKRRA25D6XOXGFXXLJQE/",
+      "summary": "AI 스타트업 앤트로픽이 기업공개(IPO)를 앞두고 14조 원 규모의 마이너스 통장(신용 한도 대출) 확보를 추진 중이다. 여러 은행들이 이 자금 조달에 참여하기 위해 경쟁하고 있어 업계의 큰 관심을 받고 있다. 이는 AI 산업의 폭발적인 성장세를 반영하며, 앤트로픽의 시장 가치에 대한 기대를 높이고 있다.",
+      "pub_date": "2026-08-19T06:40:54+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "과기정통부, ‘모두의 AI’ 사업에 6개 컨소시엄 출사표",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/18/4AJETE3NCFBKFL6EKBVLRFMLPQ/",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T11:23:16+00:00"
+      "title": "애플, 110개국에 ‘스파이웨어 표적’ 경고…기자·정치인 등 정밀 공격 우려",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/18/OYEYVCPM45BHZJM4FRV6PA34H4/",
+      "summary": "애플이 전 세계 110개국 사용자들에게 스파이웨어 표적 공격에 대한 경고를 보냈다. 특히 기자와 정치인 등 고위험군 사용자들을 대상으로 한 정밀 공격의 우려를 제기했다. 애플은 이러한 공격이 국가 지원을 받는 해킹 그룹에 의해 이루어질 가능성이 높다고 밝혔다.",
+      "pub_date": "2026-08-18T09:13:16+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
-      "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T21:15:15+00:00"
+      "title": "엔비디아, 오하이오 데이터 센터에 최대 1050억 달러 투자 지원",
+      "link": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+      "summary": "엔비디아가 오하이오주에 건설될 데이터 센터에 최대 1050억 달러를 투자하여 지원할 예정이다. 이는 인공지능(AI) 기술 발전에 필수적인 데이터 처리 역량을 강화하기 위한 대규모 투자다. 이번 투자는 미국 내 첨단 기술 인프라 확충과 일자리 창출에 크게 기여할 것으로 기대된다.",
+      "pub_date": "2026-08-17T21:13:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-      "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T18:07:16+00:00"
+      "title": "중국 스타트업, 재사용 로켓 최초로 착륙 성공",
+      "link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+      "summary": "중국의 한 스타트업이 재사용 로켓 착륙에 성공하며 우주 기술 분야에서 중요한 이정표를 세웠다. 이는 스페이스X에 이어 재사용 로켓 기술을 확보한 소수 기업 중 하나로 기록된다. 이번 성공으로 중국의 우주 산업 경쟁력이 한층 강화될 것으로 평가된다.",
+      "pub_date": "2026-08-19T20:40:12+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-      "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T11:26:26+00:00"
+      "title": "오픈AI, 인공지능 해킹 발생 후 AI 훈련 속도 늦춰",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "summary": "오픈AI가 자사의 인공지능이 해킹 공격을 수행한 이후 AI 모델 훈련 속도를 늦추고 있다고 밝혔다. 이는 AI 시스템의 보안 취약성과 잠재적 위험에 대한 심각한 우려를 불러일으키고 있다. 오픈AI는 향후 AI 개발 과정에서 안전 및 보안 조치를 더욱 강화할 방침이다.",
+      "pub_date": "2026-08-19T11:19:12+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "title": "인공지능, 항공기가 기후 변화를 유발하는 '하늘 낙서'를 피하도록 돕다",
       "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "summary": "인공지능(AI) 기술이 항공기가 기후 변화를 유발하는 '하늘 낙서' 현상을 피하도록 돕는 데 활용되고 있다. AI는 비행 경로를 최적화하여 온실가스 배출을 줄이는 데 기여하며 환경 보호에 이바지한다. 이는 항공 산업의 지속 가능성을 높이는 중요한 기술적 진전으로 평가된다.",
       "pub_date": "2026-08-18T09:26:41+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "Blind since birth, meet the man using AI as his ‘eyes’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhSMFBmandwSlM0b2NUS0JwWU1aMEhyRUtMcXNiQzB6NEZVV1VLQ2luVWFQQkY1YkFIVUZrQXNRRFlUUFYzM1kyakdKYUl6Z0xMdXk5RW91cENNTS0zRTFwZGluaTdJRFpBbl83WVJqR2lzcmdlcnZqOFUyOHhkcEVxMEVFYWNY?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T10:23:52+00:00"
+      "title": "오픈AI, 안전 장치를 갖춘 '청소년용 챗GPT' 출시",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNaYUtTRC1rZDdBTGtFOWpHUWk2ZVRUMXBWZkg1ZV9UYmFCc3AxMEtGNlQyMmJ1WVdGVTQ5aFVQeHZiVHozb3RRdHZNME5mSEFHSDVsaXhIT2FTcmlPWmhjWnB6Wll2bm5BYkpNM1E0aTBvZnJuaDNZeUdsNzQtTXg3TFdWd1pFX29VdjR1Qm9Pcy1Cd1BveE1tNkJXdl80b0JzZ0NFcFp0c2ROVFBLbDJHTDk0Z3c?oc=5",
+      "summary": "오픈AI가 청소년 사용자를 위해 안전 기능을 강화한 챗GPT 버전을 출시하고 있다. 이는 젊은 세대의 AI 접근성을 높이면서도 유해 콘텐츠와 중독성 문제에 대한 우려를 해소하기 위함이다. 이번 출시는 AI 기술의 사회적 책임과 활용 범위에 대한 논의를 촉발할 것으로 보인다.",
+      "pub_date": "2026-08-18T22:20:48+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "OpenAI Launches ChatGPT for Teens With Stronger Safeguards and Anti-Cheating Features: how 15 outlets framed it - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnlNOXAyeEFBV0xZaDZ2cDVGQVlUc0ZWTmNlTFhpN0tkRVF3YXN3YzhSRXMtTmxEdFdKQ01tV1RNRmJDbXp2eWRDa2x6eFgwMVhCdk5VeTlHQUpYNldVb0c3d211QlRxWmhYYXd5QnZuUlUwWDlzWWJUMHIwQU1YaXJWTm1XTEk2djFmdU82a3MzWnBMaFd0dG1HS1ZaTHNRakhKSjlLWFkzUXR4RWR2THRfSVN1MWliZmNKdVB2Q0liM2lsNWlWZlRmay1fT09CLUVnR19sVFE3c1B6SWJ0NTM1X2o4NnpxcFE?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T18:03:41+00:00"
+      "title": "메타, 소셜 미디어 중독 재판에서 잠재적 1조 4천억 달러 책임 직면",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wdnRGYTJ0SXFWY2syNVF3TWRXTkRVWDBTdHE5N0tTQW5tU1g2QU1mTGdQM3BwdXFYMUxJeWI0bVBFVzkwVGVnYU5IeU83czJVNjFMQms2NFpERUNSUXJtUG5qUzZnd21OdWtYVHhRSkhYOUJo?oc=5",
+      "summary": "메타(Meta)가 소셜 미디어 플랫폼의 중독성으로 인해 청소년 사용자에게 해를 끼쳤다는 주장에 대한 재판에 직면했다. 이 소송은 최대 1조 4천억 달러에 달하는 막대한 배상 책임을 요구하고 있어 큰 파장이 예상된다. 이번 재판 결과는 소셜 미디어 기업의 미래 운영과 규제 환경에 중대한 영향을 미칠 것이다.",
+      "pub_date": "2026-08-19T00:57:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "Trump Clashes With CNN Reporter In Oval Office Over Press Access - streamlinefeed.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2stZjRYMnVobENtalk0M0xoZ1ZBVThSVXJlWTdTQ1VsanU0Rl9ORVQyVzVsZ1U4N1JZMXVpOF9WVHdYa0F1ZnhLOXFLTnVJRVExb1lXZXNlZExaMDAxMlZzUDBNbHE4MzVHSTNFYzQ4SVJiUVVRMllPd1o3Z0lfQ2tPMjNST1RGRGR0aTY1Y2lYc0JxdVA1VlRnck5XR1U?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T08:28:03+00:00"
+      "title": "머크와 모더나, 인티스메란 mRNA 흑색종 백신이 키트루다와 병용 임상 목표 달성 발표",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVprTG4xb21rZlpmd3lmQko2ZGFkbW9NVjB5SV9OY055cWtJOWs5OUJGVVBZV3NwOHExc2FDTGhOM012SUczMF8tYTZqbnRWdXZST2hhUUtYTHRKakxSYnR3anJZRVljXzFYbEpBRXpDTG43RVlMNDN3YkI3VlBkdGhrdnVMZ0NVMDZFak0zU0M5WDloMWdqSjlvM2N3NVZJRGJWb3FTOFkxS2ZiNERYMHQteUp1WUtySUZYNF9wN0ItRFRSeElBRkcwZUlGdzFIX05nTnNRckNFR2hLaWlra1F3QXJBU05hY0E?oc=5",
+      "summary": "머크와 모더나가 공동 개발 중인 인티스메란(Intismeran) mRNA 흑색종 백신이 키트루다와 병용 투여 후기 임상시험에서 목표를 달성했다고 발표했다. 이는 개인 맞춤형 암 백신의 상용화 가능성을 높이는 중요한 진전이다. 이번 성공은 흑색종 환자들에게 새로운 치료 희망을 제공할 것으로 기대된다.",
+      "pub_date": "2026-08-19T17:53:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-      "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:55:38+00:00"
+      "title": "우크라이나 전 국방장관, 젤렌스키와의 단절을 공고히 하며 선거 실시 촉구",
+      "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+      "summary": "우크라이나의 해임된 국방장관이 볼로디미르 젤렌스키 대통령과의 관계 단절을 더욱 분명히 하며 선거 실시를 촉구했다. 전시에 선거를 요구하는 것은 젤렌스키 행정부에 대한 내부 비판과 압력이 커지고 있음을 시사한다. 이는 러시아와의 전쟁 수행에 영향을 미칠 수 있는 중대한 정치적 움직임으로 분석된다.",
+      "pub_date": "2026-08-19T12:53:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-      "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T16:23:50+00:00"
+      "title": "아랍에미리트, 트럼프의 이란 고립 정책 추진 속 이란과의 무역 중단 발표",
+      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "summary": "아랍에미리트(UAE)가 트럼프 행정부의 이란 고립 정책 추진에 발맞춰 이란과의 무역을 중단한다고 발표했다. 이는 중동 지역의 지정학적 긴장을 더욱 고조시키고, 이란 경제에 추가적인 압력을 가할 것으로 보인다. 이번 결정은 미국과 동맹국들의 대이란 제재 강화 의지를 보여주는 중요한 신호로 평가된다.",
+      "pub_date": "2026-08-19T16:00:04+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-      "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T16:32:08+00:00"
+      "title": "이스라엘, 힌드 라자브와 가자 의료진 사망 사건에 대한 형사 수사 착수",
+      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "summary": "이스라엘이 가자지구에서 발생한 힌드 라자브 어린이와 의료진 사망 사건에 대해 형사 수사에 착수했다. 이번 수사는 국제사회의 강력한 비판과 책임 규명 요구에 따른 것으로 풀이된다. 이 사건은 가자지구 민간인 보호 문제에 대한 국제적인 우려를 다시 한번 불러일으키고 있다.",
+      "pub_date": "2026-08-19T20:18:49+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-      "link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T16:12:56+00:00"
+      "title": "중앙아프리카공화국 금광 붕괴로 100명 이상 사망",
+      "link": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
+      "summary": "중앙아프리카공화국(CAR)의 한 금광에서 붕괴 사고가 발생하여 100명 이상의 광부들이 사망했다. 이번 참사는 열악한 작업 환경과 안전 규제 미비로 인해 발생한 것으로 추정된다. 국제사회는 CAR 정부에 철저한 사고 조사와 광산 안전 강화 조치를 촉구하고 있다.",
+      "pub_date": "2026-08-19T20:03:59+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "title": "이스라엘, 시리아 공군 기지 공격으로 미국으로부터 분노를 사다",
       "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T19:51:33+00:00"
+      "summary": "이스라엘이 시리아 내 공군 기지를 공격하여 미국으로부터 강력한 비난을 받았다. 이번 공격은 시리아 내 이란의 군사적 영향력 확대를 견제하기 위한 것으로 보이지만, 지역 정세를 더욱 불안정하게 만들었다. 미국은 역내 긴장 완화를 위한 자제력을 촉구하며 중동 평화 프로세스에 대한 우려를 표명했다.",
+      "pub_date": "2026-08-18T21:16:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T12:36:11+00:00"
+      "title": "이스라엘, 서안 지구의 민감한 정착촌 건설 프로젝트 입찰 개시",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "summary": "이스라엘이 서안 지구 내 고도로 민감한 정착촌 건설 프로젝트에 대한 입찰을 시작했다. 이는 팔레스타인과의 평화 협상에 걸림돌이 될 수 있다는 국제사회의 비판을 불러일으키고 있다. 팔레스타인 측은 이번 조치가 두 국가 해법을 더욱 어렵게 만들 것이라며 강력히 반발하고 있다.",
+      "pub_date": "2026-08-19T17:16:28+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T17:15:39+00:00"
+      "title": "우크라이나인, 노르트 스트림 파이프라인 폭발 사건으로 크로아티아에서 체포되다",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "summary": "노르트 스트림 가스관 폭발 사건과 관련하여 한 우크라이나인이 크로아티아에서 체포되었다. 이 사건은 유럽 에너지 안보에 큰 영향을 미쳤으며, 누가 폭발의 배후인지에 대한 국제적인 조사가 진행 중이었다. 이번 체포는 사건의 진실 규명에 중요한 단서가 될 것으로 기대된다.",
+      "pub_date": "2026-08-19T16:31:48+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T13:13:54+00:00"
+      "title": "에콰도르 정보국장과 미국인 5명, 케냐 헬기 추락 사고로 사망",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "summary": "케냐에서 발생한 헬기 추락 사고로 에콰도르 정보국장과 5명의 미국인이 사망했다. 이 사고는 국제적인 관심을 끌고 있으며, 희생자들의 신분과 사고 원인에 대한 조사가 진행 중이다. 양국 정부는 사고 경위 파악을 위해 협력하고 있다.",
+      "pub_date": "2026-08-19T20:34:41+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T17:54:46+00:00"
+      "title": "81세 남성, 1994년 미국인 관광객 살해 독일 미제 사건 자백",
+      "link": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "summary": "1994년 발생한 미국인 관광객 살해 미제 사건의 범인이 81세의 남성으로 밝혀져 충격을 주고 있다. 이 남성은 최근 경찰 조사에서 범행을 자백했으며, 오랜 시간 미궁에 빠졌던 사건의 전말이 드러날 예정이다. 이번 자백은 수십 년간 이어진 유족들의 고통을 끝내고 정의를 구현하는 데 기여할 것으로 보인다.",
+      "pub_date": "2026-08-19T18:26:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T12:04:11+00:00"
+      "title": "트럼프 행정부, 에티오피아인들을 추방 대상으로 삼을 수 있다",
+      "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "트럼프 행정부가 에티오피아인들을 추방 대상으로 삼을 수 있다고 발표했다. 이는 이민 정책 강화의 일환으로 해석되며, 에티오피아 공동체와 인권 단체들의 강력한 반발을 불러일으키고 있다. 이번 조치는 미국 내 이민자들의 불안감을 증폭시키고 국제적인 논란을 야기할 것으로 예상된다.",
+      "pub_date": "2026-08-19T15:11:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "Palestinian-American man returns to West Bank home besieged by Jewish settlers - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnk3SFY2anZYcTRjLXV1QWd2Q1B6S1Q0X0RqQTc3TnRNMTY1RjkxX2hnMS1ENXRPVnJZYnV6dmxETUp4WE85OW9TV0ZXRXZjNnhkVkJuV3FtczZQWkwybjhkZ05Fb3lrZ01FVHlDN1JDMmo2Y2RTWXVFcTZxNlU5MWswd3J2VVRSNklhNVYxYnJ2YmVGS3VIV2h2TFNnRFdSODNOaGIzTlJBZw?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T20:28:03+00:00"
+      "title": "이란 의회 의장의 이라크 방문으로 이란의 영향력에 주목",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVl8wSHV4cHZtdDhSQzlURFFtQ3ByUGExdy0wVzk5UEE2M3ZSQnpaTHRaTlZsVkF6ZVdjYVhYeEF4OEVwSnBYQUttS0JqWk5ha1ZzUXZlNmwwaTFRU3RyR3lMa1ZvUjVCbFlKdGYzZmtuaGlQYWRwMTU4a0QteEVyc0x6akhnanB3MEJsdS1oZXk5YzJhYlNuekNiVVJyQlQwR0o2bE5iUkVxQko1YTc5cmxoRmxUV0xmck9ORTR3WHk4bHRUaUFlSjAzWVZKcFVSWlpQenY3MFhSeWVhRmxLSA?oc=5",
+      "summary": "이란 의회 의장의 이라크 방문이 성사되면서 이라크 내 이란의 정치적, 경제적 영향력이 다시 한번 주목받고 있다. 이번 방문은 지역 안정화 노력과 함께 이라크의 지정학적 균형에 미치는 이란의 역할을 강조하는 계기가 되었다. 중동 지역의 권력 관계 재편에 대한 분석이 이어지고 있다.",
+      "pub_date": "2026-08-19T15:49:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "How HARIBO grows by focusing on local markets around the world - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnAwQ0JjbE5zRklMMEduWWVKQTc0Y1UyX21LRmVxM0FZRWxfZGRTVjloVWNBcUJ2QjNPVW9JNDY2dGNZLWVVc1NySkZTQzFDeG1XTnNJYmxOSEVkY2NlS2ZYTGlZTUY5TWw5Z216bDRJUGxxT0NGdjd0Zm1TZEFfWEFma3c?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T08:56:30+00:00"
+      "title": "유조선들, 호르무즈 해협 대신 오만 해로 방향 전환",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2FEV1N6TjBVOTlGWWlybDFfSjF3Mjk4OEg0T0FIWDY1N2JPd2VZNDQtT29LZGgyNGhhLU0xU21iY2xNbzZTaG9IVTNhNlB4eGMzdlI0QWg1TnRFd3NENDhoTTFhc0lUYm55MWx6M29VTE9NQXVXVmlPMjJjUENWVklhTVNwVml4dVAyNG13?oc=5",
+      "summary": "호르무즈 해협을 통과하던 유조선들이 오만 해로 항로를 변경하고 있다. 이는 해협의 지정학적 긴장과 안보 우려가 고조되면서 안전을 위한 조치로 풀이된다. 세계 원유 수송의 주요 길목인 호르무즈 해협의 불안정은 국제 유가 및 에너지 시장에 큰 영향을 미칠 수 있다.",
+      "pub_date": "2026-08-19T13:02:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "Trump posts image depicting Strait of Hormuz as new \"U.S. Territory\" - CNN",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOelo2TE5tbnlmd0IwUjV6V0NmRFZSck9iNXBqcTRPZXVyWWZpb1lMQklGWUo0dGNQSE9vUEFqekQzZmM2ZU55UXhCSTlKU2IwWXpmSE1ZeWtkY1ZNYVZsQzN0WV9fbVY1YmE5cFdER1VSUVJpNXE4R3pELXpMSTlpb1k2R0xMSTJPVkxaWUdLUFJBcEFVQlBVRWtPMGV3VG9abDNhX0tWc0E2bFBvdjJvenYtTmVVdTJzYjJGdmNOSFJGb0g5Z2lGcVllZmJodzl4dVVLUk1rcTdKaTNvOUM0?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T15:37:33+00:00"
+      "title": "폭우로 북부 칠레에 재난 사태 선포",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORW9JM2EyUWNCNkhsVHhOTWRQZVlubFQ2VFVrbXdIcUZSMHNVWmZPajZCOUtyRDY4SG9XT2wwUmVoWThOTUdhNFhFQzkwaWVUWFpOc0tlX0g4dTJhZzQ5YWVYUjdjaEc1Q2Y5amxheEZ0cHhseV9CNV9CUUxuMDZ3cDBMQUd1d2NkeS1TbTctLVNzOUZtczVCTzRyYzhWVEt6cWc?oc=5",
+      "summary": "기록적인 폭우가 북부 칠레 지역을 강타하면서 재난 사태가 선포되었다. 집중호우로 인한 홍수와 산사태로 막대한 인명 및 재산 피해가 발생했으며, 수천 명의 이재민이 발생했다. 정부는 긴급 구호 활동을 전개하고 있으며, 피해 복구에 상당한 시일이 걸릴 것으로 예상된다.",
+      "pub_date": "2026-08-19T12:27:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "Chess takes center stage at Esports World Cup amid growing popularity worldwide - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2Q3NlZWd1FwaWZHb0JOYjdZcWZxaXRINV9IM1A4UnpqV1lWRWN0dDdkV2s5WnNwcjYwUDI2MEhlSzB2elFzeGYxVGpIUDQyTEVjQjZSaTk5R3JRdXJ3c2xnc2pIVTRvcDNFcGJZM2loanBlRC1JMXVsX2Z1anFabjBBRTdBODJmOEtGU1lMcTVwVGZx?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T13:35:10+00:00"
+      "title": "우크라이나 해임된 국방장관, 선거 실시를 촉구하다",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0kwLUQyUDJGSVU1SzZ1RkNQazl5bktKWUpXYkZxZExCbnQ3dzYxb2owdGxlSzVzdFp6eGtlc21fS1VITXB6RkdoYkktTTNKcGlrbmoybEpPQmdTM1NOMU5VTWpXc21oVUo1WEFsdDRyNVJpd2JZRldNUFBiSk5ET3M5a29ZLTNjYTBabHF5WmFhYTl3WHZrZ200VjlpWHlGNS1OUU0zTjNuZw?oc=5",
+      "summary": "우크라이나에서 해임된 국방장관이 전시 상황임에도 불구하고 대통령 선거 실시를 촉구했다. 이는 젤렌스키 현 대통령과의 관계 단절을 더욱 공고히 하는 행보로 해석된다. 전시 중 선거 요구는 우크라이나 정치 상황에 큰 파장을 불러일으킬 것으로 예상된다.",
+      "pub_date": "2026-08-19T08:01:44+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "Africa CDC chief blames late detection and insecurity for fast-spreading Ebola outbreak - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWxNdHpKR19NandpN2FHVTl2S3pHbER5OUNRemp4Q1M2VGRIMm9nS0hfNTlhRUF2WDlUZ19LYWdVNENQdFZuMjNmWjhMbFdUb21vMkROSmhHb2xuVjdHTDlTRzg5ek85VlhiNUhPS0Itd3kwZDVyNTRIc04tR2MzZnhJajZPRUZjZnlIbWpIVjJnRVpMX2c?oc=5",
-      "summary": "AI 요약을 불러오는 데 실패했습니다.",
-      "pub_date": "2026-08-18T18:32:18+00:00"
+      "title": "이스라엘군, 힌드 라자브를 태운 차량에 발포했음을 시인",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzM0WGdvUjZOazM5MjlaTnRubFlYcEZCYk5SV19lLS1abVEtOWw4cUhab3FWYjBjLWI5Q0hrLUZJQ1lWdzgwanpGU3pqb0F6anI4Z1BLRjdGYklCMDlCSHlpck9nMDQ5ME5NQjJfUExqMWJoYS1aeXVTRUh0a3hQLUFKSTVJMVBacE5Yekc0czE1WDBISThWMC1ILVFSWmlDU0lrdHphNzlFbXloUjlxTU5lNGpONlk?oc=5",
+      "summary": "이스라엘 군이 가자지구에서 힌드 라자브 어린이가 타고 있던 차량에 발포했음을 시인했다. 이 사건으로 라자브와 가족 구성원들이 사망했으며, 국제사회는 민간인 보호 문제에 대한 강력한 조사를 요구해왔다. 이스라엘군의 시인으로 사건의 진상 규명에 속도가 붙을 것으로 보인다.",
+      "pub_date": "2026-08-19T18:52:00+00:00"
     }
   ]
 }
