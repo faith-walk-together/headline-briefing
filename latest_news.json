@@ -1,405 +1,381 @@
 {
-  "last_updated": "2026-08-29T23:02:26.869173+00:00",
+  "last_updated": "2026-08-30T23:11:07.472828+00:00",
   "articles": [
     {
       "category": "정치",
-      "outlet": "SBS",
-      "title": "청와대, 손봉기 대법관 후보자 임명동의안 제출 거부 및 재제청 요구",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726777&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "청와대가 손봉기 대법관 후보자에 대한 임명동의안을 제출하지 않고 대법원장에게 재제청을 요구했습니다. 이는 절차적 완결성이 부족하다는 판단에 따른 것입니다. 이번 결정으로 사법부와 행정부 간의 긴장이 고조될 전망입니다.",
-      "pub_date": "2026-08-28T05:54:00+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "SBS",
-      "title": "한국 헬기, 네팔 실종자 수색 본격 개시…정부 신속대응팀 추가 파견",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727940&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "네팔에서 발생한 대홍수로 인한 한국인 실종자 수색을 위해 한국 헬기 수색이 시작되었습니다. 정부는 추가 신속대응팀 9명을 현지에 파견하며 수색 노력을 강화하고 있습니다. 현재까지 실종자 발견 소식은 없는 상황입니다.",
-      "pub_date": "2026-08-29T07:15:00+00:00"
-    },
-    {
-      "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 미국이 베네수엘라 650억 배럴 이상 원유 통제권 확보 합의 발표",
+      "title": "트럼프, 베네수엘라 원유 650억 배럴 이상 통제권 확보 합의 발표",
       "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "summary": "트럼프 대통령이 미국이 베네수엘라 원유 650억 배럴 이상에 대한 통제권을 확보하는 거래를 성사시켰다고 밝혔습니다. 이 합의는 미국의 에너지 안보와 외교 정책에 중대한 영향을 미칠 것으로 예상됩니다. 이번 발표는 국제 유가 시장에도 파급 효과를 가져올 수 있습니다.",
-      "pub_date": "2026-08-29T16:53:10+00:00"
+      "summary": "트럼프 대통령이 미국이 베네수엘라의 650억 배럴이 넘는 원유 통제권 확보를 위한 합의를 체결했다고 밝혔다. 이는 미국의 에너지 안보 강화에 기여할 것으로 보인다. 하지만 이 합의의 실제 이행 여부와 복잡한 국제 관계가 주목된다.",
+      "pub_date": "2026-08-30T15:08:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "극우 논객 마일로 이아노풀로스, 이민세관집행국에 체포돼",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html",
-      "summary": "극우 성향의 논객 마일로 이아노풀로스가 이민세관집행국(ICE)에 의해 체포되었습니다. 그의 체포는 미국 내 이민 정책과 우익 정치 활동에 대한 논쟁을 다시 불러일으킬 것으로 보입니다. 그는 과거에도 여러 차례 논란의 중심에 선 바 있습니다.",
-      "pub_date": "2026-08-28T21:45:07+00:00"
+      "title": "우편 서비스 규정으로 수백만 명이 우편 투표를 할 수 없게 될 수도 있다",
+      "link": "https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html",
+      "summary": "새로운 우편 서비스 규정이 시행되면 수백만 명의 유권자가 우편을 통한 투표를 하지 못하게 될 가능성이 제기되었다. 이는 다가오는 선거에서 투표율과 결과에 큰 영향을 미칠 수 있다. 민주주의 절차에 대한 우려가 커지고 있다.",
+      "pub_date": "2026-08-30T18:17:10+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "판사, 트럼프가 이스라엘 비판한 스탠퍼드 학생 불법 표적 삼았다고 판결",
-      "link": "https://www.nytimes.com/2026/08/28/us/politics/trump-stanford-students-deport-constitution.html",
-      "summary": "법원이 트럼프 행정부가 이스라엘을 비판한 스탠퍼드 대학교 학생들을 불법적으로 표적 삼았다고 판결했습니다. 이 판결은 트럼프 행정부의 언론 자유 침해 및 특정 단체에 대한 표적화 정책에 제동을 걸었습니다. 이번 사안은 표현의 자유와 정부의 권력 남용에 대한 중요한 선례가 될 것입니다.",
-      "pub_date": "2026-08-29T14:09:12+00:00"
+      "title": "캘리포니아주, 해상 풍력 사업 취소 문제로 트럼프 행정부 고소",
+      "link": "https://www.nytimes.com/2026/08/28/us/politics/california-trump-offshore-wind-lawsuit.html",
+      "summary": "캘리포니아주가 트럼프 행정부의 해상 풍력 사업 취소 결정에 반발하여 소송을 제기했다. 이는 환경 정책과 주 정부의 권한에 대한 중요한 법적 다툼으로 부상하고 있다. 친환경 에너지 정책을 둘러싼 갈등이 심화될 전망이다.",
+      "pub_date": "2026-08-28T21:14:19+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "여당은 '즉각 재제청' 요구, 야당은 '대통령 탄핵 사유' 주장",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260829214137176",
-      "summary": "여당은 대법관 후보자 임명 재제청을 즉각 이행할 것을 요구하며 청와대와의 갈등을 표출했습니다. 반면 야당은 대통령의 재제청 거부가 헌정 질서를 흔드는 탄핵 사유가 될 수 있다고 강하게 비판했습니다. 이는 사법부 인사를 둘러싼 여야 간의 첨예한 대립을 보여줍니다.",
-      "pub_date": "2026-08-29T12:41:39+00:00"
+      "title": "김승원 법무장관 임명…중폭 개각으로 국정 동력 확보",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260830203647rEF",
+      "summary": "정부가 김승원 의원을 새 법무부 장관으로 지명하며 중폭 개각을 단행했다. 이는 현 정부의 국정 운영 동력을 확보하고 정책 추진에 속도를 내기 위한 것으로 풀이된다. 여야의 반응과 향후 국회 인준 과정이 주목된다.",
+      "pub_date": "2026-08-30T11:36:48+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "한국 헬기 2대, 네팔 실종자 수색 돌입…정부 신속대응팀 9명 추가 파견",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260829231059AxU",
-      "summary": "네팔 홍수 실종자 수색을 위해 한국 헬기 2대가 현지에서 수색 활동을 시작했습니다. 정부는 신속대응팀 9명을 추가로 파견하여 수색 및 구조 활동을 강화하고 있습니다. 한국 정부의 적극적인 지원에도 불구하고 아직 실종자 발견 소식은 없습니다.",
-      "pub_date": "2026-08-29T14:11:00+00:00"
+      "title": "재제청 대 권한쟁의…여야, 조희대 대법원장 선택 압박",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260830203617n2S",
+      "summary": "대법관 임명을 두고 재제청을 요구하는 여당과 권한쟁의를 주장하는 야당의 공방이 격화되고 있다. 여야 모두 조희대 대법원장에게 자신의 입장에 맞는 선택을 하라고 압박하고 있다. 대법관 공백 사태가 장기화될 우려가 커지고 있다.",
+      "pub_date": "2026-08-30T11:36:18+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "스코틀랜드 자치정부 수장, 독립 법안 발의 후 국민투표 권한 요구",
+      "title": "하퍼 경관 살해범들 조기 석방 불허, 총리 조기 석방 제도 변경 발표",
+      "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "하퍼 경관 살해범들이 조기 석방 없이 수감될 예정이며, 총리가 조기 석방 제도 변경을 발표했다. 이는 범죄자에 대한 강력한 처벌 기조를 강화하려는 정부의 의지를 반영한다. 사법 시스템 개혁에 대한 논의가 활발해질 것으로 보인다.",
+      "pub_date": "2026-08-30T08:59:58+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "BBC",
+      "title": "독립 법안 초안 발표에 따라 수상이 주민투표 권한 요구",
       "link": "https://www.bbc.co.uk/news/articles/c4gqz58eql6o?at_medium=RSS&at_campaign=rss",
-      "summary": "스코틀랜드 자치정부 수장이 독립 법안 초안을 발표하며 국민투표 실시 권한을 요구했습니다. 이는 스코틀랜드의 영국으로부터의 독립을 다시 추진하려는 움직임으로 보입니다. 영국 중앙정부와의 갈등이 심화될 가능성이 있습니다.",
+      "summary": "독립 법안 초안이 발표되면서 지방 정부 수상이 주민투표 권한을 요구하고 나섰다. 이는 해당 지역의 독립 움직임에 중요한 진전을 의미한다. 중앙 정부와의 긴장이 고조될 것으로 예상된다.",
       "pub_date": "2026-08-28T16:10:39+00:00"
     },
     {
       "category": "정치",
-      "outlet": "BBC",
-      "title": "영국 총리, 2027년까지 모든 경찰서에 성범죄 전문가 배치 공언",
-      "link": "https://www.bbc.co.uk/news/articles/c1e577l5g99o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 총리가 2027년까지 모든 경찰서에 강간 및 성범죄 전담 수사관을 배치하겠다고 발표했습니다. 이는 성범죄 대응 역량을 강화하고 피해자 지원을 확대하기 위한 정부의 노력입니다. 해당 정책은 여성 단체들로부터 환영받을 것으로 예상됩니다.",
-      "pub_date": "2026-08-27T21:30:39+00:00"
-    },
-    {
-      "category": "정치",
       "outlet": "조선일보",
-      "title": "청와대, 손봉기 대법관 후보자 임명동의안 제출 거부 및 재제청 요청",
-      "link": "https://www.chosun.com/politics/blue_house/2026/08/28/UYJLUAGSQZC73JMVYZFCJ4VJMM/",
-      "summary": "청와대가 손봉기 대법관 후보자에 대한 임명동의안을 국회에 제출하지 않고 대법원장에게 재제청을 요구했습니다. 이는 절차적 완결성 부족을 이유로 한 결정으로, 사법부 인사를 둘러싼 갈등이 심화될 전망입니다. 이로 인해 사법부 공백 장기화에 대한 우려가 제기되고 있습니다.",
-      "pub_date": "2026-08-28T05:02:41+00:00"
+      "title": "이형일 경제부총리, 김승원 법무장관, 용혜인 성평등장관 임명",
+      "link": "https://www.chosun.com/politics/politics_general/2026/08/30/KBFN5SSKLJFQ5A7KVO55DQRJ5E/",
+      "summary": "이형일 경제부총리, 김승원 법무장관, 용혜인 성평등장관 등 주요 부처 장관들의 인사가 단행되었다. 이번 개각은 대통령이 국정 운영의 새로운 동력을 확보하고 정책 추진에 속도를 내기 위한 조치로 해석된다. 새로운 인물들이 이끄는 부처의 정책 방향에 관심이 쏠리고 있다.",
+      "pub_date": "2026-08-30T02:36:46+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 미국이 베네수엘라 원유 650억 배럴 통제권 확보 합의 발표",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80OFU1bXF2bDVORkNobXBTY3FxaDNwZWJ4b0Fra2dYaE02YlJuQVdXUHRrQVY2RnZpOEJvY0gyVzdLU2pRR0Nxd243WU4yNFpFVy1ySDlxNVVRcHpZVkMySVRHYmxfVllLRXVVU2RlY3JwQQ?oc=5",
-      "summary": "트럼프 대통령이 미국이 베네수엘라의 650억 배럴 규모 원유 비축량에 대한 통제권을 확보하는 합의에 도달했다고 밝혔습니다. 이 합의는 미국의 에너지 전략과 베네수엘라의 정치 경제 상황에 중대한 영향을 미칠 것입니다. 국제 유가 시장에도 큰 파장을 일으킬 것으로 예상됩니다.",
-      "pub_date": "2026-08-28T23:15:40+00:00"
+      "title": "미국과 이란, 한 달 만에 처음으로 상호 공격하며 긴장 고조",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UaEZmNFJJby05N0RldVh1N2V1dzJtRTI0VFB0RlJyVlpZTGoyQnRHdXVfWjVHRVZMNUx1WGhmQ0dyRi1aY2FucngxSlQ4WHZ4bEF6cVpKb2NNeWprYTJkUkI0aGdRMWdHZVAxMkpzU1F3M1RjUUpr?oc=5",
+      "summary": "미국과 이란이 한 달 만에 다시 상호 공격을 주고받으며 중동 지역의 긴장이 고조되고 있다. 이는 양국 간의 갈등이 다시 전면전 양상으로 확전될 수 있다는 우려를 낳고 있다. 국제사회의 개입과 외교적 노력이 절실한 상황이다.",
+      "pub_date": "2026-08-30T19:58:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "이민세관집행국, 극우 선동가 마일로 이아노풀로스 구금",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORzJIUHJUNkwwZDdiN0ZjWjlPOVRJeml5NTRZRmJfd2VKaVpFSGxMTm13eUpFY1IzSlhLbkRIY2pRQ2J2LVNsbG9oaVl3bDVvdzV6dkU4eFFzdnlWMWQ3dk94NC1TM1RoUURQUGVsTXQ0NjNtMU4xZ01SZ3pYRXRkbA?oc=5",
-      "summary": "극우 성향의 선동가 마일로 이아노풀로스가 이민세관집행국(ICE)에 의해 구금되었습니다. 그의 구금은 미국 내 이민 정책과 보수 정치 진영에 대한 논란을 다시 수면 위로 올릴 것으로 보입니다. 그는 과거에도 여러 차례 극단적인 발언으로 물의를 빚었습니다.",
-      "pub_date": "2026-08-29T00:23:00+00:00"
+      "title": "트럼프 행정부, 요세미티 국립공원 부지 사유화 검토 후 반발 직면",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUJubkJranFEZVhsMnZXZldiWlpSNGlXcG9ubFN4NjBlX2JWUldrbFQzbW9VU1AxTjVaRW1WdEVxb3B1dnRRNnBhYXVIczNwWFo0a1A2eG9hU2k5R2gwazBkdWpsMWVzNDJLZFBIdXBZdjQ5LVFTX0RLRzFYOXlNSzFmODk4emFtdW9B?oc=5",
+      "summary": "트럼프 행정부가 요세미티 국립공원의 일부 부지 사유화를 검토하면서 강력한 반발에 직면했다. 환경 보호 단체와 시민들은 국립공원의 공공성 훼손을 우려하며 규탄 시위를 벌이고 있다. 이는 환경 정책과 보존 가치에 대한 논쟁을 촉발하고 있다.",
+      "pub_date": "2026-08-30T00:53:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "네팔 홍수 발생 며칠 후, 어린 소녀 극적으로 구조되는 영상 공개",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDdrVGphcjRGNEdhSlZqQzB1ZlFqdDNPbWpuMGN0TEVjS2hYSFd5WXdmTjhRSHhyX20za2FaZWhfdG9zaGktekF4VUxiVDNXZjlNSDlCOVpjNmpjR3k3S0ljZ2syOWpXVFpfSEdBYU8yRmJvR09pMWNGT19OUGZaTXV1QzVBN3pybUxtdnhPbWYxMUFCYlhoaHF2Q2JJcm1oa05mcG9zaUZwZlk?oc=5",
-      "summary": "네팔 대홍수 발생 후 며칠 만에 잔해 속에서 어린 소녀가 극적으로 구조되는 영상이 공개되었습니다. 이 영상은 재난 현장의 참혹함 속에서도 희망을 보여주며 전 세계인의 안타까움과 감동을 자아냈습니다. 구조 작업은 여전히 어려운 여건 속에서 진행되고 있습니다.",
-      "pub_date": "2026-08-29T18:20:35+00:00"
+      "title": "탈라리코의 공세와 트럼프 팀의 자금 지원을 기다리는 팩스턴에 공화당 우려",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42QjlmbzBhenZ2RTlIOTZUVlRBTVNabUlRdE1EeDBzMmJyWGVqYnJEVDJZUkZ3NFdKZ0VmSS1Bb1drb1hGNGFKRXBJMGpvcUpsVlRjbFVCeGdjRC1YODhuQjJoakJleDZ6WFlz?oc=5",
+      "summary": "공화당이 탈라리코 후보의 적극적인 홍보 공세에 우려를 표명하고 있으며, 팩스턴 후보는 트럼프 팀의 선거 자금 지원을 기다리고 있다. 이는 다가오는 선거에서 공화당의 전략적 고민을 보여준다. 선거 판세의 중요한 변수로 작용할 수 있다.",
+      "pub_date": "2026-08-30T12:00:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프, 미국이 베네수엘라 원유 650억 배럴 이상 통제권 합의 체결 발표",
+      "title": "트럼프, 미국이 베네수엘라 원유 650억 배럴 이상 통제권 확보 합의 발표",
       "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
-      "summary": "트럼프 대통령은 미국이 베네수엘라의 650억 배럴이 넘는 원유에 대한 통제권을 확보하는 합의를 체결했다고 발표했습니다. 이 거래는 글로벌 에너지 시장에 큰 영향을 미칠 것이며, 미국의 에너지 독립에도 기여할 것으로 보입니다. 베네수엘라의 경제 상황에도 중요한 변화를 가져올 수 있습니다.",
-      "pub_date": "2026-08-29T16:53:10+00:00"
+      "summary": "트럼프 대통령이 미국이 베네수엘라의 650억 배럴이 넘는 원유 통제권 확보를 위한 합의를 체결했다고 밝혔다. 이는 글로벌 에너지 시장에 큰 영향을 미칠 것으로 예상된다. 원유 공급 변화와 유가 안정화 여부가 주목된다.",
+      "pub_date": "2026-08-30T15:08:52+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "월마트, 오피오이드 소송 합의금으로 5천만 달러 지불 예정",
-      "link": "https://www.nytimes.com/2026/08/28/us/walmart-opioid-lawsuit-settlement.html",
-      "summary": "월마트가 오피오이드 관련 소송에서 5천만 달러를 지불하기로 미국 정부와 합의했습니다. 이번 합의는 월마트가 오피오이드 위기 확산에 기여했다는 혐의를 벗기 위한 것으로 보입니다. 이는 다른 대형 유통업체들에게도 유사한 소송 부담을 안길 수 있습니다.",
-      "pub_date": "2026-08-29T01:08:50+00:00"
+      "title": "연준 의장의 인플레이션 억제 공언 후 투자자들 금리 인상 예상",
+      "link": "https://www.nytimes.com/2026/08/28/business/markets-stocks-bonds-warsh-jackson-hole.html",
+      "summary": "연방준비제도 의장이 인플레이션 억제에 대한 강력한 의지를 표명하자 투자자들이 추가 금리 인상을 예상하고 있다. 이는 금융 시장의 불확실성을 높이고 주식 및 채권 시장에 변동성을 가져올 수 있다. 향후 연준의 통화 정책 결정이 더욱 중요해졌다.",
+      "pub_date": "2026-08-28T18:49:59+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "대규모 홍수, 네팔 수력발전 투자 위험성 드러내",
-      "link": "https://www.nytimes.com/2026/08/29/business/nepal-hydropower-flood.html",
-      "summary": "네팔을 강타한 치명적인 홍수가 국가의 야심찬 수력발전 프로젝트에 내재된 위험성을 명확히 드러냈습니다. 홍수로 인해 발전 시설이 큰 피해를 입었으며, 이는 네팔의 에너지 미래에 불확실성을 가중시키고 있습니다. 기후 변화와 인프라 개발의 균형에 대한 경고음이 되고 있습니다.",
-      "pub_date": "2026-08-29T09:23:10+00:00"
+      "title": "중간선거 다가오며 높은 부채와 물가 상승이 트럼프 발목 잡아",
+      "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html",
+      "summary": "중간선거가 다가오는 가운데, 높은 국가 부채와 지속적인 물가 상승이 트럼프 행정부의 주요 경제적 과제로 부상했다. 유권자들의 경제 불만이 커지면서 선거 결과에 부정적인 영향을 미칠 수 있다. 정부의 경제 정책 방향 전환이 필요하다는 목소리가 나온다.",
+      "pub_date": "2026-08-29T14:54:48+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "트럼프, 미국이 베네수엘라 원유 650억 배럴 통제하는 '역사적' 합의 환영",
+      "title": "트럼프, 베네수엘라 원유 650억 배럴 통제권 확보 '역사적' 합의 환영",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "트럼프 대통령이 미국이 베네수엘라의 650억 배럴 원유를 통제할 수 있게 되는 '역사적인' 합의를 환영했습니다. 이 합의는 미국의 에너지 자립을 강화하고 국제 유가 안정에 기여할 것으로 기대됩니다. 이번 거래는 베네수엘라의 경제와 정치 상황에도 큰 영향을 미칠 것입니다.",
-      "pub_date": "2026-08-29T22:40:51+00:00"
+      "summary": "트럼프 대통령이 베네수엘라 원유 650억 배럴에 대한 통제권을 확보하는 '역사적인' 합의를 환영했다. 이 합의는 미국의 에너지 자원 확보와 글로벌 유가 안정에 기여할 것으로 기대된다. 하지만 베네수엘라 국내외 정치 상황이 변수로 작용할 수 있다.",
+      "pub_date": "2026-08-30T04:01:02+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "SSE 에어트리시티, 가스 가격 19% 인상 결정…소비자 부담 가중 예상",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "에너지 기업 SSE 에어트리시티가 가스 가격을 19% 인상한다고 발표하여 소비자들의 큰 압박이 예상됩니다. 이번 인상은 치솟는 에너지 비용에 대한 가계 부담을 더욱 가중시킬 것으로 보입니다. 에너지 위기와 인플레이션 압력이 지속되고 있음을 보여줍니다.",
-      "pub_date": "2026-08-28T16:15:11+00:00"
+      "title": "워시 연준 의장, 물가 상승 진정되지 않으면 '할 일 많다' 강조",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "워시 연방준비제도 의장이 미국인들의 물가 상승 부담이 완화되지 않으면 연준이 '할 일이 많다'고 강조했다. 이는 연준이 추가적인 통화 긴축 정책을 고려할 수 있음을 시사한다. 고물가 상황에 대한 연준의 강력한 대응 의지가 드러났다.",
+      "pub_date": "2026-08-28T15:15:26+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "서울경제",
+      "title": "대출 ‘오픈런’ 지속…5대 은행 가계대출 3천억 원 소진 임박",
+      "link": "https://www.sedaily.com/article/20084925",
+      "summary": "5대 시중은행에서 가계대출 ‘오픈런’ 현상이 지속되며 남은 대출 한도가 3천억 원에 불과하다. 이는 정부의 가계대출 총량 규제와 맞물려 연말 전 대출이 사실상 어려워질 수 있음을 시사한다. 실수요자들의 대출 수요를 충족시키지 못하는 상황에 대한 우려가 커지고 있다.",
+      "pub_date": "2026-08-30T21:25:05+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프, 베네수엘라와 '세계 역사상 최대 규모 석유 거래' 발표",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZLdnhEZmswcy1QWWljMkk5MUVKOEY3VEZJUW5ia1F3SjlISWJXM3BLSTNjX3FJSzFkQndDeVQ4WXFJSk9ScmpvX0RXRHJpR1FCU3UwRzNQRURzTExicmg1Q3JmVDFzNnNfQWVGRGJlTDZjS0I5c0lrcEFXaDktQ0F1ei1TYXRoNnh0cFVjeE1kVHhQakxoVlp4and3bE9paXdFTHVzZzdkYVU3V3NsWlFqWmE0QUR6SGktUUVrc9IBuwFBVV95cUxNVHBKYjZXaTRJOEVsS3dYS1dFUGdUaTlOS3FuNmVCZ0hWZTRfS2F4RHNvY1E0d3RCU3d0blFYWmVVaUpHVlVFUzdwUDJ4Z0ROQlM3Zkpod19oYzMwZzYtc1ZxeFdHOTBpb1lZSlptZk1Ubml1eVJPQUJ1MGlsTkVKVjE3c1Y3V2RocHB4TGpiVGFaSHRhM2IwZTMxV2RqZ3IwNHYtVmN3LTM3Y20wdEZWLTFxT2JWaHlpLTkw?oc=5",
-      "summary": "트럼프 대통령이 베네수엘라와의 '세계 역사상 최대 규모 석유 거래'를 발표했습니다. 이 거래는 미국의 에너지 확보와 글로벌 석유 시장에 지대한 영향을 미칠 것으로 예상됩니다. 베네수엘라의 경제 상황에도 큰 변화를 가져올 중대한 합의입니다.",
-      "pub_date": "2026-08-29T13:57:00+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "CNN",
-      "title": "트럼프, 베네수엘라 문제에 대한 이례적인 해법 찾아내",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ua2tTT3RCZldpM0ZuZmtrS0MtZ2U2VmZoR2hJcndlQzJ1Sl8zV0l2aUpMMWxacHg0NGlxRVA5d3lDSEhDY2UzX0p5UDBLNHRUZnRnQWxIT1NUQ0JLb0lFbUZfeFFVa2ZLNU50WkZROF93dw?oc=5",
-      "summary": "트럼프 대통령이 베네수엘라 문제에 대해 이례적이고 독특한 해법을 찾아냈다고 보도되었습니다. 이 해법은 주로 석유 거래와 관련된 것으로, 미국의 외교 및 에너지 전략에 새로운 전환점을 마련할 수 있습니다. 자세한 내용은 공개되지 않았으나 국제적 이목을 집중시키고 있습니다.",
-      "pub_date": "2026-08-29T14:00:25+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "CNN",
-      "title": "카라 스위셔, 현 대통령직을 '선전용 대통령직'이라 비판",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlExajBoV3ptUVVTd3EwMXpvb1pSdU5iRnZOc0JRYWh4LUppNTlKSF9fOEpaN2JHV2VCdTUzdnBNS0hzQ1BuRHI4RkZDS3ltaUI2bzFjSjJwLVhkWHVISHh5ekhZV18zdjdFQThIUkFkcFpJaDZjck03ZXpPRjhqRHUwdEV1SlE0?oc=5",
-      "summary": "칼럼니스트 카라 스위셔가 현 대통령직을 '선전용 대통령직'이라고 비판했습니다. 이는 대통령의 주요 경제 정책 및 행보가 실질적인 성과보다는 대중의 이목을 끌기 위한 쇼에 가깝다는 지적입니다. 이러한 비판은 대선 전 경제 정책의 신뢰도에 대한 논쟁을 심화시킬 수 있습니다.",
-      "pub_date": "2026-08-29T02:42:00+00:00"
+      "title": "칸나 의원: AOC의 대선 출마는 내 결정에 영향 미치지 않을 것",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aNnVWTE1vb25obVVMaThoS3BYanJDYUlEWHdHSlZKM05YMXAtNWp1THA2SVdaalRhMTZVaHBCNndpcW1vRDR4NUdWMGhwakYtemlhNXRwLVpvX2k4YW9MQnN2UEdCQ3dSdThYVDRzOVBOUUQ5SjlPWEdQbmtqdw?oc=5",
+      "summary": "칸나 하원의원이 알렉산드리아 오카시오-코르테스 의원의 대선 출마 여부가 자신의 결정에 아무런 영향을 미치지 않을 것이라고 밝혔다. 이는 민주당 내 진보 진영의 정치적 동향과 차기 대선 구도에 대한 관심을 반영한다. 젊은 정치인들의 독자적인 행보가 주목받고 있다.",
+      "pub_date": "2026-08-30T14:22:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "트럼프 행정부, 중국 AI의 '원격 연산 우회' 차단 추진…태국·싱가포르도 겨냥",
-      "link": "https://zdnet.co.kr/view/?no=20260829014347",
-      "summary": "트럼프 행정부가 중국 인공지능(AI) 기업들이 원격 연산을 우회하는 것을 막기 위한 정책을 추진하고 있습니다. 특히 태국과 싱가포르 등 제3국을 통한 우회를 차단하는 데 중점을 둘 것으로 보입니다. 이는 미중 기술 패권 경쟁이 심화되고 있음을 보여줍니다.",
-      "pub_date": "2026-08-29T00:30:01+00:00"
+      "title": "이 대통령, AI미래기획수석에 조국혁신당 이해민 의원 발탁",
+      "link": "https://zdnet.co.kr/view/?no=20260830114110",
+      "summary": "이 대통령이 AI미래기획수석에 조국혁신당 이해민 의원을 발탁했다. 이는 정부의 AI 정책 추진에 새로운 인물을 등용하며 변화를 꾀하려는 의도로 해석된다. 야당 인사를 기용한 파격 인사에 관심이 집중되고 있다.",
+      "pub_date": "2026-08-30T02:41:59+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "AI 넘어 양자까지, 데이터센터 전력·냉각 시스템에 '대전환' 예고",
-      "link": "https://zdnet.co.kr/view/?no=20260828172854",
-      "summary": "인공지능(AI) 기술 발전이 양자 컴퓨팅 영역으로 확장되면서 데이터센터의 전력 및 냉각 시스템에 대규모 전환이 예고되고 있습니다. AI와 양자 기술은 막대한 전력을 소모하고 발열량이 높아 새로운 냉각 솔루션 개발이 필수적입니다. 이는 차세대 데이터센터 인프라 구축의 핵심 과제가 될 것입니다.",
-      "pub_date": "2026-08-29T03:25:14+00:00"
+      "title": "하정우, 국가 AI 전략위 상근부위원장 임명…AI 현안 단계적 해결 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260830123054",
+      "summary": "하정우 전 AI수석이 국가 AI 전략위원회 상근부위원장으로 임명되었다. 그는 산적한 AI 관련 현안들을 단계적으로 해결해 나갈 것이라고 밝혔다. 정부의 AI 정책 추진에 중요한 역할을 할 것으로 기대된다.",
+      "pub_date": "2026-08-30T03:37:15+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "네팔, 해외 수색대 진입 거부 방침 번복…한국 등 4개국 한정 승인",
-      "link": "https://www.etnews.com/20260829000022",
-      "summary": "네팔 정부가 당초 해외 수색대 진입을 거부하던 방침을 번복하고 한국 등 4개국에 한정해 진입을 승인했습니다. 이는 국제사회의 압력과 인도적 지원 필요성을 인정한 것으로 보입니다. 이번 결정으로 네팔 대홍수 실종자 수색 및 구조 작업이 더욱 속도를 낼 것으로 기대됩니다.",
-      "pub_date": "2026-08-29T07:30:00+00:00"
+      "title": "SKT·카카오·KT, '모두의 AI' 개발 착수…천만 월간 활성 이용자 목표",
+      "link": "https://www.etnews.com/20260828000220",
+      "summary": "SKT, 카카오, KT가 협력하여 '모두의 AI' 개발에 착수하며 천만 월간 활성 이용자(MAU)를 목표로 설정했다. 이는 국내 주요 IT 기업들이 AI 서비스 대중화에 적극적으로 나서고 있음을 보여준다. 범국민적인 AI 경험 확산을 통해 시장을 선도하겠다는 전략이다.",
+      "pub_date": "2026-08-30T03:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "레이저로 초당 30마리 모기 포획하는 '모기 아이언돔' 개발",
-      "link": "https://www.etnews.com/20260828000275",
-      "summary": "레이저 기술을 이용해 초당 30마리의 모기를 포획할 수 있는 '모기 아이언돔'이 개발되었습니다. 이 기술은 모기 매개 질병 퇴치에 획기적인 전환점이 될 것으로 기대됩니다. 방역 및 공중 보건 분야에 큰 영향을 미칠 혁신적인 과학 기술 성과입니다.",
-      "pub_date": "2026-08-29T13:30:00+00:00"
+      "title": "중국 로보택시 한국 시장 상륙…국내 자율주행 업계 긴장",
+      "link": "https://www.etnews.com/20260828000219",
+      "summary": "중국 로보택시 서비스가 한국 시장에 상륙하면서 국내 자율주행 기술 개발 업계에 긴장감이 감돌고 있다. 중국의 기술력과 자본력을 앞세운 공세에 국내 기업들은 경쟁력 강화 방안을 모색해야 할 상황이다. 미래 모빌리티 시장의 주도권을 둘러싼 경쟁이 심화될 전망이다.",
+      "pub_date": "2026-08-30T03:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "'모두의 AI' 베일 벗어…SKT·카카오·KT, 국민 AI 서비스 공개",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=672073",
-      "summary": "SKT, 카카오, KT 등 국내 주요 통신 및 IT 기업들이 '모두의 AI' 프로젝트를 통해 국민들이 쉽게 접하고 활용할 수 있는 AI 서비스의 모습을 공개했습니다. 이는 AI 기술의 대중화를 목표로 하며, 다양한 산업 분야에서 AI 활용을 촉진할 것으로 기대됩니다. 국내 AI 생태계 발전에 중요한 전환점이 될 것입니다.",
-      "pub_date": "2026-08-28T17:52:49+00:00"
+      "title": "무신사 운영 29CM, 고객 개인정보 15만 9천여 건 유출",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=672160",
+      "summary": "무신사가 운영하는 패션 플랫폼 29CM에서 고객 개인정보 15만 9천여 건이 유출되는 사고가 발생했다. 회사는 즉각적인 보안 강화 조치와 함께 피해 규모 파악에 나섰다. 이번 사고로 인해 고객들의 불안감이 증폭되고 있으며, 정보 보안에 대한 기업의 책임이 다시금 강조되고 있다.",
+      "pub_date": "2026-08-30T14:20:58+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK AX, AI 데이터센터의 핵심은 GPU 수보다 운영 생산성 강조",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=672106",
-      "summary": "SK AX가 인공지능(AI) 데이터센터의 성공 요건으로 단순히 GPU 개수보다는 효율적인 운영 생산성을 강조했습니다. 이는 AI 인프라 구축에 있어 하드웨어적인 측면을 넘어 소프트웨어 및 운영 최적화의 중요성을 시사합니다. 미래 AI 데이터센터 전략 수립에 중요한 지침이 될 것입니다.",
-      "pub_date": "2026-08-30T07:00:00+00:00"
+      "title": "\"공정 시작해\" 한마디에 AI가 지휘하는 전북대 무인공장",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671915",
+      "summary": "전북대학교에 AI가 모든 공정을 지휘하는 무인공장이 구축되어 화제다. 단 한마디 음성 명령으로 생산라인 전체가 가동되는 첨단 시스템을 선보였다. 이는 인공지능이 실제 산업 현장에서 생산 효율성을 극대화하는 혁신적인 사례로 평가받고 있다.",
+      "pub_date": "2026-08-30T22:00:29+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "SK하이닉스, 미국 인디애나에 차세대 HBM 공장 착공…2029년 하반기 양산 목표",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/28/F46BD7CQ3ZBAXGISF4MEOMYJNI/",
-      "summary": "SK하이닉스가 미국 인디애나주에 차세대 고대역폭 메모리(HBM) 생산 공장을 착공하며 글로벌 반도체 생산 확장에 나섰습니다. 2029년 하반기 양산을 목표로 하는 이번 투자는 AI 반도체 시장에서의 경쟁력을 강화할 것입니다. 이는 한국 반도체 기업의 해외 투자 확대 추세를 보여주는 사례입니다.",
-      "pub_date": "2026-08-27T16:18:32+00:00"
+      "title": "미국 이어 중국도 AI 인프라 투자 가속화…D램 공급 부족으로 삼성·SK 가격 협상력 강화 전망",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/31/JVDXQFPDQJAWZAJQWDNWCTJPCE/",
+      "summary": "미국에 이어 중국도 인공지능(AI) 인프라 투자를 가속화하면서 D램 수요가 급증하고 있다. 이로 인한 D램 공급 부족은 삼성전자와 SK하이닉스의 가격 협상력을 강화시킬 것으로 예상된다. 글로벌 AI 경쟁 심화가 반도체 시장에 큰 영향을 미치고 있다.",
+      "pub_date": "2026-08-30T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "5천억 달러 규모 '엔비디아 GPU 동맹' 심층 분석…월가 베팅이 금융 판도 바꿀까",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/29/Z7J5242LVZC7NAN2VLPHX4OG6E/",
-      "summary": "5천억 달러에 달하는 '엔비디아 GPU 동맹'이 월가의 주요 베팅 대상이 되며 금융 시장의 판도를 바꿀지 관심이 쏠리고 있습니다. 엔비디아의 GPU는 AI 시대의 핵심 인프라로 자리매김하며 엄청난 가치를 창출하고 있습니다. 이 동맹은 기술 기업과 금융 시장의 새로운 역학 관계를 형성할 것으로 보입니다.",
-      "pub_date": "2026-08-28T21:00:01+00:00"
+      "title": "앤트로픽, 출판계 이어 음악계도 저작권 소송 직면…수천 곡 가사 무단 학습 논란",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/30/RYUEGVF5JBFVFJOT5IOFT5DENI/",
+      "summary": "인공지능 개발사 앤트로픽이 출판계에 이어 음악계로부터도 저작권 소송에 휘말렸다. 수천 곡의 가사를 무단으로 학습했다는 의혹이 제기되었기 때문이다. 이는 AI 학습 데이터의 저작권 문제에 대한 법적 분쟁을 심화시킬 것으로 보인다.",
+      "pub_date": "2026-08-30T02:31:31+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 소셜 미디어 중독 관련 소송에 최대 171억 달러 합의금 지불 예정",
+      "title": "메타, 소셜 미디어 중독 주장 관련 최대 171억 달러 합의금 지불",
       "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-      "summary": "메타가 소셜 미디어 중독 관련 소송에 대해 최대 171억 달러(약 23조원)를 지불하는 획기적인 합의에 도달했습니다. 이는 소셜 미디어 기업의 책임론을 강화하는 중요한 선례가 될 것입니다. 이번 합의는 사용자 보호 및 플랫폼 규제에 대한 논의를 가속화할 전망입니다.",
+      "summary": "메타가 소셜 미디어 중독 관련 소송에서 최대 171억 달러를 지불하는 획기적인 합의에 도달했다. 이는 소셜 미디어 플랫폼의 사회적 책임과 사용자 건강에 대한 중요한 선례를 남길 것으로 보인다. 빅테크 기업들의 사업 방식에 큰 변화를 가져올 수 있다.",
       "pub_date": "2026-08-26T22:49:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "엔비디아, AI 투자 확대에 힘입어 이익 596억 9천만 달러로 두 배 증가",
-      "link": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
-      "summary": "엔비디아가 인공지능(AI) 분야 투자 확대에 힘입어 이익이 596억 9천만 달러로 두 배 이상 증가했다고 발표했습니다. 이는 AI 산업의 폭발적인 성장세를 반영하는 것으로, 엔비디아가 AI 하드웨어 시장에서 독보적인 위치를 차지하고 있음을 보여줍니다. 반도체 및 기술주 시장에 긍정적인 영향을 미칠 것입니다.",
-      "pub_date": "2026-08-27T01:05:58+00:00"
+      "title": "빌 게이츠, AI가 빅테크가 인정하는 것보다 더 위험하다고 경고",
+      "link": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
+      "summary": "빌 게이츠가 인공지능(AI)이 주요 기술 기업들이 인정하는 것보다 훨씬 더 위험할 수 있다고 경고했다. 이는 AI의 급속한 발전이 가져올 잠재적 위협에 대한 경각심을 높이고 있다. AI 기술의 안전성 및 윤리적 개발에 대한 논의가 더욱 필요하다.",
+      "pub_date": "2026-08-27T00:24:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "메타, 플랫폼이 아동에게 해롭다는 주장에 최대 180억 달러 합의금 지급",
+      "title": "메타, 플랫폼이 아동에게 해롭다는 주장 해결 위해 최대 180억 달러 지불 합의",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 자사 플랫폼이 아동에게 해를 끼친다는 주장에 대해 최대 180억 달러에 달하는 합의금을 지급하기로 했습니다. 이 합의는 소셜 미디어 기업의 사회적 책임과 아동 보호에 대한 경각심을 높이는 계기가 될 것입니다. 플랫폼의 유해성 논란이 주요 쟁점으로 떠오르고 있습니다.",
+      "summary": "메타가 자사 플랫폼이 아동에게 해롭다는 주장에 대한 소송을 해결하기 위해 최대 180억 달러를 지불하기로 합의했다. 이 합의는 소셜 미디어 기업의 책임에 대한 중요한 선례가 될 것이다. 아동 보호를 위한 추가적인 정책 변화가 예상된다.",
       "pub_date": "2026-08-26T21:27:23+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "엔비디아, 지속적인 AI 수요에 힘입어 매출 두 배 증가",
-      "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "엔비디아가 인공지능(AI) 분야의 지속적인 강력한 수요에 힘입어 매출이 두 배 증가했다고 발표했습니다. 이는 AI 기술 발전이 전 산업 분야에 미치는 막대한 영향력을 보여주는 지표입니다. 엔비디아는 AI 하드웨어 시장에서 선두 주자의 입지를 더욱 굳건히 하고 있습니다.",
-      "pub_date": "2026-08-26T21:49:26+00:00"
+      "title": "배우 맷 루카스와 휴 보네빌 등, AI 음성 복제 법안 제정 요구",
+      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "배우 맷 루카스와 휴 보네빌을 포함한 여러 배우들이 인공지능(AI) 음성 복제에 대한 법안 제정을 요구하고 나섰다. 이는 AI 기술의 발전이 초상권 및 저작권 침해로 이어질 수 있다는 우려 때문이다. 창작자 보호를 위한 법적, 윤리적 논의가 시급하다.",
+      "pub_date": "2026-08-28T05:11:16+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "NASA, 외계 행성 탐지 획기적인 도구 개발 현장 공개",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVk5aMzc2REtNbmxzc3hFYkRRanJwbUxYeWhvY2xIRmRDVUYtWVpYTWM5WVUyOHVVTmM2bXJJOUx2dkl4RDJiMGs4NkJiQ3NuQUJueTlaRTR4Ni1pOVFrQ1pYU01rNGlCdWhubExRT1dNR0VMVV91WndxWWNILWJZUGFEeVROa0E?oc=5",
-      "summary": "NASA가 외계 행성을 탐지할 수 있는 획기적인 도구를 개발하는 과정을 공개했습니다. 이 기술은 우주 탐사 및 외계 생명체 연구에 새로운 지평을 열 것으로 기대됩니다. 개발된 도구는 먼 우주의 행성들을 더욱 정밀하게 관측하는 데 사용될 예정입니다.",
-      "pub_date": "2026-08-29T16:00:30+00:00"
+      "title": "'초기 코로나19 상황과 유사': AI 규제를 위한 혼란스러운 움직임",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWN1TjRRbnB3ZGZ3eUlneUVwM2V2ZW12SmNaQW5yNUtJSDhsODFIYzVGdGxGZ3VJcEVTNFhOam1WUXBwV3ppV0lkRUE2SzczZjYzaFJ6VEQ0b1cwdjdzU1VEMERQd1UwN0Z5RlN0NFpfNGJwVER2ZFptdVVXbGhJV3RScXVUWmZf?oc=5",
+      "summary": "인공지능(AI) 규제를 둘러싼 움직임이 '초기 코로나19 상황'처럼 혼란스럽다는 평가가 나왔다. 각국 정부와 기업들이 AI 기술의 급속한 발전에 대응하기 위해 서두르고 있지만, 통일된 규제 프레임워크를 마련하는 데 어려움을 겪고 있다. AI의 잠재적 위험을 관리하기 위한 국제적인 협력이 시급하다.",
+      "pub_date": "2026-08-30T16:00:30+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "찰스 바클리, 남성과 여성의 스포츠 대결 '어떤 상황에서도 안 된다' 발언",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlV5UkJYbXYydk4zak5ublZaUXZUdEx4THBEUmlCNW5PTHc3MzJqbTQ2dDVWczVtY25UZ1lGRXNCQl9fZkJkd0pOdEJrU1NrdmdQWnVjVTM0UjlLX2lNbHhjZzl0MVFyX0NhRUczQ1p2RTQxN1NIRE85SXdXM1F3cFFHNThCS1BDSGRxaFlzR3M5R2RuN3F1S0s2eDE3YVhvT1VZZ0Z5OE1sQ0Q5a0txdktR?oc=5",
-      "summary": "전 농구 스타 찰스 바클리가 남성이 여성과 스포츠 대결을 해서는 '어떤 상황에서도 안 된다'고 발언했습니다. 이 발언은 성별에 따른 스포츠 참여와 공정성 논란에 다시 불을 지필 것으로 보입니다. 성별 통합 스포츠 대회에 대한 사회적 논쟁이 예상됩니다.",
-      "pub_date": "2026-08-29T14:48:45+00:00"
+      "title": "NASA의 최신 우주 망원경 발사, '기묘하고 희귀하며 특이한' 현상 관측 목표",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1VxOXhzQXpPSHZISXV2eldVMFQ2ZzJ6cGdFc0RDTnhZOTUwT2VJWFUzZmZQUVBMMFlNM0t6QlRCc21STThJWXYxNjJ5bnRxWUIwWDRib1ppRjJKOXRjV0tvM3FuMk4xb0NJeWIzQ2VOVnVPOGFXU0ZrVzJjSVBtOEx1MG5xUQ?oc=5",
+      "summary": "NASA의 최신 우주 망원경이 발사되어 우주에서 '기묘하고 희귀하며 특이한' 현상들을 관측할 예정이다. 이 망원경은 우주의 기원과 진화에 대한 새로운 단서를 제공할 것으로 기대된다. 인류의 우주 탐사에 중요한 이정표를 세울 것으로 보인다.",
+      "pub_date": "2026-08-30T05:57:14+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "네팔 홍수 속 2,400명 실종자 수색 지속…'엄청난' 피해 규모",
-      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-      "summary": "네팔에서 발생한 대규모 홍수로 인해 2,400여 명의 실종자를 찾는 수색 작업이 계속되고 있습니다. 현지에서는 엄청난 규모의 피해가 발생했으며, 구조대는 접근이 어려운 지역에서 생존자 수색에 총력을 기울이고 있습니다. 국제사회의 지원 요청과 함께 인명 피해가 지속적으로 늘어날 우려가 제기됩니다.",
-      "pub_date": "2026-08-29T17:49:37+00:00"
+      "title": "네팔, 홍수로 수천 명 실종된 가운데 대규모 매장 시작",
+      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+      "summary": "네팔이 대홍수로 수천 명이 실종된 상황에서 대규모 매장을 시작했다. 구조 작업이 난항을 겪으면서 희생자 수가 계속 증가하고 있어 비극적인 상황이 이어지고 있다. 국제사회의 인도적 지원이 절실히 요구되고 있다.",
+      "pub_date": "2026-08-30T21:11:57+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "러시아 무기 창고 공습으로 37명 사망…우크라이나, '과실' 탓 비난",
+      "title": "네팔 구조대, 홍수 후 실종된 900명 노동자에게 도달하기 위해 터널 굴착",
+      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
+      "summary": "네팔에서 홍수 발생 후 실종된 900여 명의 노동자들을 구조하기 위해 구조대가 터널 굴착 작업을 진행 중이다. 시간과의 싸움 속에서 생존자 발견 가능성에 희망을 걸고 있다. 현장의 극한 상황과 구조팀의 노력이 전 세계의 이목을 집중시키고 있다.",
+      "pub_date": "2026-08-29T20:07:51+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "니제르 군인들 대통령궁과 공항 공격, 군사정권 흔들려",
+      "link": "https://www.nytimes.com/2026/08/29/world/africa/niger-special-forces-attack.html",
+      "summary": "니제르에서 군인들이 대통령궁과 공항을 공격하며 군사정권이 크게 흔들리고 있다. 이는 서아프리카 지역의 불안정을 심화시킬 수 있는 중대한 사건이다. 국제사회는 니제르의 안정을 촉구하며 상황을 예의주시하고 있다.",
+      "pub_date": "2026-08-29T22:14:17+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "키프로스 해안에서 승객 수백 명 태운 페리 전복",
+      "link": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
+      "summary": "키프로스 해안에서 승객 수백 명을 태운 페리가 전복되는 대형 사고가 발생했다. 현재 구조 작업이 진행 중이며, 많은 인명 피해가 우려되는 상황이다. 사고 원인 규명과 함께 실종자 수색에 총력을 기울이고 있다.",
+      "pub_date": "2026-08-30T21:10:21+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "우크라이나 과실 주장 속 러시아 무기 창고 공격으로 37명 사망",
       "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-      "summary": "러시아의 무기 창고 공습으로 37명이 사망하는 사건이 발생했으며, 우크라이나는 러시아의 과실을 비난하고 있습니다. 이번 공격은 전쟁 지역 내 긴장을 고조시키며 국제사회의 우려를 낳고 있습니다. 민간인 피해 규모가 커지면서 전쟁의 잔혹성이 다시 부각되고 있습니다.",
+      "summary": "러시아의 무기 창고 공격으로 37명이 사망했으며, 우크라이나는 이를 과실로 비난했다. 이는 러시아-우크라이나 전쟁의 참상을 다시 한번 보여주는 비극적인 사건이다. 국제사회는 민간인 피해에 대한 우려를 표명하며 평화적인 해결을 촉구하고 있다.",
       "pub_date": "2026-08-29T21:47:52+00:00"
     },
     {
       "category": "세계",
-      "outlet": "NYT",
-      "title": "네팔 구조대, 홍수 실종 900여 명 근로자 수색 위해 터널 뚫고 진입 시도",
-      "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html",
-      "summary": "네팔 구조대가 홍수로 실종된 900여 명의 근로자를 찾기 위해 터널을 뚫고 진입하는 작업을 시도하고 있습니다. 이들은 수력발전소 관련 근로자로 추정되며, 구조 작업은 매우 어려운 상황에서 진행 중입니다. 네팔 정부는 대규모 인력과 장비를 투입하여 수색에 총력을 기울이고 있습니다.",
-      "pub_date": "2026-08-29T20:07:50+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "베네수엘라 국민들, 미국 석유 장악에 '새로운 형태의 미국 식민주의'라며 반발",
-      "link": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html",
-      "summary": "미국이 베네수엘라 석유 통제권을 확보하려는 움직임에 대해 베네수엘라 국민들이 '새로운 형태의 미국 식민주의'라며 강하게 반발하고 있습니다. 이는 미국과 베네수엘라 간의 긴장을 고조시키고 있으며, 국제 관계에도 파장을 미칠 수 있습니다. 석유 자원을 둘러싼 주권 침해 논란이 불거지고 있습니다.",
-      "pub_date": "2026-08-29T22:42:38+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "네팔 강타한 치명적인 홍수, '히말라야 전체가 녹고 있다'는 우려 증폭",
-      "link": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
-      "summary": "네팔을 강타한 치명적인 돌발 홍수로 인해 '히말라야 전체가 녹고 있다'는 환경적 우려가 증폭되고 있습니다. 전문가들은 기후 변화로 인한 빙하 녹음 현상이 이러한 재난의 원인 중 하나라고 지적합니다. 이번 사태는 기후 위기의 심각성을 다시 한번 일깨우고 있습니다.",
-      "pub_date": "2026-08-29T09:04:15+00:00"
+      "outlet": "BBC",
+      "title": "키프로스 북부 해안서 페리 전복, 8명 사망 및 다수 실종",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "키프로스 북부 해안에서 페리 전복 사고가 발생하여 8명이 사망하고 다수가 실종됐다. 구조 당국은 생존자 수색 작업을 계속하고 있으며, 사고 원인에 대한 조사가 시작되었다. 이 비극적인 사고는 해상 안전에 대한 경각심을 높이고 있다.",
+      "pub_date": "2026-08-30T20:02:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "노르웨이 하랄드 국왕 89세로 서거…가족 위기 속 국민 사랑받은 군주",
-      "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-      "summary": "노르웨이의 하랄드 5세 국왕이 89세의 나이로 서거했습니다. 그는 재위 기간 동안 여러 가족 문제를 겪었음에도 불구하고 국민들로부터 깊은 사랑을 받아온 군주였습니다. 그의 서거는 노르웨이 역사에 한 시대를 마무리하는 중요한 사건으로 기록될 것입니다.",
-      "pub_date": "2026-08-28T09:27:17+00:00"
+      "title": "미국, 이란 라라크 섬 발사대에 공습…수 주 만의 첫 공격",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "미국이 수 주 만에 처음으로 이란 라라크 섬의 발사대를 공습했다. 이는 양국 간의 긴장을 다시 고조시키며 중동 지역의 군사적 대치 상황을 악화시킬 수 있다. 국제사회는 추가적인 확전을 우려하며 자제를 촉구하고 있다.",
+      "pub_date": "2026-08-30T21:15:42+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
       "title": "키이우 무기 창고 공격으로 최소 37명 사망, 수백 명 대피",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "키이우의 무기 창고에 대한 공격으로 최소 37명이 사망하고 수백 명이 대피했습니다. 이번 공격은 우크라이나 전쟁의 심각성을 다시 한번 보여주며, 국제사회의 우려를 증폭시키고 있습니다. 민간인 피해를 줄이기 위한 노력이 시급해 보입니다.",
+      "summary": "키이우의 무기 창고에 대한 공격으로 최소 37명이 사망하고 수백 명이 대피하는 사태가 발생했다. 이는 러시아-우크라이나 전쟁의 심각한 인명 피해를 보여준다. 전쟁의 장기화로 민간인들의 고통이 커지고 있다.",
       "pub_date": "2026-08-29T20:13:16+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "트럼프, 미국이 베네수엘라 원유 650억 배럴 통제하는 '역사적' 합의 환영",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "트럼프 대통령이 미국이 베네수엘라의 650억 배럴 원유를 통제할 수 있게 되는 '역사적인' 합의를 환영했습니다. 이 합의는 미국의 에너지 안보를 강화하고 국제 유가 안정에 기여할 것으로 기대됩니다. 베네수엘라의 경제 및 정치 지형에도 큰 변화를 가져올 중대한 사건입니다.",
-      "pub_date": "2026-08-29T22:40:51+00:00"
+      "title": "미국-이란 전쟁 여파로 소말리아 해적 활동 급증",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "summary": "미국-이란 전쟁의 여파가 퍼지면서 소말리아 해적 활동이 급증하고 있다는 보고가 나왔다. 이는 국제 해상 무역 안전에 심각한 위협이 되고 있다. 중동 분쟁이 아프리카 해역의 안보까지 영향을 미치고 있다.",
+      "pub_date": "2026-08-29T01:14:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "극우 논객 마일로 이아노풀로스, 미국에서 영국으로 추방",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "summary": "극우 성향의 논객 마일로 이아노풀로스가 미국에서 영국으로 추방당했습니다. 이는 그의 논란 많은 활동에 대한 미국 당국의 조치로 보이며, 국제적인 이목을 집중시키고 있습니다. 그의 추방은 이민 정책과 극단주의 발언에 대한 논쟁을 다시 불러일으킬 수 있습니다.",
-      "pub_date": "2026-08-29T17:52:42+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "위성 사진, 네팔 마을의 엄청난 홍수 피해 규모 드러내",
+      "title": "위성 사진으로 드러난 네팔 마을 홍수 피해 규모",
       "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "summary": "위성 사진을 통해 네팔 마을들이 입은 홍수 피해의 엄청난 규모가 드러났습니다. 사진들은 주택과 기반 시설이 광범위하게 파괴된 모습을 보여주며, 재난의 심각성을 시사합니다. 이는 국제사회의 신속한 구호와 복구 지원의 필요성을 강조하고 있습니다.",
+      "summary": "위성 사진을 통해 네팔 마을들의 홍수 피해 규모가 여실히 드러났다. 광범위한 지역이 물에 잠기고 기반 시설이 파괴되어 인도적 위기가 심화되고 있다. 국제사회의 신속한 구호 지원이 절실하다.",
       "pub_date": "2026-08-28T17:36:54+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "트럼프, 베네수엘라와 '세계 역사상 최대 규모 석유 거래' 발표",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZLdnhEZmswcy1QWWljMkk5MUVKOEY3VEZJUW5ia1F3SjlISWJXM3BLSTNjX3FJSzFkQndDeVQ4WXFJSk9ScmpvX0RXRHJpR1FCU3UwRzNQRURzTExicmg1Q3JmVDFzNnNfQWVGRGJlTDZjS0I5c0lrcEFXaDktQ0F1ei1TYXRoNnh0cFVjeE1kVHhQakxoVlp4and3bE9paXdFTHVzZzdkYVU3V3NsWlFqWmE0QUR6SGktUUVrc9IBuwFBVV95cUxNVHBKYjZXaTRJOEVsS3dYS1dFUGdUaTlOS3FuNmVCZ0hWZTRfS2F4RHNvY1E0d3RCU3d0blFYWmVVaUpHVlVFUzdwUDJ4Z0ROQlM3Zkpod19oYzMwZzYtc1ZxeFdHOTBpb1lZSlptZk1Ubml1eVJPQUJ1MGlsTkVKVjE3c1Y3V2RocHB4TGpiVGFaSHRhM2IwZTMxV2RqZ3IwNHYtVmN3LTM3Y20wdEZWLTFxT2JWaHlpLTkw?oc=5",
-      "summary": "트럼프 대통령이 베네수엘라와의 '세계 역사상 최대 규모 석유 거래'를 발표했습니다. 이 합의는 미국의 에너지 확보와 베네수엘라의 경제 상황에 중대한 변화를 가져올 것입니다. 국제 유가 시장에도 큰 파장을 일으키며 글로벌 경제에 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-08-29T13:57:00+00:00"
+      "title": "네팔 주민들, 파괴적인 홍수 후 실종된 가족들 찾아 헤매",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDhTWnBBdFhFWE5XcTQ4RFVsWnF5a0duN2xpbElhcGlvUWx1dHBGNmZ3UXViUy1sOFY4bHBma1F0UlRGc1BSNVpoTWY1OEVxd3Q0Z01EaktTWHQ4ZmNXUXFGYXpybl9xcnNZZE5WRzh3d2V5cExtdjR6VmpEUHFtVFVHNFRqZ2FWMFFEaFlpX2hEZVJCSWtxQzBzS0RUTXpG?oc=5",
+      "summary": "네팔에서 발생한 파괴적인 홍수 이후 많은 주민들이 실종된 가족과 친지들을 찾아 헤매고 있다. 절망과 희망이 교차하는 가운데, 시간이 지날수록 생존 가능성은 희박해지고 있다. 이 비극적인 상황은 전 세계에 깊은 슬픔을 안겨주고 있다.",
+      "pub_date": "2026-08-30T10:09:59+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "예측 불가능한 히말라야 지역, 전례 없는 개발로 위험 증폭",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2R2TWdTdEQ1Z3otd3FTN2hINURZV1FvbUxlQVNRd09wcEdYSVBnTnVZeUxZNjVRTmt3bDZWaEFpWFlLM0wxbmRKQXdUZXRlQW54b3MxM1hsekNMS2pCeHp6eFhDUGdUcFJBX0QxM054V2J0NDZsYk9oRmRzNHFCTmNCdE9PdHc2S2s4OXQwMldnTk40YXVR?oc=5",
-      "summary": "예측 불가능한 히말라야 지역에서 각국이 전례 없는 규모의 건설 프로젝트를 추진하고 있어 위험이 증폭되고 있습니다. 이는 최근 네팔 대홍수와 같은 자연재해의 피해를 더욱 키울 수 있다는 우려를 낳고 있습니다. 기후 변화와 무분별한 개발이 초래하는 환경적, 인명적 위험에 대한 경고입니다.",
-      "pub_date": "2026-08-29T04:06:54+00:00"
+      "title": "네팔 홍수 후 남편 실종된 여성: “80시간 넘게 찾고 있다”",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdFNUSTdqZEJ0NzJpU2tQMm5USnVrZi1EY1NOVll3WkstRlJCcmJaNGJDaEpkaXQ3WVVnTmRMaEdVNWp1MTcwWmp5SDJoWVhUa3dZTWk2Yi1waWhYOWlSTHBHZWw1SnRlcHItQ1UyT2NMaWo5S2p5YWZTaDZnVVJTTXlJbk5mMjNJd09rbXhDZUJYVXIzc3R2VmlFTkx3NHd1R1FzUGwwb0lYcm1QNGRFRlFPdENkNm1N?oc=5",
+      "summary": "네팔 홍수로 남편이 실종된 한 여성이 80시간이 넘도록 남편을 찾아 헤매고 있다고 전했다. 이는 대규모 재난 속에서 개인들이 겪는 비극과 절박함을 상징적으로 보여준다. 실종자 가족들의 고통이 깊어지고 있다.",
+      "pub_date": "2026-08-30T01:28:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "네팔 잔해 속에서 어린 소녀 극적으로 구조",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHhMRXE1cU0tRkhkNFhGLUJwR3Yyb0NiSkJpbWRiZVZVT2lJSEJOUzRhSW9LM0tCaWJpaGhuZnU0MG03c2JqXzlzZTc5TlMyMXhIZ2YzUVZRYkJQMmdYei1fOEVSUHVDMXNKUk5sdldRWllVM3A1dTY0OVk5alBua2M2bjlpQk14bkhLbGRzN1pISW1kWlE?oc=5",
-      "summary": "네팔 대홍수 피해 현장에서 잔해 속에 갇혀 있던 어린 소녀가 극적으로 구조되었습니다. 이 구조 소식은 재난의 참혹함 속에서도 한줄기 희망을 전하며 많은 사람들에게 감동을 주었습니다. 구조 활동은 계속되고 있으며, 추가 생존자 발견에 대한 기대감을 높이고 있습니다.",
-      "pub_date": "2026-08-29T20:01:00+00:00"
+      "title": "키프로스 해안서 터키 페리 전복, 수백 명 구조 작업 진행 중",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBMHp2cy1jczNKNkhnZkwzRVA1c3kwMDFnbXI1QzlESUVNLUNQUF9LRlpibko1NTBkSWVxS3l6bkVaWm85dnQ5MWx3MmZLdG5nTWFLZ2hVRVZLUk12Y0pncmRaTU9JWE90S3NBYnNEZkl2UUF5cDRwbQ?oc=5",
+      "summary": "키프로스 해안에서 수백 명을 태운 터키 페리가 전복되는 사고가 발생하여 대규모 구조 작업이 진행되고 있다. 당국은 실종자 수색에 총력을 기울이고 있으며, 많은 인명 피해가 우려된다. 해상 운송의 안전 문제에 대한 경고음이 울리고 있다.",
+      "pub_date": "2026-08-30T11:27:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "이민세관집행국, 극우 선동가 마일로 이아노풀로스 구금",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEdfb2F6SUozdlJ2ZnpwMjc4RkRVNWlxaGRhSTdOMm5YZHFKX3BGeW9BTTUwZWJYeHBnbmlCdUtxcUxtRWNqd2R4YVNfN0ZPZnVIS19UclBjRmd0c2lJcjFBSmJDbVNlWWhienlpMFRFTFJNVDZtbmJWS2d5MkMyaEk1N0RQQQ?oc=5",
-      "summary": "극우 성향의 선동가 마일로 이아노풀로스가 이민세관집행국(ICE)에 의해 구금되었습니다. 그의 구금은 미국 내 이민 정책과 극단주의 발언에 대한 논란을 다시 수면 위로 올릴 것으로 보입니다. 그는 과거에도 여러 차례 극단적인 발언으로 물의를 빚었습니다.",
-      "pub_date": "2026-08-29T00:23:00+00:00"
+      "title": "키이우 포격: 28시간 경보 및 치명적인 창고 공격",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWhFbUJjWTQta2NZZm51NmtpUG5uZ25ZS2ZCc2RFOGdxN2V1T0VjMHRuZF9qaUdKRFQtRnFZdG1zSm8tQkItVHdwaTB3OEM1eEJtaUc3Sk5Id1J1bGZOelJNc0FlRFJpOFA1RW5PUWRGOTZXOUFvbE1CSWctaHVNUGNFQQ?oc=5",
+      "summary": "키이우에서 28시간 동안 공습 경보가 울리고 치명적인 창고 공격이 발생했다. 이는 러시아-우크라이나 전쟁의 잔혹성과 장기화된 위협을 보여준다. 민간인들의 일상이 전쟁의 공포 속에 놓여 있다.",
+      "pub_date": "2026-08-30T20:39:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "네팔 실종 미국인 등산객 아들, 수색 상황에 대해 공개 발언",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUJfMW9QenlTSU94a3NjVmZPenNpNlVzVXJGWXE2ZTMybFNsY3l3dEE4TkN4NE1rQnB0QmxuUVc4dDJOeEtlV2R1LXdsd1ZFdnJaVUxEU0dBaVc1cGEwQjlvcVBvb3BRdXgwRzR6ZjJnVGkzeVE5NHUwU2R0UXZDMVNuRXhiVkZWRW1LWVZ3ck1ZZDV3dlNJTzFWN0Z5QQ?oc=5",
-      "summary": "네팔 홍수로 실종된 미국인 등산객의 아들이 현재 진행 중인 수색 작업에 대해 공개적으로 이야기했습니다. 그는 아버지의 행방을 애타게 기다리며 구조 당국의 노력을 촉구했습니다. 이번 발언은 해외에서 재난을 당한 국민들의 가족들에게 깊은 공감을 불러일으키고 있습니다.",
-      "pub_date": "2026-08-29T12:32:53+00:00"
+      "title": "스위스에서 치명적인 레이브 총격 사건 후 용의자 추적 중",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTZlRlNwMlFzX3V4bGx4QnFvVG5qQm0wc2ZMT3hFWGVrYlZubHA5Qm9qZWt5VEZjVEhhc3JQMnJQSTNxNThmVTh6YjltSVcxT1hHel9XamRwWExFN3hKWUlQQjJsekpBdmhuQWs2UW5lbjlpcDJlRWZ1R1VIU3lEeVBmQ3Q4VmhIRjg4SXBhTkZ1ZzJRRDZkZkRR?oc=5",
+      "summary": "스위스에서 발생한 치명적인 레이브 총격 사건 이후 용의자에 대한 대규모 추적 작전이 진행 중이다. 이 사건은 평화로운 스위스 사회에 큰 충격을 주었으며, 유럽 전역의 축제 안전 문제에 대한 우려를 높이고 있다. 당국은 범인 검거에 총력을 기울이고 있다.",
+      "pub_date": "2026-08-30T08:17:00+00:00"
     }
   ]
 }
