@@ -1,421 +1,397 @@
 {
-  "last_updated": "2026-09-01T00:23:14.758467+00:00",
+  "last_updated": "2026-09-01T23:08:30.334603+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "김용범 청와대 정책실장, 정부 출범 15개월 만에 사퇴",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008731225&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "김용범 청와대 정책실장이 정부 출범 15개월 만에 사의를 표명하고 사표가 수리되었다.이는 이 대통령 정부의 주요 인사 교체로, 향후 국정 운영 방향에 관심이 모아지고 있다.",
-      "pub_date": "2026-09-01T00:03:00+00:00"
+      "title": "김용범 청와대 정책실장 사퇴, 여론 악화가 원인으로 추정",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008732367&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "김용범 청와대 정책실장이 사의를 표명하고 사퇴했다. 이는 최근 불거진 여론 악화에 따른 것으로 분석된다. 대통령실은 국정 동력 확보를 위해 사표를 수리한 것으로 보인다.",
+      "pub_date": "2026-09-01T08:09:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "용혜인 장관 후보, 의원직 사퇴 사실상 거부하며 소수정당의 어려움 호소",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008730123&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "용혜인 장관 후보자가 국회의원직 사퇴 요구에 대해 사실상 거부 의사를 밝혔다.그는 소수정당의 어려움을 이유로 양해를 구했으며, 이중직 논란은 계속될 전망이다.",
-      "pub_date": "2026-08-31T08:02:00+00:00"
+      "title": "민주당에서도 \"용혜인은 하나만 하라\" 논란이 된 위성정당",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008733242&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "민주당 내부에서도 용혜인 의원의 위성정당 활동에 대한 비판이 제기되었다. 용 의원의 행보가 '비례 두 번 꿀수저'라는 비판을 받으며 논란이 커지고 있다. 이는 여야를 막론하고 정치권의 주요 쟁점으로 부상하고 있다.",
+      "pub_date": "2026-09-01T22:30:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "대니얼 드리스콜 육군 장관, 미국이 두 전쟁으로 고심하는 가운데 사임",
+      "title": "하원, 중간선거 전 정부 폐쇄를 막기 위한 투표 진행",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/house-vote-government-shutdown.html",
+      "summary": "미국 하원이 중간선거를 앞두고 정부 폐쇄를 피하기 위한 법안을 통과시켰다. 이로써 정부 기관의 운영이 일시적으로 유지될 수 있게 되었다. 이번 표결은 다가올 선거에 정치적 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-09-01T18:06:15+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "NYT",
+      "title": "대니얼 드리스콜 육군 장관, 미국 군대가 두 전쟁으로 고심하는 가운데 사임",
       "link": "https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html",
-      "summary": "대니얼 드리스콜 육군 장관이 사임했다.이는 미국 군부가 두 개의 전쟁으로 어려움을 겪는 시기에 발생했으며, 군 수뇌부에 변화가 예상된다.",
-      "pub_date": "2026-08-31T23:27:08+00:00"
+      "summary": "대니얼 드리스콜 육군 장관이 사임했다. 이는 미군이 두 개의 전쟁에 직면하며 어려움을 겪는 상황에서 발생했다. 그의 사임은 국방부 내 갈등 및 정책적 난항과 연관된 것으로 보인다.",
+      "pub_date": "2026-09-01T03:48:23+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "미국, 호르무즈 해협 섬 공격…이란, 미사일 발사로 보복",
-      "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html",
-      "summary": "미국이 호르무즈 해협의 한 섬을 공격하자, 이란이 미사일 발사로 보복했다.이는 중동 지역의 긴장을 고조시키는 중대한 사건이며, 국제 사회의 우려를 낳고 있다.",
-      "pub_date": "2026-08-31T06:16:13+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "NYT",
-      "title": "대법원, 트럼프의 백악관 연회장 건설 허용",
-      "link": "https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html",
-      "summary": "대법원이 트럼프 전 대통령의 백악관 연회장 건설을 허용하는 판결을 내렸다.이는 트럼프 행정부 시절 추진된 사업에 대한 법적 분쟁의 종지부를 찍었다.",
-      "pub_date": "2026-08-31T22:01:38+00:00"
+      "title": "미국, 호르무즈 해협의 기뢰 문제로 이란 공격, 트럼프 대통령 발표",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
+      "summary": "트럼프 대통령은 미국이 호르무즈 해협의 기뢰 문제에 대응하여 이란을 공격했다고 밝혔다. 이번 공격은 중동 지역의 긴장을 고조시킬 수 있다. 이란의 해상 활동이 국제 안보에 미치는 영향이 주목된다.",
+      "pub_date": "2026-09-01T22:17:32+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김용범 청와대 정책실장 사의 표명…이 대통령, 사표 수리",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260901091500AS9",
-      "summary": "김용범 청와대 정책실장이 사의를 표명했으며, 이 대통령이 이를 수리했다.이는 청와대 주요 인사의 교체로, 정부의 정책 방향에 영향을 미칠 것으로 보인다.",
-      "pub_date": "2026-09-01T00:15:01+00:00"
+      "title": "김용범 전격 사퇴, 청와대 \"국정 동력 확보 차원\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260901215804Pdk",
+      "summary": "김용범 정책실장이 전격 사퇴했다. 청와대는 이를 국정 동력 확보 차원이라고 밝혔다. 그의 사퇴는 최근 논란과 함께 중요한 정치적 변화로 해석된다.",
+      "pub_date": "2026-09-01T12:58:06+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "북한, '미국 적대 정책에 최강경 대응' 밝히며 북미 대화 기대 일축",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260901002348Pf4",
-      "summary": "북한이 미국의 적대 정책에 대해 최강경으로 대응하겠다고 발표했다.이는 북미 대화에 대한 기대를 일축하는 발언으로, 한반도 긴장감이 고조될 수 있다.",
-      "pub_date": "2026-08-31T15:23:51+00:00"
+      "title": "정기국회 개막, 입법과 예산을 두고 격돌 전망",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260901210119p1D",
+      "summary": "정기국회가 개회하면서 여야 간 입법과 예산안을 둘러싼 치열한 대결이 예상된다. 주요 쟁점 법안 처리와 정부 예산안 심의가 집중적으로 이루어질 예정이다. 정치권의 긴장감이 고조되며 뜨거운 논의가 전개될 것으로 보인다.",
+      "pub_date": "2026-09-01T12:01:21+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "멜 스트라이드와 프리티 파텔, 주요 보수당 개각에서 교체",
-      "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 보수당의 주요 개각이 단행되어 멜 스트라이드와 프리티 파텔이 교체되었다.이번 인사는 내각의 주요 변화를 알리며, 정부의 새로운 정책 방향에 대한 관심이 커지고 있다.",
-      "pub_date": "2026-08-31T20:27:52+00:00"
+      "title": "키어 스타머 의원직 사퇴 발표",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "키어 스타머 전 영국 총리가 의원직에서 물러난다고 발표했다. 그는 정치적 변화를 모색하기 위해 이러한 결정을 내린 것으로 알려졌다. 그의 사퇴는 영국 정치권에 상당한 파장을 일으킬 것으로 예상된다.",
+      "pub_date": "2026-09-01T17:04:29+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "총리, 조기 석방 제도 변경 발표에 따라 PC 하퍼 살해범들 계속 수감",
-      "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "총리가 조기 석방 제도 변경을 발표함에 따라 PC 하퍼 살해범들은 계속 수감될 예정이다.이는 공공 안전 강화와 범죄자에 대한 강력한 처벌 기조를 반영하는 정책 변화이다.",
-      "pub_date": "2026-08-30T08:59:58+00:00"
+      "title": "번햄, 더 많은 권한 이양과 필수 공공 서비스 통제 약속",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "번햄 총리가 더 많은 권한 이양과 필수 공공 서비스에 대한 대중의 통제를 약속했다. 이는 지역 자율성을 강화하고 시민 참여를 확대하려는 정책 방향을 제시한다. 정부의 이러한 변화는 지역 사회에 큰 영향을 미칠 것으로 전망된다.",
+      "pub_date": "2026-09-01T21:48:44+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "김용범 청와대 정책실장 사퇴…이 대통령, 사표 수리",
-      "link": "https://www.chosun.com/politics/politics_general/2026/09/01/7LPJRP2HTJG5VCTHGBD2YHZ37Q/",
-      "summary": "김용범 청와대 정책실장이 사의를 표명하고 이 대통령이 이를 수리했다.이는 현 정부의 주요 인사 교체로, 향후 국정 운영과 정책 방향에 대한 관심이 집중되고 있다.",
-      "pub_date": "2026-08-31T23:49:25+00:00"
+      "title": "김용범, 유임될 것으로 보였으나 개각 이틀 만에 사퇴한 이유는?",
+      "link": "https://www.chosun.com/politics/politics_general/2026/09/02/N3VS27ZRNVCEZBYZ6KUFGQAR7M/",
+      "summary": "김용범 정책실장이 유임될 것으로 예측되었지만, 개각 발표 이틀 만에 돌연 사퇴했다. 그의 사퇴 배경에는 여러 가지 정치적 해석과 갈등이 얽혀 있는 것으로 분석된다. 대통령실의 국정운영 방향에도 영향을 미칠 중요한 사안이다.",
+      "pub_date": "2026-09-01T15:45:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "댄 드리스콜 육군 장관, 헤그세스와의 갈등 끝에 사임",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3BPSDJvQ3VNMllpcjlCNnFHZFVFSWQ0TXowNXdHOEZGX3M3cExKSnJwbnJnSHRsdWxGSEY0N0ZXYVlmSmg4blRsd2VMQkVrbEV6MW51UjNwX2RhUDhZR0pEV3IxaGlHeXZhV19qMTNINkNIM0xHcUxPOXplVVJTVw?oc=5",
-      "summary": "댄 드리스콜 육군 장관이 헤그세스와의 긴장 관계 끝에 사임했다.이는 군부 고위직의 중대한 변화를 의미하며, 국방 정책 및 전략에 영향을 미칠 수 있다.",
-      "pub_date": "2026-08-31T22:05:21+00:00"
+      "title": "댄 드리스콜 육군 장관이 화제가 되는 이유",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczVnMW1yY3BWTTZEdWh1UXY3aGR5VXlUejNFRjJJU1B5Znk3Z2FQOV80bkhNLVZxeGNoUkVzQThxX3pRVjZ6OVZRTlhQQkRGSEN5RkJfQ1VhLUFjeHRoZUs3RGZlOEpZd1lfemFHWFF0ZDZXSTZFUHcwY0pVR1ZoZFVPaVdZT2lJN2RCYTdWSUZvczRINHE2a3hEWkFWajNaWGphLXM4Vk03NUdMcGc?oc=5",
+      "summary": "댄 드리스콜 육군 장관의 이름이 온라인에서 화제가 되고 있다. 이는 최근 그의 사임 발표와 관련된 것으로 보인다. 그의 사임은 미군 내부의 중요한 변화를 의미하며 정치권의 주목을 받고 있다.",
+      "pub_date": "2026-09-01T19:44:46+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "대법원, 트럼프의 백악관 연회장 건설 지속 허용",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTkyUW5WOTRuU2tJTTBxTWluWm1lU2pEamxfOVlzNllBMjNKSS1KT3YtZmkzZ3VkSU1RdUNDMzNyLTF4dF93RWk1NzRWMW9SY1NrZjhxcmJxZUgxSzRCaU0wNVdIQUl0YXpPOVRVRFozZ1FQMkxTcVZKWkNUZnpjWEFfN2Z2aXc?oc=5",
-      "summary": "미국 대법원이 트럼프 전 대통령의 백악관 연회장 건설을 계속할 수 있도록 허용했다.이 판결은 백악관 시설 확장 프로젝트에 대한 법적 분쟁을 마무리 짓는 결정이다.",
-      "pub_date": "2026-08-31T20:28:57+00:00"
+      "title": "트럼프, 이란에 미국 공격에 보복 시 더 가혹한 추가 타격 경고",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcURITjZ0bXRINU5yRFRnOEhJMkZ6STUtVFl3M041VmNTak5VOXFMaDl2ekp0NTgxRk01Y202ODlOcGJScWEzc2hOelVKcEZVU0NUTnVsbFFhRWlLbkp4Y0lqR3EzSGRDOEoxZXYxZkJHeHA5eVhuNG9aNjVDekpuZUw1RE1FUW5xNktVbm9Obzl5NUpEYmZtZVFFUEFPdVQtVHVV?oc=5",
+      "summary": "트럼프 전 대통령은 이란이 미국의 정당한 공격에 보복할 경우 더욱 강력한 타격에 직면할 것이라고 경고했다. 이는 중동 지역의 군사적 긴장을 한층 더 고조시킬 수 있다. 국제사회는 양측의 추가적인 행동을 예의주시하고 있다.",
+      "pub_date": "2026-09-01T18:14:54+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 베네수엘라와 650억 배럴 규모 석유 통제 계약 체결",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNzFMRW1ydmExTzgxc0xJSDBDdmsyN0lPcGZaODRrcVBFaVpZY2pGNWZscUl2TlRwN0MxLURIeE8tMzhlTHRBM2pJZ3lRMFdqcnpEWF9LZkYwaGNyMkprUkFLVWpDMlhhVG9sODUyRGw5cHAtX1pNSmtRQVhaell2WUFSbVJvaUhqYmpjMkZ1eFdncFhRaFFKcHZNc29CMVJl?oc=5",
-      "summary": "트럼프 전 대통령이 베네수엘라와 650억 배럴 규모의 석유 통제 계약을 체결했다.이 계약은 에너지 시장과 국제 관계에 큰 영향을 미칠 수 있는 중대한 외교적 움직임이다.",
-      "pub_date": "2026-08-31T22:40:24+00:00"
+      "title": "CNN 단독 보도: 국토안보부, 화요일부터 유권자 사기 조사 급증 계획",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTdQTjB6MTFPdTdTUlFCRFo2X0hJQ0RJMEh4cUVRclA3OWZoOFVwSWMzMldpdElJam5ndUVOdFFkcElQSlRnaUpHN19VdXE3bGtZcXhmU1VHTWR6c3l0RndDNHA5ZkJQMXZVUnR3NDV1cnVvWVJ0U05SSFNaQXJyVXo1emtTQUdmOWE4?oc=5",
+      "summary": "CNN 단독 보도에 따르면, 국토안보부가 화요일부터 유권자 사기 조사를 대폭 확대할 계획이다. 이는 다가오는 선거의 공정성과 신뢰성을 확보하기 위한 조치로 보인다. 이번 조사는 정치권과 유권자들에게 큰 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-09-01T16:44:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미국과 이란의 공격 교환 후 국제 유가 배럴당 90달러로 상승",
+      "title": "미국과 이란의 공방 이후 국제 유가 배럴당 90달러로 상승",
       "link": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html",
-      "summary": "미국과 이란 간의 공방전 이후 국제 유가가 배럴당 90달러로 급등했다.이는 중동 정세 불안이 글로벌 에너지 시장에 직접적인 영향을 미치고 있음을 보여준다.",
-      "pub_date": "2026-08-31T20:04:53+00:00"
+      "summary": "미국과 이란 간의 군사적 공방 이후 국제 유가가 배럴당 90달러까지 치솟았다. 이는 중동 지역의 불안정성이 에너지 시장에 직접적인 영향을 미쳤음을 보여준다. 전문가들은 유가 상승세가 당분간 지속될 수 있다고 전망했다.",
+      "pub_date": "2026-08-31T20:04:54+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프의 베네수엘라 석유 거래, 강력하고 분열적인 파트너에 의존",
-      "link": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html",
-      "summary": "트럼프 전 대통령이 베네수엘라와 체결한 석유 거래가 강력하지만 논란이 많은 파트너에 의존하고 있다.이 거래는 베네수엘라의 정치적 상황과 국제 유가에 상당한 영향을 미칠 것으로 예상된다.",
-      "pub_date": "2026-08-31T14:59:33+00:00"
+      "title": "채권 매도세, 전 세계 차입자들을 압박할 위협",
+      "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+      "summary": "전 세계적인 채권 매도세가 심화되면서 차입자들에게 큰 부담이 될 것으로 예상된다. 금리 인상과 인플레이션 우려가 복합적으로 작용하고 있다. 이는 글로벌 경제 전반에 걸쳐 신용 경색을 야기할 수 있다.",
+      "pub_date": "2026-09-01T20:24:09+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "연간 48만 달러짜리 신약, 암 치료제 시장의 새로운 기준 반영",
-      "link": "https://www.nytimes.com/2026/08/31/business/pancreatic-cancer-drug-prices.html",
-      "summary": "연간 48만 달러에 달하는 고가의 신약이 암 치료제 시장에 등장했다.이는 최신 암 치료제의 높은 비용 구조와 의료 접근성 문제를 다시 한번 부각시키고 있다.",
-      "pub_date": "2026-08-31T16:43:57+00:00"
+      "title": "오젬픽 제조사 노보 노디스크 투자자들, 미래에 대한 불안감 표출",
+      "link": "https://www.nytimes.com/2026/09/01/business/novo-nordisk-ozempic-wegovy-glp1s-stocks.html",
+      "summary": "비만 치료제 오젬픽 제조사인 노보 노디스크의 투자자들이 미래 전망에 대해 불안감을 느끼고 있다. 시장 경쟁 심화와 규제 변화 가능성이 주요 원인으로 꼽힌다. 회사의 장기적인 성장 전략에 대한 관심이 집중되고 있다.",
+      "pub_date": "2026-09-01T17:09:01+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "앤드루 베일리 G20에 경고: 인공지능이 세계 경제 침체 유발할 수도",
+      "title": "영국 장기 차입 비용, 10월 예산안 발표 앞두고 1998년 이후 최고치 기록",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부의 장기 차입 비용이 오는 10월 예산안 발표를 앞두고 1998년 이래 최고 수준을 기록했다. 이는 높은 인플레이션과 불확실한 경제 전망에 대한 우려를 반영한다. 정부는 재정 건전성 확보를 위한 압박에 직면해 있다.",
+      "pub_date": "2026-09-01T16:36:42+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "BBC",
+      "title": "인공지능이 세계 경제 침체를 야기할 수 있다고 앤드루 베일리 G20에 경고",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "앤드루 베일리 영국 중앙은행 총재가 G20 회의에서 인공지능이 세계 경제 침체를 유발할 수 있다고 경고했다.이는 기술 발전이 가져올 경제적 파장에 대한 심각한 우려를 제기한다.",
-      "pub_date": "2026-08-31T16:49:11+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "BBC",
-      "title": "트럼프, 베네수엘라 650억 배럴 석유 통제 '역사적' 합의 환영",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "트럼프 전 대통령이 베네수엘라 석유 650억 배럴 통제에 대한 '역사적' 합의를 환영했다.이 합의는 국제 에너지 시장과 미국의 외교 정책에 큰 영향을 미칠 것으로 보인다.",
-      "pub_date": "2026-08-30T04:01:02+00:00"
+      "summary": "앤드루 베일리 영란은행 총재가 G20 회의에서 인공지능이 세계 경제 침체를 초래할 수 있다고 경고했다. 그는 AI 기술의 급속한 발전이 노동 시장과 경제 구조에 미칠 부정적 영향을 우려했다. 이에 대한 국제적인 논의와 대응 방안 마련이 시급하다.",
+      "pub_date": "2026-09-01T10:18:47+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "금융감독원, 카드론 통계 오류 확인…실제 감소분 2.4%, 발표는 21% 증가",
-      "link": "https://www.sedaily.com/article/20085477",
-      "summary": "금융감독원이 카드론 통계에서 큰 오류를 발표해 논란이다.21% 증가했다던 수치는 실제로는 2.4% 감소한 것으로 드러나, 금융 통계의 신뢰성에 의문이 제기되고 있다.",
-      "pub_date": "2026-08-31T21:15:05+00:00"
+      "title": "저축은행 부동산 대출 연체 2조 7천억 원, 올해만 15% 급증",
+      "link": "https://www.sedaily.com/article/20085928",
+      "summary": "국내 저축은행들의 부동산 대출 연체액이 2조 7천억 원에 달하며, 올해 들어서만 15% 급증했다. 이는 고금리 기조와 부동산 경기 침체가 맞물린 결과로 분석된다. 저축은행의 건전성 악화에 대한 우려가 커지고 있어 금융당국의 개입이 주목된다.",
+      "pub_date": "2026-09-01T08:38:42+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "경제 전문가들, 미국-캐나다 무역 전쟁 악화 우려 표명",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzZKdXh4LWNlVzRianJsSFZPUS1FM1FuUGJPU3dYS2dsRmllR0VUaHZvZlZLZDdZQ2tWeHhhUTJnUmlwNjgwLV9QVk5IdEM5VEFQRFlSVkRqc3pUdGNZTFV0ZVRINTZmXzI0NmwwUHk2SjlETWdpSGVITkI3dTNfeDFLWmdSbFY3SnFrQVJqaw?oc=5",
-      "summary": "경제 전문가들이 미국과 캐나다 간의 무역 전쟁이 악화되고 있다고 경고했다.양국 간의 긴장 고조는 북미 경제에 부정적인 영향을 미칠 수 있다.",
-      "pub_date": "2026-08-31T17:34:42+00:00"
+      "title": "전 세계 채권 수익률, 수십 년 만에 최고 수준으로 상승",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkdyYlhZYUxvYnROTUhNR1ZWS29vdU5xSndJcXFIMDYtUGlKN0VrU3pZUzZua1VjQTVqclk4N2Ewd0REeE1oSnBIYS1DYk43ekYtd2ZXdTQ3aG9HMEtZTnYycmphbmk4c1JncVpfb0hnSzRMMElnM3VvVGlEVXN6VmdPWU5uc2Q2U1BDaGVMSlFkSHBBVXAzQ1lkbFhWMmFkeWRpOExPYWIzcjRlY2lz?oc=5",
+      "summary": "전 세계 채권 수익률이 수십 년 만에 최고치로 치솟았다. 이는 인플레이션 우려와 각국 중앙은행의 긴축 정책 기조에 따른 것이다. 높아진 차입 비용은 기업과 가계에 부담을 주어 경제 성장을 둔화시킬 수 있다.",
+      "pub_date": "2026-09-01T14:39:25+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "포르투갈 해변 마을, 아프리카 음악 축제로 경제 호황",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMTdvLWNKN3FVcHczanFDSExodVdCRTdCUWlwM2xOMkZKcDBUcjAzTXBrRGVHaWh2b01Bck9nakJFUXduNnpCSFl5ZDBtcTVKMGtDVmtnbElNTVVoSEwzR3N0LVREZHNnLV9oUFBuZXdZOHd4eVl3WXBrOA?oc=5",
-      "summary": "포르투갈의 한 해변 마을이 아프리카 음악 축제로 인해 경제적 호황을 누리고 있다.이 축제는 지역 관광 활성화와 일자리 창출에 크게 기여하고 있다.",
-      "pub_date": "2026-08-31T22:30:42+00:00"
+      "title": "인공지능이 모든 일자리를 빼앗지는 않는다. 지역 취미용품점, 차고 밴드, 공예품 가게에 물어보라",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV21kRmpLQ0NYbmdnUDhYdUh0Y1U4cTZKdC1YanA5a0h3VnZzNUtzV3FTUHdhZDJONWd6T1hBdmY5d1ItbnM5UExnMnhuNmlqamRlaS1MbktZQ1U3a1NGUXRoUkg2VzFVV0FNY2N0bkUyUlhjdDZ0cGMzR3VEczY3bXNuNTl4dHNjTkE?oc=5",
+      "summary": "인공지능이 모든 일자리를 대체하지 않을 것이라는 주장이 제기되었다. 특히 지역 상점이나 문화 활동 분야에서는 인간의 창의성과 감성이 여전히 중요함을 강조한다. AI 시대에도 인간 중심의 직업들은 여전히 중요한 역할을 할 것으로 예상된다.",
+      "pub_date": "2026-09-01T09:00:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "CNN 현장 보도: 앤더슨 쿠퍼, 네팔 치명적인 홍수 현장에서 수색 및 구조 활동 취재",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1VyV0gxc2xOWGxBYnpzeWtVeU5ka3Q3OV8zZ1M0dHpEZzF2Y1A1RTBEWHBBTTZyN1pzVGUtdjYyLUZualpwWVdkamswSkFGd19OZE0yUEptc2FycUpBbzVBd3VBV3NfMTQydGp1bVA0T2IwYVhBU1JyeE9ESWNGdzFlS2FNVTJNeUZDUmJDbzliUU5Jc0xIS01RRmFKWlR3S1o0UXFGOWxIZndScWdWQ1ZES1lYZzhpUkJvSGYyTjlwMDBVYWFxNTRjNkpVcGs?oc=5",
-      "summary": "앤더슨 쿠퍼가 네팔의 치명적인 홍수 현장에서 수색 및 구조 노력을 취재하고 있다.대규모 홍수로 인해 수많은 인명 피해와 실종자가 발생했으며, 국제사회의 지원이 절실하다.",
-      "pub_date": "2026-08-31T12:28:49+00:00"
+      "title": "전 뉴욕 민주당 의원 후보, 인공지능에 대해 \"트럼프는 돈을 좇고 있다\"고 언급",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnI0SzgyVVNTMDhiSFgxZTBJWXNBd00tczZlSjhuS1JMR0tKTkNyZkJzVWVlZ0stV2JOQXR5SU1IMl9VZWszZExXRHBLcmY5UFh1YV84dUp1UXNLRTVHbnk0ZXRLX05mdUMza2l6NjRVUjdHd2IxVkJ4elhOcTNPc0hFNXpMV1NpaGN4U01iaFpSX3VnRnR6UHlOTy03aHdoR2lseFlIOVhPU3hfRkZGUG9QY0V5cHM1Y05URg?oc=5",
+      "summary": "전 뉴욕 민주당 의원 후보가 인공지능 분야에서 \"트럼프는 돈을 좇고 있다\"고 비판했다. 그는 트럼프 전 대통령이 AI 기술을 경제적 이득 추구에 활용하려는 움직임을 경계했다. 이는 AI 기술의 정치적, 경제적 활용에 대한 논란을 불러일으킬 수 있다.",
+      "pub_date": "2026-09-01T03:48:27+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "LS전선, 기존 변전소 활용해 인공지능 데이터센터에 전력 공급 추진",
-      "link": "https://zdnet.co.kr/view/?no=20260901082705",
-      "summary": "LS전선이 기존 변전소를 활용하여 AI 데이터센터에 전력을 공급하는 방안을 추진한다.이는 AI 산업의 핵심 인프라인 데이터센터의 전력난 해소에 기여할 것으로 기대된다.",
-      "pub_date": "2026-08-31T23:33:53+00:00"
+      "title": "유럽연합, 챗GPT에 최고 강도 규제 적용…생성형 인공지능 최초 사례",
+      "link": "https://zdnet.co.kr/view/?no=20260901170206",
+      "summary": "유럽연합(EU)이 챗GPT와 같은 생성형 인공지능에 최고 강도의 규제를 적용한다. 이는 AI 기술의 윤리적 문제와 사회적 영향에 대한 유럽의 강력한 대응을 보여준다. 이번 규제는 전 세계 AI 개발 및 활용 방향에 큰 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-09-01T08:57:23+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "급증하는 인공지능 수요에 애플, 맥미니 조기 출시로 초강수 둔다",
-      "link": "https://zdnet.co.kr/view/?no=20260901080629",
-      "summary": "인공지능 수요가 급증하자 애플이 예상보다 일찍 맥미니를 출시하며 적극 대응에 나섰다.이는 AI 기술 경쟁이 심화되는 가운데 애플의 전략적 움직임으로 풀이된다.",
-      "pub_date": "2026-08-31T23:22:39+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "유럽연합, 오픈AI 챗GPT에 디지털서비스법 기반 대규모 규제 적용",
-      "link": "https://www.etnews.com/20260901000014",
-      "summary": "유럽연합(EU)이 오픈AI의 챗GPT에 대해 디지털서비스법(DSA)에 따른 대규모 규제를 적용했다.이는 인공지능 기술의 급격한 발전에 따른 규제 당국의 개입을 알리는 신호탄이다.",
-      "pub_date": "2026-08-31T23:30:22+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "오픈AI 챗GPT, 연간 환산 광고 매출 10억 달러 돌파",
-      "link": "https://www.etnews.com/20260901000010",
-      "summary": "오픈AI의 챗GPT가 연간 환산 광고 매출 10억 달러를 돌파하며 상업적 성공을 입증했다.이는 생성형 AI 모델의 시장성과 수익성을 보여주는 중요한 지표이다.",
-      "pub_date": "2026-08-31T23:19:53+00:00"
+      "title": "가트너, 내년 인공지능 보안 시장 69% 성장 전망…'사용 통제' 분야 73%로 최고치",
+      "link": "https://zdnet.co.kr/view/?no=20260901225713",
+      "summary": "가트너는 내년 인공지능 보안 시장이 69% 성장할 것으로 전망했다. 특히 '사용 통제' 분야가 73% 성장하여 가장 높은 증가율을 보일 것으로 예측된다. AI 기술의 확산에 따라 보안 위협도 증가하면서 관련 시장이 급성장하고 있다.",
+      "pub_date": "2026-09-01T13:57:13+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "삼성전자, HBM4와 2나노 기술로 인공지능 시대 주도권 탈환 노려",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=672249",
-      "summary": "삼성전자가 차세대 고대역폭 메모리 HBM4와 2나노 공정 기술로 AI 시대의 주도권 재확보를 목표로 한다.이는 반도체 산업의 핵심 경쟁력 강화와 미래 기술 선점에 대한 전략적 움직임이다.",
-      "pub_date": "2026-09-01T08:30:00+00:00"
+      "title": "과기정통부, 인공지능에 9조 4천억 원 투입…'3대 강국' 총력전",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=672323",
+      "summary": "과학기술정보통신부가 내년 인공지능 분야에 9조 4천억 원을 투입하며 'AI 3대 강국' 도약을 위한 총력전을 펼친다. 이는 AI 기술 개발 및 인프라 구축에 대한 국가적 의지를 반영한다. 정부의 대규모 투자가 한국의 AI 경쟁력 강화에 기여할지 주목된다.",
+      "pub_date": "2026-09-01T13:58:15+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "LG에너지솔루션, 10년간 미국에서 탄산리튬 8만 톤 확보…북미 LFP 배터리 공급망 강화",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=672322",
-      "summary": "LG에너지솔루션이 미국에서 10년간 8만 톤의 탄산리튬 장기 구매 계약을 체결했다.이는 북미 지역의 LFP 배터리 공급망을 강화하고 전기차 배터리 시장 경쟁력을 높이는 중요한 전략이다.",
-      "pub_date": "2026-09-01T08:52:38+00:00"
+      "title": "삼성, 메모리 한계를 넘어서는 큐브 전략 공개…수직 적층형 '지-에이치비엠' 주목",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=672371",
+      "summary": "삼성전자가 메모리 기술의 한계를 뛰어넘기 위한 '큐브 전략'을 공개했다. 특히 수직 적층형 기술인 '지-에이치비엠(zHBM)'이 큰 주목을 받고 있다. 이는 차세대 고성능 메모리 시장에서 삼성의 기술 리더십을 강화할 것으로 기대된다.",
+      "pub_date": "2026-09-01T15:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "하정우 국가 인공지능 전략위원회 부위원장 취임, 반도체, 피지컬 인공지능, 데이터센터 집중 강조",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/31/YS3G74SR6BDENNT63W3DRXZU7I/",
-      "summary": "하정우 국가 AI 전략위원회 부위원장이 취임하며 반도체, 피지컬 AI, 데이터센터에 집중하겠다고 밝혔다.이는 대한민국 AI 산업의 핵심 동력을 강화하고 미래 경쟁력을 확보하려는 국가적 전략이다.",
-      "pub_date": "2026-08-31T04:45:48+00:00"
+      "title": "유럽연합, 챗GPT를 '초대형 검색 엔진'으로 지정하고 강화된 안전 규제 적용",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/01/TQIBR3PPENAZVN4FQK53QQJZJI/",
+      "summary": "유럽연합(EU)이 챗GPT를 '초대형 검색 엔진'으로 지정하고 강화된 안전 규제를 적용한다. 이는 AI 기술의 잠재적 위험성에 대한 유럽의 신중한 접근을 보여준다. 이번 조치는 AI 서비스 제공업체들에게 더 큰 책임과 투명성을 요구할 것이다.",
+      "pub_date": "2026-09-01T07:32:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "미국에 이어 중국도 인공지능 인프라 투자 가속화…D램 공급 부족으로 삼성과 SK의 가격 협상력 강화 전망",
-      "link": "https://biz.chosun.com/it-science/ict/2026/08/31/JVDXQFPDQJAWZAJQWDNWCTJPCE/",
-      "summary": "미국에 이어 중국도 AI 인프라 투자를 가속화하면서 D램 공급 부족 현상이 심화될 것으로 보인다.이에 따라 삼성전자와 SK하이닉스 등 D램 제조사들의 가격 협상력이 강화될 전망이다.",
-      "pub_date": "2026-08-30T21:00:00+00:00"
+      "title": "TSMC 예약이 꽉 차자 미국 거대 기술 기업들, 개량형 패키징 기술 내세운 인텔에 주목",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/02/RM2RIWTCCJDWFI5DBO4EM63TTE/",
+      "summary": "세계적인 파운드리 기업 TSMC의 생산 예약이 포화 상태에 이르자, 미국 주요 기술 기업들이 인텔의 개량형 패키징 기술에 주목하고 있다. 이는 반도체 공급망 다변화와 첨단 패키징 기술 확보의 중요성을 보여준다. 인텔은 이를 통해 파운드리 시장에서 입지를 확대할 기회를 모색하고 있다.",
+      "pub_date": "2026-09-01T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 소셜 미디어 중독 관련 소송에서 최대 171억 달러 합의금 지불 예정",
+      "title": "메타, 소셜 미디어 중독 관련 소송에서 최대 171억 달러 합의금 지급 예정",
       "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-      "summary": "메타가 소셜 미디어 중독 관련 소송에서 최대 171억 달러의 합의금을 지불하기로 했다.이는 소셜 미디어 기업들의 책임과 규제 방향에 큰 영향을 미칠 중대한 판결이다.",
+      "summary": "메타(Meta)가 소셜 미디어 중독 관련 소송에서 최대 171억 달러(약 23조 원)에 달하는 합의금을 지급하기로 했다. 이는 소셜 미디어 플랫폼의 사회적 책임에 대한 중요한 선례를 남길 것이다. 이번 합의는 사용자들의 정신 건강 보호를 위한 플랫폼의 변화를 요구하고 있다.",
       "pub_date": "2026-08-26T22:49:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "엔비디아, 인공지능 지출 증가에 힘입어 이익 596억 9천만 달러로 두 배 증가",
+      "title": "엔비디아, 인공지능 지출 덕분에 수익 596억 9천만 달러로 두 배 증가",
       "link": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
-      "summary": "엔비디아의 이익이 AI 관련 지출 증가에 힘입어 596억 9천만 달러로 두 배 증가했다.이는 AI 산업의 폭발적인 성장과 그 중심에 있는 엔비디아의 강력한 시장 지위를 보여준다.",
+      "summary": "엔비디아의 수익이 인공지능 관련 지출 증가에 힘입어 596억 9천만 달러로 두 배 가까이 급증했다. 이는 AI 기술 개발 및 인프라 구축에 대한 전 세계적인 투자가 활발함을 보여준다. 엔비디아는 AI 칩 시장에서 독보적인 지위를 더욱 공고히 하고 있다.",
       "pub_date": "2026-08-27T01:05:58+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "메타, 플랫폼이 아동에게 해를 끼쳤다는 주장에 최대 180억 달러 합의금 지불 예정",
+      "title": "메타, 자사 플랫폼이 아동에게 해를 끼쳤다는 주장에 대해 최대 180억 달러 합의금 지급 예정",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "메타가 자사 플랫폼이 아동에게 유해했다는 주장에 대해 최대 180억 달러를 지불하며 합의에 이르렀다.이는 소셜 미디어 기업의 사회적 책임과 아동 보호에 대한 경각심을 높이는 사건이다.",
+      "summary": "메타(Meta)가 자사 소셜 미디어 플랫폼이 아동에게 해를 끼쳤다는 주장에 대해 최대 180억 달러의 합의금을 지불하기로 했다. 이는 플랫폼의 아동 보호 책임에 대한 중요한 결정으로 평가된다. 이번 합의는 소셜 미디어 업계 전반에 걸쳐 아동 보호 정책 강화로 이어질 것으로 보인다.",
       "pub_date": "2026-08-26T21:27:23+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "엔비디아, 인공지능 수요 지속에 힘입어 매출 두 배 증가",
+      "title": "엔비디아 매출, 지속적인 인공지능 수요에 힘입어 두 배 증가",
       "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "엔비디아의 매출이 인공지능(AI) 수요 증가에 힘입어 두 배로 늘어났다.이는 AI 기술 발전이 반도체 산업에 미치는 막대한 영향력을 보여주며, 엔비디아의 시장 지배력을 강화한다.",
+      "summary": "엔비디아의 매출이 인공지능(AI)에 대한 지속적인 수요 증가 덕분에 두 배로 늘어났다. 이는 AI 기술 개발 및 활용이 전 산업 분야에서 활발히 이루어지고 있음을 방증한다. 엔비디아는 AI 칩 시장에서의 선도적 위치를 더욱 확고히 다지고 있다.",
       "pub_date": "2026-08-26T21:49:26+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "인공지능 규제를 위한 치열한 움직임 내부 들여다보기",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkNDWV9QVmdSNDRrOWlxbHhvNEtmRnB1YXRKZzRMZWFUV05aczdiRlVOMXBoYlJmMnNtcTg1d19uT05SaXJxUXQwY09JWEhMQ1RRWW84T0d6eVFvbUk1OTJXOGltWWtxV3FXd2tpZlpYQXJSSUhZZ0pkWjNjRG5wZHdQQ1lhR2ZIcGxGNmN0NXp5UkR1OW8ySUt6dlgzUllsQU5Qa01GNXBlbG9iT1JNLWV1bTd0Zw?oc=5",
-      "summary": "전 세계적으로 인공지능 기술에 대한 규제 방안을 마련하려는 움직임이 치열하다.각국 정부와 전문가들은 AI의 윤리적, 사회적 파급력을 고려한 법적 프레임워크 구축에 고심하고 있다.",
-      "pub_date": "2026-08-31T15:47:26+00:00"
+      "title": "진흙 속 기적: 네팔-중국 홍수 재난 현장에서 생존자 계속 발견",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUFphQ29xcWpqa0UtbDFzOFdPZkg2U3YwcFlNOW4tYm1YNUdYbU1sVjVZbkZWYnlGVGVZdkEzWUowcjhoaTlWaGc1eVdWTmM4MkRpeGlLZ2s1R0FqLXpSZEVYSWdoMFB2dmpFaWpJbkVzSEh0MXNEcWhsZk5LMVRlMmNhT0lPUnNUSTZqMzF1R2d5TjYzU0Z6ZTZWeDVmVXBfUndzYVhNanpfMGh0NzdYZGxoT1czU2drRjd2OUM5OHBDV2pjNnVyVzlB?oc=5",
+      "summary": "네팔-중국 국경 지역의 대규모 홍수 재난 현장에서 진흙 속에서 생존자들이 기적적으로 계속 발견되고 있다. 구조대원들은 어려운 여건 속에서도 생존자를 찾기 위한 노력을 멈추지 않고 있다. 이번 재난의 피해 규모가 심각하여 국제사회의 도움이 절실하다.",
+      "pub_date": "2026-09-01T12:10:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "팀 쿡이 어떻게 애플을 세계에서 가장 가치 있는 기업 중 하나로 만들었는가",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9haDVHaTlTWWhxd3doamFKR1FJSUtUeXJsWlRiWl9ubGtlcVdLTmFpM3VfSXVySmNnQWQ5TkVmdFNJdkJ6SkF3ZzlDUEdtRkxEOTZHZ2VvV1hFdUZKaXNWSk55OVJtZ0xvRkNmT0R3?oc=5",
-      "summary": "팀 쿡 최고경영자(CEO)가 스티브 잡스 사후 애플을 세계 최고 가치의 기업으로 성장시킨 비결을 조명한다.그의 리더십과 전략은 애플의 혁신을 이끌었으며, 비즈니스 세계에 큰 영향을 미쳤다.",
-      "pub_date": "2026-08-31T09:00:29+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "포르투갈 해변 마을에 아프리카 음악 축제가 경제적 번영을 가져오다",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMTdvLWNKN3FVcHczanFDSExodVdCRTdCUWlwM2xOMkZKcDBUcjAzTXBrRGVHaWh2b01Bck9nakJFUXduNnpCSFl5ZDBtcTVKMGtDVmtnbElNTVVoSEwzR3N0LVREZHNnLV9oUFBuZXdZOHd4eVl3WXBrOA?oc=5",
-      "summary": "포르투갈의 한 해변 마을에서 열린 아프리카 음악 축제가 지역 경제에 큰 활력을 불어넣었다.이 축제는 관광객 유치와 지역 상권 활성화에 기여하며 경제적 번영을 이끌었다.",
-      "pub_date": "2026-08-31T22:30:42+00:00"
+      "title": "트럼프 행정부, 댄 드리스콜 미 육군 장관 사임으로 또 다른 고위직 퇴진 직면",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUXZGbkZHb184TGhmRDM3R3QwV1R2ZVR1NTRsSk9zLThlTGhoY0pLd1ZwaF9wWm4zTm0zZ2ljcmlKZ2tlX1QwZjMyOUZrejQwQVdqTUgxaUhrcXJVaWNVVmR2eXcxX1EwVzFSRUI1Ukw1cjVYWmpTUlUyWFpXNXlZLVhyYjl0Q3EwSkowQU1YM2kyMy1YSzhJdENFRTFQRkhpZDhTY1lPWHdnTFpKcnRSRW9RNEN5S0c3UzI2V1JJZE1sckVMdll2YkRmZ9IBywFBVV95cUxNUXZGbkZHb184TGhmRDM3R3QwV1R2ZVR1NTRsSk9zLThlTGhoY0pLd1ZwaF9wWm4zTm0zZ2ljcmlKZ2tlX1QwZjMyOUZrejQwQVdqTUgxaUhrcXJVaWNVVmR2eXcxX1EwVzFSRUI1Ukw1cjVYWmpTUlUyWFpXNXlZLVhyYjl0Q3EwSkowQU1YM2kyMy1YSzhJdENFRTFQRkhpZDhTY1lPWHdnTFpKcnRSRW9RNEN5S0c3UzI2V1JJZE1sckVMdll2YkRmZw?oc=5",
+      "summary": "트럼프 행정부가 댄 드리스콜 미 육군 장관의 사임으로 또다시 고위직 퇴진을 맞았다. 이는 트럼프 행정부 내부의 갈등과 불안정성을 시사한다. 그의 사임은 국방 정책 및 군 조직 운영에 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-09-01T02:15:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "러시아 드론의 끊임없는 공격, 키이우 전쟁의 위험한 새 국면을 열다",
-      "link": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-      "summary": "러시아 드론의 끊임없는 공격이 키이우 전쟁의 새로운 위험한 국면을 초래하고 있다.민간인 피해가 우려되는 가운데, 우크라이나 방어 시스템에 대한 압박이 가중되고 있다.",
-      "pub_date": "2026-08-31T15:42:20+00:00"
+      "title": "중국, 네팔과 대조적으로 티베트 홍수 관련 서사 통제 및 처벌",
+      "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
+      "summary": "중국이 티베트 지역 홍수 피해에 대한 여론을 통제하고 관련 정보를 검열하며 처벌하고 있다. 이는 투명하게 피해 상황을 공개하는 네팔과는 대조적인 모습이다. 중국 정부는 자국 내에서 정보 흐름을 엄격히 관리하며 부정적 여론 확산을 차단하고 있다.",
+      "pub_date": "2026-09-01T21:10:03+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "미국과 이란, 한 달간의 정적 끝에 밤사이 공격 교환",
-      "link": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html",
-      "summary": "미국과 이란이 한 달여간의 평온을 깨고 밤사이 상호 공격을 교환했다.이는 중동 지역의 긴장감을 다시 고조시키며, 국제 사회의 우려를 자아내고 있다.",
-      "pub_date": "2026-08-31T12:20:48+00:00"
+      "title": "드론 공격 실패 몇 주 후, 독일이 러시아를 지목하다",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+      "summary": "독일이 실패한 드론 공격 사건 발생 몇 주 만에 러시아를 배후로 지목했다. 이는 양국 간 외교적 긴장을 더욱 고조시킬 것으로 예상된다. 독일 당국은 러시아의 개입 증거를 확보하고 추가적인 대응을 고려하고 있다.",
+      "pub_date": "2026-09-01T18:22:25+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "네팔, 홍수로 수천 명 실종 상태에서 대규모 매장 시작",
-      "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
-      "summary": "네팔이 대규모 홍수로 수천 명이 실종된 가운데 대규모 매장을 시작했다.이는 재난의 심각성을 보여주며, 국제적인 인도주의적 지원이 시급함을 나타낸다.",
-      "pub_date": "2026-08-31T08:39:59+00:00"
+      "title": "이스라엘 가자 지구 공습으로 4명 사망, 팔레스타인 관리들 발표",
+      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "summary": "이스라엘의 가자 지구 공습으로 팔레스타인인 4명이 사망했다고 팔레스타인 관리들이 밝혔다. 이번 공습은 중동 지역의 긴장을 다시금 격화시키고 있다. 국제사회는 이스라엘과 팔레스타인 간의 무력 충돌 확산에 대한 우려를 표명하고 있다.",
+      "pub_date": "2026-09-01T19:26:59+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "수백 명 태운 페리, 키프로스 해안에서 전복",
-      "link": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
-      "summary": "수백 명의 승객을 태운 페리가 키프로스 해안에서 전복되는 참사가 발생했다.사고 원인에 대한 조사가 진행 중이며, 대규모 인명 피해가 우려되고 있다.",
-      "pub_date": "2026-08-30T21:10:21+00:00"
+      "title": "이 우크라이나 어린이들은 지하에서 학교에 다닌다. 그들은 운이 좋은 편이다",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
+      "summary": "우크라이나의 전쟁으로 인해 많은 어린이들이 안전을 위해 지하에서 학교 생활을 하고 있다. 이런 환경에서도 교육을 받을 수 있는 아이들은 그나마 운이 좋은 사례로 여겨진다. 전쟁이 장기화되면서 우크라이나 어린이들의 교육 환경은 심각한 위협에 처해 있다.",
+      "pub_date": "2026-09-01T17:11:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "한국 통일교 지도자, 부패 혐의로 징역 2년 선고받아",
-      "link": "https://www.nytimes.com/2026/08/31/world/asia/south-korea-unification-church-leader-prison.html",
-      "summary": "한국 통일교의 지도자가 부패 혐의로 징역 2년을 선고받았다.이 판결은 종교계에 큰 파장을 일으키며, 법의 공정성에 대한 논의를 촉발하고 있다.",
-      "pub_date": "2026-08-31T11:29:58+00:00"
+      "title": "리오넬 메시의 축구 은퇴 선언, 아르헨티나 전역에 비통함 불러일으켜",
+      "link": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html",
+      "summary": "축구 스타 리오넬 메시의 은퇴 선언이 아르헨티나 전역에 큰 비통함을 안겨주었다. 수많은 팬들은 그의 결정을 아쉬워하며 마지막 경기를 지켜보았다. 메시는 축구 역사상 가장 위대한 선수 중 한 명으로 기억될 것이다.",
+      "pub_date": "2026-09-01T09:12:27+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "네팔 구조대, 수력 발전소 근로자 수색 위해 산비탈 폭파…가족들 애타게 기다려",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "summary": "네팔에서 수력 발전소 근로자를 찾기 위해 구조대가 산비탈을 폭파하며 수색 작업을 벌이고 있다.대규모 홍수로 인한 실종자 수색이 난항을 겪는 가운데, 가족들은 애타는 마음으로 소식을 기다리고 있다.",
-      "pub_date": "2026-08-31T17:30:47+00:00"
+      "title": "독일, 라이프치히 공항 드론 공격 배후로 러시아 지목",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "독일 정부가 라이프치히 공항 드론 공격의 배후로 러시아를 지목했다. 이는 독일과 러시아 간의 외교적 긴장을 최고조로 끌어올리고 있다. 독일 당국은 이번 사건에 대한 철저한 조사를 통해 추가적인 대응 방안을 강구할 예정이다.",
+      "pub_date": "2026-09-01T21:05:22+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "'내 손에서 미끄러졌다'…북키프로스 해안 페리 침몰 후 어린이 실종",
-      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "북키프로스 해안에서 페리가 침몰한 뒤 여러 어린이가 실종되었다.한 부모는 아이가 손에서 미끄러졌다고 증언하며, 이 비극적인 사고는 큰 슬픔을 안겨주고 있다.",
-      "pub_date": "2026-08-31T14:50:36+00:00"
+      "title": "미국, 이란 공격 감행…국영 언론은 결혼식에서 4명 사망 보도",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "미국이 이란을 공격했으며, 이란 국영 언론은 이 공격으로 결혼식장에서 4명이 사망했다고 보도했다. 이번 미국의 공습은 중동 지역의 안보 상황을 더욱 불안정하게 만들고 있다. 양국 간의 군사적 대치가 격화될 조짐을 보여 국제사회의 우려가 깊어지고 있다.",
+      "pub_date": "2026-09-01T21:48:28+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국과 이란, 수 주 만에 처음으로 공방전 벌여",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "summary": "미국과 이란이 수 주간의 정적을 깨고 처음으로 서로 공격을 주고받았다.이는 중동 지역의 불안정성을 다시 부각시키며, 국제적인 긴장을 고조시키는 요인이 되고 있다.",
-      "pub_date": "2026-08-31T13:47:30+00:00"
+      "title": "강물이 터널을 강타하고 20분간 자신을 쫓아왔다고 네팔 노동자가 BBC에 진술",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "summary": "네팔의 한 노동자가 BBC에 강물이 터널을 강타하고 20분 동안 자신을 쫓아왔던 끔찍한 경험을 증언했다. 최근 네팔 지역을 강타한 홍수로 인해 많은 인명 피해와 재산 손실이 발생했다. 이번 증언은 홍수 피해의 심각성을 생생하게 보여준다.",
+      "pub_date": "2026-09-01T16:11:18+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "메시, '더 이상 줄 것이 없다'며 국가대표 은퇴 선언",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
-      "summary": "축구 스타 리오넬 메시가 '더 이상 줄 것이 없다'며 국가대표팀에서 은퇴를 선언했다.이는 전 세계 축구 팬들에게 큰 충격을 안겨주었으며, 그의 위대한 경력에 대한 회고를 불러일으키고 있다.",
-      "pub_date": "2026-08-31T15:18:39+00:00"
+      "title": "이스라엘, 가자 공습 중 하마스 안보국장 체포 및 4명 사살 발표",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "summary": "이스라엘이 가자 지구 공습 작전 중 하마스 안보국장을 체포하고 4명을 사살했다고 발표했다. 이번 군사 작전은 이스라엘과 팔레스타인 간의 무력 충돌을 심화시키고 있다. 중동 지역의 정세가 더욱 불안정해질 가능성이 커지고 있다.",
+      "pub_date": "2026-09-01T20:24:28+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "통일교 지도자, 뇌물죄로 2년 징역형 선고",
-      "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
-      "summary": "통일교 지도자가 뇌물죄 혐의로 징역 2년을 선고받았다.이번 판결은 종교 단체의 투명성과 윤리적 책임에 대한 중요성을 다시 한번 강조하는 계기가 되었다.",
-      "pub_date": "2026-08-31T06:56:40+00:00"
+      "title": "전 갱단 두목, 1996년 래퍼 투팍 샤커 살인 사건의 배후 조종 혐의로 유죄 판결",
+      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "전 갱단 두목이 1996년 래퍼 투팍 샤커 살인 사건의 배후를 조종한 혐의로 유죄 판결을 받았다. 이 사건은 수십 년간 미스터리로 남아있던 힙합계의 큰 비극이었다. 이번 판결로 오랜 시간 해결되지 않았던 사건의 진실이 밝혀지게 되었다.",
+      "pub_date": "2026-09-01T18:26:12+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "CNN 앤더슨 쿠퍼, 네팔 수력발전 터널 구조 현장 보도",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oNlN4d3ZOdGdta0JOelU1RUdtS21GcHdMNEUtU2J3RG9SSHM1LTkyOWh2WVJ1dzZHekZiNXhYNEhOOGtSaWdyU2dnTF8wVVd5MzBmZS1zREtSbHd1SnJaZ0ZjdU1EaGZXVXN5QzFjb3k2cUdWdVpPLUR5XzU?oc=5",
-      "summary": "CNN의 앤더슨 쿠퍼가 네팔 수력발전 터널의 구조 현장에서 직접 보도했다.대규모 홍수로 인해 갇힌 사람들을 구하기 위한 필사적인 노력이 계속되고 있다.",
-      "pub_date": "2026-08-31T12:29:08+00:00"
+      "title": "CNN, 17명의 가족을 잃은 네팔 소녀와 대화",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExqck05RlZLY25NQ1FvMUdkTFl2aE1JbFlIN19PUnAyLWxiRmU3OExIZlNXbzZpQ1BBU3VZMkliSHdhWUw1RDB4V2pBLWJ5ZzBWTnBodXhfYWV4VHpwVndaV196Q25qMTFIYnlXaXd2N2dLM0VNS05tMTFuYVUteFktYU1iclN5NllPcDlTSQ?oc=5",
+      "summary": "CNN이 최근 홍수 재난으로 17명의 가족을 잃은 네팔 소녀와 인터뷰했다. 소녀는 참혹한 피해 상황과 개인적인 비극을 생생하게 증언했다. 이 비극적인 이야기는 네팔 홍수 피해의 심각성을 국제사회에 알리고 있다.",
+      "pub_date": "2026-09-01T20:54:29+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "'딸 얼굴은 멍투성이였고 거의 알아볼 수 없었다'…홍수에 휩쓸린 딸을 찾은 아버지의 증언",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUhmLWNrVlRzN1BFLVNVcmRLcEZxQXVEeDNLUGt3LXg0NVlTbTZuU2djZDBjV2ZFbV9VdFN4MGcxa0JLcWtBRXFXZGJsX3F1QWgwck9raFp6V0V1eEtEUDBFRmxwOWM4TWlyR1dHV1BuX1BIRFdwSkxhSnVTb3ZZeFJFME9VNkhxUnI4LVdB?oc=5",
-      "summary": "한 아버지가 홍수에 휩쓸려간 딸을 찾았을 때, 딸의 얼굴은 멍으로 가득해 알아볼 수 없었다고 증언했다.이 비극적인 이야기는 네팔 홍수의 참혹한 현실을 보여준다.",
-      "pub_date": "2026-08-31T13:20:59+00:00"
+      "title": "홍수 피해를 입은 네팔에 구호품 전달을 위한 전 세계적인 노력 진행 중",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmZCTDBNck5pWHZXeS15QTVmRXM3b3BPZEVCMnF3aF9DZkpPWmFUc1kxNzZHZGxTMkdrcndzd1FQZzVTbERqWXY4LURxcGN3RVBRYjJzYlFiVlZGZmlhWVo2S3ZnV3Y1a1NSN1NFSGt2M1lMU2pqdW90ZEtMUDZaSkt0a0o2NTFSRVA0cjNkbw?oc=5",
+      "summary": "홍수로 큰 피해를 입은 네팔에 구호품을 전달하기 위한 전 세계적인 노력이 활발하게 진행되고 있다. 각국 정부와 국제 구호단체들이 식량, 의약품 등 긴급 지원에 나섰다. 네팔은 복구와 재건을 위해 장기적인 국제적 지원이 절실한 상황이다.",
+      "pub_date": "2026-09-01T13:31:58+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "리오넬 메시, 아르헨티나 국가대표팀 은퇴 발표",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3IyejdfWlliUGJkWk5Bc3I2akJrYUJ1Wkduc3VtZ1J4RE9YZWZTUlhEZEYxSl8zVW1yY1ZXUi1OZ3B0NzhaTWtqVERSWTJpVDhiU1FwRzJvNTRnOEF0aXBsWDdxOTRzMzFJMTd1RV9Ld29GMXVpRFFwUmRsV0ZaV05Fb3RHcUJRUXBjblNDQTdaVUlqM2JxVEVMbw?oc=5",
-      "summary": "세계적인 축구 스타 리오넬 메시가 아르헨티나 국가대표팀 은퇴를 발표했다.그의 결정은 전 세계 축구 팬들에게 큰 충격을 주었으며, 한 시대의 끝을 알리는 상징이 되고 있다.",
-      "pub_date": "2026-08-31T16:09:06+00:00"
+      "title": "중국 주도 상하이협력기구 정상회의, 세계 권력의 변화를 보여주다",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU25ROUJpVFl2ZHpDOFJHM09BZTdyZl81TjlReDZpVUdGMHR4bTVDNjBPYk45OGJIejVZV0g2cXl4MkQ0UXBwYU1haUI1Z05qWEZJb05UZGxPOUpDT0JJcWlCOUN6dGdhZXBQRHJVUmp3WXB1V3VQV21HRkZTWmpBZVo3T3RKMkJ1UGF3amcydk84VExhRzZyaTlXRVlwak83cHh1REZnc2ZQZFd3RUhMZUVDczNmakd0bTh6YWVjUVNzREJKX09BWDdHLXpNWlVVSFZXU2xTWUpWSVJfZThv?oc=5",
+      "summary": "중국이 주도하는 상하이협력기구(SCO) 정상회의가 열려 세계 권력의 변화를 명확히 보여주었다. 서방 국가들에 대한 대항마로서 SCO의 영향력이 커지고 있음을 시사한다. 이 회의는 국제 질서 재편의 중요한 신호탄으로 평가된다.",
+      "pub_date": "2026-09-01T16:46:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "대법원, 트럼프의 백악관 연회장 건설 지속 허용",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3JaRnJJRDJlVk5wN0VodFJFTWFOZDM0UnZMbXZNYS02bUM3VnBiQTBudmxRSVlLWVlXRDlsTTVxZWhEYjNNZ3FsTVI1ODlEUGZpRFhjSjV5cWVtYURQMlVWOE8xbmVPMDZGYnFkQzJfRlF6R2VKYUxfX0FaZkZLRmpQcHJqeVJ6c2c2eQ?oc=5",
-      "summary": "미국 대법원이 트럼프 전 대통령의 백악관 연회장 건설 프로젝트를 계속할 수 있도록 판결했다.이는 전 대통령과 관련된 법적 분쟁의 하나가 마무리되었음을 의미한다.",
-      "pub_date": "2026-08-31T20:28:57+00:00"
+      "title": "육군 장관, 전쟁 중에 사임…상원 인준받은 육군 지도부 공백 상태",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ20xc21KcFNhczNzTVo2dGl3cVZiQ1BReWpFblk5SndiTmpka2Rydkd0V244RUxEemt3dXcwdlJPOEtaa2VXaW9zbVVCcUlCWng0VHdQRm5pUkRCQVpPZjltcjdSbnd1N21teWhJdWFyNVpPMmp1U0V1a2NUR2plS1gwaFIxbXNDcjJBdA?oc=5",
+      "summary": "미 육군 장관이 전쟁이 진행 중인 상황에서 사임했다. 이로 인해 상원 인준을 받은 육군 지도부가 공백 상태에 놓이게 되었다. 군 지도부의 부재는 현재 진행 중인 군사 작전과 국방 정책에 차질을 줄 수 있다.",
+      "pub_date": "2026-09-01T00:06:02+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "앤더슨 쿠퍼, 네팔 홍수 피해 현장 직접 걸으며 참상 보도",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVllzTi1sYUptRG1XVWQ5OUR5M3FXUE9oLVphOWZzOXR3WTVCVUZMeXhVNGtxQk9VOS14RW5POGhPY3NVY2RpYVJTNDByd3JTS0daVFlmeTFDMWViUDZCelp6WEplbXBKdmRuS0puLWtkckZaSjRuRlRoWFlrOXF1VXBiblhfNFJ4a2VuRk1oQUVhQmRqU1NOOUtJeEU0OXA4ZWc?oc=5",
-      "summary": "앤더슨 쿠퍼가 네팔의 홍수 피해 현장을 직접 걸으며 참혹한 상황을 생생하게 전달했다.광범위한 파괴와 인도주의적 위기가 심화되고 있으며, 긴급한 국제적 지원이 요구된다.",
-      "pub_date": "2026-08-31T18:27:00+00:00"
+      "title": "뉴욕 타임스퀘어에서 칼을 든 여성이 1명을 살해하고 1명을 부상시킨 후 경찰에 사살, 시장 발표",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0dpMjhyWkRaVEZQNG5peE4xeU1wSklCYVpRd0tUVUl6WThObFVZakh4S2dzSHBaVk9LUkhxWkVhZUUxeGE0c3RJRktBalU4Z3BDTHhsanhDQXJBLUlrSUMxa25tMnE3LW5QU21meldjSDRVeFV4T1ZIek5jMUpac1NTNm5tSzVuWjltNkZpOUFzN1FFb1g0QUotT0pKNUdXYnY0aEozbmI1MGM4WTEwT1hSUnU1WmlHNVRWTVExT3hGR2dSamppYy1nY0QzSG53Y0ZxYmpFcmNXQnJzUWNDU3l3?oc=5",
+      "summary": "뉴욕 타임스퀘어에서 한 여성이 칼을 휘둘러 1명을 살해하고 1명에게 부상을 입혔으며, 이후 경찰의 총격으로 사망했다고 시장이 발표했다. 이 사건은 뉴욕 시민들에게 큰 충격을 안겨주었다. 당국은 추가 피해 방지 및 치안 강화를 위해 노력하고 있다.",
+      "pub_date": "2026-09-01T04:42:31+00:00"
     }
   ]
 }
