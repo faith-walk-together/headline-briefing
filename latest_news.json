@@ -1,421 +1,405 @@
 {
-  "last_updated": "2026-09-10T23:00:10.130029+00:00",
+  "last_updated": "2026-09-11T22:58:42.687728+00:00",
   "articles": [
     {
       "category": "정치",
-      "outlet": "SBS",
-      "title": "복지부, 승인 두 달 만에 \"미흡\" 판단하며 320억 원 지원 거부",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747638&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "보건복지부가 승인했던 사업에 대해 두 달 만에 \"미흡하다\"는 평가를 내렸다. 이에 따라 320억 원에 달하는 지원금 지급을 최종 거부했다. 이번 결정으로 해당 사업의 향방에 대한 논란이 커지고 있다.",
-      "pub_date": "2026-09-10T14:07:00+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "SBS",
-      "title": "한동훈, 총리실 '사찰' 의혹 제기...한성숙 총리 \"과한 발언, 부적절 시 엄정 조치\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747951&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "한동훈 의원이 총리실의 사찰 의혹을 제기하며 강하게 비판했다. 이에 한성숙 총리는 \"과한 말씀\"이라 일축하며, 부적절한 행위가 있었다면 엄정히 처리하겠다고 밝혔다. 양측의 공방이 격화되며 정치권의 이목이 집중되고 있다.",
-      "pub_date": "2026-09-10T20:09:00+00:00"
+      "outlet": "NYT",
+      "title": "트럼프, 9/11 기념 연설에서 이란 전쟁을 옹호한 듯",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
+      "summary": "트럼프 전 대통령이 9/11 기념 연설 중 이란 전쟁을 옹호하는 듯한 발언을 했습니다. 이 발언은 9/11 테러 이후 미국의 대응과 이란 정책에 대한 논란을 재점화시켰습니다. 정치권에서는 그의 발언 의도와 파장에 대한 해석이 분분합니다.",
+      "pub_date": "2026-09-11T20:09:11+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 공화당 중간선거 승리 시 5,000달러 '트럼프 배당금' 지급 제안",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-      "summary": "도널드 트럼프 전 대통령이 공화당이 중간선거에서 승리할 경우 모든 미국인에게 5,000달러의 '트럼프 배당금'을 지급하겠다고 발표했다. 이는 유권자의 표심을 공략하기 위한 파격적인 경제 공약으로 분석된다. 그러나 막대한 재정 소요와 실현 가능성에 대한 논란이 일고 있다.",
-      "pub_date": "2026-09-10T16:04:45+00:00"
+      "title": "인공지능에 대한 강력한 경고가 중간선거에 영향을 미칠까?",
+      "link": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
+      "summary": "인공지능(AI)의 위험성에 대한 강도 높은 경고가 중간선거의 주요 쟁점으로 떠오르고 있습니다. AI 기술의 규제와 미래 영향에 대한 유권자들의 관심이 증폭되면서, 각 후보들은 이에 대한 입장을 표명하고 있습니다. 전문가들은 AI 관련 논의가 선거 결과에 예상치 못한 변수가 될 수 있다고 분석합니다.",
+      "pub_date": "2026-09-11T22:21:17+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "공화당 중간선거 전당대회 현장, '트럼프의 축제'로 변모",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
-      "summary": "공화당 중간선거 전당대회가 '트럼프의 축제'로 불릴 만큼 도널드 트럼프 전 대통령 중심의 행사로 치러졌다. 전당대회는 다가오는 중간선거를 앞두고 공화당 지지층을 결집하고 후보들에게 힘을 실어주기 위해 마련되었다. 이번 전당대회를 통해 공화당의 향후 선거 전략과 트럼프 전 대통령의 영향력을 엿볼 수 있었다.",
-      "pub_date": "2026-09-10T21:41:06+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "NYT",
-      "title": "대법원, 공화당이 지지하는 미주리주 선거구 지도 재차 불허",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
-      "summary": "미국 연방대법원이 공화당이 지지하는 미주리주의 새로운 선거구 지도 사용을 다시 한번 막았다. 이 결정은 선거구 게리맨더링에 대한 법원의 입장을 재확인하는 것으로 풀이된다. 미주리주의 선거구 문제는 올해 중간선거에도 영향을 미칠 중요한 정치적 쟁점이다.",
-      "pub_date": "2026-09-10T17:57:02+00:00"
+      "title": "트럼프, 우편 서비스를 이용해 선거에 개입하는 방법",
+      "link": "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html",
+      "summary": "트럼프 전 대통령이 우편 서비스를 활용하여 선거에 개입하려 한다는 의혹이 제기되었습니다. 특정 우편물 발송과 배송 시스템 변경을 통해 선거 결과에 영향을 미치려 한다는 내용입니다. 이에 대한 민주당의 비판과 함께 선거 공정성 논란이 가열되고 있습니다.",
+      "pub_date": "2026-09-11T15:08:32+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "총리실, 한동훈 '사찰' 주장에 \"우연한 즉흥 질의\" 반박하며 \"엄중 경고\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260910224656tj0",
-      "summary": "총리실이 한동훈 의원의 '사찰' 주장에 대해 \"우연한 즉흥적 질의였다\"고 반박했다. 또한, 한 의원의 발언이 부적절하다며 \"엄중히 경고한다\"고 덧붙였다. 이번 총리실의 공식 입장은 정치권의 공방을 더욱 가열시킬 전망이다.",
-      "pub_date": "2026-09-10T13:46:56+00:00"
+      "title": "합동참모본부 \"북한, 동해상으로 미상 발사체 발사\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260912053708hyL",
+      "summary": "합동참모본부는 북한이 동해상으로 미상의 발사체를 발사했다고 발표했습니다. 이번 발사체는 한미 정보당국이 분석 중이며, 한반도 긴장 완화 노력에 찬물을 끼얹는 행위로 평가됩니다. 정부는 북한의 추가 도발 가능성을 주시하며 대비 태세를 강화하고 있습니다.",
+      "pub_date": "2026-09-11T20:37:09+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 공소청 직제안 수정 지시...검찰 정원 및 명칭 개편 착수",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260911003825VQ9",
-      "summary": "이 대통령이 공소청 직제안에 대한 수정을 지시하며 검찰의 정원 및 명칭 변경 작업에 들어갔다. 이는 사법 시스템 개혁의 일환으로, 검찰의 역할과 기능에 상당한 변화를 가져올 것으로 보인다. 향후 법무부와 검찰의 대응에 귀추가 주목된다.",
-      "pub_date": "2026-09-10T15:38:27+00:00"
+      "title": "[투나잇이슈] 한동훈, '총리실 사찰' 주장…국민의힘 공동 대응 모색 중",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260911231058XtP",
+      "summary": "한동훈 전 장관이 총리실의 자신에 대한 '사찰 의혹'을 제기하며 파장이 커지고 있습니다. 국민의힘은 이를 중대한 문제로 보고 공동 대응 방안을 논의 중이며, 진상 규명을 촉구하고 있습니다. 총리실은 사찰이 아니라고 부인하며 양측의 공방이 격화되고 있습니다.",
+      "pub_date": "2026-09-11T14:10:59+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "나이젤 패라지, BBC에 \"해외 기부자 비밀 녹화 대화 내용 듣지 않았다\" 주장",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국의 주요 정치인 나이젤 패라지가 BBC와의 인터뷰에서 해외 기부자 관련 비밀 녹화 대화에 대해 \"듣지 못했다\"고 해명했다. 이는 개혁당(Reform UK)을 둘러싼 불법 기부금 의혹과 관련된 것으로, 정치권에 큰 파장을 일으키고 있다. 당국의 추가 조사 여부에 관심이 쏠리고 있다.",
-      "pub_date": "2026-09-06T09:18:37+00:00"
+      "title": "국회의원들, 조력 사망 합법화 새 시도에 반대 투표",
+      "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 국회의원들이 조력 사망 합법화를 위한 새로운 시도에 반대표를 던졌습니다. 이 법안은 윤리적, 종교적 논쟁 속에서 꾸준히 논의되어 왔으나, 이번에도 입법에 실패했습니다. 해당 결과는 환자의 자기 결정권과 생명 윤리 사이의 복잡한 사회적 합의 부재를 보여줍니다.",
+      "pub_date": "2026-09-11T17:22:39+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "경찰, 영국 개혁당의 기부금에 대한 형사 수사 착수",
-      "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 경찰이 개혁당(Reform UK)의 기부금 출처 및 투명성 문제와 관련하여 형사 수사를 시작했다. 이는 최근 불거진 당의 자금 조달 방식에 대한 의혹을 공식적으로 조사하는 단계로 접어든 것이다. 이번 수사 결과가 다가오는 선거에 미칠 영향에 이목이 집중되고 있다.",
-      "pub_date": "2026-09-09T20:22:00+00:00"
+      "title": "영국 정부, 위험한 인공지능에 대한 '킬 스위치' 아이디어 거부",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부가 잠재적으로 위험한 인공지능(AI) 시스템에 대한 '킬 스위치' 도입 아이디어를 거부했습니다. 정부는 AI 기술의 혁신을 저해할 수 있으며, 현실적인 구현의 어려움을 이유로 들었습니다. 이 결정은 AI 안전 규제에 대한 국제적 논의에 영향을 미 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-09-11T15:07:07+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "미국 싱크탱크 \"한미동맹, 미국에 이익 적어 관계 종료 고려해야\" 주장",
-      "link": "https://www.chosun.com/international/us/2026/09/11/O2GEKKH6OFHL7O4MPAKKDK5S5A/",
-      "summary": "미국의 한 유력 싱크탱크가 \"한미동맹이 미국에 가장 적은 이익을 준다\"며 동맹 관계 종료를 고려해야 한다는 충격적인 보고서를 발표했다. 이 보고서는 오랜 기간 굳건했던 한미동맹의 근간을 흔들 수 있는 내용이어서 큰 파장이 예상된다. 한국 정부는 이에 대한 공식 입장을 검토 중이다.",
-      "pub_date": "2026-09-10T20:57:56+00:00"
+      "title": "합동참모본부 “북한, 동해상으로 미상 발사체 발사”",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/12/GYQ6NXFNZJCKXHWHCRVAE6ICQ4/",
+      "summary": "합동참모본부는 북한이 동해상으로 미상의 발사체를 발사했다고 발표했습니다. 군 당국은 발사체의 종류와 비행 거리 등 제원을 분석 중이며, 주변국과 함께 상황을 예의주시하고 있습니다. 이번 발사는 한반도의 군사적 긴장을 다시 높이는 행위로 해석됩니다.",
+      "pub_date": "2026-09-11T20:38:02+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 공화당 의회 장악 시 국민에게 배당금 지급 약속 발표",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ3AxekJSemEzVVo0NWEwQWdWY2RKQ3UtYmpqTENsSmtRTTh0dFZvUUxPU3dKcXg3cmZ4b1JQRzZURXc5NG5IQ3MtaUV3SF92WDBhN01DOGhUaHZreE03cnNCcTRtLWZvOVVOTExCVWQ2WVVqc29tV0lBdVlKaWhtZGlrZWtDcERUSXNxU0k2eE1BUHNmNnpWMEQ3dkF0T0EwNlUyQUJDU1ZOVkpud3hqZkFKMm1CZlBIS1ZncTlR?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 공화당이 의회 다수당 지위를 유지하면 미국인들에게 배당금을 지급하겠다고 발표했다. 이는 중간선거를 앞두고 유권자들의 지지를 얻기 위한 주요 공약으로 평가된다. 이 공약의 실현 가능성과 재정 영향에 대한 논쟁이 뜨겁다.",
-      "pub_date": "2026-09-10T03:02:04+00:00"
+      "title": "사우디아라비아 송유관, 공격으로 인한 화재 발생 후 가동 중단",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
+      "summary": "사우디아라비아의 주요 송유관이 공격을 받아 화재가 발생했으며, 이로 인해 가동이 중단되었습니다. 이 사건은 중동 지역의 지정학적 긴장을 고조시키고 있으며, 국제 유가에도 영향을 미칠 것으로 예상됩니다. 사우디 당국은 공격 배후를 조사 중입니다.",
+      "pub_date": "2026-09-11T16:28:45+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "단독: 미국, 사우디의 이란 동맹국 대상 작전 지원 위해 정보 및 타격 역량 확대",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDJyVVhLSUZweG9aLVBYejFueDZ3Qkk0OTA1c3J3RjhVNGhhTWtJRGxqbUdrZ2RaSktQY25FMVphTTlCS0pmUlBINlZQaXVMT0p3ZlgySzFCdUZ4a3l1ZTJZTm81NldOLUswZHE5YU83VFA2elEwUjAwUW1DWXp5QWNlSl9WdEhWUzNMMmRxQmlPUWJ0?oc=5",
-      "summary": "CNN 단독 보도에 따르면, 미국이 사우디아라비아의 이란 동맹국 대상 군사 작전을 지원하기 위해 정보 수집 및 타격 역량을 확대하고 있다. 이는 중동 지역의 긴장감을 고조시키고 미국의 개입 수위를 높이는 중요한 움직임으로 해석된다. 해당 지역의 안보 상황에 미칠 영향이 주목된다.",
-      "pub_date": "2026-09-10T19:00:54+00:00"
+      "title": "국방부 장관 피트 헵셋, 9/11 이후 미국의 대응과 이란 전쟁을 연관",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVBWTEx6VW83Z191a3ZPUklBUGZjQWxxZ0l0Z2tzMnFPWFlFZ2N0b2hzT2FiZDNhQXVsUzk0YjNfSzh3ZUg3MEllVTNzQWtTUHc3aFR0MnFVb3YySWRMeWlxcmlveUd2ZDUtWlJ3M0RCUk4yN2thNUFGZVNQRmFwaU5R?oc=5",
+      "summary": "피트 헵셋 국방부 장관이 9/11 테러 이후 미국의 대응과 이란 전쟁을 연관시키는 발언을 했습니다. 이는 9/11 기념 연설의 일환으로, 미국의 대외 정책에 대한 논란을 불러일으키고 있습니다. 이란과의 관계 재정립 필요성이 다시금 수면 위로 떠오르고 있습니다.",
+      "pub_date": "2026-09-11T14:44:49+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "대법원, 공화당에 유리한 미주리주 새 선거구 지도 중간선거 사용 시도 저지",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVI1WVdXS0RGd2hCRkhMekZ0RFZ5SGFEQ1ZvOHE2MTVBUzJlTC1uMHVIenhuS1RRSUlON0phLXM4V2NVNEw0T3E2aERGV2E3YnhvTmxLUGhKY1hOOFUxQkljcTUtbndxV29kRTYxMlJIeEZmTGMzeFNDNTQ3S29qb29USjlzRGVFVVhfTWxIVWh4M0NPZzZaWi1GRDJialE?oc=5",
-      "summary": "연방대법원이 공화당이 제안한 미주리주의 새로운 선거구 지도를 중간선거에 적용하려는 시도를 다시 한번 막았다. 이는 선거구 재획정을 둘러싼 정치적 공방에 큰 영향을 미치는 결정이다. 미주리주의 선거 결과와 향후 선거구 문제에 귀추가 주목된다.",
-      "pub_date": "2026-09-10T18:09:13+00:00"
+      "title": "캐시 호컬 뉴욕 주지사, 9/11 대기 질 문서 미공개로 뉴욕 주민들이 '실망했다'고 CNN에 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNkhZN1NSc0p0TGtLdURJR2ctMWFHMjc4cEtuU3Y1eFNqWVJ2V08yX2VpX21HdzVyVnhJVWxYRDlQWUVtNWRTRTRvU0Q4OEx6eW8xSnI2VlZVXzdaX1g1TDVXYzVsT053SjJBOE9QZEMxVllrcmd1N1Bxc3VWbW94ekQ4Ty05ZXBqRkZEeHhYSlM2YlAydFptaVNvUFVzaWxDTUNsOGFnV1Z0S3p3V0NlNHQwTWJ6ZHpOMVRtWUdRTlhnZE1SeVByN1c0THU?oc=5",
+      "summary": "캐시 호컬 뉴욕 주지사가 9/11 테러 당시 대기 질 관련 문서가 공개되지 않아 뉴욕 시민들이 실망했다고 CNN에 밝혔습니다. 이는 테러 이후 건강 문제로 고통받는 이들에 대한 정부의 책임론을 다시 부각시키고 있습니다. 유가족과 피해자들은 투명한 정보 공개를 지속적으로 요구하고 있습니다.",
+      "pub_date": "2026-09-11T15:45:34+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "중동 정세 불안 심화로 국제 유가 배럴당 100달러 돌파",
-      "link": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
-      "summary": "중동 지역의 긴장이 고조되면서 국제 유가가 배럴당 100달러를 넘어섰다. 이는 글로벌 경제에 상당한 부담으로 작용할 전망이다. 에너지 비용 상승은 인플레이션 압력을 가중시키고 소비 심리를 위축시킬 우려가 있다.",
-      "pub_date": "2026-09-10T04:28:03+00:00"
+      "title": "사우디 석유 수출, 송유관 공격 이후 위협 고조",
+      "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+      "summary": "사우디아라비아의 석유 송유관이 공격받은 후, 사우디의 석유 수출에 대한 위협이 커지고 있습니다. 이 사건은 중동 지역의 긴장을 격화시키며 글로벌 에너지 시장에 불확실성을 더하고 있습니다. 국제 유가는 이러한 지정학적 위험으로 인해 급등할 가능성이 있습니다.",
+      "pub_date": "2026-09-11T20:46:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "유럽중앙은행, 인플레이션 억제를 위해 금리 인상 단행",
+      "title": "유가 급등에 주식 및 채권 시장 흔들림",
+      "link": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
+      "summary": "중동 지역의 지정학적 긴장 고조로 인해 유가가 급등하면서 글로벌 주식 및 채권 시장이 불안정한 모습을 보이고 있습니다. 에너지 비용 상승은 기업 이익과 소비자 지출에 부담을 주어 경제 성장 둔화 우려를 낳고 있습니다. 투자자들은 유가 변동성에 촉각을 곤두세우고 있습니다.",
+      "pub_date": "2026-09-11T13:18:43+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "유럽중앙은행, 인플레이션 억제를 위해 금리 인상",
       "link": "https://www.nytimes.com/2026/09/10/business/european-central-bank-interest-rates.html",
-      "summary": "유럽중앙은행(ECB)이 지속되는 인플레이션을 잡기 위해 기준금리를 인상했다. 이번 금리 인상은 유로존 경제 전반에 영향을 미치며, 물가 안정화를 위한 강력한 의지를 보여준 것으로 풀이된다. 금융 시장과 기업 활동에 미칠 파급 효과가 주목된다.",
+      "summary": "유럽중앙은행(ECB)이 인플레이션을 억제하기 위해 기준 금리를 인상했습니다. 이는 높은 물가 상승률이 지속되자 경제 안정화를 위한 조치로 풀이됩니다. 이번 금리 인상은 유로존 국가들의 가계 및 기업 대출 비용에 영향을 미칠 전망입니다.",
       "pub_date": "2026-09-10T17:55:45+00:00"
     },
     {
       "category": "경제",
-      "outlet": "NYT",
-      "title": "트럼프의 5,000달러 '배당금' 공약, 채권 시장의 우려를 사다",
-      "link": "https://www.nytimes.com/2026/09/10/business/dealbook/trump-dividend-bond-market.html",
-      "summary": "도널드 트럼프 전 대통령이 제안한 5,000달러 '트럼프 배당금' 공약에 대해 채권 시장이 우려를 표하고 있다. 막대한 재정 지출이 예상되는 이 공약은 국가 부채 증가와 인플레이션 압력을 높일 수 있다는 지적이다. 시장은 이러한 정책이 경제에 미칠 영향을 주시하고 있다.",
-      "pub_date": "2026-09-10T11:55:22+00:00"
-    },
-    {
-      "category": "경제",
       "outlet": "BBC",
-      "title": "중동 긴장 고조에 유가, 가스 가격 및 차입 비용 급등",
+      "title": "중동 불안 고조로 유가, 가스 및 차입 비용 급등",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "summary": "중동 지역의 긴장감이 고조되면서 국제 유가와 가스 가격이 급등하고 있다. 이와 더불어 기업 및 가계의 차입 비용도 크게 오르고 있다. 이러한 불안정한 경제 지표들은 글로벌 인플레이션 압력을 심화시킬 것이라는 우려를 낳고 있다.",
+      "summary": "중동 지역의 긴장이 고조되면서 전 세계적으로 유가, 가스 가격 및 차입 비용이 급등하고 있습니다. 이는 공급망 불안과 투자 심리 위축으로 이어져 글로벌 경제에 악영향을 미치고 있습니다. 각국 정부와 중앙은행은 인플레이션 압력 증가에 대한 대책 마련에 고심하고 있습니다.",
       "pub_date": "2026-09-10T17:38:31+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "카니 \"미국 무역 전쟁은 대가 따를 것\", 캐나다 관세 보복에 응수",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "summary": "마크 카니 캐나다 총리가 미국의 무역 전쟁이 \"분명 대가를 치르게 될 것\"이라 경고했다. 이는 미국의 관세 부과에 대한 캐나다의 보복 조치 이후 나온 발언이다. 양국 간의 무역 갈등이 심화될 경우 글로벌 공급망과 경제 전반에 부정적인 영향을 미칠 것으로 예상된다.",
-      "pub_date": "2026-09-08T14:46:16+00:00"
+      "title": "전 세계적으로 금리가 다시 오를 수 있는 이유",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "글로벌 인플레이션 압력과 중동 지역 불안정으로 인해 전 세계적으로 금리가 추가 상승할 가능성이 커지고 있습니다. 이는 각국 중앙은행이 물가 안정을 최우선 과제로 삼으면서 나타나는 현상입니다. 높아지는 금리는 가계 대출 부담과 기업 투자 위축으로 이어질 수 있습니다.",
+      "pub_date": "2026-09-11T13:35:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "단독: 코로나 대출 5조 4천억 원 탕감 확정...1억 원 미만 및 3년 이상 연체자 구제",
-      "link": "https://www.sedaily.com/article/20089531",
-      "summary": "정부가 코로나19 팬데믹 기간 동안 발생한 소상공인 대출 중 5조 4천억 원을 탕감하기로 했다. 이는 1억 원 미만 대출자이면서 3년 이상 연체된 이들을 대상으로 한다. 이번 조치는 어려움을 겪는 소상공인들에게 큰 희망이 될 것으로 기대된다.",
-      "pub_date": "2026-09-10T08:34:32+00:00"
+      "title": "브렌트유 105달러 돌파…고금리·고유가 이중 포위 현상 심화",
+      "link": "https://www.sedaily.com/article/20089720",
+      "summary": "국제 유가(브렌트유)가 배럴당 105달러를 돌파하며 고공행진을 이어가고 있습니다. 이는 고금리 기조와 맞물려 국내외 경제를 '이중 포위'하는 형태로 심각한 부담을 주고 있습니다. 물가 상승 압력이 더욱 커질 것으로 보여 정부의 대책 마련이 시급합니다.",
+      "pub_date": "2026-09-11T01:00:05+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프의 5,000달러 수표 공약, 불필요한 문제 해결하고 새로운 문제 야기할 것",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFUVRleFNOX21MekJjRHlMMS1QWTFIelFISmJISmZTMmZpQ1diVTA1WUMzOGdkbFlYemJKY3VrSHhKSVo4U0RVb3J2ZWN0cnRGYnl3NFB5ek9pTm8zcjJzMnpHc3lyQW9qTnQ2TUtzOElqNl9ZWlV1ZmdJaE8zQQ?oc=5",
-      "summary": "CNN은 도널드 트럼프 전 대통령의 5,000달러 수표 지급 공약이 존재하지 않는 문제를 해결하려 하면서 오히려 새로운 문제를 야기할 것이라고 비판했다. 이 공약은 재정 건전성을 해치고 인플레이션을 부추길 수 있다는 분석이 제기된다. 경제 전문가들은 신중한 접근이 필요하다고 경고한다.",
-      "pub_date": "2026-09-10T13:11:54+00:00"
+      "title": "세계 경제의 생명선인 바브엘만데브 해협, 위기에 처하다",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT29ya1B1Zmh2UHNCU0l1WHhncEVJeEx6Q29TM204ZEJuaElQUFFCRlFRcUNIc2tPaWFUbkI4TzNtcTR5eEFNYnlsRVZENHRGekc4allmQlJZLVpWUENZSlhBSUh0M1BRMmUyMWJKczdqZHF4b1I5MlJjUGFUTWhmMHZMWXBINlQ0V1E?oc=5",
+      "summary": "홍해와 아덴만을 잇는 주요 해상 무역로인 바브엘만데브 해협이 위협에 직면했습니다. 이 해협은 전 세계 석유 및 상품 운송에 핵심적인 역할을 하며, 불안정은 글로벌 공급망에 심각한 영향을 미칠 수 있습니다. 지정학적 긴장이 고조되면서 국제 무역에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-09-11T13:39:52+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프 행정부 상무장관, 투표기 차단 권한 행사 압박 직면",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3ZBZzlmMy1CZEhXWTlIUkZIemJqX2k1dmFwal9rTFZoeWJBWktMUkpCdnNOdXhiamNBeE50aTdtNFdvQ29Jd3poVURidkM3WmtjWHVmNWhtczdtd3RFMzY5ZXYyUDhITDJyNUhvLUNoN21YalRFYlJsTEZFd0dWMkpTSjlydTBvRU8xRE1CMFBFay1vZVU5ZVpWMHNKdw?oc=5",
-      "summary": "트럼프 행정부의 상무장관이 투표기 차단 권한을 사용하도록 압박받고 있다는 보도가 나왔다. 이는 선거 시스템에 대한 정치적 개입 시도로 해석될 수 있어 논란이 예상된다. 민주주의 절차와 관련된 중대한 문제로 여론의 관심이 집중되고 있다.",
-      "pub_date": "2026-09-10T09:00:29+00:00"
+      "title": "지난달 인플레이션 가열, 연방준비제도 금리 인상론에 힘 실어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lbVc4cmx6Y0lJbkdHR0M1MVB2dTU4VnBLOVFURFFHdkJLWHV4djF5V3ZXZTl2NS14T0toRmh6OU5ySTN5VTVGb1l3V25VSHc3V3RxdG5wRndXYk9GWklfUXhTbzMzN3JSOEVz?oc=5",
+      "summary": "지난달 인플레이션 지표가 예상보다 높게 나타나면서 연방준비제도(Fed)의 추가 금리 인상 가능성이 커지고 있습니다. 이는 고금리 기조가 장기화될 수 있다는 신호로, 시장의 불안감을 가중시키고 있습니다. 연준은 물가 안정을 위해 긴축 정책을 지속할 것으로 예상됩니다.",
+      "pub_date": "2026-09-11T09:00:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "CNN 최신 영상 보도",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJ4YzFNb1hRTmRTbEp6UU5SeFpLNjBTOWEyZkx0bTVETUZQUHgwS3lnalV2U0lRYzduVUdONGh0QTRtbGlCQmpCbFNYY19ORzNUN1pqQV9BVXhiMlQ1b2xPMXBkVlpnZWlkcmxBQ0l2cTZxUXpHRDRjcVktUUUwak9LVjZIcXdNNmtfUA?oc=5",
-      "summary": "CNN이 제공하는 최신 영상 보도 내용이다. 다양한 분야의 주요 뉴스 및 시사 문제에 대한 정보를 제공한다. 전 세계적으로 벌어지는 사건들을 시청각 자료를 통해 생생하게 전달한다.",
-      "pub_date": "2026-09-10T01:24:29+00:00"
+      "title": "미국 디젤 가격 사상 처음으로 갤런당 6달러 돌파. 이것이 당신에게 미치는 영향은?",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRHVKS2Nvd011dnByRXgyZG1BWTB5elhHaEY1c1ZSYVpPQXo0MzFUTDl6VXdEUnJFbWx5aldQUUdHQlZacDU0bUxIREFpOUcyemJYZzJjNEFyOEU4Mk5NSGxRNzg2WEZoREVuSTZ2Q1Y?oc=5",
+      "summary": "미국 디젤 가격이 사상 처음으로 갤런당 6달러를 넘어섰습니다. 이는 운송 비용 상승으로 이어져 상품 가격 전반에 영향을 미치고, 소비자들의 생활비 부담을 가중시킬 것입니다. 농업, 물류 등 디젤 의존도가 높은 산업들은 큰 타격을 입을 것으로 우려됩니다.",
+      "pub_date": "2026-09-11T07:46:25+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "네이버, 2천억 원 투입해 '보안 AI'로 사업보국 실현...\"AI 보안 주권 수호\"",
-      "link": "https://zdnet.co.kr/view/?no=20260910090943",
-      "summary": "네이버가 2천억 원을 투자하여 '보안 AI' 기술 개발에 집중하며 '사업보국'을 실현하겠다고 밝혔다. 이는 국가적인 AI 보안 주권을 지키기 위한 핵심 전략의 일환이다. 네이버는 이를 통해 글로벌 AI 보안 시장에서도 선도적인 역할을 수행할 계획이다.",
-      "pub_date": "2026-09-10T21:01:01+00:00"
+      "title": "'열 감옥'의 족쇄에 묶인 3D 반도체…냉각 솔루션이 양산의 물꼬를 틀까",
+      "link": "https://zdnet.co.kr/view/?no=20260911182151",
+      "summary": "3D 반도체가 고성능화될수록 발생하는 발열 문제는 '열 감옥'이라는 별명이 붙을 정도로 심각합니다. 효과적인 냉각 솔루션 개발이 대규모 양산의 핵심 과제로 부상했습니다. 업계는 새로운 냉각 기술이 3D 반도체 상용화의 돌파구가 될 것으로 기대하고 있습니다.",
+      "pub_date": "2026-09-11T09:41:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "마이크로소프트, \"AI 악용한 100만 건 이상의 송장 사기 이메일 전송 적발\"",
-      "link": "https://zdnet.co.kr/view/?no=20260910195946",
-      "summary": "마이크로소프트가 인공지능(AI)을 악용하여 100만 건 이상의 송장 사기 이메일이 전송된 사실을 발견했다고 발표했다. 이는 AI 기술이 사이버 범죄에 악용될 수 있는 심각성을 보여주는 사례다. 기업과 개인은 이러한 신종 사기 수법에 대한 경각심을 높여야 한다.",
-      "pub_date": "2026-09-10T16:00:01+00:00"
+      "title": "3만 원 기내 와이파이 무료화…대한항공·아시아나, 스타링크 도입 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260911173423",
+      "summary": "대한항공과 아시아나항공이 기내 유료 와이파이 서비스를 무료로 전환하기 위해 위성 인터넷 서비스인 스타링크 도입을 추진하고 있습니다. 이는 승객 편의 증진과 함께 항공사의 경쟁력 강화로 이어질 전망입니다. 향후 기내 인터넷 서비스 시장에 큰 변화를 가져올 것으로 보입니다.",
+      "pub_date": "2026-09-11T08:34:23+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "네이버-LG, 18일 보안 특화 AI 개발 착수... \"세계 1위 목표\"",
-      "link": "https://www.etnews.com/20260910000303",
-      "summary": "국내 주요 IT 기업인 네이버와 LG가 오는 18일 보안에 특화된 인공지능(AI) 개발에 착수한다. 양사는 이번 협력을 통해 글로벌 AI 보안 시장에서 세계 1위 자리에 도전하겠다는 목표를 밝혔다. 이는 국내 AI 기술 경쟁력 강화에 중요한 계기가 될 것으로 전망된다.",
-      "pub_date": "2026-09-10T21:00:00+00:00"
+      "title": "\"인공지능으로 인류 멸망\" 경고 속 앤트로픽, \"치명적 모기 바이러스 무기화 시도…인공지능 악용 차단\"",
+      "link": "https://www.etnews.com/20260911000108",
+      "summary": "인공지능(AI)의 인류 멸망 가능성에 대한 경고가 이어지는 가운데, AI 개발사 앤트로픽이 치명적인 '모기 바이러스' 무기화 시도를 AI로 차단했다고 밝혔습니다. 이는 AI가 생물학 무기 개발에 악용될 수 있다는 우려를 현실화하는 사례입니다. AI 안전성 확보와 악용 방지를 위한 국제적 노력이 더욱 절실해지고 있습니다.",
+      "pub_date": "2026-09-11T08:50:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "반도체 패키징 발전 정책 포럼, '하이브리드 본딩·CPO·AI' 3대 핵심 기술 강조",
-      "link": "https://www.etnews.com/20260910000270",
-      "summary": "반도체 패키징 발전 정책 포럼에서 미래 반도체 산업을 이끌 3대 핵심 기술로 하이브리드 본딩, CPO(Co-Packaged Optics), 그리고 AI(인공지능)가 강조되었다. 이 기술들은 차세대 반도체 성능 향상과 전력 효율 개선에 필수적이다. 한국이 글로벌 반도체 시장 주도권을 유지하기 위한 전략 마련이 시급하다.",
-      "pub_date": "2026-09-10T08:00:00+00:00"
+      "title": "\"삼성전자 HBM, 더 크게 터진다\"…역대급 증권가 파격 전망 제시",
+      "link": "https://www.etnews.com/20260911000368",
+      "summary": "삼성전자 고대역폭 메모리(HBM) 사업에 대한 증권가의 파격적인 전망이 나왔습니다. 이는 인공지능(AI) 시장의 폭발적인 성장과 함께 HBM 수요가 급증할 것이라는 분석에 기반합니다. 삼성전자가 HBM 시장에서 독보적인 기술력으로 큰 성과를 낼 것이라는 기대감이 커지고 있습니다.",
+      "pub_date": "2026-09-11T12:08:40+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "개인정보보호법 개정안 11일 시행, 중대 유출 시 매출 10% 과징금 부과",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=673291",
-      "summary": "개인정보보호법 개정안이 오는 11일부터 시행됨에 따라, 기업의 개인정보 중대 유출 사고 발생 시 해당 기업 매출의 최대 10%에 달하는 과징금이 부과된다. 이는 기업들에게 개인정보 보호의 중요성을 다시 한번 강조하는 강력한 조치이다. 국내외 IT 기업들의 개인정보 관리 시스템 강화가 요구된다.",
-      "pub_date": "2026-09-10T17:21:57+00:00"
+      "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3,814억 원 투입",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673453",
+      "summary": "LG CNS가 엔비디아의 차세대 인공지능(AI) 칩 '베라 루빈' 확보를 위해 3,814억 원을 투자했습니다. 이는 AI 데이터센터 구축 및 AI 서비스 역량 강화를 위한 전략적 결정입니다. 이번 대규모 투자를 통해 LG CNS는 국내 AI 시장에서 선도적인 위치를 공고히 할 계획입니다.",
+      "pub_date": "2026-09-11T18:09:10+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "엑스게이트, VPN에 양자암호 도입하여 '미래 해독' 방어 나서",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=673304",
-      "summary": "엑스게이트가 가상 사설망(VPN)에 양자암호 기술을 도입하여 미래의 해킹 위협에 선제적으로 대응하고 있다. 이는 양자 컴퓨터 시대에 발생할 수 있는 암호 해독 위협으로부터 정보를 보호하기 위한 조치다. 첨단 양자 기술이 실제 보안 시스템에 적용되는 중요한 사례로 주목받고 있다.",
-      "pub_date": "2026-09-10T15:45:38+00:00"
+      "title": "[가온전선 가치 상승] LS전선, 북미 및 인공지능 분야에 5천억 원 투입…생산 능력 확대",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673407",
+      "summary": "LS전선이 북미 시장 확대와 인공지능(AI) 관련 사업 강화를 위해 5천억 원을 투자합니다. 이번 투자는 생산 능력 확대를 목표로 하며, 급변하는 글로벌 전선 시장에서의 경쟁력 확보를 위함입니다. AI 인프라 구축 수요 증가에 선제적으로 대응하여 미래 성장 동력을 확보할 계획입니다.",
+      "pub_date": "2026-09-11T16:17:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "애플, 최초 2나노 모바일 AP 'A20 프로' 공개... 하반기 퀄컴과 초미세 공정 경쟁 돌입",
-      "link": "https://biz.chosun.com/it-science/ict/2026/09/11/H4SYEGPG7BHK7B7HNNJQMVC66A/",
-      "summary": "애플이 자체 개발한 최초의 2나노미터 모바일 AP 'A20 프로'를 공개했다. 이는 반도체 미세 공정 경쟁의 새로운 이정표를 세우는 것으로 평가된다. 올 하반기부터 퀄컴과의 2나노 칩 경쟁이 본격화될 전망이며, 모바일 기기 성능에 큰 영향을 미칠 것으로 보인다.",
-      "pub_date": "2026-09-10T21:00:01+00:00"
+      "title": "“인공지능 위험성 커졌다” 잇단 경고에…오픈AI, 첨단 모델 개발 속도 조절 검토",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/11/LZIATRFUYVD2NMPLJDVNLWMCMI/",
+      "summary": "인공지능(AI)의 위험성에 대한 경고가 계속되자, 오픈AI가 첨단 AI 모델 개발 속도를 조절하는 방안을 검토 중입니다. 이는 AI 기술 발전의 윤리적, 사회적 파장을 고려한 조치로 풀이됩니다. AI 안전성 확보와 책임 있는 개발에 대한 국제적 관심이 높아지고 있습니다.",
+      "pub_date": "2026-09-11T08:26:26+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "구글, 핀란드에 20조 원 투자 및 22년 장기 원전 전력 계약 체결",
-      "link": "https://biz.chosun.com/it-science/ict/2026/09/10/KRGKPXVZQ5D5VL5UTIJHJAMVDY/",
-      "summary": "구글이 핀란드에 20조 원 규모의 대규모 투자를 단행하고 22년 장기 원전 전력 계약을 체결했다. 이는 구글의 데이터 센터 확장과 지속 가능한 에너지 확보 전략의 일환이다. 이번 투자는 핀란드 경제에도 큰 활력을 불어넣을 것으로 기대된다.",
-      "pub_date": "2026-09-10T06:31:18+00:00"
+      "title": "바이러스 변이 연구부터 무기 설계까지…앤트로픽, 클로드 악용 사례 공개",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/11/RYBYLHHXV5HURBRBQXJ3AY746I/",
+      "summary": "인공지능(AI) 개발사 앤트로픽이 자사 AI 모델 '클로드'가 바이러스 변이 연구와 무기 설계 등 다양한 악의적인 목적으로 악용될 수 있음을 공개했습니다. 이는 AI의 오용 가능성에 대한 심각한 경고를 던지고 있습니다. AI 기술의 잠재적 위험성에 대한 경각심을 일깨우고 보안 강화의 필요성을 강조합니다.",
+      "pub_date": "2026-09-11T04:52:35+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "애플, 접이식 스마트폰 '아이폰 듀오' 공개...가격 1,999달러",
+      "title": "앤트로픽, 생물학 무기 개발 시도 차단했다고 밝혀",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "summary": "인공지능(AI) 개발사 앤트로픽이 자사 AI를 이용한 생물학 무기 개발 시도를 차단했다고 발표했습니다. 이는 AI가 악의적인 목적으로 활용될 수 있는 현실적 위험을 보여주는 사례입니다. AI 윤리 및 안전성 확보를 위한 기술적, 제도적 장치 마련이 시급함을 시사합니다.",
+      "pub_date": "2026-09-10T21:50:38+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "애플, 1,999달러 폴더블폰 '아이폰 듀오' 공개",
       "link": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-      "summary": "애플이 첫 접이식 스마트폰 '아이폰 듀오'를 공개하며 1,999달러의 가격을 책정했다. 이 제품은 기존 아이폰 라인업에 혁신적인 변화를 가져올 것으로 기대된다. 접이식 스마트폰 시장에 애플이 본격적으로 뛰어들면서 경쟁이 한층 심화될 전망이다.",
+      "summary": "애플이 1,999달러 가격의 폴더블 스마트폰 '아이폰 듀오'를 공개했습니다. 이는 애플의 폴더블폰 시장 진출을 알리는 중요한 신호탄으로, 스마트폰 시장에 새로운 경쟁 구도를 형성할 것으로 예상됩니다. 높은 가격과 혁신적인 디자인이 소비자들의 기대를 모으고 있습니다.",
       "pub_date": "2026-09-09T22:04:28+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "앤스로픽, 생물학 무기 개발 시도 차단했다고 발표",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "summary": "인공지능(AI) 개발사 앤스로픽이 잠재적인 생물학 무기 개발 시도를 차단했다고 밝혔다. 이는 AI 기술의 오용 가능성에 대한 심각한 우려를 불러일으키는 사건이다. AI 안전과 윤리적 통제에 대한 국제 사회의 논의가 더욱 활발해질 필요성을 보여준다.",
-      "pub_date": "2026-09-10T21:50:37+00:00"
+      "outlet": "BBC",
+      "title": "영국 정부, 위험한 인공지능에 대한 '킬 스위치' 아이디어 거부",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 정부가 잠재적으로 위험한 인공지능(AI) 시스템에 '킬 스위치'를 도입하자는 아이디어를 거부했습니다. 정부는 이러한 기술적 통제 장치 마련의 현실적 어려움과 혁신 저해 가능성을 이유로 들었습니다. 이 결정은 AI 안전 규제에 대한 국제적 논의에 영향을 미치며, 보다 실용적인 대안 모색으로 이어질 것으로 보입니다.",
+      "pub_date": "2026-09-11T15:07:07+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "앤스로픽 연구원, \"AI가 인류를 전멸시킬 가능성 10% 이상\" 경고",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "summary": "인공지능(AI) 개발사 앤스로픽의 한 연구원이 \"AI가 인류를 전멸시킬 가능성이 10%를 넘는다\"는 충격적인 경고를 내놓았다. 이는 AI 기술 발전의 잠재적 위험성에 대한 심각한 논의를 촉발하고 있다. AI 개발의 윤리적 기준과 안전 장치 마련이 시급하다는 목소리가 커지고 있다.",
-      "pub_date": "2026-09-09T15:34:09+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "메타, 인도에서 아동 성적 학대 콘텐츠 홍보 광고 지속 운영 중인 것으로 보고",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "summary": "한 보고서에 따르면 메타(Meta)가 인도에서 아동 성적 학대 자료를 홍보하는 광고를 계속해서 운영하고 있는 것으로 드러났다. 이는 주요 IT 기업의 심각한 윤리적 문제로, 아동 보호와 플랫폼의 책임에 대한 국제적 비판을 피할 수 없을 것으로 예상된다. 해당 기업의 즉각적인 조치와 책임 있는 대응이 요구된다.",
-      "pub_date": "2026-09-08T23:27:23+00:00"
+      "title": "앤트로픽, 인공지능을 이용한 생물학 무기 제작 시도 차단",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "summary": "인공지능(AI) 개발사 앤트로픽이 AI를 이용해 생물학 무기를 만들려던 시도를 차단했다고 밝혔습니다. 이는 AI가 인류에게 심각한 위협이 될 수 있음을 보여주는 실제 사례입니다. AI의 오용 가능성에 대한 경각심이 높아지면서, AI 안전 기술 개발과 국제적 협력의 중요성이 더욱 강조되고 있습니다.",
+      "pub_date": "2026-09-11T08:15:25+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "앤스로픽 팀 리더, \"AI가 10년 안에 인류를 전멸시킬 수 있다\" 경고",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzNlLWlCV1haa1FSbEw3UENnUjFuLUwwTDB2S01EYUdyYW9ybGtwQ21DRG9QOWlBUnFqaWxfeUctR0FpMkFyWmItV3hTUGkzNFVsTDh6cTQ5R1JNUm50Ni1UcUJQenlJUlQ2NzY0N1Z1WHhOZE10RmJrRVhMTnROaVZWSXJMMXpLTDhWdEE1Rm5mWS1pcnZuUGtxMkw?oc=5",
-      "summary": "AI 개발사 앤스로픽의 한 팀 리더가 \"인공지능(AI)이 향후 10년 이내에 인류를 전멸시킬 가능성이 있다\"고 경고했다. 이는 AI의 잠재적 위험성에 대한 가장 강력한 경고 중 하나로, 전 세계적인 AI 안전 논의에 불을 지피고 있다. AI 기술의 윤리적 개발과 통제에 대한 국제 사회의 관심이 더욱 커질 것으로 보인다.",
-      "pub_date": "2026-09-10T16:12:25+00:00"
+      "title": "연구자들이 경고하는 가운데 인공지능 규제 강화 촉구",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MTJVZ09wUWV2dHlVdko1OW8zd1paVE5Rd3FVMGpWYmQ5WThSZ05Sc0Z0d0U2bko3V01RNjI3OXljUVZfaHNuNm9PWW1TSEJmbFpQNXlqNXBYWVFJTzNDUE40TlRralVOYWNkYktVTVE?oc=5",
+      "summary": "인공지능(AI)의 잠재적 위험성에 대한 연구자들의 경고가 잇따르면서 AI 규제 강화를 요구하는 목소리가 커지고 있습니다. AI 기술의 급속한 발전이 윤리적, 사회적 문제를 야기할 수 있다는 우려가 제기됩니다. 각국 정부는 AI의 안전하고 책임감 있는 발전을 위한 정책 마련에 압력을 받고 있습니다.",
+      "pub_date": "2026-09-11T00:53:56+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "AI 연구원 \"기술 통제 불능 시 인류는 부수적 피해 입을 것\" 경고",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTZUdzliR3RQbzdHbkpPMDFuSnlxSWJxYUhmU3lqY0hkYnU2bnpjQ2NyOTVuaHpzYXVYUDJYT0xjVmpWWTIzdTFORk85SEhjUGE2SS1RZ1ZKZGhzbTh4RHZxRHcyOEVGTm9lck9hT3dScTFuSmZEa19UQVBQdURHRmgySHZpWlpXZXpNQjVJVjZHU2JOX1FNX1VKMWRtTEdjZXFGcEkxcHlJUmJMYjBSUFlNbFJ4QQ?oc=5",
-      "summary": "한 인공지능(AI) 연구원이 기술이 통제 불능 상태가 되면 \"인류는 부수적인 피해를 입을 것\"이라고 CNN에 경고했다. 이는 AI의 자율성과 잠재적 위협에 대한 깊은 우려를 표명하는 것이다. AI 개발 속도와 안전 장치 마련 사이의 균형을 찾는 것이 중요함을 시사한다.",
-      "pub_date": "2026-09-10T03:52:50+00:00"
+      "title": "지미 키멜, FCC의 '위협'으로 인해 탈라리코 인터뷰를 유튜브로 옮겨",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTRSYy1fMmQwSmxKcVFseVJaUnhObjBEVUZBTmE2T0VoSjRqWllubEhGS1RNeF9Pc2VhSF9iVFdfaWlTQllLaGpIdG9ia1JSWFNPakdrdFh6YzZocVZocHZBcnBNa1diYnp1UmtFNktzb0RrcGIzN010R3VKTEYxSW5oU2s5R0FxYXFhX090akUtNkd2Wnk4dkNtbGJXeHBvRjEwcXhyck1JREc5WExCdHBn?oc=5",
+      "summary": "유명 토크쇼 진행자 지미 키멜이 미국 연방통신위원회(FCC)의 '위협'을 이유로 탈라리코와의 인터뷰를 유튜브로 옮겨 공개했습니다. 이는 방송사의 표현의 자유에 대한 논란을 불러일으키고 있습니다. 온라인 플랫폼이 전통 미디어 규제로부터 자유로운 대안 공간이 될 수 있음을 보여주는 사례입니다.",
+      "pub_date": "2026-09-11T03:58:28+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "다큐멘터리 감독 다니엘 로러, AI가 인류를 개미 군락처럼 볼 수 있다고 설명",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLW1wNnBFZERLMmJVM0N0MVVjdE9MSmEzbERpLUhacndrVnVNbExrV3hWc09kYjRaSk9wWGRXcDdGV3VhckdfNDBMa1ZWcElER0ttcjRCekNyV0NXd212V1lSLUFwTk90cDNrYUpfX1hmOFlibEJFQXZwTWE3MEp0eXRpVGQyaFZNOXFQRGc3ZHJBRWdTNlc5VkRmSEkxNGQta0hrQXV6dEtJeGtNelgyRWVia1dUTDJXcmRGVDR0eDF0SXJUczhGYWpqQQ?oc=5",
-      "summary": "다큐멘터리 감독 다니엘 로러가 인공지능(AI)이 궁극적으로 인류를 마치 개미 군락처럼 인식할 수 있다고 설명했다. 이는 AI와 인류의 관계에 대한 심오한 철학적 질문을 던진다. 인간 중심적 사고를 넘어선 AI의 관점에 대한 이해가 필요하다는 메시지를 전달한다.",
-      "pub_date": "2026-09-10T18:19:06+00:00"
+      "title": "소비자물가지수(CPI) 보고서가 화제가 되는 이유",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeEZxSTBzVFBubVJzbUJ2ZGtEYTZlS0dtY1Q4OTNXeDN1RE1NSzVpV1JaMURjd3IyQ1JuR04zVk1NeU9TSUJWRHk4YlE1VEhZcndRYTJPcUdqUGd4Wk0wZlJNLUVCTVppZGYxeDltOER4QUtyZnB6ZkgxZm9ZZW9aV1ZGbEFrYlh5em1EZ29qU3kzS05nQjk4d2xJNkljZnZQQ0hldU9IaElCLWRTMTZIS1dB?oc=5",
+      "summary": "최근 발표된 소비자물가지수(CPI) 보고서가 경제계에서 큰 화제가 되고 있습니다. 이 보고서는 인플레이션 동향과 연방준비제도(Fed)의 통화 정책 결정에 결정적인 영향을 미치기 때문입니다. 높은 CPI 수치는 금리 인상 압력을 높여 시장 변동성을 키울 수 있습니다.",
+      "pub_date": "2026-09-11T21:04:46+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "후티 반군, 전략적 홍해 항구 장악...이란 동맹국에 주요 승리",
-      "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
-      "summary": "예멘의 후티 반군이 전략적 요충지인 홍해 항구를 장악하며 이란의 동맹국에 중요한 승리를 안겼다. 이 사건은 홍해 지역의 해상 교통로에 큰 영향을 미칠 것으로 예상된다. 중동 지역의 권력 균형과 안보 상황에 중대한 변화를 가져올 수 있다.",
-      "pub_date": "2026-09-10T19:31:30+00:00"
+      "title": "후티 반군, 홍해의 핵심 섬 장악…또 다른 글로벌 석유 경로 위협",
+      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html",
+      "summary": "예멘의 후티 반군이 홍해의 전략적 요충지인 핵심 섬을 장악했습니다. 이는 전 세계 석유 운송의 주요 경로 중 하나를 위협하며, 국제 에너지 시장에 큰 파장을 예고합니다. 중동 지역의 긴장이 고조되고 해상 보안 문제가 심화될 것으로 우려됩니다.",
+      "pub_date": "2026-09-11T22:22:16+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "모스크바, 우크라이나가 러시아와 영국 간 전쟁 시작 계획했다고 주장",
-      "link": "https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html",
-      "summary": "러시아 모스크바가 우크라이나가 러시아와 영국 간의 전쟁을 시작하려 계획했다고 주장하며 국제 사회에 파장을 일으키고 있다. 이 주장은 서방과 러시아 간의 긴장을 극도로 고조시킬 수 있는 중대한 발언이다. 국제 관계와 외교적 대응에 대한 관심이 집중되고 있다.",
-      "pub_date": "2026-09-10T18:47:10+00:00"
+      "title": "러시아가 다시 접근함에 따라 최전선 도시는 이번에는 궤멸을 두려워하다",
+      "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+      "summary": "러시아군이 다시 최전선 도시로 접근하면서, 해당 지역 주민들은 이번에는 도시가 완전히 파괴될 것을 두려워하고 있습니다. 장기간의 전쟁으로 피폐해진 도시는 인도주의적 위기에 직면했습니다. 국제사회는 민간인 보호와 분쟁 해결을 위한 노력을 촉구하고 있습니다.",
+      "pub_date": "2026-09-11T18:08:17+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "필리핀 페리 화재, 최소 5명 사망 80명 이상 실종",
-      "link": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-      "summary": "필리핀에서 발생한 페리 화재로 인해 최소 5명이 사망하고 80명 이상이 실종되는 참사가 발생했다. 구조 당국은 생존자 수색 작업을 계속하고 있으나 상황은 매우 위중하다. 이번 사고는 필리핀 해상 안전 문제에 대한 우려를 다시 불러일으키고 있다.",
-      "pub_date": "2026-09-10T04:49:27+00:00"
+      "title": "브릭스(BRICS) 정상회의에서 중국과 인도가 영향력 경쟁",
+      "link": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
+      "summary": "브릭스(BRICS) 정상회의에서 중국과 인도가 회원국들 사이에서 더 큰 영향력을 확보하기 위해 경쟁하고 있습니다. 신흥 경제국들의 연합인 브릭스는 서방 중심의 국제 질서에 대항하는 중요한 축으로 부상하고 있습니다. 이번 회의는 회원국 간의 협력과 갈등 양상을 동시에 보여줄 것으로 예상됩니다.",
+      "pub_date": "2026-09-11T11:48:03+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "중국 동부 화물선 화재로 25명 사망",
-      "link": "https://www.nytimes.com/2026/09/10/world/asia/china-cargo-ship-fire-qingdao.html",
-      "summary": "중국 동부 해상에서 발생한 화물선 화재로 25명이 사망하는 비극적인 사고가 발생했다. 해양 당국은 사고 원인을 조사 중이며, 실종자 수색 및 구조 작업에 총력을 기울이고 있다. 이번 사고는 해상 운송 안전 규정 강화의 필요성을 다시 일깨우고 있다.",
-      "pub_date": "2026-09-10T13:22:11+00:00"
+      "title": "프랑스, 제프리 엡스타인과 관련된 성매매 인신매매 수사 확대",
+      "link": "https://www.nytimes.com/2026/09/11/world/europe/france-paris-epstein-prosecutor.html",
+      "summary": "프랑스 사법 당국이 고(故) 제프리 엡스타인과 연루된 성매매 인신매매 사건 수사를 확대하고 있습니다. 이 사건은 프랑스의 고위층 인사들과도 관련되어 있을 가능성이 제기되어 큰 파장을 일으키고 있습니다. 국제적인 공조 수사를 통해 추가적인 가해자 및 피해자가 드러날 수 있습니다.",
+      "pub_date": "2026-09-11T13:07:04+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "8월, 역대 가장 더운 달로 기록 경신",
-      "link": "https://www.nytimes.com/2026/09/09/climate/august-hottest-month-global-warming.html",
-      "summary": "지난 8월이 관측 이래 가장 더운 달로 기록되면서 기후 변화의 심각성을 다시 한번 일깨웠다. 전 세계적으로 폭염과 이상 기후 현상이 빈번하게 발생하고 있다. 과학자들은 온실가스 배출량 감축 등 즉각적인 대응을 촉구하고 있다.",
-      "pub_date": "2026-09-10T02:00:12+00:00"
+      "title": "이스라엘, 레바논 남부 헤즈볼라 지하 기지 파괴",
+      "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+      "summary": "이스라엘군이 레바논 남부에 위치한 헤즈볼라의 지하 기지를 파괴했다고 발표했습니다. 이번 작전은 이스라엘 안보에 대한 위협에 대응하기 위한 조치로 설명됩니다. 중동 지역의 긴장이 고조되는 가운데, 이스라엘과 헤즈볼라 간의 군사적 충돌 가능성이 커지고 있습니다.",
+      "pub_date": "2026-09-11T18:45:56+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "예멘 후티 반군, 전략적 홍해 항구 '모카' 장악 보도",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "summary": "예멘의 후티 반군이 전략적 요충지인 홍해 항구 모카를 장악했다는 보도가 나왔다. 이 항구는 국제 해상 운송로에 있어 중요한 위치를 차지하고 있다. 이번 사태는 중동 지역의 불안정성을 더욱 심화시킬 것으로 전망된다.",
-      "pub_date": "2026-09-10T18:15:47+00:00"
+      "title": "후티 반군, 예멘에서 주요 진격 주장하며 홍해 해상 운송로 장악 강화",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "summary": "예멘의 후티 반군이 주요 지역에서 큰 진격을 달성했으며, 홍해의 핵심 해상 운송로에 대한 장악력을 강화하고 있다고 주장했습니다. 이는 국제 석유 및 상품 수송에 심각한 위협이 되며, 글로벌 경제에 파장을 미칠 수 있습니다. 중동 지역의 긴장이 최고조에 달하고 있습니다.",
+      "pub_date": "2026-09-11T22:17:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "이스라엘 네타냐후, \"UAE가 10월 7일 공격 경고했다\" 보도한 신문 고소 예정",
-      "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "이스라엘 총리 베냐민 네타냐후가 아랍에미리트(UAE)가 작년 10월 7일 하마스 공격에 대해 자신에게 경고했다는 보도를 한 신문을 고소할 예정이다. 이 사건은 네타냐후 총리의 지도력과 정보 실패 논란에 다시 불을 지필 것으로 보인다. 국제 관계 및 국내 정치에 중대한 영향을 미 미칠 수 있다.",
-      "pub_date": "2026-09-10T15:54:17+00:00"
+      "title": "이스라엘, 헤즈볼라 주요 지하 기지 파괴했다고 발표",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "summary": "이스라엘이 레바논 남부의 헤즈볼라 주요 지하 기지를 파괴했다고 밝혔습니다. 이번 군사 작전은 이스라엘의 안보를 위한 예방적 조치로 설명됩니다. 중동 지역의 군사적 긴장이 고조되는 가운데, 추가적인 충돌 발생 우려가 커지고 있습니다.",
+      "pub_date": "2026-09-11T15:50:23+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "콩고민주공화국 학교 화재로 어린이 20명 이상 사망",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "summary": "콩고민주공화국에서 발생한 학교 화재로 어린이 20명 이상이 숨지는 참사가 일어났다. 사고 원인은 아직 밝혀지지 않았으며, 현지 당국은 추가 피해를 막기 위한 조치를 취하고 있다. 빈곤국 아동들의 교육 환경과 안전 문제에 대한 국제 사회의 관심이 요구된다.",
-      "pub_date": "2026-09-10T19:16:24+00:00"
+      "title": "홍콩 톈안먼 추모 활동가들, 최대 7년 징역형 선고",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "홍콩에서 톈안먼 민주화 운동을 추모하는 활동을 벌였던 활동가들이 최대 7년의 징역형을 선고받았습니다. 이는 홍콩 국가보안법 시행 이후 민주화 운동과 표현의 자유가 크게 위축되고 있음을 보여줍니다. 국제사회는 홍콩의 인권 상황에 대한 우려를 표명하고 있습니다.",
+      "pub_date": "2026-09-11T17:32:44+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "중국 동부 화물선 화재로 25명 사망",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "summary": "중국 동부 해상에서 발생한 화물선 화재로 25명이 사망하는 비극적인 사고가 발생했다. 해양 당국은 사고 원인을 조사 중이며, 실종자 수색 및 구조 작업에 총력을 기울이고 있다. 이번 사고는 해상 운송 안전 규정 강화의 필요성을 다시 일깨우고 있다.",
-      "pub_date": "2026-09-10T12:24:54+00:00"
+      "title": "예멘 후티 반군의 급속한 진격, 이란 전쟁에 위험한 새 국면을 가져올 수 있어",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "summary": "예멘 후티 반군의 빠른 진격이 중동 지역의 긴장을 고조시키고 이란 전쟁에 새로운 위험한 국면을 초래할 수 있습니다. 이는 홍해 해상 운송로를 위협하며 국제 무역에 심각한 영향을 미칠 가능성이 있습니다. 미국과 서방 동맹국들은 이 지역의 안정성 악화에 우려를 표하고 있습니다.",
+      "pub_date": "2026-09-11T19:44:58+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "러시아 신형 제트 추진 드론, 우크라이나 방공망 압도하며 매일 발사",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아가 신형 제트 추진 드론을 매일 발사하며 우크라이나의 방공망을 압도하고 있는 것으로 보고되었다. 이 드론들은 기존 방공 시스템으로 요격하기 어려워 우크라이나에 심각한 위협이 되고 있다. 이번 신형 드론의 등장은 전쟁 양상에 새로운 변수가 될 수 있다.",
-      "pub_date": "2026-09-10T04:43:54+00:00"
+      "title": "모디 총리가 푸틴, 시진핑을 델리에서 맞이하는 브릭스 정상회의에 트럼프의 그림자 드리워져",
+      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "summary": "인도 델리에서 모디 총리가 푸틴 러시아 대통령과 시진핑 중국 국가주석을 맞이하는 브릭스(BRICS) 정상회의가 열렸습니다. 이번 회의는 미국 트럼프 행정부의 정책 기조가 신흥 경제국 연합에 미칠 영향력에 대한 관심 속에 진행됩니다. 주요 국가 정상들의 대화는 글로벌 정치 및 경제 질서 재편에 중요한 영향을 미 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-09-11T09:38:23+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "지구, 역대 가장 더운 8월 기록",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0xMTmp6OUl3NFZhU2lpUFRHa3V6a0QzZnJOMFFJaXlYYWN0RFJrOUo1aDZoOHM3YmNhNDF1VDNoeGtHejJJZTYzaUdlZUVMWjM3WXd5bUd4dTFyaHk3ZEpqa2lIWENIanpyNWUxc0tzeTVpNWpwWGozMnN3SGVEUHZUdnpuNG05MGVwQ3lrdks5Nmd0Umhv?oc=5",
-      "summary": "최근 8월이 지구 관측 사상 가장 더운 달로 기록되면서 기후 변화의 심각성을 다시 한번 확인시켰다. 전 세계적으로 기온 상승과 극단적인 날씨 현상이 빈번해지고 있다. 과학자들은 탄소 배출량 감축 등 즉각적인 전 지구적 대응을 촉구하고 있다.",
-      "pub_date": "2026-09-10T13:06:11+00:00"
+      "title": "트럼프, 9/11 연설에서 이란을 강력히 비난",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG9pZ2poY1dSc2czbVZrZ0Q2MTVOZDNxdFBaT0dEdFB1bWw1dkNEZHFfdS1qUTlaSnc1ZUpxaktZc1ZQRzBmbktrdlVLMWtLZ1licWQ3VWItb1Y0UGN3N0Fydk0tOXU3N0s4Ym9IQTRfRmp0Rl9ZcUk1Wk9oUktpNTVaME5sZXFPWnhXOA?oc=5",
+      "summary": "트럼프 전 대통령이 9/11 기념 연설에서 이란을 강력하게 비난했습니다. 이는 9/11 테러의 배후와 현재 중동 정세에 대한 그의 견해를 다시 한번 드러낸 것입니다. 이 발언은 미국과 이란 관계에 대한 국제사회의 관심을 다시 집중시킬 것으로 보입니다.",
+      "pub_date": "2026-09-11T15:09:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "이란 핵 시설 의심 지역 건설 활동 급증 보고",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjFtSEtHcHhuYUNqdHRUanEyRnU4cF9lVEh5dDNhZTN1aG1YSnRLdDNlMVM5dlRnc25EVDQzUERONzg4Q0JuSk9CMzdxM3VOaUdXZUZQamEtRHRKdmVFSVMzMGdlNmt4UDBHemJ6T3YySEwyMHdBZGpJa2dYc182Zmk4cGRIRXFBSXp0QzRkT0V0S1pQNVRnVjZzbzVoTHgwbi1WdlU0TzRTM3ZtdDZBV19jYw?oc=5",
-      "summary": "이란의 핵 시설로 의심되는 지역에서 건설 활동이 급증하고 있다는 CNN의 보도가 나왔다. 이는 이란의 핵 프로그램에 대한 국제 사회의 우려를 다시 키우고 있다. 핵 확산 금지 노력과 중동 지역 안보에 중대한 영향을 미칠 수 있다.",
-      "pub_date": "2026-09-10T20:57:00+00:00"
+      "title": "국방부 장관 피트 헵셋, 9/11 이후 미국의 대응과 이란 전쟁을 연관시켜",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVBWTEx6VW83Z191a3ZPUklBUGZjQWxxZ0l0Z2tzMnFPWFlFZ2N0b2hzT2FiZDNhQXVsUzk0YjNfSzh3ZUg3MEllVTNzQWtTUHc3aFR0MnFVb3YySWRMeWlxcmlveUd2ZDUtWlJ3M0RCUk4yN2thNUFGZVNQRmFwaU5R?oc=5",
+      "summary": "피트 헵셋 국방부 장관이 9/11 테러 이후 미국의 대응을 이란 전쟁과 연관시키는 발언을 했습니다. 이는 9/11 기념 행사를 통해 중동 정책에 대한 미국의 입장을 재확인하려는 의도로 보입니다. 해당 발언은 이란에 대한 강경한 정책의 정당성을 부여하려는 시도로 해석될 수 있습니다.",
+      "pub_date": "2026-09-11T14:44:49+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "인기 관광지서 치명적인 화재로 페리 전소",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1FlSHIzeXNPclEzLWxDRGpkOUlpSm1DSDhEYk5Hbm9NWDBvWUZfNjdIVDVTQllkbnNFaTB6a3cxcnJ6eHBMTndySi1ISFRROFFwanEyZk9hUzFpMmp0RVVtNmJPaE44bVRRNHZwM1BjdGZKMWlfcWhnMkZPai1VSm9tZTQ3MHN3eHhHbVRCanA?oc=5",
-      "summary": "인기 관광지에서 발생한 치명적인 화재로 페리선이 전소되는 사고가 발생했다. 이 사고로 인한 인명 피해 규모는 아직 정확히 파악되지 않고 있으나 클 것으로 예상된다. 해당 지역의 관광 산업과 안전 규정에 대한 재평가가 필요하다.",
-      "pub_date": "2026-09-10T11:22:22+00:00"
+      "title": "푸틴, 브릭스(BRICS) 정상회의 앞두고 인도 도착",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQl9tOGJVN2c3TDBnNE16VVF3XzBMbU1xdHhfcHF2X3FBeXJac29zeDB2ZkJGT0NjaEp1b0FHcllSczJJN2pyYW9yZnpFeVJfQUwtR0JLVUowc0lMRVNHQlV2dXFBcTdHSDFQcUh2RlFTOVpDeE9JaVR5RlhlTnJmRnZQUnZaakZYZ0JqaTB5OGZSQTVPUjEzM2NLblpFaUNMMjJLV090N0sxWVBESFVfR0plWmtOUlNBNjhIZVlWcVdoaE1icW9HbEdmSTd4WVIxTXdv?oc=5",
+      "summary": "블라디미르 푸틴 러시아 대통령이 브릭스(BRICS) 정상회의 참석을 위해 인도에 도착했습니다. 이번 정상회의는 주요 신흥 경제국들의 연합이 서방 중심의 질서에 대항하는 중요한 자리입니다. 푸틴의 참여는 국제 정세에서 러시아의 입지를 강화하려는 의도로 풀이됩니다.",
+      "pub_date": "2026-09-11T09:08:03+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "이란 지원 반군, 홍해 주요 요충지 항구 장악하며 영향력 확대",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEhpT3Roakh4QTBSRmE5Q3NsS3hIcS12MWEzMXRhZHRaNjZPRjJuXzJ6T0RtdDJwQnpTWmlWaGlKZjhhWFU5b2RpQ1ZqaVl4clNHeEN6ZFJUc0szOXRXVGhnZkI2MmRjUHNibmRsTVpUald4RHducEhETkpoUzR1RXZWWVFwUVZ5bkdZ?oc=5",
-      "summary": "이란의 지원을 받는 반군이 홍해의 주요 해상 요충지 항구를 장악하며 해당 지역에 대한 통제력을 강화했다. 이는 글로벌 해상 운송로에 대한 위협을 높이며 국제 유가를 포함한 경제적 파장을 초래할 수 있다. 중동 지역의 긴장감이 한층 고조될 전망이다.",
-      "pub_date": "2026-09-10T16:42:15+00:00"
+      "title": "사우디아라비아 송유관 시스템, 발사체 공격으로 화재 발생",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOVgtNTZUTXozam1pQjBxQnJCZmtCbDV1NWwwWmJvWk9qVm51MTg2VnI0cXl3T1poSUJoWHBqYWdRNGVlYVZGYWVMQW9MY2VEeFB6d1VnbjJqMzFQcC1tTVB2YkxCb182b0lhdkVDbHVha0Y0UzdqcVRQNTk0dXFlZm5vaklwaE9MZlc5TVhUYVZ3N2wyclVweVV1NVlwdC1YQTJITnNDak5XdVVVVGhVNGstbmZjSWF4TVN2emNoQVJBNHZUZEN4MWV1WmVTajBzTlJ2dWdrUXg5bGt3V2x2SHFueks2UW1UZXd1cHpSN2poNnfSAfMBQVVfeXFMTzlYLTU2VE16M2ptaUIwcUJyQmZrQmw1dTVsMFpib1pPalZudTE4NlZyNHF5d09aaElCaFhwamFnUTRlZWFWRmFlTEFvTGNlRHhQendVZ24yajMxUHAtbU1QdmJMQm9fNm9JYXZFQ2x1YWtGNFM3anFUUDU5NHVxZWZub2pJcGhPTGZXOU1YVGFWdzdsMnJVcHlVdTVZcHQtWEEySE5zQ2pOV3VVVVRoVTRrLW5mY0lheE1TdnpjaEFSQTR2VGRDeDFldVplU2owc05SdnVna1F4OWxrd1dsdkhxbnpLNlFtVGV3dXB6UjdqaDZ3?oc=5",
+      "summary": "사우디아라비아의 주요 송유관 시스템이 미상의 발사체 공격을 받아 화재가 발생했습니다. 이 사건은 중동 지역의 안보 위협을 심화시키고 국제 유가 불안정을 초래할 수 있습니다. 사우디 당국은 공격 배후를 조사 중이며, 지역 긴장이 고조되고 있습니다.",
+      "pub_date": "2026-09-11T18:03:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "전 이스라엘 총리, \"네타냐후는 10월 7일 공격 전에 분명 경고받았다\" 주장",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcElKQ3FWMVhoMlRKMHp0YVdGMmxDcDBzWWlzem1RQUhyak5hOUg5SjJvb0FxOVpRMkxYTWFwd1lWU3Bta1NVeHZOUGQ5TUUtV0xkMkNwUVJIQUZYNU9aS1FHZHBJMkZHbFZXdzV0R3I5RlY0TjVmNE9iMjNGaGk1elJsbw?oc=5",
-      "summary": "전 이스라엘 총리가 베냐민 네타냐후 현 총리가 작년 10월 7일 하마스 공격 이전에 \"분명히 경고를 받았다\"고 주장하며 논란이 커지고 있다. 이 발언은 네타냐후 총리의 위기 관리 능력과 사전 정보 대응 실패 논란을 재점화하고 있다. 이스라엘 국내 정치 및 안보 상황에 중대한 영향을 미칠 것으로 보인다.",
-      "pub_date": "2026-09-10T17:27:03+00:00"
+      "title": "9/11 관련 질병 희생자들을 위한 새로운 추모의 시간",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aczcyVE4tdllDX1pCSHhqLXpnZlM4SHlWZGpsd1VhVkZrY3pGbUtzNDN6UHIxM0F5WjVvZmNnVWRoV0dCOUVMemxCcExMWWowTVQ1Z1Rxc2UyZGhVV1pfNFRZUVBxSEgwZHc?oc=5",
+      "summary": "9/11 테러와 관련된 질병으로 고통받거나 사망한 희생자들을 기리기 위한 새로운 추모의 시간이 마련되었습니다. 이는 테러 생존자와 구조대원들의 장기적인 건강 문제에 대한 인식을 높이고 있습니다. 공동체는 희생자들을 기억하고 그들의 고통에 공감하는 모습을 보이고 있습니다.",
+      "pub_date": "2026-09-11T17:20:19+00:00"
     }
   ]
 }
