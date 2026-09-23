@@ -1,421 +1,413 @@
 {
-  "last_updated": "2026-09-22T23:29:59.829863+00:00",
+  "last_updated": "2026-09-23T23:28:43.409922+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "이 대통령, 유엔 총회에서 한반도 평화 구상 기조연설",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766734&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "이 대통령이 유엔 총회에서 한반도 평화에 대한 청사진을 제시하는 기조연설을 했습니다.북한 비핵화를 통한 평화 공존을 강조하며 국제사회 협력을 촉구했습니다.이번 연설은 한국의 대외 정책 방향을 알리는 중요한 자리였습니다.",
-      "pub_date": "2026-09-22T22:14:00+00:00"
+      "title": "이 대통령-트럼프, 뉴욕서 정상회담…전작권, 대미 투자, 핵잠수함 등 주요 현안 논의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008767563&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령과 트럼프 대통령이 뉴욕에서 정상회담을 가졌다.양국 정상은 전시작전통제권, 대미 투자, 핵잠수함 도입 등 주요 현안을 논의했다.이번 회담은 양국 간 핵심 의제에 대한 심도 깊은 협력을 확인하는 자리였다.",
+      "pub_date": "2026-09-23T02:24:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "비교적 안전한 곳에서 폭발 발생, 북한 지뢰 가능성 증폭",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766927&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "비교적 안전한 지역에서 폭발 사건이 발생하여 북한 지뢰일 가능성이 커지고 있습니다.군은 현장 조사와 함께 추가 도발 가능성을 주시하고 있습니다.국방 당국은 긴장 고조에 대비해 경계 태세를 강화하고 있습니다.",
-      "pub_date": "2026-09-22T22:35:00+00:00"
+      "title": "이 대통령 \"트럼프, 북미 대화 의지 확인…전략 투자 등 협력 논의\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768076&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령은 트럼프 대통령과 북미 대화 의지를 확인했다고 밝혔다.또한 전략적 투자 등 다양한 분야에서의 협력을 논의했다.이번 만남은 한반도 평화와 경제 협력에 대한 기대감을 높였다.",
+      "pub_date": "2026-09-23T07:14:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 유엔 연설에서 이란 전멸 위협하며 승자독식 비전 제시",
-      "link": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
-      "summary": "트럼프 대통령이 유엔 연설에서 이란에 대한 강경한 태도를 보이며 전멸 위협까지 언급했습니다.그는 미국 우선주의에 입각한 승자독식 형태의 국제 질서 비전을 제시했습니다.이번 연설은 국제사회에 큰 파장을 불러일으키고 있습니다.",
-      "pub_date": "2026-09-22T22:49:15+00:00"
+      "title": "미국의 인공지능(AI) 리더들, 글로벌 대응 부재 시 발생할 수 있는 위험에 대해 UN에 경고",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "summary": "미국의 주요 인공지능(AI) 분야 리더들이 UN에 공식 경고를 보냈다.이들은 전 세계적인 협력과 대응이 없을 경우 AI 기술로 인한 심각한 위험이 발생할 수 있다고 우려했다.AI 기술의 잠재적 위험성에 대한 국제적 논의와 공동 대응의 필요성이 강조되었다.",
+      "pub_date": "2026-09-23T23:01:35+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "젤렌스키, 트럼프에게 겨울 전 러시아-우크라이나 전쟁 종식을 위한 도움 희망",
-      "link": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html",
-      "summary": "젤렌스키 대통령이 트럼프 전 대통령에게 러시아-우크라이나 전쟁이 겨울이 오기 전에 끝나도록 도와달라고 요청했습니다.이는 전쟁 장기화에 대한 우려와 함께 미국의 영향력에 기대를 건 것으로 보입니다.트럼프의 개입 가능성에 국제사회의 관심이 집중되고 있습니다.",
-      "pub_date": "2026-09-22T20:10:43+00:00"
+      "title": "트럼프 대통령이 시진핑 주석을 환영하는 동안, 중국에 대한 미국인들의 긍정적 시각 증가",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
+      "summary": "트럼프 대통령이 시진핑 주석을 맞이하는 시점에, 중국에 대한 미국인들의 긍정적인 인식이 높아지고 있다.이는 미중 관계의 변화와 대중 여론의 추이를 보여주는 지표로 해석될 수 있다.양국 간 외교적 교류가 국민 인식에 미치는 영향에 관심이 쏠린다.",
+      "pub_date": "2026-09-23T22:09:12+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "언론 풀 철수 후 언론 불매 운동에 직면한 트럼프",
-      "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
-      "summary": "트럼프 대통령이 백악관 출입기자단 철수 조치 이후 언론의 보이콧에 직면했습니다.주요 언론사들이 트럼프 대통령 보도를 중단하거나 축소하는 움직임을 보이고 있습니다.이는 언론의 자유와 대통령실과의 관계에 대한 논란을 심화시키고 있습니다.",
-      "pub_date": "2026-09-22T18:55:23+00:00"
+      "title": "트럼프 대통령, 푸틴 대통령을 마이애미 G20 정상회담에 초청",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html",
+      "summary": "트럼프 대통령이 블라디미르 푸틴 러시아 대통령을 마이애미에서 열릴 G20 정상회담에 초대했다.이는 미국과 러시아 간 관계 개선 노력의 일환으로 풀이된다.국제 사회는 이번 초청이 양국 관계 및 글로벌 정치에 미칠 영향에 주목하고 있다.",
+      "pub_date": "2026-09-23T21:40:28+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 북핵 고도화 중단 및 축소 거쳐 핵 없는 한반도 목표 제시",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260923050006tYc",
-      "summary": "이 대통령이 유엔 총회 연설에서 북핵 문제 해결 방안을 제시했습니다.북한의 핵 고도화 중단과 핵 축소를 거쳐 핵 없는 한반도를 만들겠다고 밝혔습니다.이는 한반도 평화 구축을 위한 한국의 강력한 의지를 나타냅니다.",
-      "pub_date": "2026-09-22T20:00:06+00:00"
+      "title": "이 대통령, 2박 3일 뉴욕 일정 마무리…국빈 방문 멕시코로 출국",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260924051851JzQ",
+      "summary": "이 대통령이 2박 3일간의 뉴욕 방문 일정을 성공적으로 마쳤다.이후 국빈 방문 차 멕시코로 출국하며 다음 외교 무대를 이어간다.이번 순방은 주요 국제 현안 논의와 양국 관계 강화에 집중되었다.",
+      "pub_date": "2026-09-23T20:18:51+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "대미 투자 1호 사업은 텍사스 가스발전, 여야 긴밀한 사후 관리 촉구",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260923064436Kzr",
-      "summary": "한국의 대미 투자 프로젝트 1호 사업으로 텍사스 가스발전 투자가 확정되었습니다.이는 대규모 경제 협력의 시작을 알리는 중요한 신호입니다.여야는 이번 투자의 성공적인 진행을 위해 긴밀한 사후 관리를 당부했습니다.",
-      "pub_date": "2026-09-22T21:44:38+00:00"
+      "title": "이 대통령 \"트럼프와 군함 건조 등 조선 협력 논의…성과 기대\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260923233853pUS",
+      "summary": "이 대통령은 트럼프 대통령과의 회담에서 군함 건조 등 조선 분야 협력을 논의했다고 밝혔다.양국 간 실제적인 성과를 기대한다고 덧붙여 강조했다.이는 방위산업 및 경제 협력의 확대를 시사한다.",
+      "pub_date": "2026-09-23T14:38:54+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "트럼프, 번햄과 사업 가능성 언급하며 차고스 협상 맹비난",
+      "title": "번햄 시장, \"영국은 러시아 허위 정보와 싸우고 새로운 글로벌 AI 표준을 추진할 것\" 발표",
+      "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+      "summary": "번햄 시장은 영국이 러시아의 허위 정보에 적극적으로 대응할 것이라고 밝혔다.또한 새로운 글로벌 인공지능(AI) 표준을 설정하기 위해 노력할 것이라고 강조했다.이는 국가 안보와 미래 기술 거버넌스에 대한 영국의 강력한 의지를 보여준다.",
+      "pub_date": "2026-09-23T16:26:40+00:00"
+    },
+    {
+      "category": "정치",
+      "outlet": "BBC",
+      "title": "트럼프, 번햄 시장과는 사업할 수 있지만 '끔찍한' 차고스 제도 거래 비판",
       "link": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
-      "summary": "트럼프 대통령이 영국 번햄 총리와의 사업 가능성을 시사하면서도 차고스 제도 관련 협상을 맹렬히 비판했습니다.그는 해당 협상이 '끔찍하다'고 평가하며 영국의 대외 정책에 대한 불만을 드러냈습니다.두 정상 간의 미묘한 관계와 국제적 이해관계가 부각되고 있습니다.",
+      "summary": "트럼프 대통령은 번햄 시장과의 사업 가능성을 시사했다.그러나 동시에 '끔찍하다'며 차고스 제도 거래를 강하게 비판했다.이는 양측 간의 복잡한 정치적 관계와 현안에 대한 입장 차이를 드러낸다.",
       "pub_date": "2026-09-22T21:22:36+00:00"
     },
     {
       "category": "정치",
-      "outlet": "BBC",
-      "title": "데이비, 영국이 유럽연합 단일 시장 재가입 시 수백만 명 세금 감면 약속",
-      "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-      "summary": "데이비 리버럴 민주당 대표가 영국이 유럽연합 단일 시장에 재가입할 경우 수백만 명에게 세금 감면을 약속했습니다.이는 브렉시트 이후 경제 활성화를 위한 주요 공약으로 주목받고 있습니다.해당 제안이 영국 경제 및 정치에 미칠 영향에 관심이 모이고 있습니다.",
-      "pub_date": "2026-09-22T16:50:29+00:00"
-    },
-    {
-      "category": "정치",
       "outlet": "조선일보",
-      "title": "청와대, 대법원장 대법관 재제청 거부에 깊은 유감 표명하며 헌법 위배적 인식 지적",
-      "link": "https://www.chosun.com/politics/politics_general/2026/09/22/UGSUN5TLJJBDPKASACD5H64YYA/",
-      "summary": "청와대가 대법원장의 대법관 재제청 거부 결정에 대해 깊은 유감을 표했습니다.청와대는 이번 결정이 헌법에 위배되는 인식을 보여준다고 강하게 비판했습니다.이는 사법부와 행정부 간의 갈등이 심화될 수 있음을 시사합니다.",
-      "pub_date": "2026-09-22T03:38:34+00:00"
+      "title": "안철수 \"조희대 대법원장, 이 대통령의 '제청 불개입' 선언 전까지 대법관 제청 말아야\"",
+      "link": "https://www.chosun.com/politics/assembly/2026/09/23/MRB24FHPQBG3VK6NERRLXIYTYU/",
+      "summary": "안철수 의원이 조희대 대법원장을 향해 대법관 제청 중단을 요구했다.그는 이 대통령의 '제청 불개입' 선언이 있을 때까지 기다려야 한다고 주장했다.이번 발언은 사법부 인사를 둘러싼 정치권의 갈등을 심화시키고 있다.",
+      "pub_date": "2026-09-22T23:32:19+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "CNN, MS NOW, 폴리티코, 트럼프 백악관 출입 금지 조치에 소송 제기",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5V2F1ZTZjdWJmb1NpNHZXNHZTSVZSa0FsNjAtQnJycGh1YXZ4aUZ4UVN0c2YwOWlYVHJIeWtBVHF4R1pxRm1mV094RTRGaHZrQlNJZmp2QjhseEU?oc=5",
-      "summary": "CNN, MS NOW, 폴리티코 등 주요 언론사들이 트럼프 행정부의 백악관 출입 금지 조치에 대해 소송을 제기했습니다.이는 언론의 자유와 취재권을 둘러싼 논란이 법정 다툼으로 이어진 것을 의미합니다.이번 소송 결과는 향후 언론과 정부 관계에 중요한 영향을 미 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-09-22T00:16:06+00:00"
+      "title": "CNN 여론조사, 경제 상황 악화로 트럼프의 중간선거 고심 심화",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFJTTdNM2F3MDFnU1BsRkJLRHhyalB5MWxzd0lTUWhZeUkxeEZzcFhKQmpja0EtZHJWbndrc3ZPcVFQd0pQZEM5bkV0NjJVT3BRQzZkTF92UndwZ3kwUTdqRUpuR2Q2WkVaRGhxcENTOWVoUFM5Q2ZuaFZVVk9UVno3X1RHRkxjMEE?oc=5",
+      "summary": "CNN 여론조사에 따르면, 경제 상황 악화가 트럼프 대통령의 중간선거에 대한 우려를 깊게 하고 있다.이는 트럼프 행정부에 대한 유권자들의 불만을 반영하는 것으로 보인다.다가오는 중간선거 결과에 경제 이슈가 큰 영향을 미칠 전망이다.",
+      "pub_date": "2026-09-23T09:00:29+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 이란 문제에 대해 큰 결정 예고: 협상 또는 국가 전멸",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmFJNEJSQzUwYlJRQ25yaW1lbEtKVnB3OXNZNzhwT1JERTEyUnNQcGhVSFo3UjBUUk82R1BXQ0VDN2FjNTdpdE0wbVlGeEZHMFZHR3VNUGhNMndERFVmSjNPQVNpUVVMNUpfNGRyeXN4U2JSX1hjZ01BcHZxdHJ1aUFZanlNSk9nV25jbTlUTGc0dS1zbFhoQzFxOF9oSGU5aXVERHZOU25jN3Rnd0RxajNnd0kxNTZhUm5WMlZhcw?oc=5",
-      "summary": "트럼프 대통령이 이란 문제와 관련하여 '큰 결정'을 내릴 것이라고 암시했습니다.그는 이란과의 협상 가능성과 함께 국가를 '전멸'시킬 수 있다는 극단적인 발언을 했습니다.이는 중동 정세의 긴장을 고조시키고 국제사회의 우려를 키우고 있습니다.",
-      "pub_date": "2026-09-22T16:18:00+00:00"
+      "title": "트럼프 대통령, 재임 기간 중 최저 지지율 기록…원인은 무엇인가?",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEdfRk5hdEVxSndMU2w2dDVBVkt6aHpLMkNlbl81QVFkTV9sU3J3VFptM1h3Y3RkLWFRcm1QaGk2NUZtLS03MlBCZ0NObnh4b3pJOVF6S0hxRGxESU8wN2xkYVVlbjd6X2xKcmQxYXZpelBCb1RuR1hkN2x1Q2V1RkNmSEM1VEpNODE2MjBqaDlYWGJIaXc?oc=5",
+      "summary": "트럼프 대통령의 지지율이 재임 기간 중 가장 낮은 수치를 기록했다.전문가들은 이러한 지지율 하락의 원인을 분석하고 있다.이번 지지율은 향후 정치적 행보에 중요한 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-09-23T16:16:15+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "새로운 CNN 여론조사, 이란 전쟁 관련 트럼프의 지지율에 균열 포착",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTdnWnE4dXVVWW5mOFZyeV9VV0FDaEcwMnBRQm84R19zUjRlTkJJREcwcXdXY3pBWDd3T1J5cVBXVWdUOXEzMm1WTlAzd18xV0pfY2Fxc3cyajNQRWdXTFhfb3J1NUlyY3FiOVhvX2syQTJ1NEtTWWlOZ1hNaEFMTWZoZFIyM1V1eHBld2FtSQ?oc=5",
-      "summary": "새로운 CNN 여론조사 결과, 이란 전쟁에 대한 트럼프 대통령의 처리 방식에 대한 공화당 지지자들의 지지에 균열이 발생했습니다.이는 트럼프의 외교 정책에 대한 당내 비판이 커지고 있음을 시사합니다.향후 트럼프의 정치적 입지에 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-09-22T09:00:29+00:00"
+      "title": "기자 출입 금지 옹호하며 법무부, \"트럼프 볼룸 프로젝트, 이란 전쟁 보도가 국가 안보 위협\" 주장",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDNDLU94QWZmOHZTUzNicXFkSXljamstLXgwR3Rpd21TNVA3TTFYaklHdjcwc0ZMV2pGTnJoUWk3eC1KOS1QUHo0NzVXMUF2YWlGYWhNV2lfWHkxSFRtbjdoNTl3aTk5MElQLUZ1ek53R1RtRW9qNjlYYWZlNmtoUkRKQzZKYUV2Tmc5dHpTb3h5UFlQZGdqaQ?oc=5",
+      "summary": "법무부는 기자 출입 금지 조치를 옹호하며 해당 조치가 국가 안보를 위한 것이라고 밝혔다.특히 트럼프의 볼룸 프로젝트와 이란 전쟁 관련 보도가 국가 안보를 위협할 수 있다고 주장했다.언론의 자유와 국가 안보 간의 논쟁이 심화될 것으로 보인다.",
+      "pub_date": "2026-09-23T03:57:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프와 시진핑, 미중 정상회담에서 인공지능 위험 및 경쟁 논의 예정",
-      "link": "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html",
-      "summary": "트럼프 대통령과 시진핑 주석이 미중 정상회담에서 인공지능(AI)의 위험성과 AI 분야에서의 경쟁에 대해 논의할 예정입니다.이는 양국 간 기술 패권 다툼과 AI 규범 마련에 대한 국제사회의 관심을 반영합니다.정상회담 결과가 글로벌 AI 산업에 큰 영향을 미칠 것으로 보입니다.",
-      "pub_date": "2026-09-22T17:48:08+00:00"
+      "title": "투자자들, 연방준비제도(Fed)의 추가 금리 인상 전망에 채권 수익률 급등",
+      "link": "https://www.nytimes.com/2026/09/23/business/bonds-interest-rates.html",
+      "summary": "투자자들이 연방준비제도(Fed)의 추가 금리 인상을 예상하면서 채권 수익률이 급등했다.이는 시장의 금리 인상 기대감이 반영된 결과로 분석된다.향후 금리 정책 방향에 대한 관심이 집중되고 있다.",
+      "pub_date": "2026-09-23T21:10:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "국제 유가 배럴당 100달러 이하로 하락",
-      "link": "https://www.nytimes.com/2026/09/22/business/saudi-oil-pipeline-hormuz.html",
-      "summary": "국제 유가가 배럴당 100달러 아래로 떨어졌습니다.이는 글로벌 경제의 불확실성 증가와 수요 둔화 우려에 따른 것으로 분석됩니다.유가 하락은 소비자와 기업에 긍정적인 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-09-22T20:05:51+00:00"
+      "title": "트럼프 행정부, 사기 주장하며 오바마케어 시장에서 75만 명 축출",
+      "link": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html",
+      "summary": "트럼프 행정부가 사기를 이유로 오바마케어 시장에서 75만 명을 퇴출시켰다.이 조치는 건강보험 접근성에 대한 논란을 다시 불러일으키고 있다.정부의 주장과 정책의 정당성에 대한 논쟁이 예상된다.",
+      "pub_date": "2026-09-22T23:33:24+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "파라마운트, 주 정부 소송 해결하며 워너 브라더스 합병 절차 진행",
-      "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-      "summary": "파라마운트가 주 정부와의 소송을 해결하며 워너 브라더스와의 합병 절차를 순조롭게 진행하게 되었습니다.이번 합병은 미디어 업계에 거대한 변화를 가져올 것으로 예상됩니다.할리우드 거대 기업의 탄생이 엔터테인먼트 시장에 미칠 영향에 주목하고 있습니다.",
-      "pub_date": "2026-09-22T07:55:00+00:00"
+      "title": "노조, 직장에서의 인공지능(AI) 위협에 어떻게 대응하고 있는가",
+      "link": "https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html",
+      "summary": "노동조합들이 직장에서의 인공지능(AI) 기술 확산에 따른 위협에 직면하고 있다.이들은 AI가 일자리에 미칠 영향에 대비하여 새로운 대응 전략을 모색 중이다.기술 발전과 노동권 보호 사이의 균형을 찾는 것이 중요해졌다.",
+      "pub_date": "2026-09-23T03:26:47+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "IMF, 차입 비용 증가에 따라 선진국에 부채 감축 촉구",
-      "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-      "summary": "국제통화기금(IMF)이 차입 비용 증가에 직면한 선진국들에게 부채 감축을 강력히 권고했습니다.이는 글로벌 금리 인상 기조 속에서 각국 재정 건전성 확보의 중요성을 강조합니다.IMF의 권고가 각국 정부의 경제 정책에 어떤 영향을 미 미칠지 주목됩니다.",
-      "pub_date": "2026-09-22T23:01:28+00:00"
+      "title": "오픈AI와 앤트로픽 대표들, UN에 글로벌 인공지능(AI) 규제 촉구",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "summary": "인공지능(AI) 선두 기업인 오픈AI와 앤트로픽의 최고 경영자들이 UN에 나섰다.이들은 AI 기술의 윤리적이고 안전한 발전을 위한 글로벌 규제 마련을 강력히 촉구했다.이는 AI의 잠재적 위험에 대한 국제사회의 공동 대응 필요성을 강조한다.",
+      "pub_date": "2026-09-23T22:35:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "영국 예상치 못한 차입 급증, 재무장관 예산안 압박 가중",
-      "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국에서 예상치 못한 차입 급증으로 인해 재무장관의 예산안 부담이 커지고 있습니다.이는 높은 인플레이션과 경제 불확실성이 지속되는 가운데 발생했습니다.정부는 재정 건전성 확보와 경제 성장이라는 두 가지 목표 사이에서 고심할 것으로 보입니다.",
-      "pub_date": "2026-09-22T08:52:12+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "서울경제",
-      "title": "병원 개업 사기 대출로 뚫린 신용보증기금, 브로커 관련 보증액 4천억 원",
-      "link": "https://www.sedaily.com/article/20094221",
-      "summary": "신용보증기금이 병원 개업을 위한 사기 대출에 취약한 모습을 보이며 막대한 피해를 입었습니다.브로커와 연루된 보증 금액이 무려 4천억 원에 달하는 것으로 드러났습니다.이는 공공 금융기관의 허술한 관리 시스템과 도덕적 해이를 지적하는 심각한 문제입니다.",
-      "pub_date": "2026-09-22T21:20:05+00:00"
+      "title": "영국, 예산 발표 앞두고 부채 비용 증가 및 성장 둔화 경고 받아",
+      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+      "summary": "영국은 예산안 발표를 앞두고 부채 비용이 급증하고 성장률이 둔화될 것이라는 경고를 받았다.국제통화기금(IMF) 등 주요 기관들은 영국 경제의 취약성을 지적했다.정부는 재정 건전성 확보와 경제 회복을 위한 대책 마련에 압박을 받고 있다.",
+      "pub_date": "2026-09-23T13:50:25+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "일본 시장이 미국에 중요한 이유",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WOFhYUjRVQ0t3LTFoOWxVQmtMOWRpUFRpUzZIZ2RuTGpXTG5RWFU0XzhlQnRZaFJISTlucXhmaGZJa3d1cWtncjI1RXIxZk44UnREcm1pMmFXY1U3OGNrYzZtcl83Qjd6VDkyY1RzTm12dw?oc=5",
-      "summary": "일본 시장이 미국 경제에 미치는 중요성에 대한 심층 분석입니다.두 국가 간의 경제적 상호 의존성과 무역 관계가 조명됩니다.일본 시장의 변화가 미국 경제에 미치는 파급 효과에 대한 이해를 돕습니다.",
-      "pub_date": "2026-09-22T04:01:29+00:00"
+      "title": "CNN 여론조사, 경제 상황 악화로 트럼프의 중간선거 고심 심화",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFJTTdNM2F3MDFnU1BsRkJLRHhyalB5MWxzd0lTUWhZeUkxeEZzcFhKQmpja0EtZHJWbndrc3ZPcVFQd0pQZEM5bkV0NjJVT3BRQzZkTF92UndwZ3kwUTdqRUpuR2Q2WkVaRGhxcENTOWVoUFM5Q2ZuaFZVVk9UVno3X1RHRkxjMEE?oc=5",
+      "summary": "CNN 여론조사에 따르면, 경제 상황 악화가 트럼프 대통령의 중간선거에 대한 우려를 깊게 하고 있다.이는 트럼프 행정부에 대한 유권자들의 불만을 반영하는 것으로 보인다.다가오는 중간선거 결과에 경제 이슈가 큰 영향을 미칠 전망이다.",
+      "pub_date": "2026-09-23T09:00:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "주요 텔레비전 방송사들, CNN 금지 조치에 항의하며 트럼프 영상 보도 중단",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0ZlZkJfcDJHdnZJNEdzbTNZclVmRGFWZFYwNTNIeThSYThqQTg0Y2ZVNy1fS0FBRjlmRnhvYlB4aUlra19XSlYzTGJIMFhHYXo0Y1lZVEFhTURKQXotTjlrM1Z6MkMzUVJWdmlJeDl0bXJvcEtzUVB0TjhsZEhhYzM5dXJfOWVwY2NTLWNNTHNBc0lZLUdQdnBSTnI0QQ?oc=5",
-      "summary": "CNN에 대한 트럼프 대통령의 보도 금지 조치에 항의하여 주요 텔레비전 방송사들이 트럼프의 영상 보도를 중단했습니다.이는 언론의 자유를 수호하기 위한 언론계의 공동 대응으로 해석됩니다.이번 조치가 향후 언론과 정부 관계에 미칠 파장에 이목이 쏠리고 있습니다.",
-      "pub_date": "2026-09-22T04:05:00+00:00"
+      "title": "시진핑 주석의 마지막 미국 국빈 방문 이후 많은 것이 변했으며, 대부분 중국에 유리하게 흘러갔다.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SUzN3dU5lTG5sbm5YRjQyLVUzdEV6cnBOV0NrX0UwR3plVHFwTUFCd3dwUzVHdXZ2alJEWlBLRm9HVVBwZG9fYTNXVUs0Tm5vbWlGTTRVYmZ0Y1BHd3lYR0hOeVFSY2NxLTRsNk8tSEhLeXRja0pybnU2Y2M?oc=5",
+      "summary": "시진핑 주석의 이전 미국 국빈 방문 이후 양국 관계에 큰 변화가 있었다.대부분의 변화는 중국에 더 유리한 방향으로 진행되었다는 분석이 나온다.미중 간의 역학 관계 변화가 글로벌 경제에 미칠 영향이 주목된다.",
+      "pub_date": "2026-09-23T04:00:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "최신 경제 동향 영상 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWZvMlBJSVVRdGhPWDdLb1BHSlk0dEp3SEctd2c4RTVyRXNxdnNRbmNWeXhjQ2hvVWZNY05WWjZNOTdIR1JEUkN2WlM4ZUtaV0UzOVk1YjlhcUdkUlBKS0M3bDFGUWF2X19hZEhBcTVJTXdqMFdzV0Y2V0hHSzBvQXdhN254RTUxWlYtT0tB?oc=5",
-      "summary": "CNN의 최신 경제 동향을 다루는 영상 뉴스가 공개되었습니다.주요 시장 지표와 산업별 분석을 통해 현재 경제 상황을 전달합니다.투자자와 일반 대중에게 중요한 경제 정보와 인사이트를 제공합니다.",
-      "pub_date": "2026-09-22T14:00:32+00:00"
+      "title": "트럼프 대통령의 지지율, 이번 주 두 여론조사에서 최저치 기록",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXd2RnVTdWhBZ1RsTWtRaWNkWEpFM3Vpd3A2OG5xMDNQS3N2WlpUYnpYcEYxRnI2U3c2VG1xMTV1U1JObUJMSHJUSUd0cnJpTVEwQ1FkczVFVnZIUll3eXg1ZWJZbklRdGZ3UFd5MG1VM1R6RjZvRHp5ektKYS1ESnVMZ080aWxzWEtQa1R4ZjhXYTkyUC1KUksyUHY5OXBpMW9FbXFqdllkdW1JbzBfN3pDUFRPdTBPSkFxMUtMZktGcUxmNkN3bXpJcE5ZNjVBY2k5OEF3ekg0QlZsd3U5eA?oc=5",
+      "summary": "트럼프 대통령의 지지율이 이번 주에 발표된 두 건의 여론조사에서 최저치를 기록했다.이는 현 행정부에 대한 대중의 불만을 반영하는 중요한 지표이다.하락세가 지속될 경우 향후 정치적 입지에 큰 영향을 미칠 것으로 보인다.",
+      "pub_date": "2026-09-23T15:24:20+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "퀄컴, 2나노 '스냅드래곤8 엘리트 익스트림 6세대' 공개하며 에이전트 인공지능 시대 선언",
-      "link": "https://zdnet.co.kr/view/?no=20260923053611",
-      "summary": "퀄컴이 2나노 공정 기반의 차세대 칩 '스냅드래곤8 엘리트 익스트림 6세대'를 공개했습니다.이 칩은 '에이전트 인공지능' 시대를 열 것이라고 퀄컴은 강조했습니다.이는 온디바이스 AI 성능을 크게 향상시키며 스마트폰 등 모바일 기기의 혁신을 이끌 것으로 기대됩니다.",
-      "pub_date": "2026-09-22T20:36:11+00:00"
+      "title": "\"스마트폰 다음은 XR\"…퀄컴·삼성·구글, 차세대 폼팩터 3자 연합 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260924053226",
+      "summary": "스마트폰 다음 주력 기기로 확장현실(XR)이 주목받고 있다.퀄컴, 삼성, 구글이 차세대 XR 폼팩터 개발을 위한 3자 연합을 구축했다.이는 XR 시장의 본격적인 성장을 예고하며 기술 경쟁을 가속화할 전망이다.",
+      "pub_date": "2026-09-23T20:32:26+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "KISTI-SKT, 국제 표준 기반 양자암호통신 연동 기술 세계 최초 개발",
-      "link": "https://zdnet.co.kr/view/?no=20260922201119",
-      "summary": "KISTI와 SK텔레콤이 국제 표준을 기반으로 한 양자암호통신 연동 기술을 세계 최초로 개발했습니다.이 기술은 서로 다른 양자암호통신 장비 간의 호환성을 확보하여 상용화 가능성을 높입니다.향후 보안성이 강화된 통신 인프라 구축에 핵심적인 역할을 할 것으로 전망됩니다.",
-      "pub_date": "2026-09-22T11:11:19+00:00"
+      "title": "배터리 교체 없이 마라톤 완주 '라이온2', 네이처지 게재",
+      "link": "https://zdnet.co.kr/view/?no=20260923185129",
+      "summary": "배터리 교체 없이 마라톤을 완주할 수 있는 기술 '라이온2'가 개발되었다.이 기술은 세계적인 과학 저널 네이처(Nature)지에 게재되며 주목받았다.이는 차세대 에너지 저장 기술 발전의 중요한 이정표가 될 것으로 기대된다.",
+      "pub_date": "2026-09-23T15:00:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "인공지능 시대 플랫폼 정책, 사전 규제보다 자율 규제로 산학연 한목소리",
-      "link": "https://www.etnews.com/20260922000467",
-      "summary": "인공지능(AI) 시대의 플랫폼 정책 방향에 대해 산업계, 학계, 연구기관이 한목소리를 냈습니다.이들은 사전 규제보다는 자율 규제를 통해 AI 산업의 혁신을 장려해야 한다고 주장했습니다.정부의 정책 결정에 중요한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-09-22T08:00:00+00:00"
+      "title": "새만금개발청, 현대차그룹 '인공지능(AI) 데이터센터' 건축심의 본격 착수",
+      "link": "https://www.etnews.com/20260922000449",
+      "summary": "새만금개발청이 현대차그룹의 인공지능(AI) 데이터센터 건축심의에 본격적으로 착수했다.이는 새만금 지역의 스마트시티 조성과 AI 산업 육성에 큰 발판이 될 전망이다.대규모 AI 인프라 구축으로 국내 디지털 전환 가속화에 기여할 것으로 기대된다.",
+      "pub_date": "2026-09-23T23:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "PCB 회로, 이제 3D 프린팅으로…티엘비 선폭 60마이크로미터급 양산 기술 확보",
-      "link": "https://www.etnews.com/20260922000293",
-      "summary": "PCB(인쇄회로기판) 회로 제작에 3D 프린팅 기술이 도입되어 새로운 전기를 맞고 있습니다.티엘비는 선폭 60마이크로미터급의 정밀한 PCB를 3D 프린팅으로 양산하는 기술을 확보했습니다.이는 전자제품 소형화 및 고성능화에 기여하며 제조 산업에 혁신을 가져올 것입니다.",
-      "pub_date": "2026-09-22T07:30:00+00:00"
+      "title": "이 대통령, UN 총회서 '건설적 기여국 연대' 제안…“글로벌 AI 허브 조성”",
+      "link": "https://www.etnews.com/20260923000133",
+      "summary": "이 대통령이 UN 총회 연설에서 '건설적 기여국 연대'를 제안했다.특히 한국을 '글로벌 AI 허브'로 조성하겠다는 비전을 밝혔다.이는 국제 사회에서 AI 기술 리더십을 강화하려는 한국 정부의 의지를 보여준다.",
+      "pub_date": "2026-09-23T03:18:39+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "인공지능 트래픽 증가에도 통신사 수익 제자리…망 해법은",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674176",
-      "summary": "인공지능(AI) 트래픽이 폭증하고 있지만, 국내 주요 통신 3사의 수익은 정체 상태인 것으로 나타났습니다.이는 막대한 망 투자 비용과 수익 불균형 문제로, 통신사들의 고민이 깊어지고 있습니다.업계는 망 대가 공정 분담 등 근본적인 해법 마련을 촉구하고 있습니다.",
-      "pub_date": "2026-09-23T08:21:35+00:00"
+      "title": "네이버 빠진 22조 배달의민족 빅딜…우버가 공정위 먼저 찾아간 이유",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674322",
+      "summary": "네이버가 참여하지 않은 22조 원 규모의 배달의민족 빅딜이 성사되었다.이 과정에서 우버가 공정거래위원회를 먼저 찾아간 배경에 관심이 쏠린다.이번 딜은 국내 배달 앱 시장의 지형 변화와 규제 당국의 역할에 주목하게 한다.",
+      "pub_date": "2026-09-23T13:15:55+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "카카오엔터테인먼트, 연내 '카카오페이지'와 '카카오웹툰' 플랫폼 통합 예정",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674277",
-      "summary": "카카오엔터테인먼트가 연내 '카카오페이지'와 '카카오웹툰' 플랫폼을 통합할 계획입니다.이는 콘텐츠 역량을 한데 모아 경쟁력을 강화하고 사용자 편의성을 높이기 위함입니다.국내 웹툰 및 웹소설 시장에 큰 변화를 가져올 것으로 전망됩니다.",
-      "pub_date": "2026-09-22T18:20:48+00:00"
+      "title": "집고 조립·포장까지…리얼월드·로보티즈 '로봇 손' 눈길",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674375",
+      "summary": "리얼월드와 로보티즈가 개발한 '로봇 손' 기술이 주목받고 있다.이 로봇 손은 물건을 집고 조립하며 포장하는 등 다양한 작업을 수행할 수 있다.이는 산업 현장의 자동화와 생산성 향상에 크게 기여할 잠재력을 보여준다.",
+      "pub_date": "2026-09-23T15:11:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "메타, 세계 최초 페타비트급 대서양 횡단 해저 케이블 구축, 2029년 가동 예정",
-      "link": "https://biz.chosun.com/it-science/ict/2026/09/22/HGHTCMTHLZD53GK6SLKHBCQLBI/",
-      "summary": "메타가 세계 최초로 페타비트급 용량의 대서양 횡단 해저 케이블을 구축합니다.이 거대한 인프라는 2029년부터 가동될 예정이며, 글로벌 데이터 트래픽 처리 능력을 혁신적으로 향상시킬 것입니다.이는 AI 및 클라우드 시대에 필수적인 초고속 데이터 통신 환경을 제공할 것으로 기대됩니다.",
-      "pub_date": "2026-09-22T05:19:36+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "조선비즈 IT/Tech",
-      "title": "메타 인공지능 비서 '뮤즈' 돌풍에 주가 11% 급등, 챗GPT 제치고 앱스토어 1위",
+      "title": "메타 인공지능(AI) 비서 ‘뮤즈’ 돌풍에 주가 11% 급등…챗GPT 제치고 앱스토어 1위",
       "link": "https://biz.chosun.com/it-science/ict/2026/09/22/FYOVUWUI7BEYTEE75NX4SVRVMU/",
-      "summary": "메타의 인공지능 비서 '뮤즈'가 앱스토어에서 챗GPT를 제치고 1위를 차지하며 돌풍을 일으켰습니다.이 소식에 메타의 주가가 11% 급등하는 등 시장의 뜨거운 반응을 얻고 있습니다.뮤즈의 성공은 메타의 AI 전략이 결실을 맺고 있음을 보여주며, AI 시장 경쟁을 더욱 가속화할 전망입니다.",
+      "summary": "메타의 인공지능(AI) 비서 '뮤즈'가 출시 후 폭발적인 인기를 끌며 주가가 11% 급등했다.뮤즈는 챗GPT를 제치고 앱스토어 1위에 오르는 기염을 토했다.이는 AI 비서 시장의 새로운 강자 등극을 알리며 관련 산업에 큰 영향을 미칠 전망이다.",
       "pub_date": "2026-09-22T00:56:27+00:00"
     },
     {
       "category": "IT/과학",
+      "outlet": "조선비즈 IT/Tech",
+      "title": "인공지능(AI) 반도체 패키징 증설 몰리는 말레이시아…한국 HBM 관련 수출 1년 새 4.7배 증가",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/22/NGJ2RJYZARGN3JSVXPUEIE6XRA/",
+      "summary": "말레이시아에 인공지능(AI) 반도체 패키징 시설 증설이 집중되고 있다.이는 한국의 고대역폭 메모리(HBM) 관련 수출이 1년 새 4.7배 급증하는 배경이 되었다.글로벌 AI 반도체 수요 증가와 공급망 재편의 흐름을 보여주는 중요한 지표다.",
+      "pub_date": "2026-09-22T01:51:07+00:00"
+    },
+    {
+      "category": "IT/과학",
       "outlet": "NYT",
-      "title": "앤스로픽, 안전성 논란 속 새로운 인공지능 모델 '오푸스 5.5' 발표",
+      "title": "미국의 인공지능(AI) 리더들, 글로벌 대응 부재 시 발생할 수 있는 위험에 대해 UN에 경고",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "summary": "미국의 주요 인공지능(AI) 분야 리더들이 UN에 공식 경고를 보냈다.이들은 전 세계적인 협력과 대응이 없을 경우 AI 기술로 인한 심각한 위험이 발생할 수 있다고 우려했다.AI 기술의 잠재적 위험성에 대한 국제적 논의와 공동 대응의 필요성이 강조되었다.",
+      "pub_date": "2026-09-23T23:01:35+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "앤트로픽, 안전성 논쟁 속 새로운 인공지능(AI) 모델 '오푸스 5.5' 출시",
       "link": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
-      "summary": "인공지능(AI) 기업 앤스로픽이 안전성 논란이 지속되는 가운데 새로운 AI 모델 '오푸스 5.5'를 출시했습니다.이는 더욱 진보된 성능을 갖추고 있지만, AI 개발의 윤리적 문제와 안전성에 대한 논의를 다시 불러일으키고 있습니다.기술 발전과 사회적 책임 사이의 균형을 찾는 것이 중요해지고 있습니다.",
+      "summary": "앤트로픽이 새로운 인공지능(AI) 모델 '오푸스 5.5'를 발표했다.이번 출시는 AI 안전성 및 윤리적 사용에 대한 활발한 논쟁 속에서 이루어졌다.신규 모델의 성능과 함께 안전성 확보 방안에 관심이 집중되고 있다.",
       "pub_date": "2026-09-22T18:06:39+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "캘리포니아 주지사, 인공지능 안전성 관련 행정명령 발표",
-      "link": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
-      "summary": "캘리포니아 주지사가 인공지능(AI) 안전성 강화를 위한 행정명령을 발표했습니다.이는 AI 기술의 급속한 발전 속에서 발생할 수 있는 잠재적 위험에 대비하기 위함입니다.주 정부 차원의 AI 규제 및 안전성 확보 노력이 다른 주에도 영향을 미칠지 주목됩니다.",
-      "pub_date": "2026-09-18T17:27:15+00:00"
+      "outlet": "BBC",
+      "title": "오픈AI와 앤트로픽 대표들, UN에 글로벌 인공지능(AI) 규제 촉구",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "summary": "인공지능(AI) 선두 기업인 오픈AI와 앤트로픽의 최고 경영자들이 UN에 나섰다.이들은 AI 기술의 윤리적이고 안전한 발전을 위한 글로벌 규제 마련을 강력히 촉구했다.이는 AI의 잠재적 위험에 대한 국제사회의 공동 대응 필요성을 강조한다.",
+      "pub_date": "2026-09-23T22:35:14+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "구글 제미나이 인공지능, 보안 테스트 중 세 개 회사 해킹 성공",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "구글의 제미나이 인공지능(AI)이 보안 테스트 과정에서 세 개 회사를 성공적으로 해킹했습니다.이는 AI 시스템의 잠재적 취약성과 보안 위협에 대한 경각심을 높이고 있습니다.AI 개발과 함께 강력한 보안 대책 마련의 중요성이 부각되고 있습니다.",
-      "pub_date": "2026-09-19T13:39:32+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "찰스 3세 국왕, 인공지능 오용 시 '실존적 위협' 경고",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "찰스 3세 영국 국왕이 인공지능(AI)이 잘못된 손에 들어갈 경우 인류에게 '실존적 위협'이 될 수 있다고 경고했습니다.이는 AI의 윤리적 사용과 국제적 규제 필요성을 강조하는 고위급 인사들의 목소리가 커지고 있음을 보여줍니다.국왕의 경고는 AI 기술의 사회적 영향에 대한 논의를 심화시킬 것입니다.",
-      "pub_date": "2026-09-17T14:33:12+00:00"
+      "title": "오픈AI, 우크라이나에 사이버 방어 도구 제공",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "오픈AI가 우크라이나에 사이버 방어 도구를 지원한다고 발표했다.이는 AI 기술이 국가 안보 및 국제 분쟁에 활용되는 중요한 사례이다.기술 기업의 사회적 책임과 AI 기술의 윤리적 사용에 대한 논의를 촉발할 것으로 예상된다.",
+      "pub_date": "2026-09-23T12:01:37+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "민주당 의원, 워싱턴 DC 공항의 새로운 인공지능 도구 도입 중단 촉구",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FTzRqWmFFenU5T3owZG5nanZmSGJZS3R6ejB4X0hvT21NYVh0MDFwOXhWWFFPbWJBMTVNMnBCNkg0NlA0X3FsdjBqb1ZaZXV5d2xndy0tNEVDRjltVTFfME9wZF9MeG16d2ZOSDR6N2tFTU0?oc=5",
-      "summary": "민주당 의원이 워싱턴 D.C. 공항에 도입될 예정인 새로운 인공지능(AI) 도구의 시행 중단을 요구했습니다.이는 AI 기술의 공공 부문 적용에 대한 우려와 윤리적 문제를 제기한 것입니다.해당 AI 도구의 안전성 및 개인 정보 보호에 대한 논의가 확대될 것으로 보입니다.",
-      "pub_date": "2026-09-22T16:47:30+00:00"
+      "title": "해리 왕자, 인공지능(AI)이 개인 관계를 침해할 수 있다고 경고",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnBpV0JXcktBRUctNHlmSWw5LVMzdzZicUJLdDRPaG55UHZxMjdFbkd2Rjg5MUtwWHRMOHZSSXlJMjluZkxTNi1lXzItWmpRZnhKdlhSX1UtcWJENjFrVkdTbW9uelFnUDlSSVJxNktfaHBmRTVsemktdGo4VHVRUkJRX1J0Um5LdGFoZw?oc=5",
+      "summary": "해리 왕자가 인공지능(AI) 기술이 개인의 관계와 삶에 미칠 부정적인 영향에 대해 경고했다.그는 AI가 인간 관계의 본질을 침해할 수 있다고 우려를 표명했다.이는 AI 기술 발전이 초래할 사회적, 윤리적 문제에 대한 논의를 촉발한다.",
+      "pub_date": "2026-09-23T14:02:43+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "스포츠 로봇과 기술의 실험실에서 시장으로의 상용화 과제",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0pFeWJXNTBsV0Z2MmdzSzRWNS1OdzRUd1ZtdWpvVENCQ3ctNENZTkctUTB3cFowal9LT1lRRFRseXR2Y2FraGh6MDRONDB1dXdfbzN5N1VoQUlkajRQdzhwcWJPVGV1Umh0NDhDUmkzS0IxNU9qcVYzc0FKd00tQWZqR2pwY21obFRITmJHaTlqd2k0cExRZTBvX1J1UEhIYkE?oc=5",
-      "summary": "스포츠 로봇 기술이 실험실 연구 단계를 넘어 시장 상용화에 직면한 과제들을 다룹니다.이는 로봇 기술의 실제 스포츠 분야 적용 가능성과 한계를 보여줍니다.기술 개발뿐만 아니라 시장 진입 전략의 중요성이 부각되고 있습니다.",
-      "pub_date": "2026-09-22T04:59:59+00:00"
+      "title": "데이비드 엘리슨, 일론 머스크의 파라마운트 지분 투자에 관심 표명…CNN은 '정말 무섭다'며 우려",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGZhSU53MkxzQWRBZC1jYS04bXZhdC1kSFlLdTBKd1JWbmtxLUMyNjVYR1A5alJ6dlhHSDh0T0VxNjlkOUtUakRtSjlMcktBZTI4VmxaOW5aVlJ3enZiWHZjWFdxRnM5TTJYTWJWdDJwSUhTMEJzbTF0b3p4SThuVkJNTDEyQzFSYUpyd1JOa1I1ZTRkU3lPUGlMdG5PY0dsZElyZk1USQ?oc=5",
+      "summary": "데이비드 엘리슨이 일론 머스크의 파라마운트 지분 투자에 관심을 보인 것으로 알려졌다.이에 CNN에서는 \"정말 무섭다\"며 깊은 우려를 표명했다.미디어 업계의 대규모 투자와 주요 인물의 영향력 확장에 대한 논란이 예상된다.",
+      "pub_date": "2026-09-23T19:22:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "최신 과학 기술 관련 영상 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWZvMlBJSVVRdGhPWDdLb1BHSlk0dEp3SEctd2c4RTVyRXNxdnNRbmNWeXhjQ2hvVWZNY05WWjZNOTdIR1JEUkN2WlM4ZUtaV0UzOVk1YjlhcUdkUlBKS0M3bDFGUWF2X19hZEhBcTVJTXdqMFdzV0Y2V0hHSzBvQXdhN254RTUxWlYtT0tB?oc=5",
-      "summary": "CNN의 최신 과학 기술 관련 동향을 다루는 영상 뉴스가 공개되었습니다.최첨단 연구 성과와 신기술 개발 소식을 전달하며 미래 사회의 변화를 조명합니다.혁신적인 기술들이 우리 삶에 미칠 영향에 대한 정보를 제공합니다.",
-      "pub_date": "2026-09-22T14:00:32+00:00"
+      "title": "인공지능(AI) '배우' 틸리 노우드를 위한 인물은 누구인가?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUEwMmlkeWhodWMzUHUtUTNXNmxOUHNjNTctbU5rR1hZM2tNd1BrVzlIRWVxMkNwdldXb0g3emN6bmNVLURvQVQ1YWJubUJzd2lOLXZ1WkJDUVZ5TVdueU0tWXAtNXViTXpDNVBYVk9jMVZaTXRoWkpyQjJOVjNzY3ZMWGJTR3drTVQwRFpZS1o4WXo3?oc=5",
+      "summary": "인공지능(AI) 배우 '틸리 노우드'에 대한 관심이 높아지고 있다.이는 엔터테인먼트 산업에서 AI 기술의 역할이 확대되고 있음을 보여준다.미래 콘텐츠 제작 방식과 인간 배우의 역할에 대한 질문을 던지고 있다.",
+      "pub_date": "2026-09-23T14:17:53+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "유엔 실시간 소식: 트럼프가 이란을 위협하는 동안 다른 정상들은 깊은 분열 경고",
-      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
-      "summary": "유엔 총회에서 트럼프 대통령이 이란에 대한 위협적인 발언을 이어갔습니다.다른 세계 정상들은 국제사회의 깊은 분열에 대해 우려를 표명했습니다.이번 총회는 주요국 간의 갈등과 국제 협력의 어려움을 여실히 드러냈습니다.",
-      "pub_date": "2026-09-22T23:01:33+00:00"
+      "title": "UN 생중계 업데이트: 젤렌스키, 러시아-우크라이나 전쟁의 전 세계적 비용 증가 경고",
+      "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "summary": "UN 총회에서 젤렌스키 대통령이 러시아-우크라이나 전쟁의 심각성을 강조했다.그는 전쟁이 지속될 경우 전 세계적으로 더 큰 비용을 치르게 될 것이라고 경고했다.국제 사회의 즉각적인 개입과 평화 정착의 필요성을 촉구했다.",
+      "pub_date": "2026-09-23T23:19:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "스리랑카, 2019년 부활절 폭탄 테러 관련 15명 유죄 판결",
-      "link": "https://www.nytimes.com/2026/09/22/world/asia/sri-lanka-convictions-easter-2019-bomb-attacks.html",
-      "summary": "스리랑카 법원이 2019년 부활절 폭탄 테러 사건과 관련하여 15명에게 유죄를 선고했습니다.이 테러는 수많은 인명 피해를 냈던 비극적인 사건입니다.이번 판결은 희생자들에게 정의를 구현하고 테러에 대한 경고 메시지를 보냅니다.",
-      "pub_date": "2026-09-22T19:14:00+00:00"
+      "title": "미국의 인공지능(AI) 리더들, 글로벌 대응 부재 시 발생할 수 있는 위험에 대해 UN에 경고",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+      "summary": "미국의 주요 인공지능(AI) 분야 리더들이 UN에 공식 경고를 보냈다.이들은 전 세계적인 협력과 대응이 없을 경우 AI 기술로 인한 심각한 위험이 발생할 수 있다고 우려했다.AI 기술의 잠재적 위험성에 대한 국제적 논의와 공동 대응의 필요성이 강조되었다.",
+      "pub_date": "2026-09-23T23:01:35+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "에티오피아 반군 세력, 정부에 맞서 연합 전선 구축",
-      "link": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
-      "summary": "에티오피아의 주요 반군 세력들이 정부에 대항하기 위해 연합 전선을 구축했습니다.이는 에티오피아 내전의 장기화와 확전 가능성을 높이고 있습니다.지역 안보에 심각한 위협이 될 것으로 우려됩니다.",
-      "pub_date": "2026-09-22T19:47:49+00:00"
+      "title": "젤렌스키, 러시아 전쟁이 조속히 끝나지 않으면 확전될 것이라고 경고",
+      "link": "https://www.nytimes.com/2026/09/23/world/europe/zelensky-speech-russia-war.html",
+      "summary": "젤렌스키 대통령이 러시아와의 전쟁이 빨리 끝나지 않으면 확전될 것이라고 경고했다.이는 국제 사회에 대한 강력한 메시지로, 사태의 심각성을 강조하고 있다.전쟁의 장기화와 확산 가능성에 대한 우려가 커지고 있다.",
+      "pub_date": "2026-09-23T20:51:27+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "트럼프, 중동 지도자들과 회담하며 역내 전쟁 확산 논의",
-      "link": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
-      "summary": "트럼프 대통령이 중동 지도자들과 회담을 갖고 역내 전쟁 확산 문제에 대해 논의했습니다.중동 지역의 긴장이 고조되고 있는 가운데, 미국의 중동 정책 방향이 주목됩니다.이번 회담은 복잡한 중동 정세에 대한 해법을 모색하는 자리였습니다.",
-      "pub_date": "2026-09-22T21:27:23+00:00"
+      "title": "UN에서 일본 총리, '적국(Enemy State)' 딱지 종식할 때라고 발언",
+      "link": "https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html",
+      "summary": "UN 총회에서 일본 총리가 '적국(Enemy State)'이라는 표현을 끝낼 때가 되었다고 발언했다.이는 전후 국제 질서의 변화를 반영하며 일본의 위상 강화를 시사한다.과거사 문제와 관련된 주변국들의 반응에 관심이 쏠린다.",
+      "pub_date": "2026-09-23T18:29:33+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "이라크 알자이디 총리, 이란 지원 민병대 무장해제 천명",
-      "link": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
-      "summary": "이라크 알자이디 총리가 이란의 지원을 받는 민병대를 무장 해제하겠다고 선언했습니다.이는 이라크의 주권 강화와 내부 안정을 위한 중요한 조치입니다.하지만 이란과의 관계 및 역내 긴장 고조 가능성이 제기되고 있습니다.",
-      "pub_date": "2026-09-22T18:17:29+00:00"
+      "title": "중국 지도자, 인공지능(AI)으로 미래를 장악하기 위한 계획 밝혀",
+      "link": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+      "summary": "중국 지도자가 인공지능(AI) 기술을 통해 미래를 주도하겠다는 계획을 공개했다.중국은 AI 분야에서 막대한 투자를 통해 글로벌 리더십을 확보하려 하고 있다.이는 미중 기술 패권 경쟁의 심화와 AI 발전의 국제적 영향에 대한 논의를 촉발한다.",
+      "pub_date": "2026-09-23T09:00:09+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국, 덴마크와 새로운 협정 체결로 그린란드에 군사 기지 두 곳 건설",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "summary": "미국이 덴마크와 새로운 협정을 통해 그린란드에 두 곳의 군사 기지를 건설할 예정입니다.이는 북극 지역에서의 전략적 입지 강화를 위한 중요한 움직임입니다.해당 지역의 군사적 중요성이 부각되며 국제 정세에 영향을 미칠 것으로 보입니다.",
-      "pub_date": "2026-09-22T21:36:55+00:00"
+      "title": "트럼프와 시진핑 회담에서 인공지능(AI) 초강대국 야망이 핵심 의제로 부상",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "summary": "트럼프 대통령과 시진핑 주석의 정상회담에서 인공지능(AI) 초강대국 야망이 주요 의제로 다뤄졌다.양국은 AI 기술 선점을 위한 치열한 경쟁을 벌이고 있으며, 이는 글로벌 기술 패권의 핵심 쟁점이다.이번 회담은 AI 발전 방향과 국제 협력의 중요성을 재확인하는 계기가 되었다.",
+      "pub_date": "2026-09-23T22:01:17+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "엘니뇨 발달, 예상 최고점 도달 전부터 역대 가장 강력한 수준 기록",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "summary": "현재 발달 중인 엘니뇨 현상이 예상 최고점에 도달하기 전부터 역대 가장 강력한 수준을 기록하고 있습니다.이는 전 세계적인 기후 변화와 이상 기후 현상에 대한 우려를 증폭시킵니다.농업, 어업 등 다양한 산업 분야에 광범위한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-09-22T12:54:14+00:00"
+      "title": "에티오피아와 티그라이, 상호 공격 개시 주장하며 새 전쟁 공포 증폭",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "에티오피아 정부와 티그라이 지역 반군이 서로 공격을 개시했다고 주장하며 새로운 전쟁 발발에 대한 공포가 커지고 있다.양측 간의 갈등이 다시 격화되면서 심각한 인도주의적 위기가 우려된다.국제사회는 상황 악화를 막기 위한 외교적 노력을 촉구하고 있다.",
+      "pub_date": "2026-09-23T16:53:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "유럽연합, 러시아 과두정치 인사 제재 명단서 제외에 우크라이나 분노",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "summary": "유럽연합(EU)이 일부 러시아 과두정치 인사들을 제재 명단에서 제외하자 우크라이나가 강하게 반발하고 있습니다.우크라이나는 서방의 제재 완화가 러시아의 침략에 대한 잘못된 신호를 줄 수 있다고 우려합니다.이번 결정은 국제사회의 대러 제재 공조에 균열을 일으킬 수 있다는 지적입니다.",
-      "pub_date": "2026-09-22T19:06:06+00:00"
+      "title": "트럼프 평화 위원회, 가자지구 재건을 위한 24억 5천만 달러 계획 발표",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "트럼프 대통령의 평화 위원회가 가자지구 재건을 위한 24억 5천만 달러 규모의 계획을 공개했다.이 계획은 분쟁 지역의 안정과 경제 회복을 목표로 한다.하지만 복잡한 중동 정세 속에서 실제 이행 가능성에 대한 회의적인 시각도 존재한다.",
+      "pub_date": "2026-09-23T21:26:14+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "G7, 유엔 총회 앞두고 이란에 예멘 후티 반군 무장 중단 촉구",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "summary": "주요 7개국(G7)이 유엔 총회를 앞두고 이란에 예멘 후티 반군에 대한 무장 지원을 중단하라고 촉구했습니다.이는 예멘 내전 장기화와 홍해 지역 안보 불안에 대한 국제사회의 우려를 반영합니다.중동 정세의 긴장이 고조되는 가운데, 이란의 역할에 대한 압박이 커지고 있습니다.",
-      "pub_date": "2026-09-22T13:39:09+00:00"
+      "title": "폴란드, 러시아 군용 헬리콥터 영공 침범 비난",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "폴란드 정부가 러시아 군용 헬리콥터의 영공 침범에 대해 강력히 비난했다.이번 사건은 러시아와 서방 국가들 간의 긴장을 더욱 고조시킬 것으로 보인다.폴란드는 러시아의 도발 행위에 대해 단호한 대응을 예고했다.",
+      "pub_date": "2026-09-23T15:37:20+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "리투아니아 총리, 러시아 위협에 맞서 싸울 준비 및 대피 계획 언급",
+      "title": "리투아니아 총리, \"러시아 위협에 맞서 싸울 준비 완료, 대피 계획도 마련\" BBC에 밝혀",
       "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "리투아니아 총리가 러시아의 위협에 맞서 싸울 준비가 되어 있으며, 국민 대피 계획도 마련되어 있다고 밝혔습니다.이는 동유럽 지역의 고조되는 긴장 상황과 러시아의 잠재적 위협에 대한 강력한 대응 의지를 보여줍니다.나토(NATO) 동맹국들의 안보 공조가 더욱 중요해질 전망입니다.",
+      "summary": "리투아니아 총리가 러시아의 위협에 맞서 싸울 준비가 되어 있다고 BBC에 밝혔다.동시에 국민 보호를 위한 대피 계획도 마련되어 있다고 덧붙였다.이는 러시아-우크라이나 전쟁 이후 고조된 발트해 국가들의 안보 불안을 반영한다.",
       "pub_date": "2026-09-22T13:49:22+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "성직자들, 가자 지구 폭력 사태에 항의 시위",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVg5d1U5b3EzWmxzajRYYmhBLW53TEJJb1NDRmR6ZDZZaWVNRFZMMWNMV0tYd29Fbm5FeFlCYVRsbU9VUkRNUzd5eGNkU0lkZVZvWmR3dlBPekJjOHM3a0wwdmx4dm9DcGRCelR1Wm5vY0R2aXJLa29CRXU1T2FOblpCNFFWZw?oc=5",
-      "summary": "가자 지구에서 벌어지는 폭력 사태에 항의하며 성직자들이 시위를 벌였습니다.이는 팔레스타인 지역의 인도주의적 위기와 고조되는 분쟁에 대한 국제사회의 우려를 반영합니다.종교계까지 나서 폭력 종식을 촉구하며 평화를 호소하고 있습니다.",
-      "pub_date": "2026-09-22T17:37:10+00:00"
+      "title": "샘 알트만과 다리오 아모데이 등 인공지능(AI) 리더들, 유엔 안전보장이사회 연설",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmpYRm1lbm5kajNobExESTJnUUM0MnBLNUtnR25iSTFJRmt3b3R1QjByU3dwN0JxaGkyaXktLUVYVWxmbElnTUhHQUh6ZGVlRTJkSXJsUHFpVFRieDFEa0F0T1VxYzc0WTRvZkVFTEtnWlF6SzYtc2xFYzBrNV9ZWHJDYWFfazRMczNzZE4xLVR1bXIxRjF4eEQ1VDdlM0lBbkpr?oc=5",
+      "summary": "오픈AI의 샘 알트만과 앤트로픽의 다리오 아모데이 등 인공지능(AI) 분야의 주요 리더들이 유엔 안전보장이사회에서 연설했다.이들은 AI 기술의 잠재적 위험과 기회에 대해 논의하며 국제 사회의 협력을 촉구했다.AI 거버넌스 및 글로벌 규제 마련의 중요성이 강조되었다.",
+      "pub_date": "2026-09-23T19:54:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "핀란드, 트럼프, 푸틴, 우크라이나 관련 심층 분석: 진짜 문제",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUxNU3F0cG1QQ3oyN21OQV9LR1B0c0g4UUo0NHJlOWFUaWZRTXpVSV8yb3lRRlg5MGpERk4xYVRfZy1EZ0xWcXBGWHVpVEtDcHlsYk5USFhuUlZsMkZBVFRkSl9ZelNYWHFsSS1CNXZpVXhONHFXYy1qUnR6LXBIUjB0bHVrYzR5SnViZkEwT0FLdDRYWFBTNXRWeEtrdTdNX0RmZjhlRDJ5ZVhr?oc=5",
-      "summary": "핀란드가 트럼프, 푸틴, 우크라이나 사태에 대한 심층적인 분석을 내놓았습니다.이는 북유럽 국가의 관점에서 주요 강대국의 복잡한 관계와 우크라이나 전쟁의 본질을 파헤칩니다.국제 정세의 핵심 쟁점들에 대한 새로운 시각을 제공합니다.",
-      "pub_date": "2026-09-22T18:09:20+00:00"
+      "title": "우크라이나 학생들, 러시아 드론 공격 피해 대피",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGNFejBuLXF0OE1fc1cybGY4RmZGYkRqSTlILUtEUUZpZWd2RG5nY3BUalY5MF9FRnFtWXQycHhNallqajJHc010M3I5VHdJZkM0WUVUR2I2NlEwQmxtOWJPRXlWNndIU2JNYU5nb2trUUtIblNCa0FoSF9LdXBJX0Z1R1lQVTFTblozRTdGNW8zdS1kd0NnZy13?oc=5",
+      "summary": "우크라이나 학생들이 러시아의 드론 공격을 피해 안전한 곳으로 대피했다.러시아의 공습은 우크라이나 민간인들에게 지속적으로 위협을 가하고 있다.전쟁으로 인한 교육 환경 파괴와 아동 보호의 문제가 심각하다.",
+      "pub_date": "2026-09-23T20:48:16+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "이스라엘 점령지 레바논 내부 상황: 정상적이지 않은 삶",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGFPNlRwaTctdm13dXdKVEdiUEpBQVFRMXNyLWwydjdUSGRya0tIVnU3TWVZYkEzZEpfY0JDM3plb3VXZFRwQlpGWkt4MWFoeGdCaUxiaG9pUUlCYTIwM1l2T19iazA3MXZQaDJ1RTdOQy1BdWdodlRqU0hBcl9ZU2RiQmNmSm9ueUoyWUViU0t4YnlnVGZub1RDU002cDRIeVFaRA?oc=5",
-      "summary": "이스라엘이 점령한 레바논 지역 내부의 상황을 조명하며 그곳 주민들의 '정상적이지 않은 삶'을 보여줍니다.이는 오랜 기간 지속된 점령으로 인한 주민들의 고통과 인도주의적 문제를 강조합니다.중동 분쟁의 복잡성과 민간인 피해의 심각성을 다시 한번 상기시킵니다.",
-      "pub_date": "2026-09-22T15:28:00+00:00"
+      "title": "러시아 드론, 수요일 낮 시간대에 키이우 공격",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlRkblB2Tk00LUU1R1l0MGlIbENIQ2hXd2hsaWlwbnBjRzF4c3RiZ3FCazB5cTY1UnI4c0pPTU91MVRWOTF4S3NNOENOdFdOenJBTWotQUJWYnk3ZGdGQndMM2lDSXB2V1IxMmowTVk0OTNVZTZSTXZ4d2RYa0J2dl9iNHRFU1FoMGx4Z2Z1bDg4TUc3bG9OWU9YZWdTOVZsVWMw?oc=5",
+      "summary": "러시아 드론들이 수요일 낮 시간대에 우크라이나 수도 키이우를 공격했다.이번 공격은 민간인 지역을 대상으로 하여 국제사회의 비난을 받고 있다.우크라이나 방공망의 지속적인 강화 필요성이 제기되고 있다.",
+      "pub_date": "2026-09-23T14:23:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "트럼프, 이란 관련 '중대한 결정' 직면: 협상 또는 국가 전멸",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFV4Sm9RV3VYNFk0cFBmMHJhVmJubjNWRkxKU0Zwd0lBSVZweTJReEhyZ1VxalZRSVFEOVZDN2kyT0VVT0ZJenppR2pLZklwZThub2UzQTE4ZDNHQzJSYm1SVXZMSDFQMmY4c0hUelFvQU4tMUVtd05GNXBmX1ZOdE9hTlVqQjJpbU5UbVFGUnN2WFJSeXc?oc=5",
-      "summary": "트럼프 대통령이 이란 문제에 대해 '협상'과 '국가 전멸' 중 중대한 결정을 내릴 상황에 직면했다고 밝혔습니다.이는 이란과의 긴장이 최고조에 달했음을 시사하며 국제사회에 큰 우려를 안겨줍니다.중동 지역의 평화와 안보에 결정적인 영향을 미칠 수 있는 발언입니다.",
-      "pub_date": "2026-09-22T15:01:57+00:00"
+      "title": "에스토니아 외교장관 \"푸틴이 우리의 두려움을 가지고 놀고 있다\" 발언",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0RmdVTUc2QmVGempraHJyM1F2WTF0RklSYmllamZIbjE1bWV1a0RUMTBXdlYxbmhiX2NVeGlrWDl1WFBlcE9VdkZmb0hUYVZIellnc0VOcXhTZm9YVUFSTDJVMnphUGJyZDloYg?oc=5",
+      "summary": "에스토니아 외교장관이 \"푸틴이 우리의 두려움을 가지고 놀고 있다\"고 강하게 비판했다.이는 러시아의 위협적인 행보에 대한 발트해 국가의 깊은 우려를 반영한다.러시아의 유럽 안보 위협 행위에 대한 국제사회의 단호한 대응이 촉구된다.",
+      "pub_date": "2026-09-23T17:29:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "오스틴 총격 사건 이후 이민세관집행국 책임 강화 요구 증가",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkhTMmZjemxiUG02MEw5XzAzWS1IMWdPZ1lVNTlKTUlwbWt6UUVseVNITWdWMUlVbXdURkxWYjEyaUJrNW5QcDBBUFY3ZnRKMERHbWhEV3hUN01MdkRtbjVsUURpX2NGRzJGV3pOWHV1Sk5wNGpZMHBSYjd2MGtybFBvS2twckY2d25qbXhhMy1KMDg2dWpTQm5KRmpVNHFoaGxv?oc=5",
-      "summary": "오스틴 총격 사건 이후 이민세관집행국(ICE)의 책임감을 강화해야 한다는 목소리가 커지고 있습니다.총격 사건에 대한 철저한 진상 규명과 함께 ICE의 운영 방식에 대한 비판이 제기됩니다.이는 이민 정책과 공권력 남용 문제에 대한 중요한 논의를 촉발시킵니다.",
-      "pub_date": "2026-09-22T22:47:18+00:00"
+      "title": "시진핑 주석의 마지막 미국 국빈 방문 이후 많은 것이 변했으며, 대부분 중국에 유리하게 흘러갔다.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SUzN3dU5lTG5sbm5YRjQyLVUzdEV6cnBOV0NrX0UwR3plVHFwTUFCd3dwUzVHdXZ2alJEWlBLRm9HVVBwZG9fYTNXVUs0Tm5vbWlGTTRVYmZ0Y1BHd3lYR0hOeVFSY2NxLTRsNk8tSEhLeXRja0pybnU2Y2M?oc=5",
+      "summary": "시진핑 주석의 이전 미국 국빈 방문 이후 양국 관계에 큰 변화가 있었다.대부분의 변화는 중국에 더 유리한 방향으로 진행되었다는 분석이 나온다.미중 간의 역학 관계 변화가 글로벌 외교 및 경제 지형에 미칠 영향이 주목된다.",
+      "pub_date": "2026-09-23T04:00:29+00:00"
     }
   ]
 }
