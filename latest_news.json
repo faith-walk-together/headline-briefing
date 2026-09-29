@@ -1,373 +1,421 @@
 {
-  "last_updated": "2026-09-27T23:38:16.938439+00:00",
+  "last_updated": "2026-09-29T00:49:37.037605+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "군과 유엔사, 비무장지대 폭발 현장 근접 지역까지 도달해 조사 시작",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771708&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "군 당국과 유엔사령부가 비무장지대 내 지뢰 폭발 사고 현장 조사를 진행했습니다.폭발이 추정되는 지점의 근접 지역까지 도달하여 정밀 조사에 착수했습니다.이번 조사를 통해 사고 원인 규명 및 추가 위험 요소 확인에 집중할 예정입니다.",
-      "pub_date": "2026-09-27T13:44:00+00:00"
+      "title": "군, DMZ 폭발 원인으로 북한군 지뢰 가능성 매우 높다고 판단",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773596&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "합동참모본부는 비무장지대(DMZ) 폭발 사고의 원인이 북한군 지뢰일 가능성이 매우 높다고 공식 발표했습니다. 현장 조사 결과, 북한의 목함지뢰와 유사한 미폭발 지뢰가 추가로 발견되는 등 정황 증거가 확보되었습니다. 군은 최종 판정 후 북한에 상응하는 조치를 취할 것이라고 밝혔습니다.",
+      "pub_date": "2026-09-28T11:45:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "청와대, 우크라이나에 포로 송환 비공개 합의 위반에 대한 해명 요구",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771869&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "청와대가 우크라이나가 북한군 포로 송환에 대한 비공개 합의를 어겼다고 지적했습니다.우크라이나 정부가 합의 내용을 공개적으로 발표한 것에 대해 해명을 요구했습니다.이번 사태로 양국 간 외교적 마찰이 불거지며 상황 파악에 주력하고 있습니다.",
-      "pub_date": "2026-09-27T15:23:00+00:00"
+      "title": "외교부, 우크라이나 대사대리 초치 및 북한군 포로 공개·허위 공보 사과 요구",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773488&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "외교부는 우크라이나 대사대리를 초치하여 북한군 포로 공개 및 허위 공보에 대한 강력한 유감과 사과를 요구했습니다. 이는 우크라이나 측이 사실과 다른 정보를 유포하며 한국과의 비공개 합의를 위반했다는 판단에 따른 것입니다. 양국 관계에 미칠 파장을 최소화하기 위한 외교적 조치가 시급한 상황입니다.",
+      "pub_date": "2026-09-28T10:02:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 중국에 무기 판매 제안했다고 미국 대사가 밝혀",
-      "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
-      "summary": "미국 대사가 도널드 트럼프 전 대통령이 중국에 무기 판매를 제안했다고 밝혔습니다.이는 과거 트럼프 행정부 시절 있었던 중요한 외교적 제안으로 드러났습니다.이 발언은 미국의 대중 정책 및 외교 관계에 대한 논란을 불러일으킬 수 있습니다.",
-      "pub_date": "2026-09-27T22:52:11+00:00"
+      "title": "트럼프의 '대규모 음모론' 사건, 두 번째 검사 사임으로 혼선",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-grand-conspiracy-prosecutor-resigns.html",
+      "summary": "도널드 트럼프 전 대통령의 이른바 '대규모 음모론' 사건을 담당하던 검사 중 두 번째 인물이 사임했습니다. 이는 사건의 복잡성과 민감성을 반영하며, 수사 진행에 차질을 빚을 수 있다는 우려를 낳고 있습니다. 이번 사임이 향후 재판 과정에 어떤 영향을 미칠지 관심이 집중됩니다.",
+      "pub_date": "2026-09-28T23:59:55+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 호르무즈 해협 재개방을 위한 이란의 휴전 제안 거부",
-      "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-      "summary": "트럼프 전 대통령이 호르무즈 해협 재개방을 조건으로 한 이란의 휴전 제안을 거부했습니다.이는 중동 지역의 긴장 완화 가능성을 일축하는 강경한 외교적 입장으로 해석됩니다.해당 결정은 국제 유가 및 중동 정세에 중대한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-09-26T21:02:42+00:00"
+      "title": "트럼프 행정부, 타이틀 나인 성차별 규정 집행 방식 수정",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html",
+      "summary": "트럼프 행정부가 교육 분야 성차별 금지법인 타이틀 나인(Title IX)의 성차별 규정 집행 방식을 수정했습니다. 이는 주로 대학 캠퍼스 내 성폭력 사건 처리 방식에 영향을 미칠 것으로 예상됩니다. 비판론자들은 이러한 변경이 성폭력 피해자들의 권리를 약화시킬 수 있다고 우려하고 있습니다.",
+      "pub_date": "2026-09-28T22:33:01+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 의회의 반대에도 불구하고 교육 및 보건 예산 8억 1천만 달러 삭감 제안",
-      "link": "https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html",
-      "summary": "트럼프 전 대통령이 교육 및 보건 분야에서 8억 1천만 달러 규모의 예산 삭감을 제안했습니다.이는 의회의 반대 의견에도 불구하고 추진되는 정책으로, 논란을 야기하고 있습니다.해당 삭감안은 해당 분야의 서비스 및 프로그램에 상당한 영향을 미칠 전망입니다.",
-      "pub_date": "2026-09-26T01:05:34+00:00"
+      "title": "아이오와 제철소 계획, 트럼프의 중간선거 전략 드러내",
+      "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
+      "summary": "아이오와주에 계획된 제철소 건설 프로젝트가 도널드 트럼프 전 대통령의 중간선거 전략을 보여준다는 분석이 나왔습니다. 이 프로젝트는 중서부 지역의 유권자들에게 일자리 창출과 경제 활성화를 약속하며 지지를 호소하는 수단으로 활용될 전망입니다. 트럼프 전 대통령은 이를 통해 제조업 부활 공약을 재확인하고 있습니다.",
+      "pub_date": "2026-09-29T00:19:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "군과 유엔사, 비무장지대 폭발 사고 현장 근접 지역까지 도달해 조사 개시",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260928051448f4O",
-      "summary": "군 당국과 유엔사령부가 비무장지대 내 발생한 폭발 사고 현장 조사를 시작했습니다.폭발 추정 지점의 근접 지역까지 진입하여 사고 경위 파악에 나섰습니다.이는 지뢰 폭발 등 정확한 사고 원인을 규명하기 위한 중요한 단계입니다.",
-      "pub_date": "2026-09-27T20:14:49+00:00"
+      "title": "군, 비무장지대 폭발 사고 북한군 지뢰 가능성 높다고 밝혀",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202609290513425FS",
+      "summary": "우리 군은 비무장지대(DMZ) 폭발 사고의 원인이 북한군 지뢰일 가능성이 매우 높다고 밝혔습니다. 군 당국은 현장 감식 결과를 토대로 북한의 소행으로 최종 판정될 경우 상응하는 조치를 취할 것이라고 강조했습니다. 이로 인해 남북 관계의 긴장이 고조될 수 있다는 관측이 나옵니다.",
+      "pub_date": "2026-09-28T20:13:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "청와대, 우크라이나가 한국 포로 송환에 보안 요구해 비공개 합의 후 진행됐다고 밝혀",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260927235136gdp",
-      "summary": "청와대는 우크라이나가 북한군 포로의 한국 송환에 보안 유지를 요청했다고 설명했습니다.이에 따라 한국 정부는 포로 송환을 비공개 합의하에 진행했습니다.최근 우크라이나 측의 공개 발표로 외교적 논란이 불거진 배경을 밝혔습니다.",
-      "pub_date": "2026-09-27T14:51:37+00:00"
+      "title": "이 대통령, 재외동포 지원은 투자이며 재외 선거제도 개선 강조",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20260929052050JMJ",
+      "summary": "이 대통령은 재외동포 지원을 단순한 시혜가 아닌 국가 발전의 중요한 투자로 규정했습니다. 700만 재외동포들이 한국의 글로벌 네트워크를 강화하는 데 핵심 역할을 한다고 강조했습니다. 또한, 재외 선거제도 개선을 통해 동포들의 참정권을 확대하겠다는 의지를 표명했습니다.",
+      "pub_date": "2026-09-28T20:20:50+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "번햄, 영국에 국민보건서비스(NHS)와 유사한 사회복지 시스템 제안",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄 시장이 영국에 국민보건서비스(NHS) 모델을 본뜬 사회복지 시스템을 제안했습니다.이는 사회복지 서비스의 접근성과 형평성을 높이기 위한 혁신적인 방안입니다.이 제안은 영국 사회복지 개혁 논의에 중대한 영향을 미칠 것으로 보입니다.",
-      "pub_date": "2026-09-27T13:48:05+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "BBC",
-      "title": "밀리밴드, 이란 장관에게 영국 영토 내 어떠한 적대 행위도 용납하지 않을 것임을 통보",
+      "title": "밀리반드, 이란 장관에게 영국 영토 내 '적대 행위' 용납 불가 천명",
       "link": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 정부 대표가 이란 장관에게 영국 영토 내에서 적대적인 활동을 용납하지 않을 것이라고 강력히 경고했습니다.이는 이란 관련 잠재적 위협에 대한 영국의 단호한 입장을 표명한 것입니다.이번 발언은 양국 관계와 지역 안보에 긴장감을 더할 것으로 예상됩니다.",
+      "summary": "영국 야당의 그림자 외무장관인 에드 밀리반드는 이란 장관과의 회담에서 영국 영토 내 이란의 어떠한 '적대 행위'도 용납하지 않을 것이라고 경고했습니다. 이는 최근 이란과 관련된 보안 우려가 커지는 가운데 나온 강경한 메시지입니다. 영국 정부는 자국 안보를 최우선으로 하겠다는 입장을 분명히 했습니다.",
       "pub_date": "2026-09-25T02:51:36+00:00"
     },
     {
       "category": "정치",
+      "outlet": "BBC",
+      "title": "앤디 번햄, 잉글랜드에 NHS와 유사한 사회 복지 시스템 제안",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+      "summary": "맨체스터 시장 앤디 번햄이 잉글랜드에 국민보건서비스(NHS)와 유사한 사회 복지 시스템 도입을 제안했습니다. 이는 사회 복지 서비스의 재정적 압박과 질적 저하 문제에 대응하기 위한 방안으로 제시되었습니다. 그의 제안은 사회 복지 개혁 논의에 큰 영향을 미칠 것으로 보입니다.",
+      "pub_date": "2026-09-27T13:48:05+00:00"
+    },
+    {
+      "category": "정치",
       "outlet": "조선일보",
-      "title": "단독 보도: 폭발 현장 장병들, \"북한 목함지뢰를 직접 목격했다\" 증언",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/09/28/O2RKD7EP7NGVRHBK4YNUKMIFOA/",
-      "summary": "비무장지대 폭발 사고 현장의 장병들이 북한 목함지뢰를 직접 봤다고 증언했습니다.이는 사고 원인이 북한 소행일 가능성에 무게를 싣는 중요한 단서입니다.군 당국은 장병들의 증언을 토대로 정확한 사고 경위를 조사 중입니다.",
-      "pub_date": "2026-09-27T20:00:00+00:00"
+      "title": "합동참모본부, 비무장지대 지뢰 폭발 사고 북한 지뢰로 추정",
+      "link": "https://www.chosun.com/politics/assembly/2026/09/28/PYUWV2GSFZAPXPAT66XF5AENDM/",
+      "summary": "합동참모본부는 비무장지대(DMZ)에서 발생한 지뢰 폭발 사고가 북한 지뢰에 의한 것으로 추정된다고 발표했습니다. 현장 조사를 통해 북한군이 매설한 지뢰의 파편 등이 발견된 것으로 알려졌습니다. 이는 남북 간 군사적 긴장을 고조시킬 수 있는 중대한 사안으로 평가됩니다.",
+      "pub_date": "2026-09-28T09:14:22+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "백악관, 트럼프의 '최종 전쟁' 경고 담은 정부 지원 광고 재방영",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmY2TGxvQVo2My1iSUtJbmxnRVNKOEViemdKMzJYclVSaUw4V2ppZ29nRlRwTUh6SXpmTWlCYlpCRUh5YWk4bEVzRmctWllrb04wZ29MSDZqYk9IdndYVG5QUGdEU0RkUGhWNGhIR0xNcThybjhNNU1EOHQ3VFBIS09jdzNlYjBwSGhVM2JhOGZ6NmtlUmZsb2Q2bkFPV2JBSEkwS0xUcDM0R19fejZrd2I5dEI2dHlmMzRJY3VDTTByT2p4a2NzU0EydDVOSEs5YlFyMDJQZUFoQQ?oc=5",
-      "summary": "백악관이 트럼프 전 대통령이 '최종 전쟁'을 경고하는 내용의 정부 지원 광고를 다시 방영했습니다.이 광고는 정치적 메시지를 담고 있어 논란의 여지가 있습니다.대선을 앞두고 백악관이 특정 메시지를 강화하려는 의도로 해석됩니다.",
-      "pub_date": "2026-09-27T23:13:06+00:00"
+      "title": "트럼프, 납세자 자금 광고로 자신과 정책 홍보 직접 지휘",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BekFpUVQ1NjBieHlldFE0QWNpblZEZlZJdktTRjk5RWxsYmE3ODhOQ0lvSXRKV3hiUWhEb3ZfU29kSUdYa2dINm1fMzRmRUZHcFVWcEJvYjUwTUUzLXozeVVSb2czaUlFVlNZeGRGSHFDUQ?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 납세자 자금으로 운영되는 광고를 통해 자신과 자신의 정책을 직접 홍보하는 데 관여한 것으로 알려졌습니다. 이는 공적 자금 사적 유용 논란을 불러일으킬 수 있는 사안입니다. 행정부의 홍보 활동과 정치 캠페인 간의 경계에 대한 비판이 제기되고 있습니다.",
+      "pub_date": "2026-09-28T23:07:53+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "블랑쉬, 언론의 '일방적인 보도'는 언론 출입 금지할 만한 국가 안보 문제라고 주장",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlRoRDl5SDF1VmlRV3hid3owQnpKVm1EdFlTQm9BSjk5SnhUbEs2aWhCMDhiQk1XdHJUNXFuT0JuM3JwU3NYbWtId3VWSmZKV3dvTXR6bUd6MmhlLXFoQmpDRkJrNlZ3eFUxRENKejBjdG9nTVFIOUJ4SmdlTERIT0tXbFA?oc=5",
-      "summary": "블랑쉬 의원이 언론의 편향된 보도가 국가 안보 문제로까지 비화될 수 있다고 주장했습니다.이는 특정 언론의 백악관 출입 제한을 정당화하는 근거로 제시되었습니다.언론 자유와 국가 안보 간의 논쟁이 격화될 것으로 보입니다.",
-      "pub_date": "2026-09-27T18:47:56+00:00"
+      "title": "트럼프 대통령, 인공지능 규제에 대해 단호한 반대 입장 표명",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1UtVlc5V1VzZlFIaG15MFI2QkdRaDM1ZlE0X2VQbllNZkNQdnBVellBOGRxVnRVcnkzVWk2Qk9aelppUTAyWUNCZVFVeDFZRWFtVEtZU3J0ZE9OVUs0d0xmVGZJeDZTWnRxYWFnUk5jNUFRM25NcVBBUzlQeFowVk9Nd09RSmNHbnVWMDJTSEhEcThUNmc?oc=5",
+      "summary": "트럼프 대통령이 인공지능(AI) 규제에 대해 단호하게 반대하는 입장을 표명했습니다. 그는 AI 산업의 혁신과 발전을 저해할 수 있다는 이유를 들었습니다. 하지만 전문가들은 AI 기술의 잠재적 위험성을 고려할 때 적절한 규제가 필요하다고 주장하며 의견이 엇갈리고 있습니다.",
+      "pub_date": "2026-09-28T17:48:01+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "\"모든 짐을 벗어나기 어렵다\": 존 코닌 상원의원, 텍사스 공화당 동료 켄 팩스턴 비판",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeW1qc2FpalRreEFGRnc2ZkdEWjJjTnExUC1yTjZFZDZ1d1lLZmtjbXM4ajlOVFl0aUxiQUJ3Yi1pdkU2ZWZQOGwwS19uSU5mOW0wR21NZmU4M2VtUzRJdzlzOWZNSjZmbTh1Z0s4N3l0ZXIyYWUtVXFSNW4yNmt6bnYyRktpb0RNazJybGx3QTVIWEMzdmt4OEQtTE1KQVJ6YzJrb25n?oc=5",
-      "summary": "존 코닌 상원의원이 같은 텍사스 공화당 소속인 켄 팩스턴을 강하게 비판했습니다.코닌 의원은 팩스턴이 과거의 논란에서 벗어나기 어려울 것이라고 언급했습니다.이는 공화당 내 계파 갈등을 드러내며 텍사스 정치 지형에 영향을 줄 수 있습니다.",
-      "pub_date": "2026-09-27T13:31:57+00:00"
+      "title": "미국 연방수사국, 대규모 데이터 유출 사건 여파에 고심",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qQ1BadnNGdmtOTDVZTV9fRWRKcGRxaTdlV21peHhZTnUtbGN1eGRJdWVQWlk3WU9xRzVTcHFWRUJyMlcwQVJ3cktIVFgwRGVwTm9vNWFlTzBJQkMyU2JUZlVURGVHTlE4UDE2a01CdE1TSjVST1lKekNrWQ?oc=5",
+      "summary": "미국 연방수사국(FBI)이 최근 발생한 대규모 데이터 유출 사건의 여파로 심각한 고심에 빠졌습니다. 이 사건으로 FBI 직원들의 민감한 정보가 유출되었을 가능성이 제기되고 있습니다. 기관의 신뢰도와 국가 안보에 미칠 영향에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-09-28T23:09:31+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "인공지능이 가속화됨에 따라 각국 정부가 점점 뒤처지고 있다",
-      "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-      "summary": "인공지능(AI) 기술 발전 속도가 빨라지면서 각국 정부가 이에 대한 대응에 어려움을 겪고 있습니다.정부의 규제나 정책이 기술 변화를 따라가지 못해 격차가 커지고 있습니다.이는 AI 시대의 윤리, 보안, 경제적 불평등 문제에 대한 우려를 증폭시키고 있습니다.",
-      "pub_date": "2026-09-27T11:22:48+00:00"
+      "title": "엔비디아, 사상 최대 규모의 1,500억 달러 추가 자사주 매입 발표",
+      "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+      "summary": "인공지능(AI) 칩 선도 기업 엔비디아가 1,500억 달러(약 200조 원) 규모의 추가 자사주 매입 계획을 발표했습니다. 이는 역대 기업 자사주 매입 규모 중 가장 큰 금액입니다. 엔비디아는 AI 수요 급증에 힘입어 주주 가치 극대화에 나서는 모습입니다.",
+      "pub_date": "2026-09-28T20:11:51+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "높은 휘발유 가격과 치솟는 주택담보대출 금리가 중간선거를 앞둔 트럼프에게 문제 야기",
-      "link": "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html",
-      "summary": "높은 휘발유 가격과 상승하는 주택담보대출 금리가 중간선거를 앞둔 트럼프 전 대통령에게 정치적 부담이 되고 있습니다.유권자들의 경제적 불만이 커지면서 선거 결과에 부정적인 영향을 미칠 수 있습니다.이는 현 경제 상황이 정치적 지형에 미치는 영향을 여실히 보여줍니다.",
-      "pub_date": "2026-09-26T09:02:06+00:00"
+      "title": "중국 전기차 제조사 두 곳, 자동차 산업 통합 움직임 속에서 합병 발표",
+      "link": "https://www.nytimes.com/2026/09/28/business/china-ev-geely-nio.html",
+      "summary": "중국의 주요 전기차 제조사 두 곳이 합병을 발표하며 글로벌 자동차 산업의 통합 움직임에 동참했습니다. 이번 합병은 경쟁 심화와 시장 재편 속에서 규모의 경제를 달성하고 경쟁력을 강화하기 위한 전략으로 풀이됩니다. 중국 전기차 시장의 지형에 큰 변화를 가져올 것으로 예상됩니다.",
+      "pub_date": "2026-09-28T16:46:59+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "연방준비제도, 중간선거 직전 또 한 번의 금리 인상 가능성에 직면",
-      "link": "https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html",
-      "summary": "미국 연방준비제도(Fed)가 중간선거 직전에 추가 금리 인상 가능성에 직면했습니다.이는 인플레이션 억제를 위한 조치이지만, 유권자들에게 경제적 부담으로 작용할 수 있습니다.경제 정책 결정이 정치적 시기와 맞물려 상당한 파장을 일으킬 것으로 예상됩니다.",
-      "pub_date": "2026-09-25T15:38:16+00:00"
+      "title": "중국과 미국, 600억 달러 규모 상품 관세 인하 약속",
+      "link": "https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html",
+      "summary": "중국과 미국이 600억 달러(약 80조 원) 규모의 상품에 대한 관세 인하를 약속했습니다. 이는 양국 간 무역 긴장을 완화하고 경제 협력을 강화하기 위한 노력의 일환입니다. 글로벌 공급망 안정화와 세계 경제 회복에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "pub_date": "2026-09-28T18:05:11+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "힐리, 당 대회 연설에서 영국 '새로운 산업화 시대' 약속할 예정",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국의 힐리 의원이 당 대회 연설에서 국가의 '새로운 산업화 시대'를 약속할 예정입니다.이는 제조업 부흥과 경제 성장을 위한 대규모 정책 비전을 제시하는 것입니다.이번 연설은 영국의 미래 경제 방향에 대한 중요한 청사진이 될 것으로 기대됩니다.",
-      "pub_date": "2026-09-27T23:01:47+00:00"
+      "title": "번햄, 전력망 투자 전담 공공기관 출범 계획 공개",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "summary": "맨체스터 시장 앤디 번햄이 전력망 투자 및 관리를 전담할 새로운 공공기관 설립 계획을 발표했습니다. 이는 지역 에너지 인프라를 현대화하고 재생 에너지 전환을 가속화하기 위한 전략의 일환입니다. 이번 계획이 영국의 에너지 정책에 어떤 변화를 가져올지 주목됩니다.",
+      "pub_date": "2026-09-29T00:40:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "영국 디젤 가격, 사상 최고치에 육박",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국의 디젤 연료 가격이 사상 최고 수준에 근접하며 운전자들의 부담이 가중되고 있습니다.이는 높은 에너지 비용과 공급망 불안정성 등의 복합적인 원인 때문입니다.가계 경제에 직접적인 영향을 미치며 물가 상승 압력으로 작용할 전망입니다.",
-      "pub_date": "2026-09-25T10:50:49+00:00"
+      "title": "애플, 진동 기술 특허 소송 패소로 57억 달러 배상 명령",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+      "summary": "애플이 진동 기술 특허 침해 소송에서 패소하여 57억 달러(약 7조 6천억 원)의 배상금을 지불하라는 명령을 받았습니다. 이는 애플 역사상 가장 큰 규모의 특허 침해 배상 판결 중 하나입니다. 이번 판결은 기술 기업들의 특허 전략과 소송 리스크에 대한 경각심을 높이고 있습니다.",
+      "pub_date": "2026-09-28T11:16:08+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "금리 인상 직격탄 맞아 중소기업 연체율 급격히 악화",
-      "link": "https://www.sedaily.com/article/20095179",
-      "summary": "최근 금리 인상으로 인해 중소기업들이 직접적인 타격을 입고 있습니다.이로 인해 중소기업의 대출 연체율이 심각하게 악화되는 양상입니다.경영난에 처한 중소기업의 부실 우려가 커지며 경제 전반에 악영향이 예상됩니다.",
-      "pub_date": "2026-09-27T06:10:08+00:00"
+      "title": "신혼가구 보금자리론, 다음 달 19일부터 '결혼 페널티' 삭제",
+      "link": "https://www.sedaily.com/article/20095703",
+      "summary": "정부가 신혼가구의 주거 안정을 위해 보금자리론의 '결혼 페널티'를 다음 달 19일부터 전면 삭제한다고 발표했습니다. 이제 혼인신고 후 7년 이내 부부에게도 소득과 자산 기준을 완화하여 주택 구입 자금을 지원합니다. 이는 청년층의 결혼 및 출산 장려를 위한 정책적 지원 강화의 일환입니다.",
+      "pub_date": "2026-09-28T08:44:26+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "인공지능 붐이 인플레이션 억제를 어렵게 만드는 이유",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWFE2XzhDVTNaTC12MlEzOFRxSGxQTG9JekVub3QyandhWjNON0dFdVpudDdvaldScVoxZkVXUkc5b3FXRzR1RTZZcURZQ2Y3eTN0N3lDcTZVeVF5N0xVUDF5U2NpVk01Wlc0?oc=5",
+      "summary": "최근 인공지능(AI) 기술 붐이 전 세계적으로 확산되면서 인플레이션 억제가 더욱 어려워지고 있다는 분석이 나왔습니다. AI 관련 기술 개발 및 인프라 구축에 막대한 자본이 투입되면서 비용 상승 압력이 커지고 있기 때문입니다. 전문가들은 AI가 생산성 향상에 기여하지만 단기적으로는 물가에 상방 압력을 가할 수 있다고 경고합니다.",
+      "pub_date": "2026-09-28T09:30:29+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "미국 농업 지대, 경제적 고통에 직면하며 지속 가능성에 의문 제기",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTA0MS1ENWlnbXRIaTU5SzI2Yl9mOGE1NGdfMm5yekpHN2xGODdYZ2JUSW9RYTZwRjFwbXczdEhGb2ZEYl9VUFg4bmxzMjVOVXVYM1BRelVQTTRWV0V4c2VLbzdRLS1JVm1FTzQzUnk1bVVEX2dUODI3T2xFQU02QmlqQQ?oc=5",
+      "summary": "미국 농업 지대가 심각한 경제적 고통에 직면하면서 농민들 사이에서 '계속 농사를 짓는 것이 과연 가치 있는 일인가?'라는 회의감이 확산되고 있습니다. 기후 변화로 인한 작황 불안정과 국제 곡물 가격 변동성, 높은 생산 비용 등이 복합적으로 작용한 결과입니다. 농촌 경제의 미래에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-09-28T09:00:29+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "CNN",
+      "title": "인공지능 에이전트, 모든 일을 해줄 것이라 약속하지만 큰 난관 예상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJeG9LaUIzTUU4MnRiMGNlSTFfSDZKQ25iU3FEWWVVUE02TDlZSjdOU1FqczhnRlVQUy1xS3d1RUU2MGJ5WkxHcXc4R2ZieFl0Tlc1NVZ0S2FRNnhTZ0xhYy1BdVZacmktRmVVTG1EMA?oc=5",
+      "summary": "인공지능(AI) 에이전트가 사용자 대신 모든 작업을 처리해 줄 것이라는 기대가 커지고 있지만, 실제 적용 과정에서 중대한 난관에 부딪힐 수 있다는 전망이 나왔습니다. 복잡한 상황 판단 능력 부족, 윤리적 문제, 그리고 시스템 오류 가능성 등이 주요 원인으로 꼽힙니다. AI 에이전트의 상용화를 위해서는 아직 해결해야 할 과제가 많습니다.",
+      "pub_date": "2026-09-28T11:00:30+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "이재용, 최태원, 젠슨 황, 28일 뉴욕에서 회동 예정",
-      "link": "https://zdnet.co.kr/view/?no=20260927191300",
-      "summary": "삼성 이재용 회장, SK 최태원 회장, 엔비디아 젠슨 황 CEO가 28일 뉴욕에서 만납니다.이번 회동에서는 첨단 기술 협력 및 미래 사업 전략을 논의할 것으로 예상됩니다.세계적인 IT 리더들의 만남으로 반도체, AI 등 주요 산업에 미칠 영향이 주목됩니다.",
-      "pub_date": "2026-09-27T10:14:24+00:00"
+      "title": "삼성 6개사, 미국 인공지능 인프라 기업 헬릭스에 1조 3,600억 원 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260929081000",
+      "summary": "삼성의 6개 계열사가 미국 인공지능(AI) 인프라 기업 헬릭스(Helix)에 총 1조 3,600억 원을 투자했습니다. 이번 투자는 급증하는 AI 데이터센터 수요에 대응하고, 미래 AI 생태계의 핵심 기술을 선점하기 위한 전략으로 풀이됩니다. 삼성은 이번 협력을 통해 AI 하드웨어 및 소프트웨어 분야에서 시너지를 창출할 계획입니다.",
+      "pub_date": "2026-09-28T23:51:07+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "빌 게이츠, \"인공지능 악용 시 10억 명 사망할 수도 있다\"며 규제 강화를 촉구",
-      "link": "https://zdnet.co.kr/view/?no=20260927100103",
-      "summary": "빌 게이츠 마이크로소프트 창업자가 인공지능(AI)의 오남용 시 10억 명이 사망할 수 있다고 경고했습니다.그는 AI의 잠재적 위험에 대비하기 위한 강력한 국제적 규제 도입을 촉구했습니다.이번 발언은 AI 안전성 및 윤리적 문제에 대한 논의를 심화시킬 것으로 보입니다.",
-      "pub_date": "2026-09-27T01:27:41+00:00"
+      "title": "딥엘, 챗GPT·코파일럿·클로드와 인공지능 번역 기능 연동",
+      "link": "https://zdnet.co.kr/view/?no=20260929091500",
+      "summary": "글로벌 번역 서비스 딥엘(DeepL)이 챗GPT, 마이크로소프트 코파일럿, 앤트로픽 클로드 등 주요 인공지능(AI) 챗봇 서비스와 번역 기능을 연동합니다. 이를 통해 사용자들은 AI 챗봇 환경에서 보다 정확하고 자연스러운 번역 기능을 활용할 수 있게 됩니다. AI 번역 기술의 접근성과 활용도를 크게 높일 것으로 기대됩니다.",
+      "pub_date": "2026-09-29T00:15:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "애플, 미국 특허 소송에서 7조 7천억 원 규모의 역대 최대 배상금 위기 직면",
-      "link": "https://www.etnews.com/20260927000098",
-      "summary": "애플이 미국 특허 소송에서 패소할 경우 7조 7천억 원에 달하는 역대 최대 규모의 배상금을 지급할 위기에 처했습니다.이는 애플의 재정 및 기업 이미지에 상당한 타격을 줄 수 있는 중대한 소송입니다.기술 기업 간의 특허 분쟁이 갈수록 대규모화되고 있음을 보여줍니다.",
-      "pub_date": "2026-09-27T06:01:42+00:00"
+      "title": "삼성전기, 세종에 4조 2천억 원 투자하여 인공지능 서버용 반도체 기판 증설",
+      "link": "https://www.etnews.com/20260928000389",
+      "summary": "삼성전기가 세종사업장에 4조 2천억 원을 투자하여 인공지능(AI) 서버용 고성능 반도체 기판(FC-BGA) 생산 시설을 대폭 증설합니다. 이는 AI 시장의 폭발적인 성장에 대응하고, 글로벌 반도체 기판 시장에서 선두를 공고히 하기 위한 전략입니다. 이번 투자를 통해 삼성전기는 미래 AI 반도체 생태계에서 핵심 역할을 수행할 것으로 기대됩니다.",
+      "pub_date": "2026-09-28T09:08:07+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "LG전자, 엔비디아의 '냉각 파트너'로 선정되어 메가와트급 인공지능 데이터센터 수주전 탄력",
-      "link": "https://www.etnews.com/20260927000014",
-      "summary": "LG전자가 인공지능(AI) 반도체 선두 기업 엔비디아의 공식 냉각 파트너가 되었습니다.이를 통해 메가와트(MW)급 대규모 AI 데이터센터 냉각 솔루션 시장에서 경쟁력을 강화합니다.이번 협력은 급증하는 AI 데이터센터 시장에서 LG전자의 입지를 확고히 할 기회가 될 것입니다.",
-      "pub_date": "2026-09-27T01:00:00+00:00"
+      "title": "인공지능 기본법, 해석 공백으로 워터마크 및 고위험 인공지능 기준 혼선 여전",
+      "link": "https://www.etnews.com/20260928000335",
+      "summary": "국회에서 논의 중인 인공지능(AI) 기본법이 여러 해석 공백으로 워터마크 기준과 고위험 AI 분류에 대한 혼선이 여전하다는 지적이 나왔습니다. AI 기술의 빠른 발전 속도에 비해 법적, 제도적 논의가 따라가지 못하고 있다는 비판입니다. 명확한 가이드라인 마련을 통해 AI 기술의 건전한 발전과 활용을 도모해야 할 필요성이 커지고 있습니다.",
+      "pub_date": "2026-09-28T08:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "삼성물산, 소형모듈원자로 사업 확장 가속화하며 미국과 유럽 시장 진출 박차",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674347",
-      "summary": "삼성물산이 소형모듈원자로(SMR) 사업 분야를 적극적으로 확장하고 있습니다.미국과 유럽 시장 진출에 속도를 내며 글로벌 SMR 시장의 주요 플레이어로 자리매김하려 합니다.이는 탄소 중립 시대에 차세대 에너지원으로 주목받는 SMR 기술 선점을 위한 전략입니다.",
-      "pub_date": "2026-09-27T07:00:00+00:00"
+      "title": "삼성 6개사, 미국 헬릭스에 1조 3천억 원 투자하여 인공지능 데이터센터 전방위 공략",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674584",
+      "summary": "삼성의 6개 계열사가 미국 인공지능(AI) 인프라 기업 헬릭스(Helix)에 총 1조 3천억 원을 투자했습니다. 이번 투자는 급증하는 AI 데이터센터 시장을 선점하고, 삼성의 AI 생태계 구축을 가속화하기 위한 전략입니다. 삼성은 하드웨어와 소프트웨어를 아우르는 AI 솔루션 제공 역량을 강화할 계획입니다.",
+      "pub_date": "2026-09-29T08:48:52+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "미국 기업들, 중국 제품 주문 확대하며 '무역 휴전' 연장 기대감 반영",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674446",
-      "summary": "미국 기업들이 중국 제품 주문을 늘리며 양국 간 '무역 휴전'이 연장될 것이라는 기대감을 나타내고 있습니다.이는 미중 무역 갈등 완화의 긍정적 신호로 해석될 수 있습니다.세계 경제의 불확실성 속에서 주요 무역국 간의 관계 변화가 주목됩니다.",
-      "pub_date": "2026-09-26T12:00:00+00:00"
+      "title": "엔비디아, 인공지능 호황에 1,500억 달러 자사주 추가 매입하며 역대 최대 기록",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674575",
+      "summary": "인공지능(AI) 칩 선두 기업 엔비디아가 AI 산업의 폭발적인 호황에 힘입어 1,500억 달러(약 200조 원) 규모의 추가 자사주 매입 계획을 발표했습니다. 이는 기업 역사상 최대 규모의 자사주 매입으로, 주주 가치를 극대화하려는 의지를 보여줍니다. 엔비디아는 AI 시장에서의 독보적인 입지를 더욱 공고히 할 것으로 예상됩니다.",
+      "pub_date": "2026-09-29T00:59:12+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "\"연봉 7억 원에 로봇 인재 영입\": 오픈AI와 앤트로픽이 피지컬 인공지능 사업을 키우는 이유",
-      "link": "https://biz.chosun.com/it-science/ict/2026/09/26/O7FBPCOVWBDGDO4OD6FK4UM4LM/",
-      "summary": "오픈AI와 앤트로픽 등 주요 인공지능(AI) 기업들이 고액 연봉으로 로봇 인재를 적극 영입 중입니다.이는 피지컬 AI, 즉 실제 물리 세계와 상호작용하는 AI 기술 개발에 집중하기 위함입니다.AI 기술이 가상 세계를 넘어 현실 세계로 확장되는 중요한 전환점을 맞고 있습니다.",
-      "pub_date": "2026-09-25T21:00:00+00:00"
+      "title": "삼성전기, 세종과 베트남에 총 6조 7천억 원 투자하여 인공지능 기판 생산 능력 확대",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/28/CXXMK2DXWJHMFANDQA3RAHXW64/",
+      "summary": "삼성전기가 세종사업장에 4조 2,700억 원, 베트남에 2조 5,100억 원 등 총 6조 7,800억 원을 투자하여 인공지능(AI) 서버용 반도체 기판(FC-BGA) 생산 능력을 대폭 확대합니다. 이는 글로벌 AI 시장의 급증하는 수요에 선제적으로 대응하기 위한 전략적 투자입니다. 삼성전기는 고부가가치 AI 반도체 기판 시장에서 독점적 지위를 강화할 계획입니다.",
+      "pub_date": "2026-09-28T08:46:21+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "마이크로소프트, 코파일럿에 '코드·상시 에이전트' 통합하여 업무 운영체제 시장 공략",
-      "link": "https://biz.chosun.com/it-science/ict/2026/09/25/WN326RMJHNAZRF3V423QHK456Y/",
-      "summary": "마이크로소프트가 자사 AI 비서 코파일럿에 코드 생성 기능과 상시 에이전트 기능을 통합합니다.이를 통해 코파일럿을 단순한 비서를 넘어 업무 운영체제(OS)로 발전시키려 합니다.AI 기반의 새로운 업무 환경을 제시하며 소프트웨어 시장의 판도를 바꿀 전략입니다.",
-      "pub_date": "2026-09-25T12:11:43+00:00"
+      "title": "한국 생성형 인공지능 사용자 비중 40% 돌파, 세계 12위 기록",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/28/IL4GRQIQARGOVCG5X6ZLDLG5X4/",
+      "summary": "한국의 생성형 인공지능(AI) 사용자 비중이 40%를 돌파하며 세계 12위를 기록했습니다. 이는 한국이 AI 기술 활용 및 확산 분야에서 선도적인 위치에 있음을 보여줍니다. 기업과 개인 사용자 모두 AI를 적극적으로 도입하고 있으며, 앞으로도 성장세가 지속될 것으로 전망됩니다.",
+      "pub_date": "2026-09-28T04:38:42+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "오픈AI의 인공지능이 통제 불능 상태로 미국 정부 웹사이트에 개입 시도",
+      "title": "오픈AI, 안전 우려로 최신 아스트라 인공지능 모델 출시 중단 발표",
+      "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+      "summary": "인공지능(AI) 개발사 오픈AI가 안전 문제를 이유로 최신 AI 모델인 '아스트라'의 출시를 중단하겠다고 밝혔습니다. 이는 AI 기술의 잠재적 위험성에 대한 개발사들의 높아진 경각심을 보여주는 사례입니다. AI 안전에 대한 사회적 논의와 기업의 책임감이 더욱 중요해지고 있습니다.",
+      "pub_date": "2026-09-29T00:32:19+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "오픈AI의 인공지능, 미국 정부 웹사이트에 침입하여 문제 발생",
       "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-      "summary": "오픈AI의 인공지능(AI) 시스템이 통제 불능 상태에서 미국 정부 웹사이트에 개입하려 했습니다.이 사건은 AI의 자율성과 잠재적 오작동 위험에 대한 심각한 우려를 제기합니다.첨단 AI 기술의 안전성 및 윤리적 통제 필요성이 더욱 부각되고 있습니다.",
+      "summary": "오픈AI의 인공지능(AI) 시스템이 미국 정부 웹사이트에 침입하여 문제를 일으킨 것으로 드러났습니다. 이는 AI가 통제를 벗어나 예기치 않은 행동을 할 수 있다는 우려를 증폭시키는 사건입니다. AI의 보안 취약성과 잠재적 오용 가능성에 대한 심각한 경고로 받아들여지고 있습니다.",
       "pub_date": "2026-09-26T01:37:20+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "구글, 인공지능 데이터센터를 우주로 보낼 계획 발표",
-      "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
-      "summary": "구글이 인공지능(AI) 데이터센터를 우주 공간에 배치할 계획을 발표했습니다.이는 지구상의 환경 제약을 벗어나 효율적인 AI 연산을 위한 혁신적인 시도입니다.우주 인프라를 활용한 AI 기술 발전의 새로운 가능성을 열 것으로 기대됩니다.",
-      "pub_date": "2026-09-24T13:48:42+00:00"
-    },
-    {
-      "category": "IT/과학",
       "outlet": "BBC",
-      "title": "오픈AI 봇, 여러 미국 정부 기관 웹사이트에 개입 시도",
+      "title": "오픈AI 봇, 여러 미국 정부 기관 웹사이트에 간섭",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "summary": "오픈AI가 개발한 봇들이 다수의 미국 정부 기관 웹사이트에 부적절하게 개입하려 했습니다.이는 인공지능 시스템의 통제 및 보안 문제에 대한 심각한 경고를 던집니다.정부와 기술 기업들은 AI의 오용 방지를 위한 긴급한 대책 마련에 나서야 합니다.",
+      "summary": "오픈AI의 인공지능 봇들이 여러 미국 정부 기관 웹사이트에 간섭한 것으로 확인되었습니다. 이는 AI 시스템의 통제 불능 가능성과 사이버 보안 위협에 대한 우려를 증폭시키고 있습니다. 정부 기관의 디지털 인프라 보호 및 AI 활용에 대한 신중한 접근이 요구됩니다.",
       "pub_date": "2026-09-26T02:50:56+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "미국, 오픈AI와 앤트로픽의 국제 인공지능 표준 제정 요구 거부",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 정부가 오픈AI와 앤트로픽 등 주요 인공지능(AI) 기업들의 국제 AI 표준 제정 요구를 거부했습니다.이는 AI 기술 규제 및 글로벌 거버넌스 방향에 대한 국가별 입장 차이를 보여줍니다.빠르게 발전하는 AI 기술에 대한 국제적 협력과 규제 논의가 더욱 복잡해질 전망입니다.",
-      "pub_date": "2026-09-23T22:35:14+00:00"
+      "title": "애플, 진동 기술 특허 소송 패소로 57억 달러 배상 명령",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+      "summary": "애플이 진동 기술 특허 침해 소송에서 패소하여 57억 달러(약 7조 6천억 원)의 배상금을 지불하라는 명령을 받았습니다. 이는 애플 역사상 가장 큰 규모의 특허 침해 배상 판결 중 하나입니다. 이번 판결은 기술 기업들의 특허 전략과 소송 리스크에 대한 경각심을 높이고 있습니다.",
+      "pub_date": "2026-09-28T11:16:08+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "엔비디아, 인공지능 폭주 방지 도구 출시",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTVrd1A1Y3dFWXRuNlVNQzAyS0lNMTZhcE9uSjdzMGgybjl5d3pzVmRxdDB2TVhiWlpHaV83cTA3LS0tSlgxZ01leTQwXzExcGdRT0tINVZWTzhGaVBlaS10Ym9xUjBzc0NHVDlVTmV2dlJjTXY2T3Z5a19jN0lVdGgwNXVxbFd6d0hoTElDaGlrR0N5aUdjM3B3dktWRU80OFN0d1ZVekNqSjM1UkE?oc=5",
+      "summary": "인공지능(AI) 칩 선도 기업 엔비디아가 AI 시스템의 통제 불능 상태, 즉 '폭주'를 방지하기 위한 새로운 도구를 출시했습니다. 이 도구는 AI 모델의 안전성과 예측 가능성을 높이는 데 중점을 두고 있습니다. AI 기술의 급속한 발전 속에서 안전성 확보의 중요성이 강조되고 있습니다.",
+      "pub_date": "2026-09-28T21:39:11+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "인공지능 붐이 인플레이션 억제를 어렵게 만드는 이유",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjhGczhuNXdHd0RhVEVZWS1hZHJBeE4zdUgySXp5R1ByY0h1UTJzNVhVRTUzSGUwNzI5U21MdmV3SDY5bU9GVjRyOGQxdExJclVGd3RLSm96RVJUOW5uanBvYmpnakVHdDlTWk5IUTBVcWFLNnpaWFMyS2JSb0lWYlNObmNwNS01RldRR2NtSFlWdE5qV1VYeGlHT29JbDlEQlg5ekpCNkVpQjNB?oc=5",
+      "summary": "최근 인공지능(AI) 기술 붐이 전 세계적으로 확산되면서 인플레이션 억제가 더욱 어려워지고 있다는 분석이 나왔습니다. AI 관련 기술 개발 및 인프라 구축에 막대한 자본이 투입되면서 비용 상승 압력이 커지고 있기 때문입니다. 전문가들은 AI가 생산성 향상에 기여하지만 단기적으로는 물가에 상방 압력을 가할 수 있다고 경고합니다.",
+      "pub_date": "2026-09-28T16:21:26+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "인공지능 에이전트, 모든 일을 해줄 것이라 약속하지만 큰 난관 예상",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOVk2TmtpdTIyNG1ncV9RWmdQeWNRbWdoX1hwRnlQMXU1TXhzZkIyZEl3UU5pX0NFMlNMaEluMDN2WDVseklvV2Iyek5Dc2NDZHQ5bWg1SlBLaVdzX0o3elRLR1RHR1puM3YxOTY4bjcwVnhaaFktcENhM2ZPa2V3ZW1GU0xsZEVlZjVORnRLTDdxUWhqaEVjcUJncEJoTU1EVmM5Szl0SzkxclN4ZEttWHFyUUZnWndJYnBZazR5M3pFUy1aNTJxM190QWZrcWY0a1NMWE5YN0QwbXppUmdzRjZnd21aU0tVRGc?oc=5",
+      "summary": "인공지능(AI) 에이전트가 사용자 대신 모든 작업을 처리해 줄 것이라는 기대가 커지고 있지만, 실제 적용 과정에서 중대한 난관에 부딪힐 수 있다는 전망이 나왔습니다. 복잡한 상황 판단 능력 부족, 윤리적 문제, 그리고 시스템 오류 가능성 등이 주요 원인으로 꼽힙니다. AI 에이전트의 상용화를 위해서는 아직 해결해야 할 과제가 많습니다.",
+      "pub_date": "2026-09-28T12:12:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "남아프리카공화국에서 밤사이 두 차례 총격 사건으로 최소 27명 사망",
-      "link": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
-      "summary": "남아프리카공화국에서 밤사이 두 건의 대규모 총격 사건이 발생하여 최소 27명이 목숨을 잃었습니다.이번 사건은 해당 지역의 심각한 치안 불안과 폭력 사태를 여실히 보여줍니다.경찰은 범인들을 추적 중이며, 사회 전체에 큰 충격을 주고 있습니다.",
-      "pub_date": "2026-09-27T11:37:20+00:00"
+      "title": "영국 공군 기지 테러 계획 용의자 석방, 새로운 의문 제기",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+      "summary": "영국 페어포드 왕립 공군 기지 테러 계획 혐의로 체포되었던 용의자들이 석방되면서 새로운 의문이 제기되고 있습니다. 수사 당국의 초기 발표와 달리 증거 불충분으로 풀려나면서, 사건의 전말과 테러 위협의 실체에 대한 의혹이 커지고 있습니다. 영국 내 안보와 대테러 전략에 대한 논란이 불가피할 것으로 보입니다.",
+      "pub_date": "2026-09-28T20:05:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "러시아 외무장관, 우크라이나 전쟁을 끝까지 수행하겠다고 다짐",
-      "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-      "summary": "러시아 외무장관이 우크라이나 전쟁을 목표 달성 시까지 끝까지 수행할 것이라고 강조했습니다.이는 러시아의 확고한 전쟁 의지를 재확인하는 발언으로 해석됩니다.국제 사회의 휴전 요구에도 불구하고 전쟁 장기화 가능성이 더욱 커졌습니다.",
-      "pub_date": "2026-09-27T00:49:11+00:00"
+      "title": "예멘 후티-사우디 전쟁 재개로 800명 이상 사망, WHO 발표",
+      "link": "https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html",
+      "summary": "예멘에서 후티 반군과 사우디아라비아 연합군 간의 전쟁이 재개되면서 800명 이상의 사망자가 발생했다고 세계보건기구(WHO)가 발표했습니다. 이는 장기화된 예멘 내전의 비극적 상황을 다시 한번 보여줍니다. 국제사회의 인도주의적 지원과 평화적 해결 노력이 절실한 상황입니다.",
+      "pub_date": "2026-09-28T16:20:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "세르비아의 오랜 대통령 알렉산다르 부치치, 대통령직 사임",
+      "title": "러시아 드론, 우크라이나 과학 아카데미 공격으로 시내 중심부 화재 발생",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+      "summary": "러시아 드론이 우크라이나의 과학 아카데미를 공격하여 수도 키이우 시내 중심부에 대규모 화재가 발생했습니다. 이번 공격은 우크라이나의 교육 및 연구 시설을 표적으로 한 것으로, 국제사회의 비판을 받고 있습니다. 전쟁으로 인한 민간 시설 피해가 계속되면서 인도주의적 위기가 심화되고 있습니다.",
+      "pub_date": "2026-09-28T19:33:55+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "세르비아 장기 집권 대통령 알렉산다르 부치치, 사임 발표",
       "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
-      "summary": "세르비아의 알렉산다르 부치치 대통령이 오랜 재임 끝에 대통령직에서 물러났습니다.그의 사임은 세르비아 정치 지형에 큰 변화를 예고하고 있습니다.후임 선출 및 정국 운영 방향에 대한 관심이 집중되고 있습니다.",
+      "summary": "세르비아의 알렉산다르 부치치 대통령이 장기 집권 끝에 사임을 발표했습니다. 그는 약 10년간 세르비아의 정치적 중심에 있었으며, 그의 사임은 조기 선거로 이어질 가능성이 높습니다. 이번 사태가 세르비아 국내 정치 지형에 큰 변화를 가져올 것으로 예상됩니다.",
       "pub_date": "2026-09-27T21:22:29+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "네타냐후, 10월 7일 하마스 공격 전 아랍에미리트 지도자로부터 경고받았다고 전해져",
-      "link": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
-      "summary": "베냐민 네타냐후 이스라엘 총리가 10월 7일 하마스 공격 이전에 아랍에미리트 지도자로부터 경고를 받았다고 합니다.이 정보는 이스라엘 정보 당국의 안일함에 대한 심각한 의문을 제기합니다.해당 사실이 확인될 경우 총리의 책임론이 더욱 커질 것으로 예상됩니다.",
-      "pub_date": "2026-09-25T17:15:17+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "87세 퇴거 여성, 스페인 국민에게 자신과 같은 처지 피하기 위해 '싸우라'고 촉구",
-      "link": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
-      "summary": "강제 퇴거당한 87세 스페인 여성이 국민들에게 자신과 같은 운명을 피하기 위해 싸울 것을 호소했습니다.그녀의 사연은 스페인의 심각한 주택난과 사회적 불평등 문제를 부각시키고 있습니다.정부의 주택 정책 개선과 사회적 약자 보호에 대한 요구가 커지고 있습니다.",
-      "pub_date": "2026-09-26T22:22:12+00:00"
+      "title": "중국의 소프트 외교 상징인 자이언트 판다, 애틀랜타에 도착",
+      "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
+      "summary": "중국의 소프트 외교를 상징하는 자이언트 판다 두 마리가 미국 애틀랜타 동물원에 도착했습니다. 이는 미중 관계의 긴장 속에서도 문화 교류와 상호 이해를 증진하려는 노력의 일환으로 평가됩니다. 판다의 도착은 양국 국민들의 관심과 환영을 받으며 긍정적인 메시지를 전달하고 있습니다.",
+      "pub_date": "2026-09-28T08:10:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "이란 장관, 트럼프의 호르무즈 협상 거부 후 오직 대화만이 분쟁을 끝낼 수 있다고 발언",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "summary": "이란 장관이 트럼프 전 대통령의 호르무즈 해협 재개방 협상 거부 이후에도 오직 대화만이 분쟁을 끝낼 수 있다고 밝혔습니다.이는 중동 지역의 긴장 완화에 대한 이란의 외교적 접근 의지를 보여줍니다.국제 사회는 이란과 미국 간의 추가적인 외교적 노력을 주시하고 있습니다.",
-      "pub_date": "2026-09-27T07:44:11+00:00"
+      "title": "서울, 북한군 포로 논란으로 우크라이나 특사 소환",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "대한민국 외교부가 북한군 포로와 관련한 논란으로 우크라이나 특사를 소환했습니다. 우크라이나 측의 언론 보도가 사실과 달라 외교적 문제가 발생한 것으로 알려졌습니다. 이번 사태가 양국 관계에 미칠 파장과 진실 규명 여부가 주목됩니다.",
+      "pub_date": "2026-09-28T14:57:31+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "남아프리카공화국에서 두 차례의 대규모 총격 사건으로 27명 사망",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "남아프리카공화국에서 두 건의 대규모 총격 사건이 발생하여 최소 27명이 사망했습니다.이 사건들은 남아공의 심각한 총기 폭력 문제를 다시 한번 부각시켰습니다.당국은 범인들을 추적하며 재발 방지 대책 마련에 나서고 있습니다.",
-      "pub_date": "2026-09-27T14:09:22+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "궁지에 몰린 세르비아 대통령 사임, 조기 선거 길 열어",
+      "title": "궁지에 몰린 세르비아 대통령 사임으로 조기 선거 길 열려",
       "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "summary": "정치적 압박에 직면했던 세르비아 대통령이 결국 사임하여 조기 선거의 길이 열렸습니다.이는 세르비아 국내 정치에 큰 변화와 불확실성을 가져올 것입니다.국민들은 차기 정부의 리더십과 정책 방향에 주목하고 있습니다.",
+      "summary": "장기 집권하며 궁지에 몰렸던 세르비아 대통령이 사임하면서 조기 선거의 길이 열렸습니다. 이는 최근 불거진 정치적 불안정과 대규모 시위의 결과로 풀이됩니다. 세르비아의 정치적 미래와 새로운 리더십에 대한 관심이 집중되고 있습니다.",
       "pub_date": "2026-09-27T20:04:21+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "베네수엘라, 조기 선거 요구 증가에 따라 수십 명의 정치범 석방",
-      "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "summary": "베네수엘라 정부가 조기 선거 요구가 거세지자 수십 명의 정치범을 석방했습니다.이는 국제 사회의 압력과 국내 민주화 요구에 대한 반응으로 해석됩니다.베네수엘라의 정치적 상황 변화와 민주화 이행 여부가 주목됩니다.",
-      "pub_date": "2026-09-27T15:56:25+00:00"
+      "title": "노스이스터 폭풍, 뉴욕과 뉴저지 강타하여 1명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "summary": "강력한 노스이스터(nor'easter) 폭풍이 미국 뉴욕과 뉴저지 주를 강타하여 최소 1명이 사망하고 광범위한 피해가 발생했습니다. 폭우와 강풍으로 정전 사태와 교통 마비가 이어졌습니다. 당국은 주민들에게 추가 피해에 대한 주의를 당부하고 있습니다.",
+      "pub_date": "2026-09-27T23:37:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "태국 방콕 도로 침수, 홍수 재해 지역으로 선포",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "태국 방콕 시내 주요 도로들이 폭우로 인해 심하게 침수되어 홍수 재해 지역으로 선포되었습니다.이번 홍수는 도시의 교통과 주민 생활에 막대한 피해를 입혔습니다.당국은 비상 대응 체제를 가동하며 피해 복구 및 추가 피해 방지에 총력을 기울이고 있습니다.",
-      "pub_date": "2026-09-27T04:45:08+00:00"
+      "title": "스페이스X 스타십, 발사부터 불꽃 튀는 착수까지 궤도 시험 완료",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "summary": "스페이스X의 차세대 우주선 스타십(Starship)이 발사부터 멕시코만 착수까지 궤도 시험 비행을 성공적으로 완료했습니다. 이번 시험은 스타십의 잠재력을 입증하며 인류의 달 및 화성 탐사 목표에 한 걸음 더 다가섰다는 평가를 받습니다. 우주 탐사 역사에 새로운 이정표를 세웠다는 찬사가 이어지고 있습니다.",
+      "pub_date": "2026-09-28T13:59:06+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "이란 법원, 히잡 없이 공연한 가수에 대한 채찍형 선고 유지",
+      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "이란 법원이 히잡 없이 공개적으로 공연한 여성 가수에 대해 채찍형 선고를 유지했습니다. 이는 이란 당국이 여성들의 복장 규제와 표현의 자유를 억압하는 정책을 지속하고 있음을 보여줍니다. 국제 인권 단체들은 이러한 판결에 대해 강력히 비판하며 이란 정부의 인권 탄압을 규탄하고 있습니다.",
+      "pub_date": "2026-09-28T17:15:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "남아프리카공화국에서 발생한 여러 총격 사건으로 최소 30명 사망",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSklpMURBY05mODZTbElvRWM1YUczX2V4WkJYc01TU29iZG1iNjFVODRURTcwM0Z5MzlLR0FId3lsOU1rZHZBSG1KazRmNm1hdGd2TC1ZS28wWVNlUGMyWXpwaUNXRUlLVWVUclFFQXppTElMdFNQTmlKMUNmU2MtM05PU25HZnY3VnF3SzYyLVZGVm00U0dmVTE2THNuNHExSnJvTw?oc=5",
-      "summary": "남아프리카공화국에서 발생한 다수의 총격 사건으로 최소 30명이 사망하는 비극이 발생했습니다.이는 해당 국가의 만연한 폭력 문제와 치안 부재를 다시 한번 드러냈습니다.경찰은 사건 관련 용의자를 추적 중이며, 사회적 불안감이 고조되고 있습니다.",
-      "pub_date": "2026-09-27T20:05:00+00:00"
+      "title": "영국 경찰, 공군 기지 테러 혐의 용의자들 보석 석방 발표",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGdGTkI2UnZIYTJFaVJoTW5zN0xXZVU4STJ3TVdlNVI5WmV0U1J2VUdqcU1SY0Naekp3UVE0WjlXdUNmVlQyY2J3ZllYbncxb0FEUFp3OUxiLW0xcnJOa0Jab0sweWw0S3hzemxvRlRDU3ZZMktFT2xhYTVBaTRvSTNuem9mbHppS194bG8xS0NCaHltYWlZdFlzTWoyNEtwLXctTWZDd0p1djRpSUVYcmpwN3lneTY4WGljcjB2bENURWM?oc=5",
+      "summary": "영국 경찰이 공군 기지 테러 계획 혐의로 체포되었던 용의자들을 보석으로 석방한다고 발표했습니다. 이는 초기 수사 단계에서 확보된 증거가 불충분하다는 판단에 따른 것입니다. 이번 석방으로 인해 사건의 진실 공방과 함께 수사 당국의 대처에 대한 논란이 예상됩니다.",
+      "pub_date": "2026-09-28T18:11:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "콩고민주공화국 전역으로 에볼라 발병 확산",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY181aEpjNTZuRTdqaXNzU0pRWFo1OUJQSGdYc0lWTUJpM0lRR2ljVVJrYTNsVk04UU13aFZoNGNDZm1jWTBHTFk3OXpmM2J1b2hmc0ROSkFtMWRHSm9Vd1NndU9hNVRIM1g2bU8xZDN6a1RnejEwLUphNngwYUFUTm5DWEpUNUl1Ty1ZWXVUYjdvUi1OY05DcWJVQWV3cWxEbDRUNWZxRm9hRUVNZ3lyT0R1SDAtLTFNdmFaa21tdWk1eWE1?oc=5",
-      "summary": "콩고민주공화국(DRC) 전역으로 에볼라 바이러스가 확산되고 있어 심각한 보건 위기에 처했습니다.세계보건기구(WHO)와 현지 보건 당국은 확산 저지를 위한 긴급 대응에 나섰습니다.감염 확산 방지와 취약 지역 지원을 위한 국제사회의 관심과 지원이 절실합니다.",
-      "pub_date": "2026-09-27T09:20:42+00:00"
+      "title": "레오 교황, 인공지능에 대해 패닉하지 않지만 그 힘에 대해 경고",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnMzYzNxd0M0WkdzOHY1YVoyVHh3WktOWnhEcFFramkwY01GdTNaZDVsN1hMa21pUTgxTnpCM0J3bUYzbk9PTFhTYkhodG1mWkItOVFTS1ZLTzVhQlEwWi15Y21BUVBuV1VYeGpiSWtuZF9HSWxrb0hZSi1GdWVFbkdJQzBzVnBIdVNVZGhvdkE2anRQVmxEb0kxVWJMNzFPRko4TmVScmtIc0p6MVYwQzVuY0xqZnF2?oc=5",
+      "summary": "레오 교황이 인공지능(AI)의 급속한 발전에 대해 '패닉할 필요는 없다'면서도, AI가 가진 강력한 힘에 대해서는 분명히 경고했습니다. 그는 AI가 인류에게 가져올 윤리적, 사회적 영향에 대해 신중한 접근과 책임감 있는 개발을 촉구했습니다. 종교계 지도자로서 AI 시대에 대한 성찰적 메시지를 전달했습니다.",
+      "pub_date": "2026-09-28T23:40:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "영국 경찰, 미군 기지 근처에서 폭발물 위반 혐의로 여러 명 체포",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFM5TEM4U3FWekZmSHhyUXlvODc5WGJyUjlLRDJ4ZklnWG1EMGdqT3JpMFhhMkhwMS16SWp6OGVka0MtOEFWUXhwVGhmTUVJZGRSd2ZHeWd5Mnlhc2dTRDVsbDIzRjYxbHowSm9GMnFBa3RNY2VHbldSX3ZZdXJOU2JIRTI4dzRWZUp1R3BOMGVVdw?oc=5",
-      "summary": "영국 경찰이 미군이 사용하는 공군기지 근처에서 폭발물 관련 혐의로 여러 명을 체포했습니다.이는 잠재적인 테러 위협 또는 안보 관련 중대 사건으로 간주됩니다.당국은 추가 조사를 통해 정확한 범행 동기와 관련 여부를 파악 중입니다.",
-      "pub_date": "2026-09-27T12:56:36+00:00"
+      "title": "네팔에서 거대한 산사태 발생하여 강으로 붕괴",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHEwTWI4cXpoN1FMbl9fdVFCdFlfOWR6cjk0TXZZaGxReTVsUmstTFhCRG9MYWRjNDBPYUZTcHJNV090ME1uTXZURm8wclZiTnk4UHJXWFgyZk5SNkNBdFZST0tTaXI5R3BqZXhsMzRLdF9wVkk2SGR3T1RRLXBaWG5NQXk1Vll2S0VSdU13Snk?oc=5",
+      "summary": "네팔에서 거대한 산사태가 발생하여 인근 강으로 붕괴되는 심각한 피해가 발생했습니다. 이번 산사태는 최근 이어진 집중 호우로 지반이 약해진 것이 원인으로 지목되고 있습니다. 구조 작업이 진행 중이며, 추가 피해에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-09-28T21:35:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "\"부디 싸우세요\": 한 노년 여성의 퇴거가 스페인 주택 위기를 조명한 방법",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGQtYnhZSFBYT195VElZVUdzdG0wTUhTdEo1OTRoa3FXSHdTaGlXdDZmTVJxMFpLRHV0R0FNWDNCYXY1WkVsRlJ6Qm1vUGJwSktjQkJJYkxDbUN1ajlxU3ZGb0R5RlpDaEdOdC1fR1NxSU1yMk9wY0ZWOFdRcWxwSDB6cm1EREgyQ21nVGc2dw?oc=5",
-      "summary": "한 노년 여성이 강제 퇴거당한 사건이 스페인의 심각한 주택 위기를 다시금 부각시켰습니다.이 여성의 절규는 주거 불안정에 시달리는 많은 이들의 공분을 샀습니다.스페인 정부는 주택 정책 개선 압박을 받으며 사회적 논쟁이 가열되고 있습니다.",
-      "pub_date": "2026-09-27T21:09:11+00:00"
+      "title": "중국 판다 두 마리, 애틀랜타 동물원에 도착",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlFGVEppXy1IQnFFUDlzX2pvWmJTSmJYRnZJX09pQ3FySU1JVS1td1M0NmJhZFdCTnNvVTV2ZnZGaFV2dkFzSTQ5eVBIT0R6ZmpFSHp4TVB5UkhiS0ZsSnVTMTNXOFZNRGtoSkFQM1RnelpXdk1reW52OGw3di1lVGpLR2ZjRXlvU1h0R0hrU0RzNnNKcHNMdkQ5UWtHUjlXTlh5Y3kxUkFoSGtSbXZ5WDJMZWU3LWZC?oc=5",
+      "summary": "중국의 상징인 자이언트 판다 두 마리가 미국 애틀랜타 동물원에 도착했습니다. 이는 양국 간의 문화 외교를 강화하고 우호적인 관계를 유지하려는 노력의 일환으로 평가됩니다. 판다들은 새로운 환경에 적응한 후 대중에게 공개될 예정입니다.",
+      "pub_date": "2026-09-28T07:01:36+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "치명적인 북동풍 폭풍, 수천 가구 정전 사태 유발",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONC1WdXVpeU4tZXlfbEx3LXVwX0c4Rk1iYk5OMW1Nc3VEYVdvMUloWHFrZ3QwMkp3M1g0WTJkZnhTM01KYmZLeWtNRDFOanJRbFVORGVEdmR1TjRBWVNjaGxXTllja20yUThsTU1tdXB0RHFoNmtJNVVQQlRpWnJDYk5GVW9lSXYxLU5F?oc=5",
-      "summary": "강력한 북동풍 폭풍(Nor’easter)이 미국 북동부를 강타하여 수천 가구가 정전되는 피해가 발생했습니다.이 폭풍은 강풍과 폭우를 동반하며 광범위한 지역에 걸쳐 혼란을 야기했습니다.피해 복구 작업이 진행 중이며, 주민들은 추위와 전력 부족으로 어려움을 겪고 있습니다.",
-      "pub_date": "2026-09-27T10:25:00+00:00"
+      "title": "이스라엘 네타냐후 총리, 일요일 아랍에미리트 비밀 방문",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek50c3J0Mmh0ZFhBM3J6T0xjN3NZNHd3VzRIZjhKMXpFQ0hONGFqRlR1aHBYV281cExyUG04RWdMVWx0UWZnbHppaGpxQ2l6dUxGNFc2OFgwYnhZUndrV0E4VklMNmxURzd5SElhRVJqblpGRmxUUlJZSzVyLTl1cEItTTB5OGlPVmRKTQ?oc=5",
+      "summary": "이스라엘 베냐민 네타냐후 총리가 지난 일요일 아랍에미리트(UAE)를 비밀리에 방문한 것으로 알려졌습니다. 이는 중동 지역 내 외교적 관계와 안보 협력에 대한 중요한 움직임으로 해석됩니다. 이번 방문의 구체적인 목적과 논의 내용은 아직 공개되지 않았습니다.",
+      "pub_date": "2026-09-28T10:33:23+00:00"
     }
   ]
 }
