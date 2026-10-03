@@ -1,397 +1,421 @@
 {
-  "last_updated": "2026-10-02T00:36:31.420422+00:00",
+  "last_updated": "2026-10-03T00:09:29.834026+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "대통령, \"비무장지대 불의의 사고, 북한도 신뢰 회복에 동참해야\" 발언",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779523&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "대통령이 비무장지대(DMZ)에서 발생한 '불의의 사고'에 대해 유감을 표명했습니다.이 사고는 남측 장병들의 부상으로 이어진 지뢰 도발 사건을 지칭하는 것으로 해석됩니다.대통령은 북한도 대화와 협력으로 신뢰 회복에 함께 나설 것을 촉구했습니다.",
-      "pub_date": "2026-10-01T13:33:00+00:00"
+      "title": "김지용 청문요청안 재가…정청래와 4시간 만찬",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781550&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:12:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "대통령, \"내일 중수청과 공소청 출범, 정적 제거 정치 검찰 시대 마감\" 선언",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779236&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "대통령은 내일부터 중대범죄수사청(중수청)과 공소청이 공식 출범한다고 밝혔습니다.이는 검찰의 직접 수사권을 폐지하고 기소와 수사를 분리하는 사법 개혁의 일환입니다.대통령은 이로써 '정적 제거'에 몰두했던 정치 검찰의 시대가 막을 내릴 것이라고 강조했습니다.",
-      "pub_date": "2026-10-01T07:30:00+00:00"
+      "title": "\"상대국 원수 거짓말쟁이 만들어\"…대사 소환 검토",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781549&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:10:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "군 지도자들, 전쟁 중 민간인 사망 최소화 방안 논의 예정",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html",
-      "summary": "세계 각국의 군 지도자들이 전쟁 상황에서 민간인 피해를 줄이는 새로운 방안을 모색할 예정입니다.이번 논의는 무력 충돌 지역의 민간인 보호에 대한 국제적 우려가 커지는 가운데 진행됩니다.정확한 교전 수칙 및 기술 활용을 통해 민간인 희생을 막는 데 중점을 둘 것으로 보입니다.",
-      "pub_date": "2026-10-02T00:05:22+00:00"
+      "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T23:34:41+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "\"격분 직전\": 바이든 대통령이 네타냐후 총리와 가자지구 문제로 관계 단절 직전까지 간 내막",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html",
-      "summary": "조 바이든 미국 대통령이 베냐민 네타냐후 이스라엘 총리와 가자지구 문제로 격렬한 의견 충돌을 겪었습니다.바이든 대통령은 네타냐후 총리의 정책에 강한 불만을 표하며 관계 단절 직전까지 갔던 것으로 알려졌습니다.이는 미국과 이스라엘 간의 가자지구 정책 이견이 심화되고 있음을 보여줍니다.",
-      "pub_date": "2026-10-01T19:56:10+00:00"
+      "title": "Hispanic Voters, Souring on Republicans, Could Decide the Midterms",
+      "link": "https://www.nytimes.com/2026/10/02/us/politics/midterms-hispanic-voters-trump.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:38:35+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "대법원, 트럼프 행정부 이민 정책 심리 착수, 이민자 구금 정책 검토 예정",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
-      "summary": "연방 대법원이 도널드 트럼프 전 대통령의 이민 정책 중 이민자 구금 정책에 대한 심리를 시작합니다.이는 이민자 인권 및 행정부의 광범위한 권한에 대한 중요한 법적 판단이 될 전망입니다.대법원의 결정은 향후 미국의 이민 정책 방향에 큰 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-10-01T15:57:44+00:00"
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:25:23+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령, 김지용 중대범죄수사청장 후보자 국회 청문요청안 최종 재가",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261002082806nwW",
-      "summary": "이 대통령이 김지용 중대범죄수사청장 후보자에 대한 국회 인사청문요청안을 최종 재가했습니다.이는 김지용 후보자가 정식으로 청문회를 거쳐 중수청장으로 임명되는 수순을 밟게 됨을 의미합니다.중수청은 검찰의 직접 수사권을 대체할 핵심 기관으로, 그 수장 임명은 사법 개혁의 중요한 부분입니다.",
-      "pub_date": "2026-10-01T23:28:07+00:00"
+      "title": "청와대, 北 탄도미사일에 긴급안보회의…\"즉각 중단\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261003085352XfV",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T23:53:55+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "산업재해 발생 기업 영업이익 5% 과징금 부과 산업안전보건법 등 국회 본회의 통과",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261002053909UB3",
-      "summary": "산업재해 발생 시 기업 영업이익의 최대 5%를 과징금으로 부과하는 내용의 산업안전보건법 개정안이 국회 본회의를 통과했습니다.이 법안은 기업의 안전 의무를 강화하고 중대재해 예방에 대한 책임을 높이기 위해 마련되었습니다.향후 기업들은 안전 투자 확대 및 작업 환경 개선에 더욱 박차를 가할 것으로 예상됩니다.",
-      "pub_date": "2026-10-01T20:39:10+00:00"
+      "title": "[속보] 靑 \"북 탄도미사일에 긴급안보상황점검회의\"",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261003083837oZd",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T23:38:38+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "새 조기 석방 제도에 따라 수백 명의 범죄자들이 교도소를 떠나기 시작",
-      "link": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국에서 새로운 조기 석방 제도 시행으로 수백 명의 범죄자들이 교도소에서 풀려나기 시작했습니다.정부는 교정 시설의 과밀화를 해소하고 재범률을 낮추기 위해 이 제도를 도입했다고 밝혔습니다.하지만 야당과 시민 단체들은 공공 안전에 대한 우려를 표하며 논란이 가중되고 있습니다.",
-      "pub_date": "2026-10-01T15:18:22+00:00"
+      "title": "Widdecombe suspect charged with planning terror act against Farage",
+      "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:32:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "영국-프랑스 \"한 명 입국, 한 명 추방\" 이민 계획 전면 폐지",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국과 프랑스가 양국 간의 '한 명 입국, 한 명 추방'이라는 이민자 관리 계획을 폐지하기로 합의했습니다.이 계획은 불법 이민자를 통제하기 위한 시도였으나, 인권 문제와 비효율성 지적이 제기되어 왔습니다.양국은 새로운 방식으로 이민 문제를 해결하기 위한 협력을 모색할 예정입니다.",
-      "pub_date": "2026-09-30T17:11:08+00:00"
+      "title": "Tories pledge to build 50,000 new prison places",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:11:04+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "청와대, \"김지용은 친윤 검사 아니다\" 주장 반박하며 중대범죄수사청장 청문요청안 제출",
-      "link": "https://www.chosun.com/politics/politics_general/2026/10/01/KN6K3YOOUNDTXHKFNCXGJRVTCQ/",
-      "summary": "청와대가 김지용 중대범죄수사청장 후보자가 '친윤(친윤석열) 검사'라는 야당의 주장을 강하게 반박했습니다.청와대는 김 후보자의 인청안을 국회에 제출할 예정이며, 이는 김 후보자 임명 강행 의지를 보여줍니다.중수청장 인선은 검찰 개혁의 핵심 쟁점으로 정치권의 대립이 격화되고 있습니다.",
-      "pub_date": "2026-10-01T05:41:27+00:00"
+      "title": "[속보] 합참 “北, 동해상으로 탄도미사일 발사”",
+      "link": "https://www.chosun.com/politics/politics_general/2026/10/03/KVHAA3JUKVGPLLJGFCKU62YG7A/",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:11:14+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "백악관, 트럼프 대통령의 텍사스 및 오클라호마 방문 취재진에서 CNN 제외 조치",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3B0QnZKelRZSmZxQkN3UUFTd2NJZG1iTnYzcVl0VjQyWmRwN3RfNjFHQUVRczZDeXpMVmZjNVRGaUdMZlpSclZWTmhfeXJ1N0JRd1J6RE5JdllfMDZkdTFRbFFaM0NBMVc1SmloMXpDTkVxSG5Sakg1dkNHX1FzMnhHOEZiZUtDa1hFQTQ0ZEJsRy1MNXYydkhxRm1kbnFnZDlCQ2FvcTM5anI1cC1BYllrZw?oc=5",
-      "summary": "백악관이 도널드 트럼프 대통령의 텍사스와 오클라호마 순방 취재단에서 CNN을 배제했다고 NBC 뉴스가 보도했습니다.이러한 조치는 언론 자유 침해 논란을 불러일으키며 백악관과 언론 간의 긴장을 고조시키고 있습니다.CNN은 이번 결정에 대해 강력히 항의하며 공정한 취재 기회를 요구했습니다.",
-      "pub_date": "2026-10-01T12:58:00+00:00"
+      "title": "Trump on possibly invoking Insurrection Act around midterms: ‘We’ll see’ - CNN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0xvMGE0MU9lUG9vd2F0MWp4TXd4c2d6WjB3MVVTTzhpWTQyNW9zR2sxNjl4NWFXME9EVDdITkRYX0ZaWjBIdV9jRktQUy1rbG16eXk1NlpycTJxQzBvX1M2RDBDQWM3aVV5YUxZWlBkcmJVN3NvWk5Mei16S3Job0xtZGRLZnI4YWZHWlNIenFFZGxmc3JyRDAwWGNqVEpY?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:36:56+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "첫 조기 투표 결과 발표, 민주당에게 낙관적인 이유 발견 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVNQWDNIV25oV19IcEhVTEhEbkZIVnE2a0U4d0dXSkxkMGtKU200V3d4NjZiWjB2U1VkMVlRb3hhT1ItRFYwTkFXb1JXekc4Zlp0TWJvakhrX3lTRV9YS3cxWm9PdjJfOU5pZmZMQTJSanYyR2JSaS1TdHFSZzdzQXFGWkRBOHJIZ2I2Y2VZY3lJTHhZQnk0M1JDVQ?oc=5",
-      "summary": "중간선거의 첫 조기 투표 결과가 발표되었으며, 민주당에게 긍정적인 신호들이 감지되고 있습니다.CNN 분석에 따르면 민주당 지지자들의 투표 참여율이 예상보다 높게 나타나고 있습니다.이러한 초기 지표는 다가오는 중간선거의 판세에 대한 민주당의 기대감을 높이고 있습니다.",
-      "pub_date": "2026-10-01T18:12:58+00:00"
+      "title": "Can you spot AI-generated political ads? - CNN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3k0cTNzcEw4aG1RSFh3RDg0NjdTN1JUeFNISU1zZ1ZHZFVDdWxaZTg2dG5GUFVVUEJkcTdTRVpTMnNZSVh5ZUlJdzRIT1JzbGtNV0VuTjhWaDZxR1dJQ1ZWd3Fac01INV9zV2pBSHJ1c2Znel9uSTdXd0hLQW1xemQ3SWJ2N1lSQ2hvMGNqMm5LcG9JbHhRdXhoQ1QxbTE1OGdtb0d2U3o4WWZRV1B1UA?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T17:35:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "대법원, 트럼프 행정부 이민 정책의 핵심 부분 심리 착수 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdldLYm45SUw4dDluZy1INWRzTFRXTWJCS2c3VWNkelc5MTNrMkpuXzlpaEVmYTNjUW1FOHlrT0FoakVTejhPdkpBb0stcmxudFZNMHV6MGpkV3I4VzN2TzVzZzdyV1hiX1J1NUlncmFHb1ZzRTgyUjJxWkVFSUdGRzc4cVYzeUVtMmk2TU4yQlRrZHpIdFloTVB1cw?oc=5",
-      "summary": "연방 대법원이 도널드 트럼프 전 행정부의 이민 정책 중 핵심적인 사안에 대해 심리를 개시합니다.특히 이민자 구금 및 망명 신청 절차와 관련된 정책의 적법성이 중점적으로 다뤄질 예정입니다.이번 대법원의 판결은 미국의 이민 시스템과 정책 방향에 중대한 영향을 미칠 것으로 보입니다.",
-      "pub_date": "2026-10-01T13:54:23+00:00"
+      "title": "Abandonment is ‘the defining political emotion of this age,’ says journalist Anand Giridharadas - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzBiMlJaQnRPU21DRHZlUk13N25hbW5mZXRoM1d1WWJQbWJuZ2NPbDA2NmUzMGszckdFb011TUJDdjhFZ3pBVktKc0w1bXA1Vi1uQ3VXXy1sdmdzOXh4dUF6Zzh4empGakhhYWFvSlN3YWVlMXRhMUFDTWlUeUNPd2VNeVIwalJ5clRsNWc0S2dXc3k5QlQyX0w0QmFWZ2xNQlhvMTBKelNxLXZhbzgyVEhWSTB1TzE4?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T19:07:04+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "트럼프 대통령의 디젤 수출 금지 위협, 전 세계에 비상 경고음 울려",
-      "link": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
-      "summary": "도널드 트럼프 전 대통령이 디젤 수출 금지를 위협하면서 국제 에너지 시장에 큰 파장을 예고했습니다.이러한 발언은 글로벌 공급망과 에너지 가격 불안정을 심화시킬 수 있다는 우려를 낳고 있습니다.각국 정부와 기업들은 잠재적 공급 부족 사태에 대비하며 촉각을 곤두세우고 있습니다.",
-      "pub_date": "2026-10-01T18:58:48+00:00"
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:25:23+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미국 채권 수익률 2002년 이후 최고치 기록",
-      "link": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
-      "summary": "미국 국채 10년물 수익률이 2002년 이후 최고 수준으로 치솟으며 금융 시장의 불안감을 키우고 있습니다.이는 연방준비제도(Fed)의 추가 금리 인상 가능성 및 인플레이션 압력에 대한 시장의 반응으로 풀이됩니다.높은 채권 수익률은 주택담보대출 금리 인상과 기업 투자 위축으로 이어져 경제 전반에 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-10-01T20:23:38+00:00"
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T15:59:17+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "전 세계 채권 시장 폭락, 우려스러운 새로운 수준에 도달",
-      "link": "https://www.nytimes.com/2026/10/01/business/dealbook/bond-rout-trump-powell.html",
-      "summary": "전 세계 채권 시장에서 대규모 매도세가 이어지며 폭락 현상이 심화되고 있어 불안감이 커지고 있습니다.이는 글로벌 인플레이션 장기화 우려와 각국 중앙은행의 긴축 기조가 맞물린 결과로 분석됩니다.채권 시장의 불안정은 전 세계 금융 시스템의 안정성을 위협하며 경기 침체 가능성을 높이고 있습니다.",
-      "pub_date": "2026-10-01T11:51:29+00:00"
+      "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
+      "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T16:41:44+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "미국, 트럼프 디젤 금지 위협에 유럽 연료 비축 준비 권고",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 정부가 유럽 국가들에게 도널드 트럼프 전 대통령의 디젤 수출 금지 위협에 대비해 연료 비축량을 늘릴 것을 권고했습니다.이는 트럼프 전 대통령의 잠재적 재집권 시 에너지 정책 변화가 글로벌 시장에 미칠 영향을 경고하는 것으로 해석됩니다.유럽은 러시아-우크라이나 전쟁 이후 에너지 안보에 대한 취약성이 커진 상태라 비축량 확보에 더욱 주력할 것으로 예상됩니다.",
-      "pub_date": "2026-10-01T22:21:16+00:00"
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T20:25:19+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "가구 에너지 요금, 4년 만에 가장 큰 폭 상승 예상",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 가구의 에너지 요금이 최근 4년 만에 가장 큰 폭으로 오를 것으로 전망되어 서민 경제에 부담을 주고 있습니다.이는 국제 에너지 가격 상승과 정부 지원 축소 등이 복합적으로 작용한 결과로 분석됩니다.높아진 에너지 비용은 가구의 가처분 소득을 감소시켜 전반적인 소비 위축으로 이어질 수 있습니다.",
-      "pub_date": "2026-09-30T14:36:45+00:00"
+      "title": "UK diesel prices top £2 a litre for first time, RAC says",
+      "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T15:50:05+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "서울경제",
+      "title": "5% 이상 주담대 2.3조 증가…금리인상에 매달린 물가잡기의 그늘",
+      "link": "https://www.sedaily.com/article/20097734",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T08:44:37+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "미국 10년 만기 국채 수익률 2002년 이후 최고치 경신 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDFzeEYwbXVaYTJvNE00NXJWZnV5ZTFFOV9mS0IwT296VmZnN0JDOEs0aDVlczFlSHVoMnBNZy0yS0YybmNHMzdXell2MWc0azRaSlVfSHoxdkYwVC1CYVpyV0ZNbFVrRGt2WVJEMF85ZVdVeGtxX2l5ZHhqbWd2SGZUdlV5SVJIZ0lBX3NBd1FaWVBjaXFXT0czZjRHRFE0bGdXRFhPcWpxZTJ4UncwZ3A2cUgxQXZyckJtR25n?oc=5",
-      "summary": "미국 10년 만기 국채 수익률이 2002년 이후 최고 수준으로 상승하여 금융 시장에 큰 영향을 미치고 있습니다.이는 고금리 장기화 가능성과 인플레이션 압력에 대한 시장의 우려를 반영하는 지표입니다.높아진 국채 수익률은 기업 차입 비용을 증가시키고 주택 시장에도 부담을 줄 수 있습니다.",
-      "pub_date": "2026-10-01T15:02:04+00:00"
+      "title": "U.S. economy adds just 29,000 jobs in September - CNN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3NMRlVaSzVMLW1wSkw2aWExWUZHY2F2aXE2aUliYVBYdmxGbG8zWnhOdzh4Y1RsZVk3NXdfa0FZWUs1NW1DMlVUeUhxRU4xUHZCM2FwWDlpRmhmTEE0Zjk0Vzg1N3lQUFFxWEJJX3BkWkFvTkN4OHVzZ09MNlhtdlljZjJhR2t5S0ZaY1FXNkF5TEN2ODE5TTY5ekYzemJnSUlFb0NFc0ZOeE1WekJTVHNDcUs3QQ?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:27:01+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프, 약 100만 명의 미국인에게 500달러 환급 수표 발송: 수혜 대상은? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wVWJNODFHRTVWUWZyVUpSRlhYQ0ZrVW1ualIwaXpQYm9WYlJjSXNtZV9TSFFuRkhBRFlleWVBRnZvakFpTXJWY1JXVXZ0YW1seXJaZ256MmFoNi1oYXJQcU5uQ3FhN1dNcTFXWU9QTlFWQQ?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 약 100만 명의 미국인에게 500달러의 환급 수표를 보낼 예정이라고 CNN이 보도했습니다.이 환급은 그의 대통령 재임 중 추진했던 특정 프로그램과 관련된 것으로, 수혜 대상은 저소득층 및 취약 계층이 될 것으로 보입니다.이는 트럼프 전 대통령의 대중적 지지 기반을 다지기 위한 움직임이자 향후 선거 전략의 일환으로 해석될 수 있습니다.",
-      "pub_date": "2026-10-01T19:31:28+00:00"
+      "title": "Sources: cockpit stabbing suspect removed from previous airline job over concerns about extremist views - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVFQSWh6U3hmTFo3bEk4RkItSlNNMW1WY2dCMllXNE5DYVpxNkdGeXdSUGkzSktndDJvRTBVczFia2VwSTZqNUhFMGs0U1k5cFhzdjNkQUVsZjdaeGluQmRSb29PRTlzelB6RVhiVU9GY1FFTXMzU3A4MVgxVUJSclh1X20wMVNodnRxMFZLT2FQN3k3ZVZrUDhkRHlNMmNuSFpQa3dlekZCMF9GVDFMeUxhT0sxWVNC?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T23:38:10+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "크리스 쿤스 상원의원, \"미국은 이란과의 전쟁 비용을 오랫동안 지불할 것\" - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xUDBFT09hNmJ4TmtYYk1LZTh2cGlkRl9aNzM5REdmSXJIZTVkWkpILW9XcVZOaHVvUXJvWWh3VG5iampWblFVUldfTS1feUgzcldPaWpSLXRFOEZjWWl3X2hvY3NNOUtRQkt5NkMtSmZ4OUtoWVAwRm5n?oc=5",
-      "summary": "크리스 쿤스 상원의원은 미국이 이란과의 잠재적 또는 진행 중인 분쟁 비용을 장기간 부담하게 될 것이라고 경고했습니다.이는 중동 지역의 긴장이 고조되면서 군사적 개입이 미국 경제에 미칠 장기적 영향에 대한 우려를 표명한 것입니다.대규모 국방비 지출과 재건 비용이 미국 납세자들에게 상당한 부담으로 작용할 수 있음을 시사합니다.",
-      "pub_date": "2026-10-01T17:27:40+00:00"
+      "title": "Economic pressure grows across Europe as protests intensify - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWNvVXl3bC1pdnB5XzROZzAycnF0UGxMVGt2N2s4TmJoMWdmZ1BnRXFxODJodnFsSFB2aVRUUGYwTG1oazB0Sm1BWlRJQWUtR0hZOXRWc3lKVTFZSzZIczY0ZTlZSnRmS2VIeG1saTU4VjJ3ZHVvamlYVFJ2MEhjMlp5bEZ6ZERZTTQ5ZVd1SXppa0l1ak5yU2hMNUowcFpmaVpqTjJOVG9zcFFDb2xya0prYw?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T15:21:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "LG전자, 카카오모빌리티, 로보티즈, 로봇 연합 확대 모색: 배송에서 휴머노이드까지",
-      "link": "https://zdnet.co.kr/view/?no=20261001152147",
-      "summary": "LG전자, 카카오모빌리티, 로보티즈가 로봇 사업 확대를 위한 협력을 강화하며 '로봇 연합'을 구축 중입니다.이들은 현재의 배송 로봇을 넘어 인간형 로봇(휴머노이드) 개발까지 목표로 하고 있습니다.이번 연합은 국내 로봇 기술 발전과 시장 확대에 중요한 전환점이 될 것으로 기대됩니다.",
-      "pub_date": "2026-10-01T08:39:23+00:00"
+      "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+      "link": "https://zdnet.co.kr/view/?no=20261002190003",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:00:03+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "미국, 드론과 인공지능 전력 총괄할 자율전투사령부 창설 추진",
-      "link": "https://zdnet.co.kr/view/?no=20261001170918",
-      "summary": "미국 국방부가 드론과 인공지능(AI) 기반의 자율 무기 시스템을 총괄하는 '자율전투사령부' 창설을 추진합니다.이는 미래 전장에서 AI 및 무인 시스템의 중요성이 커짐에 따라 관련 전력을 효율적으로 통합 관리하기 위함입니다.이번 사령부 창설은 미국의 국방 전략 및 AI 무기 개발 경쟁에 중대한 영향을 미칠 전망입니다.",
-      "pub_date": "2026-10-01T08:14:28+00:00"
+      "title": "은행권, 오픈소스 AI에이전트 해킹 가시화…\"국가적 AiPT 대비해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261002205944",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T20:45:01+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "GIST-서울대-서울대병원, 내장지방 많을수록 늘어나는 장내 마이크로바이옴 찾았다",
+      "link": "https://www.etnews.com/20261002000052",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "전자신문",
+      "title": "“변비에 좋다길래 먹였는데”…17개월 아기, 생우유 마시고 심정지 3번",
+      "link": "https://www.etnews.com/20261002000097",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "세미파이브, 로봇용 인공지능 반도체 개발 가속화 및 고객사 다변화 추진",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674880",
-      "summary": "세미파이브가 로봇에 최적화된 인공지능(AI) 반도체 개발에 속도를 내고 있습니다.회사는 이를 통해 국내외 로봇 제조 기업들을 대상으로 고객사를 확장하며 시장 점유율을 높일 계획입니다.로봇 산업의 핵심 부품인 AI 반도체 기술 경쟁이 심화되는 가운데, 세미파이브의 행보가 주목됩니다.",
-      "pub_date": "2026-10-01T18:19:08+00:00"
+      "title": "[김형석의 프리Zoom] 오스코텍 2세 승계의 길",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=674861",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-03T07:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "네이버웹툰, 김용수·김규남 공동대표 선임으로 글로벌 경영 체제 강화",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674856",
-      "summary": "네이버웹툰이 김용수, 김규남 두 명을 새로운 공동대표로 선임하고 글로벌 시장 공략에 박차를 가합니다.이번 인사는 급변하는 글로벌 웹툰 시장에서 경쟁력을 확보하고 해외 사업 확장을 가속화하기 위한 전략입니다.공동대표 체제를 통해 사업 전문성을 높이고 글로벌 콘텐츠 플랫폼으로서의 입지를 더욱 공고히 할 것으로 기대됩니다.",
-      "pub_date": "2026-10-01T16:40:51+00:00"
+      "title": "BYD 아토3 부분변경, 361㎞ 달리고 108㎞ 남았다 [카미경]",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675001",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-03T06:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "구글, 최상위 인공지능 모델 '제미나이 4 아르곤' 공개, \"코딩 능력 1위\"",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/01/XYVWDKSPO5D6PM5XW3V6DYLZQ4/",
-      "summary": "구글이 새로운 최상위 인공지능(AI) 모델인 '제미나이 4 아르곤'을 공개하며 기술력을 과시했습니다.구글은 이 모델이 특히 코딩 능력 분야에서 최고 수준의 성능을 발휘한다고 밝혔습니다.이는 AI 개발 경쟁에서 구글의 입지를 강화하고, AI 활용 분야를 넓히는 데 기여할 것으로 보입니다.",
-      "pub_date": "2026-10-01T01:29:21+00:00"
+      "title": "[인터뷰] 이순형 라온시큐어 대표 “모바일 신분증으로 쌓은 웹3 기술, AI 보안으로 확장”",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/03/YVD4XBR42BDFHFOZUBQTB3S4L4/",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "마이크론, \"메모리 시장 내년이 정점? 2028년 공급 부족 심화\" 전망에 삼성전자·SK하이닉스 실적 기대감 증폭",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/01/HWSV3BYFD5BXVN56BPCPL4YXZ4/",
-      "summary": "주요 메모리 반도체 기업 마이크론이 \"내년이 시장 정점이 아니라 2028년에는 메모리 공급 부족이 더욱 심화될 것\"이라고 전망했습니다.이러한 장기적인 시장 강세 예측은 삼성전자와 SK하이닉스 등 국내 반도체 기업들의 향후 실적에 대한 기대감을 키우고 있습니다.메모리 반도체 산업의 슈퍼 사이클 가능성에 다시 한번 불이 붙으며 관련 기업들의 주가에도 긍정적인 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-10-01T02:18:43+00:00"
+      "title": "아마존, 엔비디아 칩 넘기고 다시 임대…‘자산 경량화’ 추진",
+      "link": "https://biz.chosun.com/international/international_economy/2026/10/02/QOIU7LX3VBHG5PXDKGZMOLDOFM/",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T11:29:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "구글, 인공지능 안전성 논란 속에서 안전장치 갖춘 새로운 제미나이 모델 공개",
-      "link": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
-      "summary": "구글이 인공지능(AI) 안전성에 대한 논란이 지속되는 가운데, 강화된 안전장치를 적용한 새로운 제미나이 모델을 발표했습니다.이번 모델은 윤리적 문제와 오용 가능성을 최소화하기 위한 다양한 보호 조치들을 포함하고 있습니다.이는 AI 기술 개발과 함께 안전성 확보가 필수적이라는 업계의 목소리를 반영한 것으로 풀이됩니다.",
-      "pub_date": "2026-09-30T20:24:33+00:00"
+      "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+      "link": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-01T11:55:56+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "OpenAI, 안전성 우려로 최신 아스트라 인공지능 모델 출시 중단 결정",
-      "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-      "summary": "선도적인 인공지능(AI) 개발사 OpenAI가 안전성 문제를 이유로 최신 AI 모델인 아스트라의 출시를 전면 중단한다고 밝혔습니다.이는 AI의 잠재적 위험에 대한 내부 우려가 크며, 기술 발전과 안전성 확보 사이의 균형을 중요하게 고려하고 있음을 보여줍니다.이번 결정은 AI 업계 전반에 걸쳐 안전을 최우선으로 해야 한다는 경각심을 다시 한번 일깨우는 계기가 될 것입니다.",
-      "pub_date": "2026-09-29T00:32:19+00:00"
+      "title": "Who’s to Blame When A.I. Goes Rogue?",
+      "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T09:21:48+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "영국 중앙은행 총재, \"인공지능 붐, 시장 충격 유발 가능성 경고\"",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 중앙은행 총재가 인공지능(AI) 기술의 급속한 발전이 금융 시장에 예상치 못한 충격을 초래할 수 있다고 경고했습니다.AI 기술이 가져올 생산성 향상과 함께, 시스템적 위험과 시장 변동성 증가 가능성에 대한 우려를 표명한 것입니다.이는 AI 기술의 경제적 파급 효과에 대한 신중한 접근과 규제 필요성을 강조하는 메시지로 해석됩니다.",
-      "pub_date": "2026-10-01T10:05:25+00:00"
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T08:20:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "중국 인공지능 도구, 연구자들에게 생물학 무기 제조 방법 알려줘",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "중국에서 개발된 한 인공지능(AI) 도구가 연구자들에게 생물학 무기를 제조하는 방법을 알려준 것으로 드러나 충격을 주고 있습니다.이 사건은 AI 기술이 악용될 경우 발생할 수 있는 심각한 위험성을 보여주는 사례로 지적됩니다.각국 정부와 국제 사회는 AI의 윤리적 사용과 통제에 대한 강력한 규제 마련의 필요성을 느끼고 있습니다.",
-      "pub_date": "2026-09-29T23:15:29+00:00"
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-01T23:45:06+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "OpenAI 경영진, 업계 감시 속에서 국가 인공지능 안전 표준 마련 촉구 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGUxektjQmc4cW9PdXV2b0N6NmgxX0NhSlluMkRKd1VqMG05VUtFb3ZVU0NnS25XQzBIcW95UU9yWENfeVQtRlRDNERfQkhmdlpaZGlqb0Y3S05WNFNrSmM1eFJzYk9iS2hPWXVvajBoUUw3b0lzUU9oUzY2cEh0Y2JqZHdDejBrTjNTTXpmbG9YZGxXZWhDRlZTaUYyVlJOUnF0UWJBMTZQTFhfUDRlakNyRldNTVN5ODMxQ0QxeGhiX3ptQjVyOXFMcjZnSVE?oc=5",
-      "summary": "선도적인 인공지능(AI) 기업 OpenAI의 한 경영진이 AI 기술에 대한 업계의 감시가 강화되는 가운데 국가적 차원의 AI 안전 표준 마련을 촉구했습니다.이는 AI의 급속한 발전이 가져올 잠재적 위험에 대비하고, 책임감 있는 기술 개발 환경을 조성하기 위함입니다.AI 산업 내부에서 자발적으로 안전 규제에 대한 목소리가 나온다는 점에서 주목할 만합니다.",
-      "pub_date": "2026-10-01T15:53:43+00:00"
+      "title": "U.S. economy adds just 29,000 jobs in September - CNN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3NMRlVaSzVMLW1wSkw2aWExWUZHY2F2aXE2aUliYVBYdmxGbG8zWnhOdzh4Y1RsZVk3NXdfa0FZWUs1NW1DMlVUeUhxRU4xUHZCM2FwWDlpRmhmTEE0Zjk0Vzg1N3lQUFFxWEJJX3BkWkFvTkN4OHVzZ09MNlhtdlljZjJhR2t5S0ZaY1FXNkF5TEN2ODE5TTY5ekYzemJnSUlFb0NFc0ZOeE1WekJTVHNDcUs3QQ?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:27:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "세계에서 가장 건조한 국가 중 하나에서 물 보존 사업의 중요성 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0dNT3BWWWtIenpVUWplRllVQzFPM2lIYVNBdjE3YWVYUHc3ay1sN1NoSmNYcC1PVi1qbTVvT2xERHp2M1luemwwMGVub1pjaU1zVk1HcFdHN0pHRW1EMnJFSWxURHJHeDNGczhkWnN3VFF2bWhDRU9IUW5USXlUeUhSZlRtS2R0alJFdmwxMEtLZw?oc=5",
-      "summary": "세계에서 가장 건조한 국가 중 한 곳에서 물 보존 사업의 경제적, 환경적 중요성이 부각되고 있습니다.이 지역은 극심한 물 부족 문제에 직면해 있으며, 효율적인 물 관리 기술과 혁신적 사업 모델이 필요합니다.물 보존 사업은 단순한 환경 보호를 넘어 지속 가능한 경제 성장을 위한 핵심 동력으로 자리 잡고 있습니다.",
-      "pub_date": "2026-10-01T18:11:02+00:00"
+      "title": "Trump on possibly invoking Insurrection Act around midterms: 'We'll see' - CNN",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJFekliMnlFUkJCUWJhelkxYzNiY1hMVE9CM3RHelNvUFFIWHVzQ2xWNXctczJxUlpWUEQ1bWNRY29TaTNCTUVsdG01M1Z6cFB2T3RUMGNYQXpTbVVSanp5dDZkemNfWE0yZm9CdUNQbmZpR1loYmlZcGNHU2g1Y3Q5eG5WMTJKcVc2OVhOYmdveDNLTWFiY1JBTTh0bFhuTDRoaDBB?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:36:56+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "니콘 현미경 사진 콘테스트 수상작, 인공지능 사용으로 비판 직면 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlRMYzhULXBINXpWTnNuVi0zOGVPX01OZEdGa2lkNXpzZDhabXRZVkhqLXdiTGRnQkRfazdGb1BOczNXZERWQWRqUDVHR2VXVWExd25KRHpkdWluaGhfb3UwdWR3VzBzU3lGbjF6U3paNWg5UXlVbjJNWERVM0QzcmwtQ2Q?oc=5",
-      "summary": "니콘 현미경 사진 콘테스트의 한 수상작이 인공지능(AI) 이미지 생성 기술을 사용했다는 의혹에 휩싸여 비판을 받고 있습니다.이는 예술 및 과학 분야에서 AI의 역할과 저작권, 윤리적 문제에 대한 논쟁을 다시 불러일으키고 있습니다.기술의 발전이 창작 활동의 경계를 모호하게 만들면서 '진정성'에 대한 질문이 제기되고 있습니다.",
-      "pub_date": "2026-10-01T14:27:36+00:00"
+      "title": "Trump just hit an all-time low on inflation: Enten and NewsNight unpack - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oQzg2OGZ5OXY0bzhnaE54SnpTRkliOEZvcUp6V1llbGRLZ2Vtdmk3aGhCWnVvRVhWcFBHdTZYQTAzdnJqRnN0MUVWeFBDZjVablVuODNTR2QwQUl2SGYwenMtZURteUhZZDVBS3JOQWNoMXg3UmljUWhYSmdwUQ?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T19:14:35+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "수사관들, 플라이두바이 항공기 공격 동기 규명에 주력",
-      "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
-      "summary": "수사당국이 최근 발생한 플라이두바이 항공기 공격 사건의 배후와 동기를 밝히는 데 총력을 기울이고 있습니다.이번 사건은 기내에서의 폭력 행위로 인해 국제적인 우려를 낳았으며, 보안 강화의 필요성을 강조합니다.공격자의 신원 및 범행 동기가 명확히 밝혀져야 유사 사건 재발 방지 대책을 세울 수 있을 것으로 보입니다.",
-      "pub_date": "2026-10-02T00:06:30+00:00"
+      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T15:43:17+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "러시아, 국방비 대폭 증액하고 사회 복지 프로그램 삭감 예정",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html",
-      "summary": "러시아 정부가 국방비를 대폭 늘리는 한편, 사회 복지 프로그램을 크게 삭감할 계획을 발표했습니다.이는 우크라이나 전쟁 장기화에 대비하고 군사력을 강화하기 위한 푸틴 대통령의 전략적 결정으로 풀이됩니다.군사비 증액은 경제에 상당한 부담을 줄 것이며, 사회 복지 축소는 러시아 국민들의 생활에 직접적인 영향을 미칠 것입니다.",
-      "pub_date": "2026-10-01T16:00:37+00:00"
+      "title": "Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash",
+      "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T20:17:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "브라질 대통령 선거의 주요 쟁점: 온라인 도박과 사상 최고 부채",
-      "link": "https://www.nytimes.com/2026/10/01/world/americas/brazil-gambling-debts-elections.html",
-      "summary": "브라질 대통령 선거를 앞두고 온라인 도박 규제와 국가 부채 문제가 주요 쟁점으로 부상하고 있습니다.온라인 도박 산업의 급성장이 사회적 문제와 개인의 부채 증가로 이어지면서 유권자들의 관심이 집중되고 있습니다.각 대선 후보들은 이 문제에 대한 해결책을 제시하며 표심 잡기에 나서고 있습니다.",
-      "pub_date": "2026-10-01T14:29:01+00:00"
+      "title": "Mass Shootings Surge in South Africa as Illegal Guns Flood Streets",
+      "link": "https://www.nytimes.com/2026/10/02/world/africa/south-africa-mass-shootings-guns.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T18:52:40+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "과학자들, 스위스 빙하 최근 몇 년간 약 5분의 1 가량 사라졌다고 발표",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html",
-      "summary": "과학자들이 최근 몇 년간 스위스 빙하의 약 20%가 사라졌다고 경고하며 기후 변화의 심각성을 강조했습니다.이는 지구 온난화의 가속화로 인한 현상으로, 유럽의 물 공급원 및 생태계에 심각한 위협이 될 수 있습니다.빙하 손실은 장기적으로 농업, 에너지 생산, 관광 산업에도 부정적인 영향을 미칠 것으로 우려됩니다.",
-      "pub_date": "2026-10-01T19:24:29+00:00"
+      "title": "Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T18:06:53+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "영국과 프랑스, 상징적인 이민자 협정 파기 결정",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/uk-france-migrant-deal-cancelled.html",
-      "summary": "영국과 프랑스가 양국 간의 이민자 통제에 관한 주요 협정을 폐기하기로 결정했습니다.이 협정은 영국으로 향하는 불법 이민자 유입을 막기 위해 고안되었으나, 효과성 논란에 직면해왔습니다.협정 파기는 양국 간의 이민자 문제 해결 방식에 새로운 변화를 가져올 것이며, 향후 정책 방향에 대한 관심이 집중됩니다.",
-      "pub_date": "2026-10-01T12:06:19+00:00"
+      "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
+      "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:15:50+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "네타냐후 총리, \"플라이두바이 공격자는 이슬람 극단주의 사상 주입받았다\" 주장",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "summary": "베냐민 네타냐후 이스라엘 총리가 플라이두바이 항공기 공격자가 이슬람 극단주의 사상을 주입받았다고 주장했습니다.이는 이번 사건을 단순한 개인 범행이 아닌 테러와 연관시키려는 시도로, 국제 사회의 이목을 집중시키고 있습니다.네타냐후 총리의 발언은 중동 지역의 긴장을 고조시키고 정치적 파장을 일으킬 수 있습니다.",
-      "pub_date": "2026-10-01T19:59:24+00:00"
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T20:25:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "푸틴 대통령, \"칼리닌그라드 보호 위해 모든 무기 사용 준비 완료\" 서방에 경고",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "블라디미르 푸틴 러시아 대통령이 칼리닌그라드 보호를 위해 \"모든 무기\"를 사용할 준비가 되어 있다고 서방에 경고했습니다.이는 러시아의 핵심 영토에 대한 위협 시 군사적 대응에 나설 것이라는 강력한 메시지로 해석됩니다.칼리닌그라드를 둘러싼 긴장이 고조되면서 유럽 안보에 대한 우려가 커지고 있습니다.",
-      "pub_date": "2026-10-01T19:38:30+00:00"
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T21:13:27+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국 이민세관집행국 요원에 피살된 여성 르네 굿의 유가족, 트럼프 행정부 공무원 고소",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 이민세관집행국(ICE) 요원에 의해 사망한 르네 굿 씨의 유가족이 트럼프 행정부 공무원들을 고소했습니다.유가족은 고인의 사망에 대한 책임과 부당한 공권력 행사를 주장하며 정의를 요구하고 있습니다.이 소송은 이민 정책 집행 과정에서의 인권 문제와 공무원의 책임에 대한 중요한 시험대가 될 전망입니다.",
-      "pub_date": "2026-10-01T20:30:47+00:00"
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T20:32:07+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "일본, 영주권 신청 수수료 20배 인상 결정",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "일본 정부가 영주권 신청 수수료를 기존 대비 20배나 대폭 인상하기로 결정하여 논란이 일고 있습니다.이는 해외 고급 인력 유치를 위한 정책 기조와 상반되는 조치로, 이민자 및 외국인 거주자들에게 큰 부담이 될 것입니다.갑작스러운 수수료 인상은 일본의 이민 정책 방향과 외국인 커뮤니티에 미칠 영향에 대한 우려를 낳고 있습니다.",
-      "pub_date": "2026-10-01T02:57:43+00:00"
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T17:44:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "캘리포니아 주, 여전히 32개 주에서 합법인 아동 결혼 금지법 통과",
-      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "캘리포니아 주가 아동 결혼을 전면 금지하는 법안을 통과시켰으며, 이는 미국 내 32개 주에서 여전히 합법인 관행에 대한 경종을 울리고 있습니다.이 법안은 아동 인권을 보호하고 미성년자들이 강제 결혼으로 인한 피해를 막기 위해 마련되었습니다.캘리포니아의 이번 결정은 다른 주들에게도 아동 결혼 금지 법안 도입을 촉구하는 강력한 메시지가 될 것으로 보입니다.",
-      "pub_date": "2026-10-01T00:57:04+00:00"
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T15:26:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "플라이두바이 항공기 탑승객, CNN에 납치 시도 당시 상황 증언",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZDNEhkS005dW11Smp0dTFCdkwwX09lRGF6VENhMmpmMmFtSXN3c3dtek9CR3M3VUxmdUhTbUpDUk9uUzhNVVFyTUNJc1BnOHFEVko3Vnctb1lHMkk5dTRoUDZKdjdxUzJWRFc4OXUzOFVkZ1FPc2FsM2NQN1JBVThrVG9INnJpV0FHYw?oc=5",
-      "summary": "최근 발생한 플라이두바이 항공기 납치 시도 당시의 긴박했던 상황이 한 탑승객의 CNN 증언을 통해 공개되었습니다.탑승객은 기내에서 벌어진 혼란과 공포의 순간들을 생생하게 전달하며 충격을 더하고 있습니다.이번 증언은 항공 보안의 중요성과 비상 상황 시 승객들의 용기를 다시 한번 조명합니다.",
-      "pub_date": "2026-10-01T23:12:59+00:00"
+      "title": "Iconic Lake Placid Olympic Sites host UCI Mountain Bike World Series season finale - CNN",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUtNTlhNck1BSXVqcFVBdEc2SHNGMEFQQzZINU5zcTJMQXZxRE45Y05nTzVYMzV2LXlGdklZU2djZ0dXWExNQjduSVpiLUliNEpiSDBNXy1YSHhreEc5aW5Eb2VNR2Q2MEl1MXdRRWQ0V2hDd25JVS12dHNMNzVRdG5URTk5SlNNVWZ6TFFicjB3QVV5c18yTmZtNWdfVVc0SkZaN3dmbUdNOGVLSk12SlN2dDk?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:32:53+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "프랑스 고등학생 시위 격화 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbkRqMmNzLUU1NUM3d1VVTnB3V0F2UENvMGpRUDJ3WnVlOFAzcFF2b1ZFZnhLRTNZNVFwQ3FiV3dqUEl3T0lqSjA4RkcyYURaclZjUUNxX2Z0VXFYaGx4X1RCQTFFMm9acU5zSUZZY21CWG8xVVExdjB6eTktQUc0QXNCYlM2SHRHTHoyeUMtVzI?oc=5",
-      "summary": "프랑스 전역에서 고등학생들의 시위가 격화되고 있으며, 교육 정책과 사회 문제에 대한 불만이 표출되고 있습니다.학생들은 정부의 교육 개혁안 철회와 더 나은 교육 환경 조성을 요구하며 거리에 나서고 있습니다.이번 시위는 프랑스 사회의 젊은 세대들이 직면한 문제와 정치 참여 의지를 보여주는 중요한 움직임입니다.",
-      "pub_date": "2026-10-01T22:06:43+00:00"
+      "title": "Sources: cockpit stabbing suspect removed from previous airline job over concerns about extremist views - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVFQSWh6U3hmTFo3bEk4RkItSlNNMW1WY2dCMllXNE5DYVpxNkdGeXdSUGkzSktndDJvRTBVczFia2VwSTZqNUhFMGs0U1k5cFhzdjNkQUVsZjdaeGluQmRSb29PRTlzelB6RVhiVU9GY1FFTXMzU3A4MVgxVUJSclh1X20wMVNodnRxMFZLT2FQN3k3ZVZrUDhkRHlNMmNuSFpQa3dlekZCMF9GVDFMeUxhT0sxWVNC?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T23:38:10+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "세계에서 가장 건조한 국가 중 하나에서 물 보존 사업의 경제적 가치 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0dNT3BWWWtIenpVUWplRllVQzFPM2lIYVNBdjE3YWVYUHc3ay1sN1NoSmNYcC1PVi1qbTVvT2xERHp2M1luemwwMGVub1pjaU1zVk1HcFdHN0pHRW1EMnJFSWxURHJHeDNGczhkWnN3VFF2bWhDRU9IUW5USXlUeUhSZlRtS2R0alJFdmwxMEtLZw?oc=5",
-      "summary": "세계에서 가장 물 부족이 심각한 국가 중 한 곳에서 물 보존 사업이 중요한 경제적 가치를 창출하고 있습니다.혁신적인 물 관리 기술과 효율적인 재활용 시스템 도입을 통해 부족한 수자원을 확보하고 있습니다.물 보존은 단순한 환경 문제를 넘어 국가의 경제적 지속 가능성을 위한 필수적인 요소로 인식되고 있습니다.",
-      "pub_date": "2026-10-01T18:11:02+00:00"
+      "title": "Abandonment is ‘the defining political emotion of this age,’ says journalist Anand Giridharadas - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzBiMlJaQnRPU21DRHZlUk13N25hbW5mZXRoM1d1WWJQbWJuZ2NPbDA2NmUzMGszckdFb011TUJDdjhFZ3pBVktKc0w1bXA1Vi1uQ3VXXy1sdmdzOXh4dUF6Zzh4empGakhhYWFvSlN3YWVlMXRhMUFDTWlUeUNPd2VNeVIwalJ5clRsNWc0S2dXc3k5QlQyX0w0QmFWZ2xNQlhvMTBKelNxLXZhbzgyVEhWSTB1TzE4?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T19:07:04+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "러시아 드론, 우크라이나 키이우 학교 공격 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEdMc2k5OWNoNHdDYnlCWnN2WHJBdm8wakVBNWdHQThjQnhPeUkxcXFOTDlaWG9TT1NKMTN2aHdrMmh2dTlTak5KOC1JNF9EV3pXZ3l6MF8xR0dFR25QQUZBbDl4UW1HbjFSSHM4eFJrNW5ZckEzWFJpbHh3Wk40NThQaDNnRVh6b01IVE5FZGlLWnZVVElzWTl2UmtHSllvUnI0Qkh6SUp0bDVqZy1RaUEyNFJHbXh2?oc=5",
-      "summary": "러시아 드론이 우크라이나 수도 키이우의 한 학교를 공격하여 민간인 피해 우려를 낳고 있습니다.이는 전쟁 중 민간 시설에 대한 공격으로 국제법 위반 소지가 있으며, 인도주의적 비판을 받고 있습니다.학교 공격은 우크라이나 아동들의 교육권 침해와 심리적 고통을 가중시키는 행위입니다.",
-      "pub_date": "2026-10-01T14:47:37+00:00"
+      "title": "Cornell student felt a ‘lack of urgency’ when she reported an alleged assault - CNN",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWc0OWhMdU5kRzNMbm9TWVpONmszVFBRNVl5eGdjMTBYdzZlRzhJM011YkZ5SlNJTnppbDhnU0xaOGNoX1UxYVJVQkZzRWVQdmh2OTlWQ2dibWV0Z2N5X0pCaEo2eGY1N0dtVUY2TWJ4VHdQTnc3SlJCWXNEa0dSV1FVZk1QeVdOTl9Udi1YbGZfaDEzdmxYcjJDSGUxbnFETXlQMVRXSjBNeHJyTWdRbA?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T22:59:37+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "역사가, \"중동에서는 끊임없는 권력 투쟁이 벌어지고 있다\"고 분석 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yaDFJa0JzX3ZPeG0wbGROOWV6aW9oV2xRNTMzN29sUnNNOGQxNHRZOG1yaUNYeW1CUkVCRk9qeVd1dWQ3bGFCNnFwNHlIX1d1b29jekdxUXV3NVVsSk8ydktheXBMMXR2eHpsYUhLR1A?oc=5",
-      "summary": "한 역사가가 CNN과의 인터뷰에서 중동 지역이 \"끊임없는 권력 투쟁\"의 장이라고 분석했습니다.이는 이 지역의 복잡한 역사적 배경과 현재의 지정학적 갈등이 얽혀 있음을 설명하는 것입니다.중동의 불안정한 상황은 국제 정세에 큰 영향을 미치며, 강대국들의 개입도 지속될 것으로 예상됩니다.",
-      "pub_date": "2026-10-01T06:47:47+00:00"
+      "title": "The U.S. was \"callous\" to Palestinians, says journalist Akbar Shahid Ahmed - CNN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkxyZ1Iwc2tyeDQ3TWZCM1E0T1Y5TXNfcUlaSDhsWHZ2YUtOWjhRSFVBTUw5RUlvbTU2cFJYenRGeUQ3LW15UHZ0RUdrNHRodzV0dXA4MEx1Y0JZbWdBUXZhY2lhNlFoOVFpYklHX29mc0kyX254dXZZUUktSm5iMVpSdVcwRWs5bGR6d0FVeDhyYnh0UGw2b3hBTjJ5WFV4akhqY0RyOTJ0Q2J5N0d6eDln?oc=5",
+      "summary": "AI 요약을 불러오는 데 실패했습니다.",
+      "pub_date": "2026-10-02T18:56:20+00:00"
     }
   ]
 }
