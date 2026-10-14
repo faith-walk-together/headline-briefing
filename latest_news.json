@@ -1,381 +1,405 @@
 {
-  "last_updated": "2026-10-14T00:10:47.827931+00:00",
+  "last_updated": "2026-10-14T23:44:24.559969+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "대통령, 인천경찰청 방문하여 흉기난동 사건에 대한 특단 대책 마련 지시",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796076&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "이 대통령이 인천경찰청을 방문해 최근 발생한 흉기난동 사건과 관련한 보고를 받았습니다. 대통령은 재발 방지를 위한 특단 대책을 신속히 마련하라고 지시했습니다. 이는 국민 안전 강화를 위한 정부의 강력한 의지를 표명한 것입니다.",
-      "pub_date": "2026-10-13T13:30:00+00:00"
+      "title": "북한, 잠수함발사 전략순항미사일 시험 발사 발표",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798304&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "북한이 어제 동해상에서 잠수함발사 전략순항미사일 2종을 시험 발사했다고 발표했습니다. 이번 발사는 전략무기 개발을 지속하려는 의도를 보여주는 것으로, 한반도 및 역내 안보에 중요한 영향을 미칠 것으로 예상됩니다. 군 당국은 추가 분석을 통해 북한의 의도와 미사일 성능을 파악할 방침입니다.",
+      "pub_date": "2026-10-14T23:15:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "추미애, 김지용 검사 임명에 \"친윤 인사이자 공직자로 부적합, 침묵은 역사적 과오\" 맹비난",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795649&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "추미애 전 법무부 장관이 김지용 검사의 임명에 대해 강하게 비판했습니다. 그는 김 검사가 '친윤' 인사일 뿐 아니라 공직자로서 부적합하다고 주장했습니다. 이번 인사를 침묵하는 것은 역사적 과오가 될 것이라고 경고하며 논란이 커지고 있습니다.",
-      "pub_date": "2026-10-13T07:25:00+00:00"
+      "title": "이 대통령, 신임 비서실장에 임광현 국세청장 임명",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797522&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령이 신임 청와대 비서실장에 임광현 국세청장을 임명했습니다. 임 국세청장은 '실무형 비서실장'으로 평가받고 있으며, 대통령의 국정 운영을 보좌하는 데 중점을 둘 것으로 보입니다. 이번 인사는 국정 운영의 효율성을 높이려는 대통령의 의중이 반영된 것으로 해석됩니다.",
+      "pub_date": "2026-10-14T08:00:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "미국 연방수사국, 북한의 불법 외화벌이 차단: 미국 내 기술직에 위장 취업한 북한인 적발",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html",
-      "summary": "미국 연방수사국(FBI)이 북한의 불법 외화벌이 경로를 성공적으로 차단했습니다. 미국 기술 기업에 위장 취업하여 자금을 평양으로 송금하던 북한인들을 적발한 것입니다. 이번 조치는 북한의 핵·미사일 개발 자금 조달을 막기 위한 노력의 일환으로 풀이됩니다.",
-      "pub_date": "2026-10-13T19:04:21+00:00"
+      "title": "인플레이션 데이터, 물가 상승 보여… 중간선거 앞두고 공화당 우려 증폭",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html",
+      "summary": "중간선거를 앞두고 물가 상승률이 증가한 것으로 나타나 공화당에 우려를 안기고 있습니다. 인플레이션 데이터는 유권자들의 경제적 불안감을 가중시키며 선거 결과에 큰 영향을 미칠 전망입니다. 공화당은 경제 정책 실패에 대한 비판에 직면해 있습니다.",
+      "pub_date": "2026-10-14T23:20:36+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "연방 요원들, 일한 오마르 하원의원 자택 압수수색 실시",
-      "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
-      "summary": "연방 수사관들이 민주당 소속 일한 오마르 하원의원의 자택을 압수수색했습니다. 이는 그녀에 대한 수사 과정의 일환으로 알려졌으나, 구체적인 혐의는 아직 공개되지 않았습니다. 현직 의원의 자택 수색은 미국 정치권에 큰 파장을 불러일으킬 것으로 예상됩니다.",
-      "pub_date": "2026-10-13T01:54:07+00:00"
+      "title": "미국, 우크라이나에 정보 계속 제공 중",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html",
+      "summary": "미국 당국자들이 우크라이나에 대한 정보 제공을 지속하고 있다고 밝혔습니다. 이는 러시아의 침공에 맞서는 우크라이나의 방어 작전에 필수적인 지원입니다. 미국의 정보 지원은 전쟁의 향방과 국제 동맹 관계에 중요한 요소로 작용하고 있습니다.",
+      "pub_date": "2026-10-14T23:11:19+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "일론 머스크의 자금이 공화당 중간선거 전략에 미치는 영향",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/elon-musk-republicans-spending.html",
-      "summary": "억만장자 일론 머스크의 막대한 자금이 공화당의 중간선거 전략 형성에 큰 영향을 미치고 있습니다. 그는 공화당 후보들에게 상당한 정치 자금을 지원하며 선거 판도에 변수로 작용하고 있습니다. 이로 인해 정치 자금과 기술 거물들의 영향력에 대한 논의가 활발해지고 있습니다.",
-      "pub_date": "2026-10-13T22:43:22+00:00"
+      "title": "중간선거 광고 지출 100억 달러 초과, 계속 증가세",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/midterms-ad-spending-10-billion.html",
+      "summary": "중간선거 광고 지출액이 100억 달러를 넘어섰으며, 계속 증가하고 있습니다. 이는 미국 정치 캠페인 사상 최대 규모의 지출로, 선거의 치열함과 중요성을 반영합니다. 막대한 광고비는 유권자들에게 영향을 미치기 위한 각 정당의 노력을 보여줍니다.",
+      "pub_date": "2026-10-14T22:15:56+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "대통령, 흉기 난동 사건에 \"범죄 예방 시스템 철저히 점검하고 보완하라\" 지시",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261013230440FIy",
-      "summary": "최근 연이어 발생한 흉기 난동 사건에 대해 대통령이 엄중한 대책을 지시했습니다. 대통령은 현행 범죄 예방 시스템을 철저히 점검하고 미비점을 보완할 것을 주문했습니다. 이는 국민의 불안감을 해소하고 공공 안전을 강화하기 위한 강력한 조치입니다.",
-      "pub_date": "2026-10-13T14:04:41+00:00"
+      "title": "북한, 동해에서 2종 잠수함발사 순항미사일 시험 발사",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261015074855jCk",
+      "summary": "북한이 어제 동해상에서 잠수함발사 전략순항미사일 2종을 시험 발사했다고 발표했습니다. 이번 발사는 북한의 전략무기 개발 의지를 다시 한번 드러낸 것으로 평가됩니다. 한반도 군사적 긴장을 고조시킬 수 있어 국제 사회의 우려가 커지고 있습니다.",
+      "pub_date": "2026-10-14T22:48:56+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "추미애의 김지용 비판 공세 및 경기도 국감에서 여야 한목소리 질타",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261013224345747",
-      "summary": "추미애 전 장관이 김지용 검사에 대한 비판을 이어가며 정치권의 이목이 집중되고 있습니다. 한편, 경기도 국정감사에서는 여야가 이례적으로 한목소리로 특정 사안에 대해 질타했습니다. 이는 해당 사안의 심각성을 부각시키며 정치적 파장을 예고하고 있습니다.",
-      "pub_date": "2026-10-13T13:43:47+00:00"
+      "title": "김지용 두고 '공범' vs '소신파'… 여당 내 정면충돌",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH2026101423544775l",
+      "summary": "김지용 후보자를 두고 여당 내에서 '공범'과 '소신파'라는 상반된 평가가 나오며 정면충돌했습니다. 이는 여당 내부의 분열과 갈등을 보여주는 상징적인 사건으로 해석됩니다. 향후 당내 역학 관계와 주요 국정 현안 처리에도 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-10-14T14:54:50+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "수백 명의 재소자, 조기 석방 제도의 2단계 시행으로 추가 석방 예정",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 정부의 조기 석방 제도 2단계가 시행되면서 수백 명의 재소자가 추가로 풀려날 예정입니다. 이는 교도소 과밀 문제 해결을 위한 조치이지만, 공공 안전에 대한 우려도 제기되고 있습니다. 정책의 효과와 부작용에 대한 논의가 활발히 진행될 것으로 보입니다.",
-      "pub_date": "2026-10-13T12:48:51+00:00"
+      "title": "영국 총리, 젤렌스키에 변함없는 지지 약속",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 총리가 젤렌스키 대통령에게 변함없는 지지를 약속하며 연대를 강조했습니다. 이는 우크라이나 전쟁 장기화에 따른 국제 사회의 관심과 지원을 재확인하는 메시지입니다. 영국은 우크라이나에 대한 군사 및 재정 지원을 지속할 방침입니다.",
+      "pub_date": "2026-10-14T19:22:28+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "총리, \"러시아가 브렉시트 투표 개입을 시도하지 않았다고 생각하는 것은 상상할 수 없는 일\"이라 발언",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 총리가 러시아가 브렉시트 국민투표에 개입하려 하지 않았다고 생각하는 것은 불가능하다고 강력히 언급했습니다. 이는 러시아의 영국 정치 개입 의혹에 대한 정부의 확고한 입장을 재확인한 것입니다. 이번 발언으로 양국 관계에 긴장이 고조될 것으로 예상됩니다.",
-      "pub_date": "2026-10-12T17:33:50+00:00"
+      "title": "아르헨티나, 포클랜드 석유 탐사 관련 영국 상대로 법적 청구 추진",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "아르헨티나가 포클랜드 제도의 석유 탐사와 관련하여 영국을 상대로 법적 조치를 취했습니다. 이는 영토 분쟁을 둘러싼 양국 간의 오랜 갈등을 재점화하는 움직임입니다. 이 문제는 외교적 긴장뿐만 아니라 에너지 자원 확보와도 연결되어 국제적 이목을 끌고 있습니다.",
+      "pub_date": "2026-10-13T17:36:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "한미 관계 균열 우려 속, 이 대통령 \"굴종적이고 사대적인 태도 지양해야\" 발언",
-      "link": "https://www.chosun.com/politics/blue_house/2026/10/14/BFHWXWJJOZFGNG63BTSXR6XVKY/",
-      "summary": "최근 불거진 한미 관계의 균열음 속에 이 대통령이 강경한 메시지를 냈습니다. 대통령은 \"굴종적이고 사대적인 태도는 지양해야 한다\"고 강조하며 국익 우선의 외교 원칙을 재확인했습니다. 이번 발언은 한미 동맹의 미래 방향성에 대한 중요한 신호로 해석됩니다.",
-      "pub_date": "2026-10-13T15:56:00+00:00"
+      "title": "북한, 동해서 2종 잠수함발사 전략순항미사일 발사 주장… 군 당국은 미공개",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/10/15/NENMQMPLFFAAXA7NTGXQJRIUFA/",
+      "summary": "북한이 어제 동해상에서 잠수함발사 전략순항미사일 2종을 발사했다고 주장했지만, 우리 군 당국은 이를 공개하지 않았습니다. 이는 북한의 군사적 도발과 관련 정보 공개 여부를 둘러싼 논란을 야기하고 있습니다. 향후 진위 확인과 대응 방안에 대한 관심이 집중됩니다.",
+      "pub_date": "2026-10-14T22:30:20+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "백악관, 킴벌리 길포일 주그리스 미국 대사 해임",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yZkZVN1pNakJDSEM3bGw5aDVXbV9rXzhJZXJHUmduRDRwOXhIZ2lZUEhSdy1GSlhLLUxYeG1XS24yNlNaaUV3TngzcE0zTUFkRlZ5ODFkNzVNMTlsdGU4TFp6bGtXYTZGWUdsV2IySUVFaFU?oc=5",
-      "summary": "백악관이 킴벌리 길포일을 주그리스 미국 대사직에서 해임했습니다. 이번 해임은 길포일 대사와 관련된 부패 의혹이 제기된 후 이루어졌습니다. 이는 미국 외교 정책 및 고위직 인사에 대한 논란을 불러일으킬 전망입니다.",
-      "pub_date": "2026-10-13T14:04:10+00:00"
+      "title": "판사, 일한 오마르 하원의원 이민 사기 수사 기록 접근 제한",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjRfTGIxSkNQNTVSdU00U0k3MkxJUnBSVVlsM3pheTFXNlJSdzNiekR1MFJJM0dTRHBJN2VWSjJiTHAxLXRrWWdCUG9xUXdTbmxDV2o0LTJieVpXa0FKa2N0bUdocTZaVzhQWVRXMUVUQVFVSmdLcnhpSFlOX01rb0dVNTJESnZ3eDN5VWt5emJXNWlacVhzYy1hWThTN3NZcEkySEVLQ0YxNE5faEtEMkNUQW1oRkR2aU1Eeg?oc=5",
+      "summary": "판사가 일한 오마르 하원의원에 대한 이민 사기 조사에서 법무부의 기록 접근을 제한했습니다. 이는 고위 정치인을 둘러싼 수사에 대한 법원의 개입으로, 정치적 파장이 예상됩니다. 해당 조사는 광범위한 이민 사기 혐의와 연관되어 있습니다.",
+      "pub_date": "2026-10-14T19:39:16+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "연방 요원들, 민주당 일한 오마르 하원의원 자택 수색",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkxYUWl3bWtob1V3QzJWQ1k1eDFTWGZ1VG12VXVCUkNYczlITEdBVVdhR2lIeUF2c1IxTjhCUnFXRXU5cWtTZnRyNmFmUjgzbUswSV9qc0lZcGlJTGRZaTk5TXpGMDdqZzZMNEtvN1kzWHUtREY5c1B3elhMczBHX3lfYl9Sa3pkVlBxZERPS2VQUFlDd0h6MTBUV0ZMR0VFcGpIX3RweWs?oc=5",
-      "summary": "연방 요원들이 민주당 소속 일한 오마르 하원의원의 자택을 수색했습니다. 이번 수색은 특정 수사와 관련이 있는 것으로 알려졌으나, 구체적인 내용은 공개되지 않았습니다. 현직 의원에 대한 연방 수사는 미국 정치권에 상당한 파장을 미칠 것으로 보입니다.",
-      "pub_date": "2026-10-13T03:34:13+00:00"
+      "title": "트럼프와 밴스, 중간선거 앞두고 민주당 후보들 맹공",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTFpY21uam9kbUhoRFV5a1U5OUh4dHpIa3k4U1V4NWdYb1d5TzBNYzc3RWlFNUlJQzVSSS11WjdURGpYNi15dnBPcWhZYjl0QVFIMVB5VVhJSHhMMzNhNDBKM0E4X2g1bmpqSGc0SVR1VzQ3RF9tMFJ4WFlzNHZkN2ZnVVR4dlNnWVY0aFJ2eHBuaTFWeDlPUGZFZGtQZ1pIX01zSVpjN1VZTGs?oc=5",
+      "summary": "트럼프 전 대통령과 밴스 상원의원 후보가 중간선거가 다가오면서 민주당 후보들을 공격하고 있습니다. 이는 중간선거의 핵심 쟁점을 부각시키고 유권자들의 표심을 움직이려는 의도입니다. 양측의 날 선 공방은 선거 열기를 더욱 고조시키고 있습니다.",
+      "pub_date": "2026-10-14T13:58:22+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "캐라 스위셔 \"누구도 일론 머스크가 정치에 개입하는 것을 원치 않을 것\" 발언",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDBQazJDUnpkdmY0VG40alRicnBrMENBOTNXZENyeHNYVTJveHF3b2FNYm0zNGRHMjJkM2JZcGVnT0wtSUY0aDhpUXdSSld1Y0JscE5zd2NudkxCOGFNU1VkVkRJYUZDaDlGQ1hfMnQ3Tk56WWdvYXZNRkI2TENzN3pWbTVYeHJoS050MVRYaVpiWjdmZHFoQ2hCcWNQaTRHS0dINGFMQy1haTdMY1R1X0VPSTFNb2Vu?oc=5",
-      "summary": "유명 언론인 캐라 스위셔가 일론 머스크의 정치 참여에 대해 부정적인 견해를 밝혔습니다. 그녀는 대중이 머스크의 정치적 영향력 확대에 회의적일 것이라고 주장했습니다. 이 발언은 기술 거물의 정치 참여에 대한 논쟁을 다시 점화시키고 있습니다.",
-      "pub_date": "2026-10-13T04:36:05+00:00"
+      "title": "민주당, 중간선거 낙관하지만 승리 시 난관 직면 가능성",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcllzSHdhdW9QVTVrY3RBS2E2WTlfYUZwMU04YmdPOHJkYnFWa2RFdUMtRXpxMkVQSXYxWVR1WnExNTRmS3JnbWZvamhrS2c0Ykl0a3BlSXR2VGgyOUlFd2hXWW9LNmdMN09iTXBfR2xrMW40N19uekpHOFViVGdOMGZ3?oc=5",
+      "summary": "민주당이 중간선거 승리에 대해 낙관적인 이유가 있지만, 승리할 경우 새로운 난관에 직면할 수 있다는 분석이 나왔습니다. 이는 선거 결과에 따른 정치적 지형 변화와 정책 추진의 어려움을 예고합니다. 민주당은 승리 이후 예상되는 문제점들에 대한 대비가 필요할 것입니다.",
+      "pub_date": "2026-10-14T16:15:36+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "뱅크오브아메리카, 자금세탁 감시 소홀로 18억 달러 벌금 부과",
-      "link": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
-      "summary": "뱅크오브아메리카가 자금세탁 방지 감시 의무를 소홀히 한 혐의로 18억 달러의 막대한 벌금을 부과받았습니다. 이는 금융 당국의 규제 강화 의지를 보여주는 사례입니다. 대형 금융기관의 준법 경영에 대한 압박이 더욱 커질 것으로 예상됩니다.",
-      "pub_date": "2026-10-13T22:57:46+00:00"
+      "title": "인플레이션 및 인공지능 투자 우려에 주식 시장 폭락",
+      "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+      "summary": "인플레이션과 인공지능(AI) 투자 우려가 커지면서 주식 시장이 폭락했습니다. 이는 시장의 불확실성이 증대되고 있음을 보여주며, 투자자들의 불안감을 키우고 있습니다. 경제 전반에 걸쳐 심리적 위축이 확산될 수 있습니다.",
+      "pub_date": "2026-10-14T21:30:57+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "산유국 회담에서 전쟁과 사우디아라비아의 야망 충돌",
-      "link": "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
-      "summary": "주요 산유국 회담에서 중동 전쟁의 여파와 사우디아라비아의 경제적 야망이 충돌했습니다. 유가 안정과 생산량 조절을 둘러싼 복잡한 역학 관계가 드러났습니다. 국제 유가 및 세계 경제에 미칠 영향에 관심이 쏠리고 있습니다.",
-      "pub_date": "2026-10-13T13:54:42+00:00"
+      "title": "인플레이션 상승으로 미국인들이 더 많이 지불하는 5가지 비용",
+      "link": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+      "summary": "인플레이션이 상승하면서 미국인들이 다섯 가지 주요 비용에 대해 더 많이 지불하고 있습니다. 이는 가계 경제에 직접적인 부담으로 작용하며, 생활비 증가로 인한 서민들의 어려움을 가중시키고 있습니다. 정부의 물가 안정 대책 마련이 시급합니다.",
+      "pub_date": "2026-10-14T14:52:43+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "인공지능 투자 우려와 중국 경쟁 심화로 반도체 주식 폭락",
-      "link": "https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html",
-      "summary": "인공지능(AI) 관련 지출에 대한 투자자들의 우려와 중국 기업들의 경쟁 심화로 반도체 주식이 큰 폭으로 하락했습니다. 이는 글로벌 반도체 시장의 불확실성을 반영하는 것입니다. 기술 기업들의 주가 변동성에 대한 경고음이 울리고 있습니다.",
-      "pub_date": "2026-10-13T20:07:29+00:00"
+      "title": "고유가로 미국 인플레이션 3.7% 상승, 중간선거 앞두고 영향",
+      "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+      "summary": "중간선거를 앞두고 에너지 가격 상승이 미국의 인플레이션을 3.7%까지 끌어올렸습니다. 이는 유권자들의 경제적 불만을 심화시켜 선거 결과에 중요한 영향을 미칠 수 있습니다. 고유가와 인플레이션은 현재 미국 경제의 가장 큰 문제 중 하나로 부상하고 있습니다.",
+      "pub_date": "2026-10-14T20:22:19+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "영국 성장률 전망 상향 조정되었으나, 내년 에너지 가격 상승이 경제에 타격 예상",
-      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "summary": "국제통화기금(IMF)이 영국의 올해 경제 성장률 전망치를 상향 조정했습니다. 하지만 내년에는 높은 에너지 가격이 영국 경제에 부담을 줄 것이라고 경고했습니다. 인플레이션 압력과 소비 위축 가능성에 대한 우려가 여전히 남아있습니다.",
-      "pub_date": "2026-10-13T09:38:54+00:00"
+      "title": "넷플릭스, 2022년 이후 최대 규모인 1,000명 직원 감원",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "넷플릭스가 2022년 이후 최대 규모인 1,000명의 직원을 감원할 예정입니다. 이는 성장이 둔화되면서 비용 절감 및 구조조정을 단행하는 것으로 풀이됩니다. 미디어 업계 전반의 경기 둔화와 경쟁 심화를 보여주는 사례입니다.",
+      "pub_date": "2026-10-14T16:47:32+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "BBC, 아브라모비치 재산의 탈세 목적 문서 위조 발견 보도",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC가 로만 아브라모비치의 재산에 대한 탈세를 목적으로 문서가 위조된 사실을 발견했다고 보도했습니다. 이는 고위층의 역외 탈세 의혹을 다시 수면 위로 올리고 있습니다. 영국 당국의 추가 조사 여부에 관심이 집중됩니다.",
-      "pub_date": "2026-10-12T05:00:52+00:00"
+      "title": "미국 인플레이션 예상보다 상승, 물가 현황 분석",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "미국 인플레이션이 예상보다 더 많이 상승했으며, 물가 상승의 원인과 현황에 대한 분석이 나왔습니다. 이는 소비 심리와 경제 활동에 부정적인 영향을 미칠 수 있습니다. 중앙은행의 금리 정책 결정에도 중요한 고려 사항이 될 것입니다.",
+      "pub_date": "2026-10-14T15:26:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "신한금융, 6900억 원에 롯데손해보험 인수하며 비은행 부문 강화로 KB금융 추격 가속화",
-      "link": "https://www.sedaily.com/article/20101091",
-      "summary": "신한금융그룹이 6900억 원에 롯데손해보험을 인수하며 비은행 부문 강화를 선언했습니다. 이를 통해 보험 사업을 확장하고 리딩 금융 그룹인 KB금융그룹을 추격하겠다는 전략입니다. 국내 금융 시장의 경쟁 구도에 큰 변화가 예상됩니다.",
-      "pub_date": "2026-10-13T08:11:21+00:00"
+      "title": "코인거래소 고팍스도 해킹 피해… 16개 금융사 개인정보 10만 건 유출",
+      "link": "https://www.sedaily.com/article/20101599",
+      "summary": "코인거래소 고팍스가 해킹으로 뚫리면서 총 16개 금융사에서 10만 건에 달하는 개인정보가 유출되었습니다. 이는 금융권 전반의 보안 취약성을 드러내며 심각한 우려를 낳고 있습니다. 정부와 금융 당국의 강력한 보안 강화 대책 마련이 시급합니다.",
+      "pub_date": "2026-10-14T07:51:12+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "무디스, 이란 전쟁으로 미국 가구당 2,000달러 지출 증가 추산",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5URThOcldKbDAzVkFoX2IxZThObUpOSGVEbmZrNFBzZ252QWE2YzZ4dXNVQkJYenRIdGxiR3hEMVhwSzJZXy1rTHdGMG9CS0U3NlFMVXVVTmFwdkw2NG41YU9yb0pOQlFOQXVFODRDVElrUTVqZXJodTJoSzI?oc=5",
-      "summary": "신용평가사 무디스가 이란 전쟁으로 인해 미국 가구당 평균 2,000달러의 추가 지출이 발생할 것으로 추산했습니다. 이는 에너지 가격 상승과 공급망 불안정 때문으로 분석됩니다. 중동 정세 불안이 미국 경제에 직접적인 영향을 미치고 있습니다.",
-      "pub_date": "2026-10-13T17:25:52+00:00"
+      "title": "중간선거 전 마지막 보고서, 인플레이션 예상보다 빠르게 상승",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODQtMElFTHU0dGl5UmZ0WUlHZGVBbDhWUkdOemZjN29kX1M5UEVYWHNaVUxNRFhBM3J3dTcwS1JSbFZXR002N2c2R3N6UlZZTXAxME5FSUxTZ1ZGa0RNQmRUaGdKMjBtX2RUSm1lZzZqdkRSSDZaN0ZxcXhMRlZhMktUYWNoandBLXVIY1JKUmdiUEU3RlZELTJwRzdsYmFvVHNZeGFKcHM4dVFUYVNJejl3NWFlODk3U09mUUpuWGdVc3BKa3Jmcg?oc=5",
+      "summary": "중간선거를 앞두고 발표된 마지막 보고서에서 인플레이션이 예상보다 빠르게 상승했습니다. 이는 유권자들의 경제 불안감을 가중시키며 선거 결과에 상당한 영향을 미칠 것으로 보입니다. 정부와 연준의 물가 안정 노력이 주목됩니다.",
+      "pub_date": "2026-10-14T21:54:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "인플레이션이 사회보장 혜택을 초과하며 노년층의 경제적 어려움 가중",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHNRVl80OU5GclZpc2xyUTF4OFdwSzQ3eDUyVmVMY3AtaWtLU1QzaHlqNmNBOWVlY2FqazlBNzNVdmRiUzNWQTRDNF8tVk1oWUNuaWRzcjExS2JwVnVjdkN1ZkhVVWdva213US15X0dmcDY4LWZZYTl4S1BNWTh3dXhSRlVPb1FfMTVHTXJXYWo4RVU?oc=5",
-      "summary": "지속적인 인플레이션으로 인해 사회보장 혜택 증가율이 물가 상승률을 따라가지 못하고 있습니다. 이로 인해 많은 노년층이 매달 생활비 부족으로 어려움을 겪고 있습니다. 정부의 추가적인 지원 대책 마련이 시급하다는 목소리가 커지고 있습니다.",
-      "pub_date": "2026-10-13T09:30:44+00:00"
+      "title": "지난달 소비자 물가 3.7% 상승, 중간선거 전 마지막 지표",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hd3dLa3hMTUR4ZW5LRDh4R2U0RzRQVzVHLTVSdllES0VXQl82LVNDSmplZERpSVd6elo0a0Z5UG9Xc2ZvT2hHcHBlS1NINndRZjFHVVR3UDlvaGlKNW9LaGQ2WmpZMHRPanBpTkpBbF8xWXc?oc=5",
+      "summary": "지난달 소비자 물가 상승률이 3.7%를 기록하며 중간선거 전 마지막 인플레이션 지표가 나왔습니다. 이는 고물가 상황이 지속되고 있음을 보여주며, 유권자들의 경제 체감도에 부정적인 영향을 미칠 것입니다. 특히 에너지 가격 상승이 주요 원인으로 지목됩니다.",
+      "pub_date": "2026-10-14T12:35:27+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "배우 셀마 블레어, 기내 승무원 폭행 혐의로 체포",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFNUREZoNEw2ZE41TzhoaGpKNnQ2NUpTbFJsdks2TVgzLV9HSm5JRXB2R280TUpKd1JZRV9BUk1lWFB6a3hNVlZtRWY0bk9Ga1FjZUVHQl84VndfU1JpSTZpTXFacVVJbHdINFhKWkUzOXNuNzhRZWswbllFWXNPbW4wVk9BcjVpUVFRR2o4eDhtWHo4UzVsZE9GQTJpNEFJYjIwcWlBS2YyTFJVYm9tLTR4Yw?oc=5",
-      "summary": "할리우드 배우 셀마 블레어가 항공편 탑승 중 승무원을 폭행한 혐의로 체포되었습니다. 그녀는 기내에서 난동을 부린 것으로 알려졌으며, 현재 경찰 조사를 받고 있습니다. 이 사건은 연예계와 항공 안전 문제에 대한 논란을 불러일으키고 있습니다.",
-      "pub_date": "2026-10-13T00:59:00+00:00"
+      "title": "방콕 글로벌 회의, 분쟁·경제·인공지능 논의",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW1WdDV4VEdySWFLWUc5UTJmU3hnNlpQdXRmN1pucF9aQzFmVlF3M0ZOQ0RnejNlR1JhUzBTMWVPVjhqYmJNZGdQQ2tFUTJOeGpTd0MzeGxteF9CeXVvdS1JSkhwMUVjdERzcnFKQjJMcHZRR2xiOGtUMlB1LU9wZVJ4eHJFQTQtSF9zVW92ZGFBX1B0Y1VES0FEcUlYOGFsU1BXZXk3NndyV2VR?oc=5",
+      "summary": "방콕에서 열린 글로벌 회의에서 세계 지도자들이 분쟁, 경제, 그리고 인공지능(AI) 문제를 논의했습니다. 이 회의는 복잡한 국제 정세 속에서 각국이 직면한 주요 도전 과제들을 조망하는 자리였습니다. 다자간 협력을 통해 글로벌 문제 해결 방안을 모색했습니다.",
+      "pub_date": "2026-10-14T07:36:43+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "산업통상자원부, 반도체 메가프로젝트 전담 기구 '반도체혁신성장지원단' 공식 출범",
-      "link": "https://zdnet.co.kr/view/?no=20261013231255",
-      "summary": "산업통상자원부가 국가 핵심 산업인 반도체 분야의 성장을 위해 전담 지원 기구를 출범시켰습니다. '반도체혁신성장지원단'은 메가프로젝트를 체계적으로 지원하고 산업 경쟁력을 강화하는 역할을 맡습니다. 이는 글로벌 반도체 패권 경쟁 속에서 한국의 위상을 높이려는 전략입니다.",
-      "pub_date": "2026-10-13T14:12:55+00:00"
+      "title": "CES 2027, 인공지능으로 인한 변화 선보일 것",
+      "link": "https://zdnet.co.kr/view/?no=20261014213104",
+      "summary": "2027년 국제전자제품박람회(CES)에서는 인공지능(AI)을 통해 어떤 혁신이 일어날지 확인할 수 있을 것이라는 전망이 나왔습니다. 이는 AI가 미래 기술의 핵심 동력임을 시사하며, 다양한 산업 분야에서 AI의 적용과 발전을 기대하게 합니다. CES는 AI 기술의 현재와 미래를 보여주는 중요한 장이 될 것입니다.",
+      "pub_date": "2026-10-14T12:36:17+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "카카오 인공지능, '선톡' 기능으로 눈치까지 학습…가상 카톡 대화로 훈련 진행",
-      "link": "https://zdnet.co.kr/view/?no=20261013170136",
-      "summary": "카카오의 인공지능(AI)이 단순 응대를 넘어 사용자의 '눈치'를 파악하는 '선톡' 기능을 학습하고 있습니다. 가상 카톡 대화 시뮬레이션을 통해 상황에 맞는 소통 능력을 훈련하는 방식입니다. 이는 더욱 고도화된 대화형 AI 서비스의 등장을 예고합니다.",
-      "pub_date": "2026-10-13T08:38:16+00:00"
+      "title": "한미일 등 13개국, 양자 기술 전주기 협력·대화 돌입",
+      "link": "https://zdnet.co.kr/view/?no=20261014195009",
+      "summary": "한국, 미국, 일본 등 13개국이 양자 기술의 전주기적 협력과 대화에 나섰습니다. 이는 차세대 핵심 기술인 양자 기술 개발을 위한 국제적 공조를 강화하려는 움직임입니다. 양자 기술은 안보, 경제 등 다양한 분야에 혁신적인 변화를 가져올 잠재력을 가지고 있습니다.",
+      "pub_date": "2026-10-14T10:50:09+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "애플, 스마트홈 시장 공략 강화 위해 299달러 '홈뷰' 태블릿 공개",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=675579",
-      "summary": "애플이 스마트홈 시장 점유율 확대를 위해 새로운 기기 '홈뷰' 태블릿을 공개했습니다. 299달러 가격으로 선보이는 이 제품은 스마트홈 허브 역할을 수행할 예정입니다. 경쟁이 치열한 스마트홈 시장에서 애플의 새로운 전략이 성공할지 주목됩니다.",
-      "pub_date": "2026-10-14T01:25:16+00:00"
+      "title": "ASML, 인공지능 반도체 장비 수요 증가에 증산 확대",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675725",
+      "summary": "세계적인 반도체 장비 기업 ASML이 인공지능(AI) 반도체 장비 수요 호조에 힘입어 증산 확대를 발표했습니다. 이는 AI 시장의 폭발적인 성장세를 반영하며, 글로벌 반도체 공급망에 중요한 영향을 미칠 것입니다. ASML의 생산 확대는 AI 기술 발전에 필수적인 요소입니다.",
+      "pub_date": "2026-10-15T00:17:38+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "이재용 삼성전자 회장, 홍라희 여사로부터 2조 6천억 원 규모 삼성전자 주식 증여받아 지분율 1.75%로 확대",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=675570",
-      "summary": "이재용 삼성전자 회장이 홍라희 여사로부터 약 2조 6천억 원 상당의 삼성전자 주식을 증여받았습니다. 이로써 이 회장의 삼성전자 지분율은 1.75%로 확대되었습니다. 이는 그룹 지배구조 및 상속세 문제와 관련해 큰 주목을 받고 있습니다.",
-      "pub_date": "2026-10-13T17:43:05+00:00"
+      "title": "인적분할 카카오, 첫 공동 IR 개최하며 주주 설득 총력",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=675709",
+      "summary": "인적분할을 앞둔 카카오가 첫 공동 기업설명회(IR)를 열고 미래 청사진을 공개하며 주주 설득에 총력을 기울였습니다. 이번 IR은 기업 구조 재편과 성장 전략을 설명하는 중요한 자리였습니다. 주주들의 기대와 우려를 동시에 해소하려는 카카오의 노력이 주목됩니다.",
+      "pub_date": "2026-10-14T18:27:35+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "LG전자, 애플과 협력하여 인공지능 홈 시장 공략 강화…공동 개발 제품 7종 공개",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/14/7GT446PA4VAUTLDSYOREWSJCTA/",
-      "summary": "LG전자가 애플과 손잡고 인공지능(AI) 홈 시장 공략을 본격화합니다. 양사는 공동 개발한 7종의 제품을 공개하며 스마트홈 생태계 확장에 나섰습니다. 이번 협력은 글로벌 AI 홈 시장의 판도를 바꿀 중요한 전환점이 될 것으로 기대됩니다.",
-      "pub_date": "2026-10-13T22:23:24+00:00"
+      "title": "넷플릭스, 성장 정체로 직원 1000명 감원… 2022년 이후 최대 구조조정",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/14/5VT3AD66K5FCJPDUYOGN6UKZPE/",
+      "summary": "넷플릭스가 성장 정체에 직면하여 2022년 이후 최대 규모인 1,000명의 직원을 감원하는 구조조정을 단행했습니다. 이는 콘텐츠 시장의 경쟁 심화와 스트리밍 산업의 변화를 보여줍니다. 넷플릭스는 이번 조치를 통해 효율성을 높이고 새로운 성장 동력을 모색할 계획입니다.",
+      "pub_date": "2026-10-14T14:48:22+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "이재용 삼성전자 회장, 홍라희 여사에게서 2조 6천억 원 상당의 삼성전자 주식 증여받아 지분율 1.75%로 확대",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/13/JGDXRECHIRENFBX3VH7OTPGZOM/",
-      "summary": "이재용 삼성전자 회장이 홍라희 여사로부터 2조 6천억 원 규모의 삼성전자 주식을 증여받아 지분율이 1.75%로 늘어났습니다. 이번 증여로 이 회장의 그룹 지배력이 한층 강화될 것으로 보입니다. 국내 재계와 증시의 큰 관심이 쏠리고 있습니다.",
-      "pub_date": "2026-10-13T08:40:43+00:00"
+      "title": "'인터넷 강국' 한국 유선 속도 세계 22위… 베트남·태국에 뒤처져",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/12/E22VLLZSKBEKBJYLGODIJZOVBQ/",
+      "summary": "'인터넷 강국'으로 알려진 한국의 유선 인터넷 속도가 세계 22위로, 베트남과 태국 등 일부 국가에 뒤처지는 것으로 나타났습니다. 이는 한국의 IT 인프라 경쟁력에 대한 재평가와 우려를 낳고 있습니다. 정부와 관련 업계는 속도 개선 및 인프라 고도화 방안을 검토해야 할 것입니다.",
+      "pub_date": "2026-10-12T09:08:43+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "애플, 가정용 태블릿 '홈뷰' 299달러에 출시하며 스마트홈 시장 진출",
-      "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
-      "summary": "애플이 스마트홈 시장 진출을 위해 299달러짜리 가정용 태블릿 '홈뷰'를 공개했습니다. 이 제품은 집안의 다양한 스마트 기기를 제어하는 허브 역할을 할 예정입니다. 애플의 새로운 시도가 스마트홈 생태계에 어떤 변화를 가져올지 주목됩니다.",
-      "pub_date": "2026-10-13T17:23:29+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "미국 연방수사국, 사무실에 도청 장치 설치 혐의로 오픈AI 직원 체포",
+      "title": "미 연방수사국, 사무실에 도청 장치 설치 혐의로 오픈AI 직원 체포",
       "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-      "summary": "미국 연방수사국(FBI)이 오픈AI 사무실에 도청 장치를 설치한 혐의로 해당 직원을 체포했습니다. 이번 사건은 첨단 기술 기업 내부의 보안 문제에 대한 우려를 증폭시키고 있습니다. 기밀 유출 및 산업 스파이 활동 가능성에 대한 조사가 진행 중입니다.",
-      "pub_date": "2026-10-13T22:45:09+00:00"
+      "summary": "미 연방수사국(FBI)이 사무실에 도청 장치를 설치한 혐의로 오픈AI 직원을 체포했습니다. 이는 인공지능 분야 선두 기업인 오픈AI 내부의 보안 문제와 직결된 중대한 사건입니다. 기업 기밀 유출 가능성 등 파장이 예상됩니다.",
+      "pub_date": "2026-10-14T01:33:22+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "NYT",
+      "title": "넷플릭스, 성장 둔화에 직면해 전체 인력의 6% 감축",
+      "link": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+      "summary": "넷플릭스가 성장 둔화에 직면하여 전체 인력의 6%를 감축하는 구조조정을 발표했습니다. 이는 스트리밍 시장의 경쟁 심화와 경기 침체에 따른 비용 절감의 일환으로 해석됩니다. 대규모 해고는 기술 및 미디어 업계에 광범위한 영향을 미칠 수 있습니다.",
+      "pub_date": "2026-10-14T17:21:26+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "영국 인공지능 담당 장관, \"영국 사이버 방어선 뚫릴 가능성 높다\" 경고",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 인공지능(AI) 담당 장관이 영국의 사이버 방어선이 뚫릴 가능성이 매우 높다고 경고했습니다. 그는 AI 기술 발전이 사이버 위협을 가속화하고 있다고 지적했습니다. 국가 안보에 대한 심각한 우려가 제기되며, 대비책 마련이 시급하다는 목소리가 커지고 있습니다.",
-      "pub_date": "2026-10-12T15:03:42+00:00"
+      "title": "화장지와 비밀 녹음기… 사우디 오픈AI 엔지니어 체포 사건 전모",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "summary": "사우디아라비아 출신 오픈AI 엔지니어가 사무실에 도청 장치를 설치한 혐의로 체포된 사건에 대한 새로운 정보가 공개되었습니다. 화장지 안에 숨겨진 녹음기 등 구체적인 정황이 드러나 충격을 주고 있습니다. 이는 첨단 기술 기업 내부의 보안 취약성과 스파이 활동의 가능성을 보여줍니다.",
+      "pub_date": "2026-10-14T15:54:04+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "마이크로소프트 사장, \"인공지능은 우유보다 규제가 적다\" 발언",
+      "title": "마이크로소프트 사장, \"인공지능 규제, 우유보다 미흡하다\" 경고",
       "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "마이크로소프트 사장이 인공지능(AI) 기술이 우유보다도 규제가 적다고 언급하며 현행 규제 시스템의 미흡함을 꼬집었습니다. 그는 AI 기술의 급속한 발전에 비해 법적, 윤리적 틀이 부족하다고 지적했습니다. AI 규제에 대한 국제사회의 논의가 더욱 활발해질 전망입니다.",
+      "summary": "마이크로소프트 사장이 인공지능(AI)이 우유보다 규제가 덜하다고 발언하며 AI 규제의 필요성을 강조했습니다. 이는 AI 기술이 빠르게 발전하는 반면, 이를 통제할 법적, 윤리적 틀이 부족하다는 비판을 담고 있습니다. AI의 오용 및 남용을 방지하기 위한 국제적 논의가 시급합니다.",
       "pub_date": "2026-10-12T07:47:37+00:00"
     },
     {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "트럼프, 푸틴에게 승리 안겨주자 푸틴은 추가 전쟁으로 응수",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-      "summary": "도널드 트럼프 전 대통령의 행보가 러시아 푸틴 대통령에게 유리하게 작용하고 있으며, 이에 푸틴은 더 많은 전쟁으로 화답하고 있다는 분석이 나왔습니다. 이는 서방의 대러시아 정책에 복잡한 변수로 작용할 수 있습니다. 국제 정세의 불확실성이 증대되고 있습니다.",
-      "pub_date": "2026-10-13T16:13:56+00:00"
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "인공지능의 감정 유무에 대한 'AI의 대부' 견해",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0RaX1hOQkVoMk9BLWwweUlQTk8wanJTQnZZM2FuZ0tqNlFPVExBQlpHT0NLdlRjeTRHT0dFMUdWUGVHdXVQU3VqMGl3STZpN1pfVnZFOVdCSjV0Sk1CRlZxTWFGbVRHNmFpNW55Z05UTjF1LTBfSGFOYzZZdTUwWXdkTUxuMlFLWklzSEl2SQ?oc=5",
+      "summary": "'AI의 대부'로 불리는 전문가가 인공지능(AI)의 감정 유무에 대한 철학적 논쟁에 참여했습니다. 이는 AI 기술 발전의 중요한 윤리적, 과학적 질문을 제기하며, AI가 단순한 도구를 넘어설 수 있는지에 대한 깊은 사유를 촉발합니다. AI의 본질과 미래에 대한 논의가 활발히 진행 중입니다.",
+      "pub_date": "2026-10-14T16:18:55+00:00"
     },
     {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "영국 국내정보국 MI5 국장, 이란과 러시아로부터의 영국 본토 하이브리드 위협 고조 경고",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-      "summary": "영국 국내정보국(MI5) 국장이 이란과 러시아로부터 영국 본토에 대한 하이브리드 위협이 고조되고 있다고 경고했습니다. 이는 사이버 공격, 스파이 활동, 허위 정보 유포 등을 포함합니다. 영국은 국가 안보에 대한 심각한 도전 과제에 직면했습니다.",
-      "pub_date": "2026-10-13T16:04:03+00:00"
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "중간선거 전 마지막 보고서, 인플레이션 예상보다 빠르게 상승",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODQtMElFTHU0dGl5UmZ0WUlHZGVBbDhWUkdOemZjN29kX1M5UEVYWHNaVUxNRFhBM3J3dTcwS1JSbFZXR002N2c2R3N6UlZZTXAxME5FSUxTZ1ZGa0RNQmRUaGdKMjBtX2RUSm1lZzZqdkRSSDZaN0ZxcXhMRlZhMktUYWNoandBLXVIY1JKUmdiUEU3RlZELTJwRzdsYmFvVHNZeGFKcHM4dVFUYVNJejl3NWFlODk3U09mUUpuWGdVc3BKa3Jmcg?oc=5",
+      "summary": "중간선거 전 마지막 보고서에서 인플레이션이 예상보다 빠르게 상승한 것으로 나타났습니다. 이는 미국 경제 상황에 대한 우려를 증폭시키며, 다가오는 선거 결과에 중대한 영향을 미칠 수 있습니다. 물가 상승은 유권자들의 주요 관심사 중 하나입니다.",
+      "pub_date": "2026-10-14T21:54:29+00:00"
     },
     {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "프랑스 수백 개 슈퍼마켓 냉장 시스템, 사이버 공격으로 마비",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "summary": "프랑스 전역의 수백 개 슈퍼마켓 냉장 시스템이 대규모 사이버 공격을 받아 마비되었습니다. 이로 인해 막대한 양의 식품이 폐기되는 등 경제적 손실이 발생했습니다. 핵심 인프라에 대한 사이버 보안의 중요성이 다시 한번 부각되었습니다.",
-      "pub_date": "2026-10-13T17:16:27+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "한국에서 발생한 흉기 난동 사건으로 최소 6명 부상",
-      "link": "https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html",
-      "summary": "최근 한국에서 발생한 흉기 난동 사건으로 최소 6명이 부상당했습니다. 이 사건은 사회에 큰 충격을 주었으며, 공공 안전에 대한 우려를 증폭시켰습니다. 한국 당국은 유사 범죄 재발 방지를 위한 대책 마련에 나섰습니다.",
-      "pub_date": "2026-10-13T13:31:15+00:00"
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "중간선거 최종 보고서, 인플레이션 상승세 지속",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmhZMHVaTUR2Q1pyUWQ5d09VeU52S1FCQlBDY0o5T240RjItdzd0XzhmQWpnbUkxT0JWSEsxMTRBb0FRUUNnOXdqSWpIVkdoY1FCZ0U5bzd1OURVR1ptbmFyYUVYeS05NzUtcExZLUExS0ZxRFFuakY1T0lMUkhfZTdkbmxmVmI0?oc=5",
+      "summary": "중간선거를 앞두고 최종 발표된 보고서에서 인플레이션이 상승세를 보였습니다. 이는 소비자들이 느끼는 물가 부담이 여전함을 시사하며, 경제 정책에 대한 유권자들의 평가에 영향을 줄 것으로 예상됩니다. 고물가 상황은 선거 쟁점으로 부각될 것입니다.",
+      "pub_date": "2026-10-14T17:20:34+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "한 아버지의 사명: \"러시아가 내 가족에게 한 짓을 세상에 알리겠다\"",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
-      "summary": "한 아버지가 러시아 침공으로 가족이 겪은 비극을 전 세계에 알리기 위해 나섰습니다. 그는 직접 증언하며 전쟁의 참혹함과 민간인 피해의 심각성을 강조하고 있습니다. 이 이야기는 우크라이나 전쟁의 인도주의적 측면을 부각하고 있습니다.",
-      "pub_date": "2026-10-13T20:31:14+00:00"
+      "title": "일본, 러시아의 기자 구금 및 스파이 혐의에 강력 항의",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+      "summary": "일본이 러시아의 기자 구금에 대해 스파이 혐의를 주장하며 강력히 항의했습니다. 이는 양국 간 외교 관계에 긴장을 고조시키고 있으며, 언론의 자유와 인권 침해에 대한 국제적 우려를 낳고 있습니다. 일본 정부는 즉각적인 석방을 요구하고 있습니다.",
+      "pub_date": "2026-10-14T11:30:00+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "우크라이나, 위성 사용 제한 및 러시아 공세 강화로 취약성 증대",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "summary": "위성 사용이 제한되고 러시아가 공세를 강화하면서 우크라이나의 취약성이 커지고 있습니다. 이는 전황에 중요한 영향을 미칠 수 있으며, 우크라이나군의 작전 수행에 어려움을 더할 것입니다. 국제 사회의 추가 지원이 절실해지고 있습니다.",
+      "pub_date": "2026-10-14T23:30:02+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "튀르키예, 친야권 TV 방송국 급습 및 방송 중단",
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "summary": "튀르키예 정부가 친야권 성향의 TV 방송국을 급습하여 방송을 중단시켰습니다. 이는 언론의 자유 침해 논란을 불러일으키며, 튀르키예 내 정치적 탄압에 대한 우려를 증폭시키고 있습니다. 국제 사회는 이번 사태를 예의주시하고 있습니다.",
+      "pub_date": "2026-10-14T17:00:41+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "트럼프, 푸틴과 디젤 거래 체결 배경에 대한 의문 제기",
+      "link": "https://www.nytimes.com/video/world/europe/100000011205967/00vid-rv-trump-putin-deal.html",
+      "summary": "트럼프 전 대통령이 푸틴 러시아 대통령과 디젤 연료 거래를 체결한 배경에 대한 의문이 제기되었습니다. 이는 에너지 시장과 국제 외교 관계에 복합적인 영향을 미칠 수 있는 결정입니다. 미국의 동맹국들은 이 거래에 대해 우려를 표하고 있습니다.",
+      "pub_date": "2026-10-14T22:26:38+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "미 상원의원들, 트럼프에 푸틴과의 디젤 거래 철회 촉구",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "summary": "미국 상원의원들이 트럼프 전 대통령에게 푸틴과의 디젤 연료 거래를 철회할 것을 촉구했습니다. 이는 해당 거래가 미국과 동맹국의 안보 이익에 반할 수 있다는 정치적 압력을 보여줍니다. 상원에서는 이 문제에 대한 추가 논의가 예상됩니다.",
+      "pub_date": "2026-10-14T00:12:23+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "교황, 폐암 진단받았으나 수술 성공적으로 마쳤다고 바티칸 발표",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "summary": "바티칸이 교황이 폐암 진단을 받았으나, 성공적으로 수술을 마쳤다고 발표했습니다. 교황의 건강 상태는 전 세계 수많은 신도들의 관심사였습니다. 수술 후 회복 과정과 향후 활동에 대한 관심이 집중되고 있습니다.",
-      "pub_date": "2026-10-13T20:46:06+00:00"
+      "title": "머스크, 우크라이나 스타링크 접근 제한은 미국 정부 결정이라고 밝혀",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "summary": "일론 머스크가 우크라이나의 스타링크 접근 제한은 미국 정부의 결정이며 자신의 회사가 아니라고 밝혔습니다. 이는 우크라이나 전쟁에서 위성 통신 서비스의 역할과 그 통제권을 둘러싼 논쟁을 심화시킵니다. 스타링크는 우크라이나의 중요한 통신 수단입니다.",
+      "pub_date": "2026-10-14T20:55:24+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "영국 국내정보국 MI5 국장, 러시아, 이란 및 인공지능발 영국 위협 경고",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 국내정보국(MI5) 국장이 러시아와 이란, 그리고 인공지능(AI)으로 인한 영국의 안보 위협이 커지고 있다고 경고했습니다. 그는 하이브리드 공격과 사이버 위협에 대한 대비를 강조했습니다. 이번 경고는 국가 안보 전략의 재정립 필요성을 시사합니다.",
-      "pub_date": "2026-10-13T15:52:15+00:00"
+      "title": "독일, 노르트 스트림 파이프라인 폭파 혐의 우크라이나인 재판에 회부",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "독일이 노르트 스트림 파이프라인 폭파 혐의로 우크라이나인을 재판에 넘겼습니다. 이는 유럽 에너지 안보에 큰 영향을 미친 사건의 배후를 밝히는 중요한 수사 진전입니다. 국제적 관심이 집중되며 재판 결과에 이목이 쏠리고 있습니다.",
+      "pub_date": "2026-10-14T13:41:51+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "트럼프, 부패 의혹 제기된 킴벌리 길포일 주그리스 미국 대사 해임",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "도널드 트럼프 전 대통령이 부패 의혹이 제기된 킴벌리 길포일 주그리스 미국 대사를 해임했습니다. 길포일 대사는 트럼프 측근 인사로, 이번 해임은 미 행정부 고위직의 도덕성 논란을 다시 부각시키고 있습니다. 외교가의 이목이 집중되고 있습니다.",
-      "pub_date": "2026-10-13T19:23:28+00:00"
+      "title": "호르무즈 해협에서 발사체 피격 컨테이너선 침몰 발표",
+      "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "summary": "싱가포르 당국이 호르무즈 해협에서 발사체에 피격된 컨테이너선이 침몰했다고 발표했습니다. 이는 세계 주요 해상 운송로의 안보 위험을 부각시키는 심각한 사건입니다. 중동 지역의 긴장이 고조될 가능성이 있습니다.",
+      "pub_date": "2026-10-14T15:34:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "젤렌스키 대통령, 러시아군이 키이우 주요 발전소 공격했다고 발표",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 러시아군이 수도 키이우의 주요 발전소를 공격했다고 밝혔습니다. 이는 러시아의 우크라이나 핵심 기반 시설에 대한 공격이 계속되고 있음을 보여줍니다. 혹독한 겨울을 앞두고 에너지 안보에 대한 우려가 커지고 있습니다.",
-      "pub_date": "2026-10-13T22:14:33+00:00"
+      "title": "튀르키예 경찰, 야권 TV 방송국 급습해 생방송 중단",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "summary": "튀르키예 경찰이 야권 성향 TV 방송국을 급습하여 생방송을 중단시켰습니다. 이는 튀르키예 내 언론 자유에 대한 심각한 우려를 불러일으키는 조치입니다. 국제 사회는 튀르키예 정부의 언론 탄압에 대해 비판의 목소리를 높이고 있습니다.",
+      "pub_date": "2026-10-14T10:50:11+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "아르헨티나, 포클랜드 석유 탐사 문제로 영국에 법적 소송 제기",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "아르헨티나가 포클랜드(말비나스) 제도 주변 해역의 석유 탐사와 관련하여 영국에 법적 소송을 제기했습니다. 이는 영유권 분쟁이 다시 국제적인 문제로 부상했음을 의미합니다. 양국 간의 해묵은 갈등이 다시 격화될 조짐을 보이고 있습니다.",
-      "pub_date": "2026-10-13T17:36:43+00:00"
+      "title": "동남아시아 유독성 연무, 책임 소재 두고 논란",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "동남아시아를 뒤덮은 유독성 연무의 책임 소재를 두고 논란이 일고 있습니다. 이는 매년 반복되는 환경 문제로, 국경을 넘는 대기 오염이 주민 건강과 경제에 심각한 피해를 주고 있습니다. 역내 국가들의 공동 대응 노력이 요구됩니다.",
+      "pub_date": "2026-10-13T22:01:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "바티칸, 교황 레오 폐암 진단 사실 및 수술 성공 발표",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlNRX2IzdEFFNFFNbEVDdjNBMFZWWTlXNGN6aW5fRFpMY0VKTVlRTURsTDFILVd5eFdQaExvTTR0dy1ySklncHNPSHQzcEVTODE2VVFhcEVsUzRqdFlqUkpSTUgxeGp0aksxcDBfT3VNRHQ1RXpXXzZ0ZGRSdnZxWFZ2TnVKOEs3NGhQUjk3QVN6TTVKZTFlY0xoRkpNMzc3UU1mdWJ3?oc=5",
-      "summary": "바티칸이 교황 레오 13세가 폐암 진단을 받았으며, 성공적으로 수술을 마쳤다고 공식 발표했습니다. 교황의 건강 상태는 전 세계 가톨릭 신자들의 초미의 관심사였습니다. 수술 후 교황의 회복 과정과 공무 복귀 일정에 이목이 쏠리고 있습니다.",
-      "pub_date": "2026-10-13T21:08:39+00:00"
+      "title": "트럼프 휴전 발표에도 러시아, 우크라이나 에너지 시설 공격",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk1GdnFheUROUzhZQVJIS1dLOVhfRy13OTQ5cnpRdFZQRFlwcW9nc3ZPaGs3NVNQWE91ejJhNU9lZVpxeFEzSVg5cF9DUGlLbFFteXhjckNwMlRxTVlxdlpjbVlsVEFTWXV5WHo2TzY4MXRJNlM4bjk3dWNBanU1aHZMSWNvbHlNR1B1Y1BSc0t2QXU4UjlxUXB2ZVRaazN6Nm5RTW14b3h0dE42dWVOTnNR?oc=5",
+      "summary": "트럼프 전 대통령의 휴전 발표에도 불구하고 러시아가 우크라이나의 에너지 시설을 공격했습니다. 이는 전쟁의 복잡성과 국제 정치 역학 관계의 불확실성을 보여줍니다. 우크라이나의 기반 시설은 여전히 러시아 공격의 주요 목표입니다.",
+      "pub_date": "2026-10-14T16:36:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "영국 안보 수장, 인공지능이 위협을 증폭시키는 '국가 안보의 새 시대' 경고",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlZmNk02bmJRd1BnNm9HQUo2Z29ZczR4azViUjR0ODFsVW9EdENOZ3BvOG5rUzExQ2lqMXpTZDNOcDk4ZWRKQ2hDQTVobnFTbUJBRXdXQTdSQjFjaERwS2Fsbzk0WldaNE9KOHBjRXVLdWc4a0hRc2JESnhRREpuZnJzRTRXcmVYOXZ4VDlHaGlHaEkyNmRiQUE5UWFtWTR0YUs5NzEwR3NoUldETC12bzBKSmVZUzZhWEx2VDcyT2ZoUQ?oc=5",
-      "summary": "영국 안보 수장이 인공지능(AI)이 기존 위협을 증폭시키며 '국가 안보의 새로운 시대'가 도래했다고 경고했습니다. 그는 사이버 공격, 스파이 활동 등 복합적인 위협에 대한 철저한 대비를 주문했습니다. 이번 경고는 AI 시대의 안보 패러다임 변화를 시사합니다.",
-      "pub_date": "2026-10-13T15:38:04+00:00"
+      "title": "튀르키예 해안에서 세계 최고(最古) 난파선 발견",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkU2cGNqTWdfNHZYQXhyNVVNejJ0b21nVmZKRzllYUYwWmNrMEFzZlZpSk03aUhsR3VPTnJBUmZJTUlnRnhQUmNCRzljSUQ5czVxNU9wVXhCRUVVSWZFN201Tm5kei1kUS1RY1J6QlVTa2FzQW1aLUctVEUyVXFRNG5kaVpoZw?oc=5",
+      "summary": "튀르키예 해안에서 세계에서 가장 오래된 난파선이 발견되었습니다. 이 고고학적 발견은 고대 해양 무역과 기술에 대한 귀중한 정보를 제공할 것으로 기대됩니다. 역사학계와 고고학계의 큰 주목을 받고 있습니다.",
+      "pub_date": "2026-10-14T14:50:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "프랑스 슈퍼마켓 대상 사이버 공격 발생, 대규모 식품 폐기 초래",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkJMZGlfN28tN2NyVUJJYk5KamtKLVhvZXpES3AwVjIxUnpqQlZlMXlPTFhMWjNVUWk5aGVBLUc5WDZScUNmb1FLaTlLVFI3ZmZ0aUkweUVHc1ZhN25TM2lFVFBPX0dsSlk1MDF5bHVZYkdaUVFTY1RRZnZFX1h3cDE2N2RYQ0ZwTjBqQzZvWDV2Q3VmRXdUTmlyN2lxVU1IZlJkaU9HdXVVd3JoUEF4Snd0YjBDOGZ4?oc=5",
-      "summary": "프랑스 전역의 슈퍼마켓 냉장 시스템이 사이버 공격을 받아 대규모 식품 폐기가 발생했습니다. 이는 프랑스 식량 공급망에 심각한 차질을 초래했습니다. 핵심 인프라에 대한 사이버 보안의 취약성이 드러나며 사회적 파장이 커지고 있습니다.",
-      "pub_date": "2026-10-13T15:35:24+00:00"
+      "title": "방콕 글로벌 정상회의, 분쟁·경제·인공지능 논의",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW1WdDV4VEdySWFLWUc5UTJmU3hnNlpQdXRmN1pucF9aQzFmVlF3M0ZOQ0RnejNlR1JhUzBTMWVPVjhqYmJNZGdQQ2tFUTJOeGpTd0MzeGxteF9CeXVvdS1JSkhwMUVjdERzcnFKQjJMcHZRR2xiOGtUMlB1LU9wZVJ4eHJFQTQtSF9zVW92ZGFBX1B0Y1VES0FEcUlYOGFsU1BXZXk3NndyV2VR?oc=5",
+      "summary": "방콕에서 열린 글로벌 회의에서 세계 지도자들이 분쟁, 경제, 그리고 인공지능(AI) 문제를 논의했습니다. 이는 국제 사회가 직면한 복합적인 도전 과제들을 다루는 중요한 자리였습니다. 다자간 협력을 통해 전 지구적 문제 해결 방안을 모색했습니다.",
+      "pub_date": "2026-10-14T07:36:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "투팍 샤커 살해 혐의 듀안 데이비스, 최소 40년 징역형 선고",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2JnQ29oRkR0LU9tWnNHem4wNnh6UnhDdDY3bndCcTRIRmpqZVptTGZpa3UtMUI0UFRFLUtaTjRRWW9jYjFwR0ZTWGlPeEUxdnBMRC1vSTRMX2U2VEdDelFDV2xLMzhOcjRzV1FtcDFZakNuOERmdExrVFAtRWtOdTB2VXAwelJPWU1UUTJ4MWZ0aTNv?oc=5",
-      "summary": "전설적인 래퍼 투팍 샤커 살해 사건의 마지막 용의자였던 듀안 데이비스가 최소 40년의 징역형을 선고받았습니다. 27년 만에 해결된 이 사건은 음악계와 범죄 수사 역사에 큰 획을 그었습니다. 투팍 팬들은 오랜 기다림 끝에 정의가 실현되었다며 환영했습니다.",
-      "pub_date": "2026-10-13T19:29:47+00:00"
+      "title": "우크라이나, 군용 스타링크 서비스 제한으로 작전 방해 주장",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2Z1VXJ6RHdTc1J6amh1blR5VFRlMnJNdExwWkdiOXFaTlktYzRUMEFwZWt0eDFUVjVhVC16MDROb0UtODY2UEtOLTVnZ3NZNTRTUU1Ic0picFpMbi13UVhYdHRkQ2I4NVFDVFQyVnI3bE80XzFMb1hXR3B2OG1iQlpIRHNaNDhBbmhSdElEQzd6LVRmODRDbUVaVGw1VS1sY2RXR2VjZTVjYTBQeG1ISW9qWnhJZlk0UjIwMzlUeTE0VWRTS0IycEZyZjlySFlwQXFVQjk2clBwTFg2eVphdlVaS1E1RXc1RmFIMmJCNTRMQVBD?oc=5",
+      "summary": "우크라이나가 일부 군용 스타링크 서비스가 제한되어 러시아 공격이 계속되는 가운데 작전이 방해받고 있다고 밝혔습니다. 이는 우크라이나의 전력 유지에 심각한 영향을 미치며, 통신 인프라의 취약성을 드러냅니다. 스타링크의 제한은 전황에 중요한 변수가 될 수 있습니다.",
+      "pub_date": "2026-10-14T17:00:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "코넬 대학교, 2024년 성폭행 의혹 조사로 학기 남은 기간 동안 모든 남학생 사교 클럽 파티 중단",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVZGZXhZVDI4d1FRemt6WUdwXzcwWUpzX0w0VHpRXzdvX1hKTzNfSm5XMF9FeVRwTVJvbzg3TUlPZWgza1ZRRjduOVpYS05MMlZGNTQ0X1RpMWQ2UHBOZk9YcVNSM0VkaXpHUV9PVUNwMmNQekVVYUp1NE5VUHhEVVF4WGhDdGwt?oc=5",
-      "summary": "코넬 대학교가 2024년 제기된 성폭행 의혹에 대한 조사가 진행됨에 따라 남은 학기 동안 모든 남학생 사교 클럽(프래터니티) 파티를 중단시켰습니다. 이는 심각한 캠퍼스 내 성범죄 문제에 대한 학교 당국의 강력한 대응입니다. 학내 성폭력 문화에 대한 광범위한 논의가 촉발될 것으로 예상됩니다.",
-      "pub_date": "2026-10-13T18:18:55+00:00"
+      "title": "우크라이나, 스페이스X 스타링크 서비스 제한으로 군사 작전 차질 발생",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3Vod1JYdEZUcGFWRUlFWjZWMHJYMUZMUzF1aHZmWVN4cG8zMExQY283UEd3bjhqX192TzZLZ1NUSWZFVWxVMDJsNUVsSlJUQnV0QWlZbjdQQXJnaVFSc3BPNGFsb2dianVoNDdHZlRXN2o5QXNvVHpqbFRSMnl2STNqal9yZ1k0TDMxMXdmeE9rdGFTRzlBYWEtMkpfb2tVa2FjZ3FnSWc5TEx1Unk0aTdLdW1sZGllVW5rTWRtc0NyQmxWWTItR0ZFTG9qa3pnSlRFU25FSE4?oc=5",
+      "summary": "우크라이나가 스페이스X가 스타링크 서비스를 제한하여 군사 작전이 방해받고 있으며, 러시아의 공격은 계속되고 있다고 밝혔습니다. 이는 전장에서의 통신 문제와 러시아의 지속적인 공세가 우크라이나에 이중고를 안기고 있음을 의미합니다. 국제 사회의 관심과 지원이 더욱 절실합니다.",
+      "pub_date": "2026-10-14T11:31:13+00:00"
     }
   ]
 }
