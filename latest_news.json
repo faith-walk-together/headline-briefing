@@ -1,421 +1,413 @@
 {
-  "last_updated": "2026-10-22T23:56:16.451768+00:00",
+  "last_updated": "2026-10-23T23:48:42.960720+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "대통령 \"중대범죄수사청 지휘·감독 포기 시 탄핵 사유\" 발언",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811187&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "대통령이 중대범죄수사청의 지휘·감독권 포기는 탄핵 사유가 될 수 있다고 강하게 경고했다. 이는 공수처 개편 등 권력기관 개혁 논의에 대한 대통령의 확고한 입장을 보여준다. 정치권에 상당한 논란과 파장을 불러올 것으로 예상된다.",
-      "pub_date": "2026-10-22T21:30:00+00:00"
+      "title": "대통령, \"강력범죄에 전쟁 선포할 각오로 임할 것\" 강조",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811692&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령은 강력범죄에 대해 전쟁을 선포하는 각오로 대응하겠다고 밝혔다.현 상황을 더 이상 방치하지 않을 것이며, 범죄 근절을 위한 강력한 의지를 표명했다.가해자 격리 시설 검토 등 실질적인 대책 마련을 시사했다.",
+      "pub_date": "2026-10-23T02:01:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "김민석 \"오세훈 시장 항소심 유죄 가능성 높아, 서울시장 선거 준비 중\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811416&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "김민석 전 의원이 오세훈 서울시장의 항소심에서 유죄 판결이 나올 가능성이 높다고 예상했다. 이에 따라 서울시장 선거를 위한 '마음의 준비'를 하고 있다고 밝혀 재보궐 선거 가능성에 대비하는 모습을 보였다. 오세훈 시장의 재판 결과가 향후 정치 지형에 큰 영향을 미칠 것으로 전망된다.",
-      "pub_date": "2026-10-22T23:52:00+00:00"
+      "title": "정부, 북한에 남북 군사분계선 상호확인 및 군 통신선 복원 위한 군사회담 제의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812371&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "한국 정부가 북한에 남북 군사분계선(MDL)의 명확한 위치를 상호 확인하자고 제안했다.또한 단절된 군 통신선을 복원하기 위한 군사회담을 북한에 제의했다.이는 최근 북한의 지뢰 매설 추정 등 긴장 고조 상황에서 대화의 물꼬를 트려는 시도로 풀이된다.",
+      "pub_date": "2026-10-23T08:10:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "미국과 이스라엘, 중간선거 이후 이란에 대한 공습 재개 계획 수립",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-      "summary": "미국과 이스라엘이 중간선거 이후 이란에 대한 새로운 공습 계획을 수립하고 있는 것으로 알려졌다. 이는 이란의 핵 프로그램과 역내 불안정성 심화에 대한 양국의 강력한 대응 의지를 보여준다. 중동 정세의 긴장감을 고조시키고 국제사회에 큰 파장을 일으킬 것으로 예상된다.",
-      "pub_date": "2026-10-22T00:58:22+00:00"
+      "title": "전 FBI 고위 관계자 두 명, 헌터 바이든 관련 허위 진술 혐의로 기소",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+      "summary": "전직 FBI 고위 관료 두 명이 헌터 바이든과 관련하여 허위 진술을 한 혐의로 기소되었다.이 사건은 미 사법 시스템과 고위층 스캔들을 둘러싼 논란을 증폭시키고 있다.바이든 행정부와 트럼프 전 대통령 지지자들 사이의 정치적 갈등을 심화시킬 가능성이 있다.",
+      "pub_date": "2026-10-23T20:54:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "법무부, 코리 르완도프스키에 대한 수사 개시",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "summary": "미국 법무부가 도널드 트럼프 전 대통령의 핵심 측근인 코리 르완도프스키에 대한 조사를 시작했다. 이는 그가 국토안보부 관련 계약에서 부적절한 행위를 했다는 의혹에 따른 것이다. 중간선거를 앞두고 트럼프 전 대통령 측근을 둘러싼 법적 리스크가 부각되며 정치적 파장이 예상된다.",
-      "pub_date": "2026-10-22T23:06:09+00:00"
+      "title": "트럼프, 머스크에게 우크라이나 스타실드 제한 해제 요청",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+      "summary": "도널드 트럼프 전 대통령이 일론 머스크에게 우크라이나에 대한 스타실드 서비스 제한을 해제해달라고 요청했다.스타실드는 스페이스X의 위성 인터넷 서비스로, 우크라이나 전쟁에서 중요한 역할을 한다.이 요청은 미국 안보 문제와 주요 기술 기업의 영향력에 대한 논쟁을 불러일으킬 것으로 보인다.",
+      "pub_date": "2026-10-23T13:05:59+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "대법원, 뉴햄프셔주 투표소 학생증 전면 금지 허용",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/supreme-court-new-hampshire-election-student-id.html",
-      "summary": "미국 연방대법원이 뉴햄프셔주 투표소에서 학생증을 신분증으로 사용할 수 없도록 한 주법을 유지하기로 결정했다. 이는 젊은 유권자들의 투표 접근성을 제한할 수 있다는 논란에도 불구하고 주정부의 손을 들어준 것이다. 유권자들의 투표권 행사에 영향을 미칠 수 있어 파장이 예상된다.",
-      "pub_date": "2026-10-22T22:29:45+00:00"
+      "title": "미국의 주시 속에 민주주의 갈등을 겪는 베네수엘라",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+      "summary": "베네수엘라가 미국의 감시 아래 민주주의를 둘러싼 긴장과 씨름하고 있다.국제사회는 베네수엘라의 정치적 상황과 인권 문제를 예의주시하고 있다.미국은 베네수엘라의 민주적 전환을 촉구하며 다양한 압박을 가하고 있다.",
+      "pub_date": "2026-10-23T17:15:02+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "김민석 \"오세훈 시장 항소심 유죄 가능성 높아, 서울시장 선거 준비 중\"",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR202610230834425VN",
-      "summary": "김민석 전 의원이 오세훈 서울시장의 항소심에서 유죄 판결이 나올 가능성이 높다고 예상했다. 이에 따라 서울시장 선거를 위한 '마음의 준비'를 하고 있다고 밝혀 재보궐 선거 가능성에 대비하는 모습을 보였다. 오세훈 시장의 재판 결과가 향후 정치 지형에 큰 영향을 미칠 것으로 전망된다.",
-      "pub_date": "2026-10-22T23:34:45+00:00"
+      "title": "메르츠 독일 총리 29일 방한, 대통령과 정상회담 예정",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261024002756giN",
+      "summary": "독일의 메르츠 총리가 29일 한국을 방문하여 이 대통령과 정상회담을 갖는다.이번 회담에서는 양국 간 경제 협력 및 국제 정세에 대한 논의가 이루어질 것으로 예상된다.이는 한국과 독일의 관계 강화에 중요한 계기가 될 전망이다.",
+      "pub_date": "2026-10-23T15:27:56+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "북한, 2024년 이후 비무장지대 일대에 약 100만 발 지뢰 매설 추정",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261023073925Bwy",
-      "summary": "군 당국은 북한이 2024년 이후 비무장지대(DMZ) 일대에 약 100만 발의 지뢰를 추가로 매설한 것으로 추정했다. 이는 북한의 군사적 도발 가능성을 높이고 남북 관계에 긴장을 고조시키는 요인이 될 수 있다. 우리 군의 대응 태세와 안보 정책에 대한 재검토가 필요하다는 지적이 나온다.",
-      "pub_date": "2026-10-22T22:39:27+00:00"
+      "title": "대통령, 강력범죄에 \"전쟁 선포\" 선언하며 가석방 없는 무기징역 검토 지시",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261023205300vco",
+      "summary": "이 대통령이 강력범죄에 대해 \"전쟁을 선포한다\"는 강경한 입장을 밝혔다.가석방 없는 무기징역 도입을 검토하라고 지시하며 범죄 근절 의지를 강조했다.이는 최근 흉악범죄 증가에 대한 사회적 불안감을 해소하려는 정부의 강력한 대응책으로 풀이된다.",
+      "pub_date": "2026-10-23T11:53:01+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "수감된 전 DUP 대표 제프리 도널드슨, 의회 내 성폭행 혐의로 조사 중",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "수감 중인 전 민주연합당(DUP) 대표 제프리 도널드슨이 의회 내에서 발생한 성폭행 혐의로 조사를 받고 있다. 이는 영국 정치권에 큰 충격을 주며, 고위 정치인의 도덕성 문제와 의회 내 안전 문제에 대한 우려를 증폭시키고 있다. 수사 결과에 따라 정치적 파장이 상당할 것으로 예상된다.",
-      "pub_date": "2026-10-21T14:26:24+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "BBC",
-      "title": "영국, 해저 케이블 보호 위한 비상 권한 계획",
+      "title": "영국, 해저 케이블 보호를 위한 비상 권한 계획 발표",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 정부가 국가 안보의 핵심 기반 시설인 해저 케이블 보호를 위해 비상 권한을 도입할 계획이다. 이는 잠재적인 사이버 공격이나 물리적 위협으로부터 국가 통신망을 지키기 위한 조치다. 전 세계적으로 해저 케이블의 중요성이 커지는 가운데, 영국이 선제적 대응에 나선다는 점에서 주목된다.",
+      "summary": "영국 정부가 국가 안보의 핵심인 해저 케이블 보호를 위한 비상 권한 도입을 추진하고 있다.이는 사이버 공격이나 물리적 손상으로부터 중요 통신 인프라를 지키기 위한 조치이다.해저 케이블은 인터넷 통신 및 금융 거래 등 현대 사회의 필수적인 연결망 역할을 한다.",
       "pub_date": "2026-10-22T15:56:03+00:00"
     },
     {
       "category": "정치",
+      "outlet": "BBC",
+      "title": "다음 주 예산안 발표 앞두고 영국 인플레이션과 정부 차입금 1년 만에 최고치 기록",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "summary": "다음 주 발표될 예산안을 앞두고 영국의 인플레이션과 정부 차입금이 1년 만에 최고 수준을 기록했다.이는 가계 경제에 부담을 주고 있으며, 정부의 재정 건전성에 대한 우려를 키우고 있다.이러한 경제 지표는 다가오는 예산안에서 정부의 정책 방향에 큰 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-10-21T10:16:17+00:00"
+    },
+    {
+      "category": "정치",
       "outlet": "조선일보",
-      "title": "대통령 \"중대범죄수사청 지휘·감독 포기는 탄핵 사유\" 발언",
-      "link": "https://www.chosun.com/politics/politics_general/2026/10/23/75SMRBUC6BHXBJJEXI2IG5OCWQ/",
-      "summary": "대통령이 중대범죄수사청에 대한 지휘·감독권을 포기하는 것은 탄핵 사유가 될 수 있다고 강력히 경고했다. 이는 현재 진행 중인 사법개혁 논의와 관련하여 대통령의 확고한 입장을 표명한 것이다. 정치권에 큰 논란을 불러일으키며 향후 권력기관 개편에 중대한 영향을 미칠 것으로 보인다.",
-      "pub_date": "2026-10-22T15:55:00+00:00"
+      "title": "대통령, 최길수 특별감찰관 임명 재가하며 10년간의 권력 감시 공백 해소",
+      "link": "https://www.chosun.com/politics/blue_house/2026/10/23/VATIRLPTFVAFJHAD4Z7GK4JCSU/",
+      "summary": "이 대통령이 최길수 특별감찰관 임명안을 재가하며 10년 동안 공석이던 특별감찰관 제도가 재가동되었다.특별감찰관은 대통령 측근 및 고위 공직자의 비위 행위를 감시하고 수사하는 역할을 맡는다.이는 권력 감시와 사정 기능 강화에 대한 국민적 기대가 높은 중요한 인사 조치이다.",
+      "pub_date": "2026-10-23T05:02:18+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "법무부, 도널드 트럼프 측근 코리 르완도프스키의 국토안보부 계약 비리 의혹 조사",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEFNR1N4WklrZ0NJRkJFWWRvbHFKdklwZFE0S2k5b0hzV24wOVQzdUJrV1dPbnZfOXU5Nk5QUHItZWVGdmp5Y3B6aG1MOGxrRmlWbjN6MG1wdVlNTVlDNU5FUDZYd2ZHRnVzQlJFNXpkSFBPQTdrMHItcHpfdnJFUWxpbV9HMGJzaXlMRU1QQ0xJa2ZBVkV6TnlucXZBX3NVRE9B?oc=5",
-      "summary": "미국 법무부가 트럼프 전 대통령의 핵심 측근인 코리 르완도프스키에 대해 국토안보부 계약 관련 비리 의혹으로 조사를 벌이고 있다. 이는 중간선거를 앞두고 트럼프 전 행정부 인사들의 윤리 문제에 다시금 이목이 집중되는 계기가 되고 있다. 이번 수사 결과가 정치적 파장을 일으킬 것으로 예상된다.",
-      "pub_date": "2026-10-22T18:38:31+00:00"
+      "title": "트럼프 법무부, 현 공화당 의원 패배 시 알래스카 상원 선거 결과 무효화 소송 제기",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcXlUY0dOWm9Bc1hJNndkXzhtVUNfUGhGT1ptcG1mZzU5R0xUeVFXUVB4N2hDM20zcFo3VVZlSXRoc0xHU0tIb2c5QTNURGZ3UVhPV2ZjNmtubVFFQ3pBdUE2RXhkbHdsUVhNWGFSYkpIaGtEeDBqT2RCQVdwbk5jN2RfUzdwVVBCeGk5VkdPS1UxWjU2MDRidVVBNUYyRWpCb25mRUJJT01TbE4tRVE4MDJCbVpkRGFvbFV2ZkR3RkxaZGlNdTJYZA?oc=5",
+      "summary": "트럼프 행정부 법무부가 현직 공화당 의원이 패배할 경우 알래스카 상원 선거 결과를 막기 위한 소송을 제기했다.이는 선거 결과에 대한 전례 없는 법적 개입 시도로, 민주주의 절차에 대한 우려를 낳고 있다.미국 정치의 불안정성을 보여주는 또 다른 사례로 기록될 것으로 보인다.",
+      "pub_date": "2026-10-23T19:44:06+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "뉴욕타임스 보도: 억만장자가 트럼프 사면 원해, 가족이 변호인에게 5천만 달러 계약 제공",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnluY0V1eEJTZkxYVkI4S0N2ZkRxUFF0Sm1sWFVxcmV3c0wxU3JhTXVIbzItS2h4S3BqRk5xRU10Vkd5RGltOGRmZlcyQTU2bURsZU9LVkQ4NGFNUTQ5dXpEZGRfeHpOSU1ZZEtva3hBRUg5VUdSQUxJWW51ZTFRczR5RzJTTHVDUW5tS1hwYlhxaGFLWlN2a3d5SVVleHBoZ0FxQjlkc0JVMDVrVkdtUlpIREV4cmV2a0hBb0dLYzBkM0tnQWp0SGxWWGY3ekhEbldOSFBKMEs0RWdoQXc?oc=5",
-      "summary": "뉴욕타임스는 한 억만장자가 트럼프 전 대통령의 사면을 원했으며, 그의 가족이 트럼프 변호인 알리나 하바에게 5천만 달러 규모의 계약을 제공했다고 보도했다. 이 보도는 트럼프 행정부 시절 사면 과정의 투명성과 윤리적 문제에 대한 심각한 의문을 제기한다. 법적, 정치적 논란이 확산될 것으로 보인다.",
-      "pub_date": "2026-10-22T01:20:27+00:00"
+      "title": "트럼프, 다시 3선 시도 가능성에 대한 언급으로 논란",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEFOSTlUVWRFaE95NlNZYzd0SWpPLVhIcUYzV092RWl3bDRsMjg4cy04M0RERDZzMHh2cXoybW1kMEdZalhkYnlHZTc1dFgxRUt3T3dqUGZXSDFqQ05HblhtOGZZWFRtaVVlYm85emtyRjhZMVdFSU9QY3lZMWs3eTZ6ejBHZXdZZXc4N1BPYmZoQnpqRTkxSHdnMA?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 또다시 3선에 도전할 수 있다는 발언을 하며 논란을 일으켰다.미국 헌법상 대통령은 두 번의 임기만을 수행할 수 있어, 이는 헌법적 논쟁을 촉발할 수 있다.트럼프의 발언은 다가오는 선거와 미국 정치 지형에 큰 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-10-23T02:03:21+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "제프리스 의원, 공화당이 중간선거 투표율 억제를 '음모'할 것이라고 시사",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW1kTXI0OHVTQ3FCbmN2b1QweGU3R1JUTjFPeG4ySHhxS2hVRlBwYnR3QXhnX0p5WGRscGEzcHpNeW1JS2lxSk5DaGZQVFBpRnNVWEJXUHBsSEFhQUNDZGFWNzRhQmJEeTNkWThqY09MTkxiQndHa0VVcFBtdUtHeE9oVnFoLVBxSjR5NXE1cVNWcjdmV2dZU2dPWUk4RUQxQ2llak9zRHA?oc=5",
-      "summary": "하킴 제프리스 하원의원이 공화당이 중간선거에서 투표율을 억제하기 위한 '음모'를 꾸밀 것이라고 비판했다. 이는 미국 선거의 공정성과 민주주의 절차에 대한 깊은 우려를 표명하는 발언이다. 중간선거를 앞두고 양당 간의 긴장감이 고조되고 유권자들의 관심이 집중될 것으로 예상된다.",
-      "pub_date": "2026-10-22T22:19:00+00:00"
+      "title": "공화당, 예상치 못한 위기에 처한 상원 의석 수성 위해 총력전",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmV2VHNFYWRpaTVJWFkzS2I1SGRKYmhVS3psc0VLNWlPdVdVR1lmVFFSSm16SFlxaV91NFJfZm8zNENoblVxS3BrdU4tTFZraTVUc2hkQVgwNERxaWdBdWtvbEFQNjBNeFNjUXBROG1BbnZrRWVQM3JlYVNldDdoTGQ5N3J6dS1MZldKanlWOTJjNEtJWjAwb0FfVkFQa0w3V0g3cnFuM092NHNUbWdUbQ?oc=5",
+      "summary": "공화당이 예상치 못하게 위기에 처한 여러 상원 의석을 지키기 위해 비상 체제에 돌입했다.이는 다가오는 중간선거에서 상원 다수당 지위 확보가 쉽지 않을 수 있음을 시사한다.당 지도부는 핵심 경합 지역에 자원과 인력을 집중하며 총력전을 펼치고 있다.",
+      "pub_date": "2026-10-23T03:34:35+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "일론 머스크, 스페이스X와 테슬라 합병 검토 중이라고 밝혀",
-      "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-      "summary": "일론 머스크 테슬라 최고경영자(CEO)가 자신의 두 회사인 스페이스X와 테슬라의 합병 가능성을 검토 중이라고 밝혔다. 이는 전기차와 우주항공 분야의 거대 기업 간 결합으로, 기술 및 시장 전반에 엄청난 파급력을 미칠 것으로 예상된다. 합병이 성사될 경우 글로벌 산업 지형에 대변혁을 가져올 수 있다.",
-      "pub_date": "2026-10-21T20:57:22+00:00"
+      "title": "국제 유가 배럴당 116달러 기록, 4월 이후 최고치 경신",
+      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+      "summary": "국제 유가가 배럴당 116달러에 도달하며 지난 4월 이후 최고치를 경신했다.이는 글로벌 에너지 시장의 불안정성과 지정학적 긴장이 복합적으로 작용한 결과로 분석된다.고유가는 각국 인플레이션 압력을 가중시키고 경제 성장에 부정적인 영향을 미칠 수 있다.",
+      "pub_date": "2026-10-23T20:03:29+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "바클레이즈, 비용 절감 위한 AI 도입으로 5천 명 감원 예정",
+      "title": "바클레이스, 비용 절감 위한 AI 도입으로 5,000명 감원 계획",
       "link": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
-      "summary": "영국 주요 은행 바클레이즈가 인공지능(AI) 기술 도입을 통한 비용 절감 계획의 일환으로 5,000개의 일자리를 감축할 예정이다. 이는 금융 부문에서 AI 기술이 확산되면서 발생하는 대규모 인력 구조조정의 대표적인 사례다. AI가 고용 시장에 미치는 영향에 대한 논의가 더욱 활발해질 것으로 보인다.",
+      "summary": "영국 바클레이스 은행이 비용 절감 목표로 인공지능(AI) 도입을 추진하며 5,000명 감원을 발표했다.이는 AI 기술이 금융 산업의 고용 구조에 미치는 변화를 보여주는 사례이다.많은 기업들이 효율성 증대를 위해 AI를 활용하면서 대규모 구조조정이 불가피해질 수 있다는 우려가 커지고 있다.",
       "pub_date": "2026-10-22T12:45:54+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "PHP 보안 취약점 발견으로 전 세계 웹사이트 오프라인, 긴급 패치 작업 진행 중",
-      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "summary": "핵심 웹 프로그래밍 언어인 PHP에서 심각한 보안 취약점이 발견되어 전 세계 수많은 웹사이트들이 오프라인 상태가 되거나 긴급 패치 작업에 돌입했다. 이 취약점은 해킹 공격에 악용될 수 있어 기업과 정부 기관에 비상이 걸렸다. 사이버 보안의 중요성과 긴급 대응의 필요성을 다시 한번 보여주는 사건이다.",
-      "pub_date": "2026-10-22T16:01:35+00:00"
+      "title": "모기지 금리 7% 이상 유지, 일부 지역 주택 가격 하락 압력 가중",
+      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "summary": "미국 모기지 금리가 여전히 7% 이상을 유지하며 주택 시장에 큰 영향을 미치고 있다.높은 금리로 인해 주택 구매 심리가 위축되고, 일부 지역에서는 주택 가격 하락 현상이 나타나고 있다.이는 주택 시장의 침체와 가계의 주거 비용 부담 증가로 이어질 수 있다.",
+      "pub_date": "2026-10-22T19:18:58+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "일론 머스크는 왜 스페이스X와 테슬라의 메가 합병을 계획하는가?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "summary": "일론 머스크가 자신의 두 회사, 스페이스X와 테슬라의 대규모 합병을 추진하는 배경에 관심이 쏠리고 있다. 이는 두 회사의 기술 시너지와 시장 지배력 확대를 위한 전략적 움직임으로 분석된다. 합병이 현실화될 경우 전기차와 우주항공 산업의 미래에 막대한 영향을 미칠 전망이다.",
-      "pub_date": "2026-10-21T23:04:03+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "BBC",
-      "title": "바클레이즈, AI 의존도 높이며 5천 명 감원 단행",
+      "title": "바클레이스, AI 의존도 증가에 따라 5,000명 감원 단행",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 은행 바클레이즈가 인공지능(AI) 기술 활용을 확대함에 따라 5,000개의 일자리를 감축할 계획이라고 발표했다. 이는 AI 기술 발전이 금융권 고용 시장에 미치는 직접적인 영향의 한 예로 평가된다. 대규모 감원 소식에 따라 노동 시장과 AI 기술 도입의 사회적 파장에 대한 논의가 확대될 것으로 예상된다.",
+      "summary": "영국의 주요 은행 바클레이스가 인공지능(AI) 기술 도입 확대로 5,000명 규모의 인력 감축을 발표했다.이는 은행 업무 효율화를 위한 전략적 결정으로, 금융권의 AI 전환 가속화를 보여준다.점차 많은 산업에서 AI가 인력 구조에 미치는 영향이 커질 것으로 예상된다.",
       "pub_date": "2026-10-22T14:28:59+00:00"
     },
     {
       "category": "경제",
+      "outlet": "BBC",
+      "title": "심각한 사이버 보안 업데이트 발령으로 전 세계 웹사이트 다운 사태 발생",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "치명적인 사이버 보안 업데이트가 전 세계적으로 발령되면서 다수의 웹사이트가 일시적으로 중단되었다.이는 PHP 관련 취약점으로 인한 것으로, 긴급 패치 적용이 요구되고 있다.기업과 정부 기관 모두 신속한 대응을 통해 서비스 복구에 총력을 기울이고 있다.",
+      "pub_date": "2026-10-21T19:54:57+00:00"
+    },
+    {
+      "category": "경제",
       "outlet": "서울경제",
-      "title": "\"1,100만 투자자 반발 부담\" 내년 코인 과세 앞두고 정부 입장 변화",
-      "link": "https://www.sedaily.com/article/20104516",
-      "summary": "내년 암호화폐 과세를 앞두고 정부가 1,100만 명에 달하는 투자자들의 반발을 의식해 입장을 바꾸는 분위기다. 당초 예정된 과세 유예 가능성에 무게가 실리며 투자자들의 관심이 집중되고 있다. 정부가 시장의 혼란과 불확실성을 최소화할 방안을 모색 중인 것으로 보인다.",
-      "pub_date": "2026-10-21T21:20:05+00:00"
+      "title": "8월 은행 연체율 0.69% 기록, 9년 10개월 만에 최고치 경신",
+      "link": "https://www.sedaily.com/article/20105547",
+      "summary": "지난 8월 국내 은행의 연체율이 0.69%를 기록하며 9년 10개월 만에 가장 높은 수치를 보였다.이는 고금리 기조와 경기 둔화의 영향으로 가계 및 기업의 상환 부담이 가중되고 있음을 나타낸다.금융당국은 연체율 상승 추세에 대한 면밀한 감시와 선제적 대응을 주문하고 있다.",
+      "pub_date": "2026-10-23T10:00:33+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "메타, 개인정보 침해로 250억 달러 벌금 부과 명령 받아",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmhfMzB0WVZ3b2JrbUhOOVVJbUFPdjBMZzlHc2NlS2dZeHFYc1VLRXJHYThCT1FvaGNPYmk5X0ZyWHNJcExqcWMyckN3LUNQOFVhVVpDMXFoQ3BSeFhFS2JtV2NiQkxRdzdVQUFFMzZYcFJYMWtjWlBlZ1B0cDBpTTFhdDdsLVpKVm90alZZVjZYNWpBLWhLaGhqQ1U4cnpkUFRkLTlDaw?oc=5",
-      "summary": "메타(페이스북 모회사)가 대규모 개인정보 침해 위반으로 250억 달러(약 33조 원)에 달하는 막대한 벌금 납부를 명령받았다. 이는 빅테크 기업의 개인정보 보호 의무 위반 사례 중 역대 최대 규모로 기록될 전망이다. 전 세계적으로 데이터 프라이버시 규제 강화의 중요성을 강조하는 상징적인 사건이 될 것이다.",
-      "pub_date": "2026-10-22T11:29:00+00:00"
+      "title": "미국 중간선거, 치솟는 생활비와 '낮은 채용률, 낮은 해고율' 노동 시장이 유권자들의 주요 관심사",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYklxVnR1SUY5aFI2UWQxOTVuUUN6aWN2ZVh3WnFaWUtqM29EUktOaDY3Ml9WR2ZreEV5SWdXNk5pY3FtWlVJbVk3Y0dkbVM0anIyRHNCMHI4d3cwb2g1WjFieFg4a2pWVXlSczZpYXZjT000YmZrbVNFanl0cHRxc0RBWkxVeVBhV00zd0paT1loSnE4Nzk3TS1HMUc4M0pCV2ZfYnZMUmYtM1VjOE0tR2owajdwSVFMSFRRaXBnOHFyWTViNGJXSEZNWnBDZ01xN2NaV1VR?oc=5",
+      "summary": "다가오는 미국 중간선거에서 치솟는 생활비와 '낮은 채용률, 낮은 해고율'을 보이는 노동 시장이 유권자들의 핵심 관심사로 떠올랐다.이는 유권자들이 체감하는 경제적 어려움이 선거 결과에 큰 영향을 미칠 것임을 시사한다.각 정당은 인플레이션 해소와 일자리 문제 해결을 위한 공약을 내세우며 표심 잡기에 집중하고 있다.",
+      "pub_date": "2026-10-23T01:55:06+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "직장 건강보험, 2027년에는 비용 더 비싸질 예정",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVT1QwaFQ3OVZKUEx4ajI3VndsOXdwTjVmdndhSHFUNlZGdllYNlJlUTZQLTRTX0ctY2NaZTRWNThtRGdjWVNtWXB4b3B4OTE3UXNVTzNtVV93Z1hGSmVTN2RqQXJFSUtKejNXVzRLU214ZHI2MDZLV21HQU5DbnM?oc=5",
-      "summary": "직장을 통해 제공되는 건강보험 비용이 2027년에는 더욱 비싸질 것으로 예상된다. 이는 고용주와 근로자 모두에게 재정적 부담을 가중시킬 수 있는 중요한 경제적 문제다. 의료비 상승 추세가 계속되면서 건강보험 시스템에 대한 정책적 논의가 필요하다는 목소리가 커지고 있다.",
-      "pub_date": "2026-10-22T09:30:15+00:00"
+      "title": "에어비앤비의 새로운 규칙, '청소 의무 폐지'로 호스트와 게스트 간 의견 분분",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhkX2EtNGNlNG9CZ3lQUXJ2bVhoc3IwZXZIVTZBOXV6V0dUWmgwZVV6d1RycjBiRlNHeDc2aWJVbldnalBSNnplMzVCWjJKUlRMSlVKQUFvRS1fU1VlQkJZUDR5dmF6TEhSb01OTndKdFZkcXFjVVRMaV9fN1FDdGZmeTIwNEVIak10MTRsclhlZw?oc=5",
+      "summary": "에어비앤비가 숙박 후 청소 의무 폐지를 골자로 하는 새로운 규칙을 도입하며 호스트와 게스트 사이에서 의견이 갈리고 있다.게스트들은 환영하지만, 호스트들은 추가 비용 부담 및 청소 서비스 관리의 어려움을 지적한다.이번 정책 변화는 단기 숙박 시장의 서비스 기준과 가격 구조에 영향을 미칠 것으로 예상된다.",
+      "pub_date": "2026-10-23T01:22:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "일론 머스크, CNN 소유주 스카이댄스에 10억 달러 투자",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTZzZ3c4QmEwZ214cFVHTkZLdEFwLWFDaGxKWDh5ZUtacTFwXzZwUy1Qa2tSM0ZNV2l3NE9vWDF3TXRwRENJUF9sU1ZkVDJaa0dqVnBReDNrVW5xUWVKTENfVWdkMFlsLTRqVFpvNEpBVTBVQW5SVHNCOUNPQVNoU1hNWVI4aU5pWkhaZFZDWURQWlFWNEtj?oc=5",
-      "summary": "일론 머스크 테슬라 최고경영자(CEO)가 CNN의 모회사인 스카이댄스(Skydance)에 10억 달러(약 1조 3천억 원)를 투자했다. 이는 머스크의 미디어 분야 확장을 시사하며, 대형 언론사의 소유 구조와 콘텐츠 제작 방향에 영향을 미칠 수 있어 주목된다. 기술 거물의 미디어 산업 진출이 미칠 파장에 이목이 쏠린다.",
-      "pub_date": "2026-10-22T19:35:00+00:00"
+      "title": "젊은 남성들이 트럼프의 경제 정책에 대한 신뢰를 잃는 이유",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaURRMDhPRzg2LUlkTUU0a1BFMk5Oc3hmM3JCLWVVTk9SbkxSZk8tLUlRa3dJcnBCMWV1RTNvMGV5VEJ0SlBDNnpIX0lCb2JiRXNYZEpmMHFMbm9YVFFpZFdxUEdEaTJNZXVrdEtEQmhzNjkwZHBac1NlVUpyZWc2WnhsbUhZaHhzcnln?oc=5",
+      "summary": "젊은 남성층이 도널드 트럼프 전 대통령의 경제 정책에 대한 신뢰를 잃고 있는 현상이 나타났다.이는 인플레이션, 소득 불평등, 미래 고용 불안정 등 경제적 요인이 복합적으로 작용한 결과로 분석된다.이러한 변화는 향후 미국 대선 및 젊은 세대의 정치적 지형에 중요한 영향을 미칠 수 있다.",
+      "pub_date": "2026-10-23T09:00:15+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "SK하이닉스 \"솔리다임 프리IPO·IPO 검토 중단\" 발표",
-      "link": "https://zdnet.co.kr/view/?no=20261023073816",
-      "summary": "SK하이닉스가 자회사 솔리다임의 프리IPO(상장 전 지분투자) 및 IPO(기업공개) 검토를 중단한다고 공식 발표했다. 이는 시장 상황과 회사 가치 평가를 고려한 전략적 결정으로 해석된다. 글로벌 반도체 시장의 불확실성이 반영된 결과로, 향후 SK하이닉스의 투자 전략에 변화가 있을 것으로 보인다.",
-      "pub_date": "2026-10-22T22:39:20+00:00"
+      "title": "스타링크, 미국 이동통신 시장 직접 진출 및 기지국 8만 개 구축 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261024053025",
+      "summary": "스페이스X의 위성 인터넷 서비스 스타링크가 미국 이동통신 시장에 직접 진출한다.이를 위해 8만 개에 달하는 기지국 구축을 추진하며 통신 인프라 확장에 나선다.기존 이동통신사와의 경쟁이 심화될 것으로 예상되며, 미국 통신 시장의 지형 변화가 주목된다.",
+      "pub_date": "2026-10-23T22:00:02+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "AI 모델 연결 도구 '라이트LLM' 해킹, 비밀번호 탈취 악성 코드 유포",
-      "link": "https://zdnet.co.kr/view/?no=20261022193126",
-      "summary": "AI 모델 연결 도구인 '라이트LLM'이 해킹당해 사용자들의 비밀번호를 빼내는 악성 코드가 유포되는 사건이 발생했다. 이는 AI 생태계의 보안 취약점을 드러내며, AI 서비스를 이용하는 기업과 개인의 각별한 주의를 요구한다. AI 기술의 확산과 함께 사이버 보안의 중요성이 더욱 부각되고 있다.",
-      "pub_date": "2026-10-22T10:31:26+00:00"
+      "title": "질문에 답하는 것을 넘어 직접 업무를 수행하는 AI, 오픈AI와 AWS가 그리는 미래",
+      "link": "https://zdnet.co.kr/view/?no=20261023150615",
+      "summary": "인공지능(AI)이 단순 질문 응답 기능을 넘어 실제 업무를 직접 수행하는 시대로 진화하고 있다.오픈AI와 AWS는 이러한 AI 기술의 발전 방향을 제시하며 미래 산업의 변화를 예고했다.이는 AI가 단순한 도구를 넘어 생산성 향상과 새로운 가치 창출의 핵심 동력이 될 것임을 보여준다.",
+      "pub_date": "2026-10-23T06:34:29+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "SK텔레콤, SK하이닉스와 AI 협력 전담 'Hy-TF' 가동, 유경상 CIC장 TF장 맡아",
-      "link": "https://www.etnews.com/20261022000325",
-      "summary": "SK텔레콤이 SK하이닉스와의 인공지능(AI) 협력을 전담할 'Hy-TF'를 공식 가동하고 유경상 CIC장을 TF장으로 임명했다. 이는 두 회사가 AI 반도체 및 서비스 분야에서 시너지를 극대화하기 위한 전략적 움직임이다. 국내 대표 통신사와 반도체 기업의 AI 협력이 향후 시장에 어떤 변화를 가져올지 주목된다.",
-      "pub_date": "2026-10-22T07:30:00+00:00"
+      "title": "대한항공과 아시아나항공 고객 정보 유출, 글로벌 IT 협력사 해킹 피해로 밝혀져",
+      "link": "https://www.etnews.com/20261023000363",
+      "summary": "대한항공과 아시아나항공의 고객 정보가 유출되는 사고가 발생했다.이는 두 항공사와 협력하는 글로벌 IT 기업의 시스템이 해킹당한 결과로 확인되었다.수많은 고객의 개인정보가 노출된 심각한 사안으로, 해당 기업들은 긴급 대응에 나섰다.",
+      "pub_date": "2026-10-23T13:15:05+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "\"한국, PHP 취약 호스트 11만 개에 달해\" 경고",
-      "link": "https://www.etnews.com/20261022000351",
-      "summary": "국내에서 웹 프로그래밍 언어 PHP의 취약점을 가진 호스트가 11만 개에 달한다는 경고가 나왔다. 이는 최근 전 세계적으로 문제가 된 PHP 보안 취약점이 국내 웹 환경에도 심각한 위협이 될 수 있음을 의미한다. 정부와 기업들이 긴급한 보안 패치와 점검을 통해 피해를 예방해야 할 것으로 보인다.",
-      "pub_date": "2026-10-22T06:12:04+00:00"
+      "title": "\"1조 원을 투입하더라도 5천 명을 감원하겠다\"는 글로벌 투자은행, \"인공지능 덕분\"",
+      "link": "https://www.etnews.com/20261023000303",
+      "summary": "한 글로벌 투자은행이 1조 원을 투자하더라도 5천 명의 인력을 감원할 계획이라고 밝혔다.이는 인공지능(AI) 기술 도입으로 인한 업무 자동화와 효율성 증대가 배경이다.AI가 고용 시장에 미치는 파급력을 보여주는 사례로, 다른 산업에도 유사한 변화가 예상된다.",
+      "pub_date": "2026-10-23T06:57:41+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "SK하이닉스, 자회사 솔리다임 미국 상장(IPO) 검토 중단 결정",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=676511",
-      "summary": "SK하이닉스가 자회사 솔리다임의 미국 기업공개(IPO) 추진을 중단한다고 발표했다. 이는 현재의 시장 여건과 주가 흐름을 종합적으로 고려한 전략적 판단으로 풀이된다. 글로벌 증시 불확실성 속에서 대규모 자금 조달 계획에 제동이 걸리면서 SK하이닉스의 향후 사업 전략에 관심이 집중되고 있다.",
-      "pub_date": "2026-10-23T08:14:53+00:00"
+      "title": "LG유플러스 홍범식 대표, \"해킹 은폐 사실로 확인되면 책임지겠다\" 발언",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676441",
+      "summary": "LG유플러스 홍범식 대표가 국정감사에서 \"해킹 은폐 사실이 확인되면 합당한 책임을 지겠다\"고 밝혔다.이는 최근 발생한 고객 정보 유출 및 개인정보 유출 의혹과 관련된 발언이다.국민들의 불안감이 커지는 가운데, 기업의 투명한 대응과 책임 있는 자세가 요구되고 있다.",
+      "pub_date": "2026-10-23T21:41:27+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "정부, PHP 해킹 위험에 사이버 위기 경보 '주의' 격상 및 긴급 대응체계 가동",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=676498",
-      "summary": "정부가 웹 프로그래밍 언어 PHP의 심각한 해킹 위험에 대응하여 사이버 위기 경보를 '주의' 단계로 격상하고 긴급 대응체계를 가동했다. 이는 전 세계적으로 확산되고 있는 PHP 보안 취약점으로 인한 대규모 피해를 막기 위한 선제적 조치다. 정부와 공공기관, 기업들의 신속한 보안 강화 노력이 요구된다.",
-      "pub_date": "2026-10-22T17:36:16+00:00"
+      "title": "테슬라, 국토부에 완전자율주행(FSD) 승인 신청서 제출, 검증 일정은 미정",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676623",
+      "summary": "테슬라가 국토교통부에 완전자율주행(FSD) 기능 승인 신청서를 제출하며 국내 시장 진출을 본격화했다.그러나 국토부는 FSD의 안전성 및 기술적 측면에 대한 검증 일정을 아직 확정하지 않았다.자율주행 기술의 상용화를 위한 규제 당국의 신중한 검토가 이루어질 것으로 보인다.",
+      "pub_date": "2026-10-23T19:43:28+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "PHP 해킹 비상 상황, 국내 서버 82% 보안 업데이트 불가 상태",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/22/QLSZF5TA6FDB3BWBYSJHMEBI7U/",
-      "summary": "전 세계적으로 확산된 PHP 해킹 위협 속에서 국내 서버의 82%가 보안 업데이트가 불가능한 상태인 것으로 드러났다. 이는 국내 웹 환경이 대규모 사이버 공격에 매우 취약하다는 심각한 문제점을 보여준다. 정부와 기업들이 시급히 노후 시스템 교체 및 보안 강화 대책을 마련해야 할 시점이다.",
-      "pub_date": "2026-10-22T07:24:50+00:00"
+      "title": "\"20년 숨겨진 보안 결함도 AI가 발견한다\"… PHP 사태로 본 '버그마게돈' 공포",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/24/PZJU3OZLDVEM3JZTRO4R6QNXF4/",
+      "summary": "20년 동안 숨겨져 있던 PHP 보안 결함을 인공지능(AI)이 찾아내면서 '버그마게돈'에 대한 공포가 확산되고 있다.이번 PHP 사태는 AI가 사이버 보안 분야에서 공격과 방어 모두에 강력한 영향을 미침을 보여준다.AI의 발전이 가져올 미래 보안 환경 변화에 대한 깊은 논의가 필요하다.",
+      "pub_date": "2026-10-23T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "개인정보위원회 \"PHP 취약점, 대규모 개인정보 유출로 이어질 가능성\" 경고",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/22/VBB4P2GKNVFWLABOBXZ34RH22A/",
-      "summary": "개인정보보호위원회가 PHP 보안 취약점이 대규모 개인정보 유출 사고로 이어질 수 있다고 경고했다. 이는 웹사이트 운영에 필수적인 PHP에서 발견된 결함이 심각한 파급 효과를 가져올 수 있음을 시사한다. 사용자들은 물론 기업과 기관의 정보보호 시스템 전반에 대한 긴급 점검과 강화가 필수적이다.",
-      "pub_date": "2026-10-22T08:05:15+00:00"
+      "title": "오픈AI, 목표 기업가치 200조원 하향 조정… 인공지능 투자 열기 주춤",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/23/5HSBWV3TZVFTDHKGMACUSPAVDQ/",
+      "summary": "인공지능(AI) 선도 기업 오픈AI가 목표 기업가치를 200조원 하향 조정했다.이는 최근 과열되었던 AI 투자 열기가 다소 주춤하고 있음을 시사하는 지표로 해석된다.투자자들은 AI 기술의 실제 상용화와 수익 창출 가능성에 대해 더욱 신중한 접근을 시작한 것으로 보인다.",
+      "pub_date": "2026-10-23T01:03:35+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "AI가 PHP의 치명적 취약점 발견, 다수 웹사이트에 영향",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
-      "summary": "인공지능(AI)이 웹사이트 구축에 널리 사용되는 프로그래밍 언어 PHP에서 치명적인 보안 취약점을 발견했다. 이는 AI가 사이버 보안 분야에서 새로운 위협을 탐지하는 데 중요한 역할을 할 수 있음을 보여준다. 동시에 수많은 웹사이트들이 해당 취약점으로 인해 즉각적인 보안 패치에 나서야 하는 상황이다.",
-      "pub_date": "2026-10-21T19:04:36+00:00"
+      "title": "PHP 보안 취약점 발견으로 전 세계 웹사이트 긴급 패치 작업 돌입, 일부 서비스 중단",
+      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "summary": "PHP에서 심각한 보안 취약점이 발견되어 전 세계 수많은 웹사이트가 긴급 패치 작업에 돌입했다.이로 인해 일부 정부 및 기업 웹사이트가 일시적으로 접속 불가 상태가 되는 등 큰 혼란이 발생했다.해당 취약점은 광범위하게 사용되는 코딩 언어에 존재해 파급력이 매우 크다.",
+      "pub_date": "2026-10-22T16:01:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "메타, 케임브리지 애널리티카 개인정보 침해로 250억 달러 벌금 명령",
+      "title": "메타, 캠브리지 애널리티카 개인정보 침해로 250억 달러 벌금 명령 받아",
       "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "summary": "메타(구 페이스북)가 케임브리지 애널리티카 스캔들과 관련된 개인정보 침해로 250억 달러(약 33조 원)의 벌금을 지불하라는 명령을 받았다. 이는 빅테크 기업의 데이터 사용 방식에 대한 규제 당국의 강력한 경고 메시지로 해석된다. 사용자 데이터 보호의 중요성과 기업의 책임이 다시 한번 부각되고 있다.",
+      "summary": "메타(Meta)가 캠브리지 애널리티카 스캔들과 관련하여 250억 달러(약 33조 원)에 달하는 막대한 벌금 납부를 명령받았다.이는 사용자 개인정보 침해에 대한 기업의 책임을 강조하는 상징적인 판결이다.빅테크 기업들의 데이터 처리 방식과 윤리적 문제에 대한 논의가 더욱 활발해질 것으로 예상된다.",
       "pub_date": "2026-10-21T22:57:53+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "PHP란 무엇이며, 왜 전 세계적인 사이버 보안 대란을 촉발했는가?",
+      "title": "PHP란 무엇이며, 왜 전 세계적인 사이버 보안 비상사태를 촉발했는가?",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "summary": "웹사이트 구축에 필수적인 프로그래밍 언어 PHP에서 심각한 보안 취약점이 발견되면서 전 세계적으로 사이버 보안 비상이 걸렸다. 이 취약점은 수많은 웹사이트를 해킹 공격에 노출시킬 수 있어 긴급 패치와 보안 강화가 요구된다. 이번 사태는 디지털 인프라의 근간을 이루는 소프트웨어의 보안 중요성을 다시 한번 상기시킨다.",
-      "pub_date": "2026-10-22T11:15:58+00:00"
+      "summary": "PHP는 전 세계 웹사이트 운영에 광범위하게 사용되는 오픈소스 프로그래밍 언어이다.최근 이 언어에서 심각한 보안 취약점이 발견되며 전 세계적인 사이버 보안 비상이 발생했다.이 취약점은 웹 서비스 중단과 데이터 유출 위험을 초래하며 기업과 정부 기관의 긴급 대응을 요구하고 있다.",
+      "pub_date": "2026-10-23T12:24:17+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "일론 머스크, 테슬라와 스페이스X 합병 검토 중임을 확인",
+      "title": "일론 머스크, 테슬라와 스페이스X의 합병 검토 중임을 확인",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "일론 머스크 테슬라 및 스페이스X 최고경영자(CEO)가 두 회사의 합병 가능성을 검토하고 있음을 공식 확인했다. 이는 머스크가 이끄는 두 거대 기업의 미래 전략에 중요한 전환점이 될 수 있는 소식이다. 합병 추진 여부에 따라 전기차와 우주 산업에 거대한 변화의 물결이 일 것으로 전망된다.",
+      "summary": "일론 머스크 테슬라 최고경영자(CEO)가 테슬라와 스페이스X의 합병 가능성을 검토 중임을 공식적으로 확인했다.이는 두 회사의 시너지를 극대화하고 미래 성장 동력을 확보하기 위한 전략적 구상으로 해석된다.합병이 현실화될 경우 글로벌 산업 전반에 엄청난 파급 효과를 가져올 것으로 전망된다.",
       "pub_date": "2026-10-21T08:42:49+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "디지털 전환부, PHP 보안 취약점 CVE-2026-109618 및 CVE-2026-109619에 대한 즉각적인 업데이트 촉구",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjlsTTFXWkpQb3U4MmdkaVFrdUUtdWNLTkFYcW9xMWJqQlAzSF9fWjZ5bHNxTzd0NHRqTjduVFZnVFlYa3ZGaVJSRDUwdkJUcWJBdDRzQnFCOXZsdEd0c1AwQjRIajdoaU1VSi1TQXk5b3RXTXFlOVhkX2R5QVk2b01RaEp0M0JKTEZMeGdxdzZCb1B6LTg1bVNKT0dGX0dpcjYtYnBTcjJHUTJ4eHBYX0VkTXpEelQ5Nklnd1NKSVlScGgweENDWmpOWVFtaW85QXlEVWVFZUlweDFndFFqbVJaSFdubElGeGc?oc=5",
-      "summary": "디지털 전환부가 최근 발견된 PHP의 치명적인 보안 취약점(CVE-2026-109618, CVE-2026-109619)에 대해 즉각적인 업데이트를 촉구했다. 이는 정부 차원에서 해당 취약점의 심각성을 인지하고 대규모 사이버 보안 위협에 대응하기 위한 조치다. 각 기관과 기업은 물론 개인 사용자들의 신속한 대응이 요구된다.",
-      "pub_date": "2026-10-22T17:34:40+00:00"
+      "title": "트럼프 주장에 불구하고 우크라이나 스타실드 제한 여전히 유지 중이라고 우크라이나 당국 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFdkclNLWF9oazBQSzZ5RDF4S3RnYWVWN00zaENCTzdpdHJsRVVmVW9GZjN0LXBSUlR0TmpmLWlueHRSVGFhMl9NNXphZnkwN2FxbUd4WVA2eVNMc1RMLU1QdTdnQjhGcHhCenhwNG5MSkZ1Wm41RlFDZVc5SG8zUktIMHlWaEdwS1V2YzhHU1VmOTZWeEE?oc=5",
+      "summary": "도널드 트럼프 전 미국 대통령의 주장에도 불구하고 우크라이나 당국은 스타실드 서비스 제한이 여전히 유지되고 있다고 밝혔다.스타실드는 스페이스X의 위성 인터넷으로, 우크라이나 전쟁에서 중요한 통신 수단이다.이러한 상반된 주장은 우크라이나의 통신 안보와 국제적인 기술 지원 문제에 대한 혼란을 가중시킨다.",
+      "pub_date": "2026-10-23T17:06:43+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "배터리 충전 시간을 초 단위로 단축하는 스타트업 등장",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPal9NZkZvZnk1XzVaZmd4bzRwV2pXU0Z4cUJjbzJnbGJ3dWVOWnczMk91NXBTMDBOQWdCX25UTTYyeUc4RjEzdXdFejBqQVlJdkd6Qy1ycDlvZDBHbC11V3h1bGVuVlRrem1sY3RqdjVnTDlReVZNb2VzZTJwYm1WVzV0bGtaRnZndmVaUkVrNThxVzA2S3VqZ0ZaVmRqM01YUU84aFJKQmlJenNPalJGMXZlWFdibmRQbmZPVg?oc=5",
-      "summary": "혁신적인 배터리 기술을 개발하여 전기차 및 전자기기의 충전 시간을 초 단위로 줄이는 스타트업이 이목을 끌고 있다. 이 기술은 에너지 저장 방식에 혁명을 가져올 잠재력을 지니고 있으며, 다양한 산업 분야에 광범위한 영향을 미칠 것으로 기대된다. 미래 기술 발전의 중요한 이정표가 될 수 있다.",
-      "pub_date": "2026-10-22T08:48:00+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "CNN, 미국 전국 여론조사 결과 발표",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnBxaEhUeTJhemRfVzdFWXRxajhUa0s1Q3k1eWpJOG1NSTVfUEx6RVczRENjTXMyUmJnWDBhZkg2cVl3T0RLLWx2TVlFX1VlMUtCOVpveUFFeWtmLWQ4ZGstbWItZzBHNDNzSmVEanlxLTNYWkVTV0FMODN3WERnQTdWaDUtLUE5UGtBMHlqVQ?oc=5",
-      "summary": "CNN이 발표한 전국 여론조사 결과가 주요 정치적 이슈와 선거 전망에 대한 유권자들의 전반적인 인식을 보여준다. 이는 현재 미국 내 정치적 분위기와 다음 선거의 향방을 가늠하는 중요한 지표로 활용될 것이다. 여론의 흐름을 분석하고 미래 정치 지형을 예측하는 데 핵심적인 역할을 한다.",
-      "pub_date": "2026-10-22T13:51:42+00:00"
+      "title": "아이폰 듀오 현장 검증: 유용한가, 아니면 단순한 과시용인가?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHVuQ2NWWnlxR3oyaVkxTjBtNzFvdC1NTVVhZ0hZTEN3SjJYVDVaOVVYZWZna3h3dWl3Qm53eE91QUlHLXdFVllHQzRoQTNTd2NNR3pjRnVNSkViVjNBUVl2TEJGekt2cG1KWWtIQllEdGNBcVZPTEp1Q1plaDZtSWIyRXRjSXM?oc=5",
+      "summary": "애플의 새로운 폴더블 스마트폰인 '아이폰 듀오'에 대한 현장 검증 결과가 나왔다.이 기기가 사용자들에게 실제로 얼마나 유용한지, 아니면 단지 신기술 과시용인지에 대한 평가가 엇갈리고 있다.접이식 스마트폰 시장의 경쟁이 심화되는 가운데, 아이폰 듀오의 실용성에 관심이 모인다.",
+      "pub_date": "2026-10-23T21:44:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "후티 반군, 사우디 공항 공격으로 2명 사망…미국, 일부 외교관 철수 지시",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "summary": "예멘 후티 반군이 사우디아라비아 공항을 공격해 2명이 사망했으며, 이에 미국은 일부 외교관들에게 사우디를 떠나도록 지시했다. 이는 중동 지역의 긴장감이 고조되고 있음을 보여주는 심각한 사건이다. 미국의 외교관 철수 지시는 상황의 심각성을 반영하며 역내 정세 불안이 확대될 우려가 있다.",
-      "pub_date": "2026-10-22T18:07:36+00:00"
+      "title": "서안지구에서 팔레스타인 무장괴한, 이스라엘인에 총격 가해",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "summary": "서안지구에서 팔레스타인 무장괴한이 이스라엘인들에게 총격을 가하는 사건이 발생했다.이 사건으로 인해 이스라엘과 팔레스타인 간의 긴장이 다시 고조되고 있다.지역 안정을 해치는 폭력 사태에 대한 국제사회의 우려가 커지고 있다.",
+      "pub_date": "2026-10-23T17:11:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "푸틴, 아무것도 양보 없이 미국과의 관계 회복이라는 '전리품'에 근접",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "summary": "블라디미르 푸틴 러시아 대통령이 어떠한 양보도 없이 미국과의 관계를 회복하는 데 근접했다고 뉴욕타임스가 보도했다. 이는 러시아가 서방 제재에도 불구하고 국제적 고립에서 벗어나 영향력을 확대하려는 전략적 움직임으로 해석된다. 미러 관계의 향방과 국제 정세에 중대한 변화를 가져올 수 있는 소식이다.",
-      "pub_date": "2026-10-22T15:22:53+00:00"
+      "title": "프랑스, 새로운 시위 예상에 경찰 병력 증원 계획",
+      "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+      "summary": "프랑스 정부가 새로운 시위 발생을 예상하고 경찰 병력을 증원할 계획을 밝혔다.최근 사회적 불만이 고조되며 전국적으로 시위가 확산될 조짐을 보이자 당국이 선제적으로 대응하는 모습이다.이는 프랑스 사회의 긴장 상태를 반영하며, 공공 질서 유지에 대한 정부의 강한 의지를 보여준다.",
+      "pub_date": "2026-10-23T18:31:39+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "프랑스 당국, 폭동 사태 이후 일부 시위 금지 조치",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-      "summary": "프랑스 당국이 최근 발생한 폭동 사태 이후 공공 질서 유지를 위해 일부 시위를 금지하는 조치를 단행했다. 이는 시민들의 표현의 자유와 공공 안전이라는 가치 사이의 충돌을 보여준다. 사회적 긴장감이 여전히 높은 상황에서 정부의 강경 대응이 추가적인 반발을 불러올지 주목된다.",
-      "pub_date": "2026-10-22T19:02:04+00:00"
+      "title": "요르단 교회에서 총격 사건 발생, 최소 7명 사망",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+      "summary": "요르단 교회에서 무장괴한의 총격 사건이 발생하여 최소 7명이 사망했다.이 사건은 종교 시설을 대상으로 한 폭력 행위로, 지역 사회에 큰 충격을 주었다.요르단 당국은 사건의 배후와 동기를 파악하기 위해 수사를 진행 중이다.",
+      "pub_date": "2026-10-23T23:07:34+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "수단 내전, 아비에이에서 드론 공격으로 150명 이상 사망",
-      "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
-      "summary": "수단 내전이 격화되는 가운데 분쟁 지역 아비에이에서 드론 공격으로 150명 이상의 민간인이 사망하는 비극이 발생했다. 이는 수단 내전의 잔혹성을 다시 한번 드러내며 국제사회의 즉각적인 개입과 인도적 지원의 필요성을 강조한다. 심각한 인명 피해로 인해 국제적인 비난이 고조되고 있다.",
-      "pub_date": "2026-10-22T03:26:58+00:00"
+      "title": "티베트 강진 발생, 최소 16명 사망 확인",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "summary": "티베트 지역에서 강력한 지진이 발생하여 최소 16명이 사망하는 등 큰 피해가 발생했다.지진으로 인한 건물 붕괴와 산사태로 인명 피해 및 재산 피해가 커지고 있다.구조 당국은 생존자 수색 및 복구 작업에 총력을 기울이고 있다.",
+      "pub_date": "2026-10-23T07:40:46+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "스타실드 서비스 중단되자 우크라이나 드론들 하늘에서 추락",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "summary": "일론 머스크의 위성 통신 서비스 '스타실드(Starshield)'가 중단되자 우크라이나 드론들이 하늘에서 추락하는 사태가 발생했다. 이는 현대 전쟁에서 위성 통신 기술의 결정적인 중요성을 보여주는 사례다. 우크라이나의 전쟁 수행 능력에 직접적인 영향을 미칠 수 있어 파장이 예상된다.",
-      "pub_date": "2026-10-21T17:11:32+00:00"
+      "title": "러시아와의 동맹으로 북한이 더욱 대담해지면서 한반도 군비 경쟁 심화",
+      "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "summary": "북한이 러시아와의 동맹을 통해 더욱 대담한 태도를 보이면서 한반도 군비 경쟁이 심화되고 있다.북한의 핵·미사일 개발과 군사력 증강이 지속되면서 지역 안보에 대한 우려가 커지고 있다.국제사회는 한반도 긴장 완화를 위한 외교적 노력을 촉구하고 있다.",
+      "pub_date": "2026-10-23T05:13:32+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "BBC 조사 결과, 수단 신속지원군이 병원 고의적으로 표적 공격",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC 조사 결과, 수단 신속지원군(RSF)이 내전 중 병원을 고의적으로 공격한 것으로 드러났다. 이는 전쟁 범죄에 해당하는 심각한 인권 유린 행위로, 국제사회의 강력한 비난을 받고 있다. 민간인 보호와 인도주의 법 준수의 중요성을 다시 한번 강조하는 충격적인 보도다.",
-      "pub_date": "2026-10-22T23:16:16+00:00"
+      "title": "파리 근교 치명적인 총격 사건, 마크롱 대통령 \"인종차별 테러 공격\" 규정",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "파리 근교에서 발생한 치명적인 총격 사건에 대해 에마뉘엘 마크롱 프랑스 대통령이 \"인종차별적 테러 공격\"이라고 규정했다.이 사건은 프랑스 사회에 큰 충격을 주었으며, 인종차별과 테러 문제에 대한 경각심을 높이고 있다.프랑스 당국은 범인 검거와 추가 테러 방지를 위해 총력을 기울이고 있다.",
+      "pub_date": "2026-10-23T19:42:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "트럼프, 머스크가 우크라이나 스타링크 네트워크 접속 복구했다고 밝혀",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "도널드 트럼프 전 미국 대통령이 일론 머스크가 우크라이나에 대한 스타링크 네트워크 접속을 복구했다고 밝혔다. 이는 우크라이나 전쟁의 중요한 통신 인프라를 둘러싼 논란이 일단락되었음을 시사한다. 민간 기술 기업의 역할이 현대 전쟁에 미치는 영향력을 다시 한번 보여주는 사례다.",
-      "pub_date": "2026-10-22T21:42:39+00:00"
+      "title": "요르단 교회 장례식에서 무장괴한 총격으로 7명 사망 발표",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "summary": "요르단에서 교회 장례식 중 발생한 무장괴한의 총격으로 최소 7명이 목숨을 잃었다고 당국이 발표했다.이 비극적인 사건은 요르단 사회와 중동 지역에 깊은 슬픔과 충격을 안겨주었다.경찰은 범인 추적에 나섰으며, 사건의 정확한 경위를 조사 중이다.",
+      "pub_date": "2026-10-23T19:46:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "강력한 지진 티베트 강타, 16명 사망 보고",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "summary": "티베트 지역에 강력한 지진이 발생하여 최소 16명이 사망했다는 보고가 나왔다. 지진으로 인한 추가 피해와 여진에 대한 우려가 커지고 있으며, 현지 구조 및 복구 작업에 비상이 걸렸다. 자연재해로 인한 인명 피해에 국제사회의 관심과 도움이 필요하다.",
-      "pub_date": "2026-10-22T23:22:45+00:00"
+      "title": "이스라엘 군, 이스라엘 군인 2명 사망 후 헤브론에서 팔레스타인 건물 철거 시작",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "summary": "이스라엘 군이 팔레스타인 무장세력에 의해 이스라엘 군인 2명이 총격 사망한 후 헤브론에서 팔레스타인 건물을 철거하기 시작했다.이는 이스라엘의 보복 조치로 해석되며, 팔레스타인 주민들의 반발을 더욱 심화시키고 있다.중동 지역의 긴장이 고조되고 있으며, 국제사회는 추가적인 폭력 사태를 우려하고 있다.",
+      "pub_date": "2026-10-23T15:37:07+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "메르츠 의원, 러시아 스파이 용의자 체포 후 독일이 '집중적' 간첩 활동 표적이라고 밝혀",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아 스파이 용의자 체포 후 독일 야당 지도자인 프리드리히 메르츠 의원이 독일이 '집중적인' 간첩 활동의 표적이라고 경고했다. 이는 러시아와 서방 간의 긴장이 고조되는 가운데, 사이버 및 인적 스파이 활동이 심화되고 있음을 시사한다. 국가 안보에 대한 우려가 커지고 있다.",
-      "pub_date": "2026-10-22T17:07:03+00:00"
+      "title": "백악관, 멜라니아 트럼프가 '재앙 직전' 우크라이나 도시 휴전 중재했다고 밝혀",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "백악관이 멜라니아 트럼프 여사가 \"재앙 직전에 있던\" 우크라이나의 한 도시에서 휴전을 중재했다고 발표했다.이 주장은 우크라이나 전쟁의 복잡한 외교적 배경에 새로운 논쟁을 추가하고 있다.그러나 이 주장의 진위 여부와 구체적인 내용에 대한 추가적인 확인이 요구되고 있다.",
+      "pub_date": "2026-10-23T19:30:19+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "러시아, 미국 평화 회담 재개 요청 수락 후 키이우에 미사일 공격",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아가 미국으로부터 우크라이나 평화 회담 재개 요청을 수락한 직후 수도 키이우에 미사일 공격을 감행했다. 이는 평화 협상에 대한 러시아의 이중적인 태도를 보여주며, 국제사회의 비난을 사고 있다. 전쟁의 양상과 외교적 해법 마련에 난항이 예상된다.",
-      "pub_date": "2026-10-21T21:27:41+00:00"
+      "title": "BBC에 보도된 의사들의 증언: 수단 병원들이 준군사조직 전투원들의 공격 대상이 되고 있다",
+      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "summary": "수단 내전에서 병원들이 준군사조직 전투원들의 표적이 되고 있다는 의사들의 증언이 BBC를 통해 보도되었다.이는 국제 인도주의법을 위반하는 심각한 전쟁범죄로, 의료 인프라와 민간인 보호에 대한 우려를 증폭시킨다.환자들과 의료진의 안전이 심각하게 위협받는 인도주의적 위기 상황이다.",
+      "pub_date": "2026-10-23T11:30:32+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "에어비앤비, 투숙객 청소 의무 제한하는 새 규정 발표",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODhZNTBHZERvd0Q4dUxubFU5eFRadHdJdmZZdnc4dDhMN1Yyb3Z2dFcxNFBheHNsSW9aVFY1VG8xMm11eV92MzJZMmZ4LVBLb3JzX2h5dFIweWVsVVVMNG1WR3lCa0lMMlIyUDEwWG1TS29MVFlwclpwNW1kRmRpR0xTV3hsMGk1aEtKOXFOTXNTb1VqRE5kOXZ6LW1XTzFZQWZveWlLUjVGQQ?oc=5",
-      "summary": "에어비앤비가 투숙객에게 침대 시트 벗기기나 설거지 등 과도한 청소 의무를 부과하는 것을 제한하는 새로운 규정을 도입했다. 이는 투숙객들의 불만을 줄이고 숙박 경험을 개선하기 위한 조치다. 단기 숙박 플랫폼 운영 방식에 중요한 변화를 가져올 것으로 보인다.",
-      "pub_date": "2026-10-22T22:20:45+00:00"
+      "title": "이스라엘 총리, 군인 사망 총격 사건 후 서안지구 폐쇄 명령",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOanhRYXdWLU5zTTVTS2RobUc5Z28tTDhJZS11aUxXNkFpM0hXSWdDYUlPRlk3R2NBdm5oSXVpdzNmLW4tcUVQM0t0aVE4WW5GQnJUVGdyaWxqVmd0N1J6ekQzM2M1Z09ZbGRtU1pQWWdtbXJFcVE2RkNRTDJmTlFmZkdMazBzb1ZrMEswZjVPWDJ6VTFBUmNfVlVzVGdlZw?oc=5",
+      "summary": "이스라엘 네타냐후 총리가 팔레스타인 무장세력의 총격으로 군인이 사망하자 서안지구 폐쇄를 명령했다.이는 해당 지역의 보안을 강화하고 추가 공격을 막기 위한 조치이다.하지만 이로 인해 서안지구 팔레스타인 주민들의 이동이 제한되며 긴장이 더욱 고조될 것으로 예상된다.",
+      "pub_date": "2026-10-23T13:18:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "젤렌스키 대통령 \"푸틴에게 양보하면 모든 것을 원할 것\" 경고",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDBfdy1uVF95eGQ5TjFFTzM4SDZXVGtYUzZGeERkYlNFUWFLZHY4ekQ1SElrRGlnUk9BaE5UVXdlT3VOVUprcmw3M2tzaGpDZzc0MHByWGZMSkNOOEE2VHE2NHZwWHNlZHppUXhHdmhXcXZfTTNfMTQxaDh5OEhpUThiSk5TSzZtd1E?oc=5",
-      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 \"블라디미르 푸틴 러시아 대통령에게 무엇이든 양보하면 그는 모든 것을 원하게 될 것\"이라고 강력히 경고했다. 이는 러시아와의 협상에서 원칙을 훼손하지 않겠다는 의지를 표명한 것이다. 우크라이나 전쟁의 외교적 해결 노력에 중요한 메시지를 던지고 있다.",
-      "pub_date": "2026-10-22T17:47:24+00:00"
+      "title": "티베트에 규모 7의 치명적인 지진 발생",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGhkLWhHcWU1RkttYjdwUzNybDZoR2gtTkJTOGhFeWx2UDhfU0gxRWlDeGZPOUQzMWdJRkFxVnZYR1YtSG1Od010UjhaalVEenN4TkNzWTk2QU9xYkpJbDFzbFhPZmotNXRoWnUwYjdwTEFaVkotNkJDLXBvak8waHpFQ1lHWnNpU2VEckx1ZnNRYWNlVjZYSnZrYTNya0RtakE?oc=5",
+      "summary": "티베트 지역에 규모 7의 강력한 지진이 발생하여 광범위한 피해와 인명 손실이 우려된다.현지 당국은 긴급 구호팀을 파견하고 피해 규모를 파악하는 데 주력하고 있다.고산 지대 특성상 구조 작업에 어려움이 예상되어 추가적인 지원이 필요할 것으로 보인다.",
+      "pub_date": "2026-10-23T10:42:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "중국 티베트 지역에 강도 7 규모 지진 발생, 16명 사망 및 수십 명 부상",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LSEZSa1A2d1h4VFhDZ2E0bVNjajFhQllyQzhKWWcxdC1sUmNBVl9uaVZYZmt3aDBBV216WDRMT25XRTVnNDVBVlpldFpWazFTeWR6NEVEQ0NZWTF3TjV1RmQyRDNrNGFsUnE2ejl2Si11aXJQRTJfOTV3?oc=5",
-      "summary": "중국 티베트 지역에 강도 7.0 규모의 강력한 지진이 발생하여 최소 16명이 사망하고 수십 명이 부상했다는 국영 언론 보도가 나왔다. 이 지진은 광범위한 지역에 피해를 입혔으며, 구조 및 복구 작업이 긴급하게 진행 중이다. 자연재해로 인한 추가 피해 확산에 대한 우려가 커지고 있다.",
-      "pub_date": "2026-10-22T15:53:37+00:00"
+      "title": "멜라니아 트럼프, 러시아와 우크라이나 간 한 도시 휴전 확보 주장",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWpQTWswaXFqeFRIX0RnZEl2OU1VcjktSl83VjZLUnNMdGF6dmhwY2tKTndhUGdLZF81aW11Q1V5WEhid2QxWFBHZU9Sd1R2S0M0V2dXRGZGVW1JanZNSXRnYmVoUGZIdkZyWnpLX1dpaTFuWDI5XzIzYV9qQlYyRng2ZVlCbU1OUXJLWEtQRnIteld6RGJmbDJma0Y1X2MxU1Z0QS01VlppWE1sLUtaMEZLQ1VSZHJSX0NMNnBB?oc=5",
+      "summary": "멜라니아 트럼프 여사가 러시아와 우크라이나 간 한 도시에서 휴전을 성사시켰다고 주장하며 주목을 받고 있다.이는 우크라이나 전쟁의 복잡한 외교적 측면에 대한 새로운 관점을 제시한다.다만, 이 주장의 사실 여부와 구체적인 중재 과정에 대한 확인이 여전히 필요하다.",
+      "pub_date": "2026-10-23T21:31:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "변이 바이러스, 미국에 조기 독감 시즌 유발, 특히 서해안 지역 심각",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSE9VbTI5U0NaZXkwMllWUnhwNFRHQW9rSWhjUms4WWJUWG4tdVBGa3BtcUxCUEUwZ0pIbk9TZDY1MHhiekw2bFJKSGs3WjEwVDZZU1FXaEhIS2V1OVphVDFVWU41dw?oc=5",
-      "summary": "변이된 바이러스로 인해 미국이 예년보다 이른 독감 시즌을 맞이하고 있으며, 특히 서해안 지역에서 독감 환자가 급증하고 있다. 이는 공중 보건 시스템에 부담을 주고 있으며, 백신 접종과 개인 위생 관리가 더욱 중요해지고 있다. 보건 당국은 확산 방지를 위한 경고와 권고를 내리고 있다.",
-      "pub_date": "2026-10-22T10:00:16+00:00"
+      "title": "수십 년간 브라질 좌파를 이끌어온 룰라의 운동, 또 다른 보우소나루 시대에도 살아남을 수 있을까?",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkhHYVBIQzRCUmw1Sk5Gb0phSl95cXpyMV9qdEVUYlpYWUdNQ2VWQnItR09UZ3huNTN0QmZGMndXWU5BbVN5S0dWZVhmUTktQlE0czhTQmxNMkpaa0ZidnhtSFgzbGM5TUstNFUza1BZaWZLMklGTmY4RWJJWjhlZ3NOc2hyaEgxaG1vMGRwOU5KdmhJNUVLNGp4dWF0MVhnRkxGN2xoOFEySTl3ZFE?oc=5",
+      "summary": "수십 년간 브라질 좌파의 상징이었던 룰라 전 대통령의 정치 운동이 새로운 시험대에 올랐다.극우 성향의 보우소나루 전 대통령의 등장 이후 브라질 정치 지형이 크게 변화했기 때문이다.룰라의 영향력이 앞으로도 브라질 정치에서 지속될 수 있을지에 대한 분석이 활발하다.",
+      "pub_date": "2026-10-23T16:38:42+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "기자, 서안지구 정착민 공격 당시의 감정적 세부 사항 CNN에 증언",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFZvQjdiOWpza1JMX1JYTjdIV3dUaW1XVGNLeUwtcmRIZDFzTzU1X0lGT3FsN0Njb3ktSjNpRzRFOHZvTDZkQ0ZUUXNPZUk1WWJKdjdiWW53cC1FZGVpWk9BMWJOTmVOSzAxWmFVTmVSbVVtZUdyN3RRWDZvREgxWEJwcVdNcHp6S2ItZW5ienNEeU55aEJpUjRNd2dfSWUzQUpWWHRoWmRMOUtfa1Jpc1FyamVscXFiSE1sUGhKSzI0UHk5eF9EVzA3bEY?oc=5",
-      "summary": "한 기자가 서안지구에서 유대인 정착민들에게 공격당했던 충격적인 경험과 당시의 감정적 세부 사항을 CNN에 증언했다. 이는 이스라엘-팔레스타인 분쟁 지역에서의 폭력과 언론인에 대한 위협의 심각성을 보여준다. 국제사회에 분쟁 지역의 인권 문제에 대한 깊은 우려를 제기하고 있다.",
-      "pub_date": "2026-10-22T21:41:34+00:00"
+      "title": "메건 마클, 아버지에 대한 아동 성 학대 이미지 의혹에 \"깊은 고통\" 표현",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXNCMGttblI0VDUwZks5NERpMWduQ0w4Sjg4X0h5aHdDVl84SkM4cEw1WTdyR2M4LU5nMkpmQkpDa3g2TlctN2tfcXZna2tFTkdMd3RuUHNaaXM1RkQ3b0J4MG9yaVNaM2VMdDltYjlmbFFBR3htbXpCQk5LcmdEa2JtMVBVWjFnajhmLXRILVI0Snc4WExfNm4tb05rb2lMQXYwUTFwLWs2VVE?oc=5",
+      "summary": "메건 마클이 자신의 아버지에 대한 아동 성 학대 이미지 소지 의혹 보도에 대해 \"깊은 고통\"을 표명했다.이 사건은 왕실 가족과 관련된 민감한 사안으로, 큰 사회적 파장을 일으키고 있다.메건 마클은 이로 인해 상당한 심리적 고통을 겪고 있는 것으로 알려졌다.",
+      "pub_date": "2026-10-23T15:12:01+00:00"
     }
   ]
 }
