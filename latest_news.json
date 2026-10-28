@@ -1,381 +1,405 @@
 {
-  "last_updated": "2026-10-27T00:19:46.650015+00:00",
+  "last_updated": "2026-10-28T00:22:11.753948+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "오세훈 무죄 판결에 다시 불붙은 '조희대 탄핵' 논란",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815943&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "최근 오세훈 시장의 2심 무죄 판결을 계기로 '조희대 대법원장 탄핵' 주장이 정치권에서 다시 거세게 불거지고 있습니다. 야당은 사법부의 정치적 편향성을 지적하며 대법원장의 책임을 묻는 움직임을 보이고 있습니다. 이는 여야 간 강대강 대치로 이어져 정국 혼란을 가중시킬 수 있습니다.",
-      "pub_date": "2026-10-26T21:20:00+00:00"
+      "title": "민주당, '조희대 대법원장' 국정조사 실시 결론",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817456&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "민주당이 조희대 대법원장 후보자에 대한 국정조사를 실시하기로 최종 결정했습니다. 이는 사상 초유의 대법원장 국정조사 추진으로 정치권에 큰 파장을 예고합니다. 조 후보자의 자격 및 임명 과정에서의 논란이 주요 쟁점이 될 것으로 보입니다.",
+      "pub_date": "2026-10-27T08:06:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "북한군, 포구 남쪽으로 보란 듯 포신 돌려 김포 코앞에서 자주포 포착",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814071&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "북한군이 김포와 가까운 접경지역에서 자주포의 포신을 남쪽으로 돌려놓은 모습이 포착돼 군 당국이 경계 태세를 강화하고 있습니다. 이는 북한의 의도적인 위협 행위로 해석되며, 접경지역의 긴장이 고조될 것으로 보입니다. 남북 간 군사적 긴장 완화 노력이 절실한 상황입니다.",
-      "pub_date": "2026-10-26T06:40:00+00:00"
+      "title": "이 대통령, '자신만 개혁 주체인 양 선동하는 무책임한 극단주의' 비판",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818278&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "이 대통령이 국무회의에서 '자신만이 개혁의 주체인 양 선동하는 것은 무책임한 극단주의'라고 비판했습니다. 이는 특정 정치 세력을 겨냥한 강도 높은 발언으로 해석됩니다. 대통령의 이러한 메시지는 향후 국정 운영 방향과 정치적 갈등에 영향을 미 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-10-28T00:04:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 선거 공격 새로운 선제적 국면으로 진입",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-      "summary": "도널드 트럼프 전 대통령이 다가오는 선거에서 새로운 형태의 선제적 공격 전술을 구사하고 있습니다. 그는 잠재적 선거 결과를 미리 비난하며 자신의 지지층을 결집하려는 움직임을 보이고 있습니다. 이는 미국 정치 지형에 큰 영향을 미칠 수 있는 중요한 변화로 분석됩니다.",
-      "pub_date": "2026-10-26T18:40:02+00:00"
+      "title": "백악관, 트럼프 표적 수사에 FBI에 대한 엄격한 통제력 행사했다고 요원 주장",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
+      "summary": "한 요원이 백악관이 트럼프 관련 수사에서 FBI에 대해 엄격한 통제를 행사했다고 주장했습니다. 이 주장은 백악관의 사법 개입 의혹을 제기하며 논란을 불러일으킬 수 있습니다. 수사기관의 독립성 침해 여부에 대한 조사가 필요할 것으로 보입니다.",
+      "pub_date": "2026-10-27T23:48:11+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "라틴계 유권자, 이제 미국의 가장 중요한 스윙 보터로 부상",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
-      "summary": "라틴계 유권자들이 현재 미국 정치에서 가장 중요한 '스윙 보터'로 떠오르고 있습니다. 이들의 표심이 선거 결과에 결정적인 영향을 미칠 수 있다는 분석이 나옵니다. 양대 정당은 라틴계 유권자들의 지지를 얻기 위해 치열한 경쟁을 벌이고 있습니다.",
-      "pub_date": "2026-10-25T09:01:38+00:00"
+      "title": "트럼프, 러시아 주요 투자 펀드에 대한 제재 해제 검토 중",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "summary": "트럼프 전 대통령이 러시아 주요 투자 펀드에 대한 제재 해제를 검토하고 있습니다. 이는 러시아-우크라이나 전쟁 상황에서 미국 대러 정책에 큰 변화를 가져올 수 있는 사안입니다. 국제사회와 국내 정치권의 비판을 불러일으킬 가능성이 있습니다.",
+      "pub_date": "2026-10-27T17:30:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "법무부, 제임스 코미 전 국장에게 정보 유출 혐의로 추가 기소",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-      "summary": "미국 법무부가 제임스 코미 전 연방수사국(FBI) 국장을 정보 유출 혐의로 추가 기소했습니다. 이는 전직 고위 관료에 대한 중대 사법 절차로, 정치적 파장이 예상됩니다. 이번 기소는 정보 유출에 대한 정부의 강력한 의지를 보여주는 사례로 평가됩니다.",
-      "pub_date": "2026-10-26T23:02:17+00:00"
+      "title": "대법원, 텍사스주의 법무부 이민자 추방 절차 합의 허용",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
+      "summary": "미국 대법원이 텍사스주와 법무부 간의 이민자 추방 절차 합의를 허용했습니다. 이는 주정부의 이민 정책 권한을 확대하는 중요한 판결로 평가됩니다. 향후 미국의 이민 정책 및 주-연방 정부 간 관계에 상당한 영향을 미 미칠 것입니다.",
+      "pub_date": "2026-10-27T23:07:04+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "오세훈 시장 2심 무죄 판결에 여당, \"조희대 탄핵이 답\" 주장",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261026224547hZ8",
-      "summary": "오세훈 시장의 2심 무죄 판결을 두고 여당 내에서 '조희대 대법원장 탄핵' 주장이 제기되며 파장이 일고 있습니다. 여당은 이번 판결이 사법부의 정치적 중립성을 훼손했다고 비판하며 대법원장 탄핵을 통해 책임을 묻겠다는 강경한 입장을 보이고 있습니다. 이는 정국에 새로운 갈등의 불씨를 지피고 있습니다.",
-      "pub_date": "2026-10-26T13:45:49+00:00"
+      "title": "대법원, 김건희 구속영장 발부…'증거 인멸·도망 염려'",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261027230629OuX",
+      "summary": "대법원이 김건희 여사에 대한 구속영장을 발부했습니다. 대법원은 증거 인멸 및 도망의 염려가 있다고 판단한 것으로 전해졌습니다. 현직 대통령 영부인에 대한 구속영장 발부는 매우 이례적인 사태로, 사회적 파장이 클 것으로 예상됩니다.",
+      "pub_date": "2026-10-27T14:06:33+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "접경지에서 북한 자주포 포착으로 긴장 고조",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261026201757nCp",
-      "summary": "최근 접경지역에서 북한의 자주포가 포착되면서 한반도 군사적 긴장이 다시 고조되고 있습니다. 북한의 이러한 움직임은 의도적인 도발 가능성을 시사하며, 군 당국은 이에 대한 면밀한 감시와 대비 태세를 유지하고 있습니다. 정부는 북한의 추가 도발에 대한 국제 사회의 공조를 모색할 것으로 보입니다.",
-      "pub_date": "2026-10-26T11:18:00+00:00"
+      "title": "김정은, 중대장대회 참가자들과 기념사진…'제1의 임무는 싸움 준비 완성' 강조",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261028085422E9Q",
+      "summary": "북한 김정은이 중대장대회 참가자들과 기념사진을 찍고 '제1의 임무는 싸움 준비 완성'이라고 강조했습니다. 이는 북한군의 전투 준비 태세를 독려하고 내부 결속을 다지려는 의도로 보입니다. 한반도 및 국제 정세에 긴장감을 더할 수 있는 발언입니다.",
+      "pub_date": "2026-10-27T23:54:24+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "총리실, 총리의 이동의 자유 국민투표 제안에 대해 철회하는 듯한 입장 표명",
-      "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-      "summary": "총리실이 총리의 '이동의 자유' 국민투표 제안에 대해 사실상 철회하는 듯한 움직임을 보였습니다. 이는 보수당 내부 및 야당의 강한 반발에 직면한 결과로 해석됩니다. 이번 사태는 정부의 정책 추진력에 대한 의문을 제기하며 정치적 논란을 증폭시킬 것으로 예상됩니다.",
-      "pub_date": "2026-10-26T17:50:00+00:00"
+      "title": "영국 의원과 스코틀랜드 의회 의원, 이스라엘에 구금되어 서안 지구 입국 금지당해",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 의원들과 스코틀랜드 의회 의원들이 이스라엘에 의해 구금되고 서안 지구 입국을 금지당했습니다. 이는 외교적 논란을 야기하며 이스라엘-영국 관계에 영향을 미칠 수 있습니다. 팔레스타인 인권 문제를 둘러싼 국제사회의 관심이 증폭될 것으로 보입니다.",
+      "pub_date": "2026-10-27T16:34:44+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "영국의 북극 방어 허점으로 러시아 공격에 노출, 위원회 경고",
-      "link": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 의회 위원회가 영국의 북극 방어 체계에 심각한 허점이 있어 러시아의 잠재적 공격에 취약하다고 경고했습니다. 보고서는 북극 지역의 전략적 중요성을 강조하며 국방 예산 및 병력 증강을 촉구했습니다. 이는 영국 안보 전략의 전반적인 재검토 필요성을 시사합니다.",
-      "pub_date": "2026-10-22T02:09:21+00:00"
+      "title": "영국 유대인 대표 이사회, 녹색당을 인종차별주의 정당으로 선언",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "영국 유대인 대표 이사회가 녹색당을 '인종차별주의 정당'으로 선언했습니다. 이는 영국 정치권에 큰 파장을 일으킬 매우 심각한 비난입니다. 녹색당은 이 비난에 대해 강하게 반박하며 정치적 논쟁이 격화될 것으로 예상됩니다.",
+      "pub_date": "2026-10-25T18:05:17+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "강신철, \"북한과 전쟁 발발 시 미군을 믿을 수 있겠는가? 그렇지 않을 것\"",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/10/27/IMBQNKG3LVC3LJE6OPN2M6VPU4/",
-      "summary": "강신철 씨가 북한과의 전쟁 발발 시 미군의 지원에 대한 신뢰에 의문을 제기하는 발언을 했습니다. 이는 한미 동맹의 근간을 흔들 수 있는 매우 민감하고 파급력 있는 발언으로 해석됩니다. 그의 발언은 한국의 안보 전략과 동맹 관계에 대한 심도 깊은 논의를 촉발할 것으로 보입니다.",
-      "pub_date": "2026-10-26T15:48:00+00:00"
+      "title": "민주당, 의총서 초유의 대법원장 국정조사 밀어붙여",
+      "link": "https://www.chosun.com/politics/politics_general/2026/10/27/NEBMJMT3VNDNNBHYUAKA6KR2YM/",
+      "summary": "민주당이 의원총회를 통해 사상 초유의 대법원장 국정조사를 강행하기로 결정했습니다. 이는 사법부에 대한 정치권의 압박으로 해석될 수 있어 큰 논란이 예상됩니다. 여야 간 첨예한 대립을 불러일으킬 중대한 정치적 움직임입니다.",
+      "pub_date": "2026-10-27T06:16:03+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "미국, 트럼프 선택 시 이란에 대한 주요 공격 계획 보유",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMkYxX0xCdEJNR19IcUM5QTlEN09sZS1zODJGam1TWTNMZGxUN0dRVTJNR0hhRENuYWo1SURGd2pQbTJYNGdiNmVMdlBCRmE4QUZDLXFXMjVnLWRSNXZfb3JERnBYa1U2a0d1ZnVPQnpEZm1w?oc=5",
-      "summary": "미국이 도널드 트럼프 전 대통령의 재집권 시 이란에 대한 대규모 군사 공격 계획을 가지고 있다는 보도가 나왔습니다. 이는 중동 지역의 안보 상황을 크게 뒤흔들 수 있는 잠재적 위협으로 평가됩니다. 이란 핵 문제와 중동 평화에 미칠 영향에 국제 사회의 이목이 집중되고 있습니다.",
-      "pub_date": "2026-10-26T04:00:15+00:00"
+      "title": "트럼프, '정직한 선거라면' 중간선거 결과 존중할 것이라고 밝혀",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUFWeFljQXhELWp2NkNnSTRPaUpxOGZIWldRNEpDZzB3ZHZVNmg2SENaVHMtYTZ3cUl0U0dZbEdFWnljVDdpTldLNDFraC1SQkJaUWktbnA2WjlodWxWenJHUU5SYTN1X0VsaC1yUU9jSlBaQnp6Q1hnRGVGUl9nb2tGZW5EUzNrcE5ZOVYxQy02S3F4RFJ5bHRfMVFCNnp4STlXLXNFenhLd1otSWVuUEVtUEk?oc=5",
+      "summary": "트럼프 전 대통령이 '정직한 선거라면' 중간선거 결과를 존중할 것이라고 발언했습니다. 이는 선거 결과에 대한 불신을 조장할 수 있는 조건부 수용 발언으로 해석됩니다. 미국 민주주의의 근간을 흔들 수 있는 위험한 메시지로 평가됩니다.",
+      "pub_date": "2026-10-27T22:41:27+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "전직 검찰, 제임스 코미에 대한 새로운 기소를 '앙갚음'이라고 비난",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFNyMjcyVkRqM21GV0dId1VoVTlWbFhmUnRPUTJqbjBvSjluRGpJZEpmMUIzSkZhOHd2WFNFX21FMHJJT251eWM4WldKejRBckpRZjJyQmRQckItOEU1TE5iUDl0VmtJOHY5QmVTczlEaXlIcXZJd2hITW83clB0aUJPTE5sMm9Cem1HcmVhdHNXOTNJdVJwc3hDQng1aTd5MENrTmJkNnU5YTIyeWM0Qmd3MmVJM1ZXOFZLWjhGOGk5Wk5QaFFzVkFPYzhFUQ?oc=5",
-      "summary": "전직 검사가 제임스 코미 전 FBI 국장에 대한 새로운 기소를 '앙갚음성 조치'라고 강하게 비난했습니다. 이는 이번 기소의 정치적 의도에 대한 논란을 더욱 증폭시키고 있습니다. 이번 사건은 사법 정의의 공정성 및 정치적 중립성에 대한 의문을 제기하고 있습니다.",
-      "pub_date": "2026-10-26T22:19:22+00:00"
+      "title": "법무부, 트럼프 및 1월 6일 사태 관련 증언한 전 백악관 보좌관 불기소",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmd5SjNlazFGWmJBRkl6MUFhNWJnZnFDZ2lrLW8zZGhQQlRwX1VxcU5fZHk4Y21xRXQ0S2MxSENHZlR3MjVyb3FyRVlFWHlQYXBWUnIya19SWnFrVzVCcFRpbVNMMjdJdXBWWTdCdW5na0xvMXppZUxJWi1VYXY5djk2bHl3anRfTVFvaThCdjRhaUxaVVh3c1Uwdm9acUczTzFRRjZaQUhla2t3?oc=5",
+      "summary": "미 법무부가 트럼프 전 대통령과 1월 6일 의사당 사태에 대해 증언했던 전 백악관 보좌관에 대해 불기소 결정을 내렸습니다. 이는 관련 수사의 중요한 전환점이 될 수 있으며, 향후 수사 방향에 대한 여러 해석을 낳을 것으로 보입니다. 정치적 파장이 예상됩니다.",
+      "pub_date": "2026-10-27T22:31:21+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "민주당이 캔자스 상원 의석을 뒤집는다면 어떤 일이 벌어질까?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjB3ZTU1WVBTVWpQb1NZbEpZVE51Y2gyWjVhY1BqNjExZDUxNElPZWtZeFhYbjNNMTRya0pkNlhVYXZrSHg5RW5IWHBXaGlkNFFKRXBJZXNTSFprOU5EbDlXQ3pRT3NOR29TUl9LcEU5MURHazJBYnRoTG5LSFBxOTh2UnNDVHk0RW5icjBIcVBGZWUydEE?oc=5",
-      "summary": "다가오는 중간선거에서 민주당이 공화당 텃밭인 캔자스 상원 의석을 차지할 경우의 파급 효과에 대한 관심이 커지고 있습니다. 이는 상원 다수당 구도에 결정적인 영향을 미칠 수 있으며, 바이든 행정부의 입법 추진력에도 상당한 변화를 가져올 것입니다. 캔자스 선거는 전국적 관심사로 부상하고 있습니다.",
-      "pub_date": "2026-10-26T23:52:46+00:00"
+      "title": "제임스 코미 전 FBI 국장, 법무부에 의해 세 번째 기소",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVllWNGhzbDZ5OXpRV2h4YWtwV0NyZGdfb0NZc3lCcnQ3RzFYRmxJaFRmbUE3MUtwOWtISV9CS0F1T3R6OWRwSl9jd0lrbU1uWV9tZGwtZmM3QngxdjN0QmI2V2VNZkd4U3lvYmFPam1ZTTZ1U2M4dEx5UGNYaEtZZVhxYjJxazl1NV9JV2w5bi1wTnl2ZGpJRk5FX2NCMEtGVnZPY1ZnRFVPSzF4YkZMTFc4ek9JOS1SOXB4Uw?oc=5",
+      "summary": "제임스 코미 전 FBI 국장이 미 법무부에 의해 세 번째로 기소되었습니다. 이는 고위 공직자 관련 법적 분쟁이 계속되고 있음을 보여줍니다. 이번 기소는 미국 정치 및 사법 시스템에 대한 논쟁을 더욱 심화시킬 것입니다.",
+      "pub_date": "2026-10-27T02:47:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "메타와 스페이스X, AI 야망 실현 위해 수십억 달러 추가 조달 예정",
+      "title": "GM, 100여 년 만에 뉴욕 증권거래소 떠나 나스닥으로 이전",
+      "link": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+      "summary": "제너럴모터스(GM)가 100여 년 만에 뉴욕 증권거래소를 떠나 나스닥으로 이전합니다. 이는 자동차 산업의 변화와 기술주 중심의 시장 트렌드를 반영하는 상징적인 사건입니다. GM의 이번 결정은 기업 전략과 투자자들에게 중요한 메시지를 전달합니다.",
+      "pub_date": "2026-10-27T17:46:24+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "중국, 주식 시장 구제 나섰지만 시장은 계속 하락",
+      "link": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
+      "summary": "중국 정부가 주식 시장을 구제하기 위해 개입했지만 시장은 계속해서 하락했습니다. 이는 중국 경제의 심각한 침체와 정부 정책의 한계를 보여줍니다. 글로벌 경제에 불안감을 가중시킬 수 있는 중요한 신호입니다.",
+      "pub_date": "2026-10-27T14:15:17+00:00"
+    },
+    {
+      "category": "경제",
+      "outlet": "NYT",
+      "title": "메타와 스페이스X, AI 야망 실현 위해 수십억 달러 추가 모금 예정",
       "link": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
-      "summary": "거대 기술 기업 메타와 스페이스X가 인공지능(AI) 분야의 야심 찬 계획을 실현하기 위해 수십억 달러 규모의 추가 자금을 조달할 예정입니다. 이는 AI 기술 개발 및 시장 경쟁이 더욱 치열해질 것임을 시사합니다. 이번 대규모 투자는 미래 기술 패권을 위한 중요한 움직임으로 평가됩니다.",
+      "summary": "메타와 스페이스X가 AI 분야의 야심 찬 목표를 달성하기 위해 수십억 달러를 추가로 모금할 계획입니다. 이는 거대 기술 기업들이 AI 기술 개발에 얼마나 집중하고 있는지 보여줍니다. AI 시장의 치열한 경쟁과 기술 혁신 가속화를 예고합니다.",
       "pub_date": "2026-10-26T13:31:25+00:00"
     },
     {
       "category": "경제",
-      "outlet": "NYT",
-      "title": "국제 유가 배럴당 116달러 기록, 4월 이후 최고치 경신",
-      "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-      "summary": "국제 유가가 배럴당 116달러를 기록하며 지난 4월 이후 최고치를 경신했습니다. 이는 글로벌 에너지 시장의 불안정성을 반영하며, 전 세계 인플레이션 압력을 가중시킬 수 있습니다. 고유가는 기업들의 생산 비용을 높이고 소비자의 구매력에 부정적인 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-10-23T20:03:29+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "NYT",
-      "title": "경제에 대해 얼마나 걱정해야 할까? 2008년 상황을 살펴보자.",
-      "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-      "summary": "현재 경제 상황에 대한 우려가 커지면서 전문가들은 2008년 금융 위기 당시와 비교하며 진단을 내리고 있습니다. 이는 글로벌 경제가 직면한 잠재적 위험을 경고하는 신호로 해석될 수 있습니다. 정부와 중앙은행은 금융 시스템의 안정성을 유지하기 위한 대책 마련에 고심하고 있습니다.",
-      "pub_date": "2026-10-23T18:46:44+00:00"
+      "outlet": "BBC",
+      "title": "중국 가정, 이제 아이들보다 노인 부양에 더 큰 부담 직면",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "중국 가정들이 이제 자녀보다 노인 부양에 더 큰 부담을 겪고 있습니다. 이는 중국의 급격한 고령화와 저출산 문제를 심각하게 보여줍니다. 경제 성장 둔화와 사회 복지 시스템에 대한 압박을 가중시킬 중대한 사회경제적 과제입니다.",
+      "pub_date": "2026-10-27T23:16:08+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "앤트로픽, 대규모 상장 앞두고 인류에게 '재앙적 위험' 경고",
+      "title": "앤스로픽, 블록버스터 상장 앞두고 인류에 '재앙적 위험' 경고",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "summary": "인공지능(AI) 기업 앤트로픽이 대규모 주식 상장을 앞두고 AI가 인류에게 '재앙적인 위험'을 초래할 수 있다고 경고했습니다. 이는 AI 기술의 급속한 발전과 함께 윤리적 문제 및 안전성 논의의 중요성을 부각시킵니다. 기술 발전의 긍정적 측면뿐만 아니라 잠재적 위협에 대한 경각심을 높이는 계기가 되고 있습니다.",
+      "summary": "거대 인공지능 기업 앤스로픽이 상장을 앞두고 인류에게 '재앙적 위험'이 있을 수 있다고 경고했습니다. 이는 AI 기술의 발전과 함께 제기되는 윤리적, 안전성 문제의 심각성을 보여줍니다. AI 개발의 방향과 규제에 대한 전 세계적인 논의를 촉발할 것입니다.",
       "pub_date": "2026-10-26T16:27:17+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "BBC",
-      "title": "바클레이스, AI 의존도 증가에 따라 5천 개 일자리 감축",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "바클레이스 은행이 인공지능(AI) 기술에 대한 의존도를 높이면서 약 5천 개의 일자리를 감축할 예정이라고 발표했습니다. 이는 AI 기술 발전이 고용 시장에 미치는 직접적인 영향을 보여주는 사례입니다. 자동화로 인한 인력 구조 변화에 대한 사회적 논의가 더욱 활발해질 것으로 전망됩니다.",
-      "pub_date": "2026-10-22T14:28:59+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "정부, 코인 거래소에 교육세 부과 검토 단독 보도",
-      "link": "https://www.sedaily.com/article/20106256",
-      "summary": "정부가 가상자산(코인) 거래소에 교육세를 부과하는 방안을 검토 중인 것으로 단독 보도되었습니다. 이는 가상자산 시장에 대한 정부의 규제 및 과세 강화 움직임으로 해석될 수 있습니다. 업계에서는 교육세 부과가 새로운 부담으로 작용하여 시장 활동에 위축을 가져올 것을 우려하고 있습니다.",
-      "pub_date": "2026-10-26T08:34:40+00:00"
+      "title": "SK하이닉스, 28일 사상 첫 '60조 대규모 특별배당' 발표",
+      "link": "https://www.sedaily.com/article/20106439",
+      "summary": "SK하이닉스가 28일 사상 처음으로 '60조 원 규모의 대규모 특별배당'을 발표했습니다. 이는 국내 기업 사상 최대 규모의 배당으로, 주주들에게 긍정적인 영향을 미칠 것입니다. 반도체 업계의 실적 개선과 기업의 주주 친화 정책을 보여주는 중요한 사례입니다.",
+      "pub_date": "2026-10-27T01:00:05+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "여론조사 결과, 미국인들 경제 상황에 불만족하고 비용 문제에 우려",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3ZCTmZESzJWWmFGSld2RVJULUM5U3o5T0VVLS1ZYXgwem1iWFhtVWlTTDk0ei1BZFlrYWRadlhyenRFTkRQd3AxOTdJX3M2eTk4ekZvc0RrSXhWaDRaSTQ1VjFwU19USTN4NEd5am12Z0lLQktwRVYwNl94SlpmYlltRkJTblVMREQzZWc2Mkc?oc=5",
-      "summary": "최근 여론조사 결과에 따르면, 대다수 미국인이 현재 경제 상황에 대해 비관적인 태도를 보이며 생활비 부담에 큰 우려를 표하고 있습니다. 이는 다가오는 중간선거에서 유권자들의 표심에 중요한 영향을 미칠 것으로 예상됩니다. 인플레이션과 경제 성장이 주요 정치 쟁점으로 부상하고 있습니다.",
-      "pub_date": "2026-10-26T05:27:31+00:00"
+      "title": "미국 노동자들, 경제 파이에서 차지하는 몫이 줄어들고 있어",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTXhTR0xheE1iU05OX1MwNWRxSXN2Qld6ZzdCMHZkS2swaEx6aEdWVHJqZ0FRMjFXWUtZSl9fNXU0RTRLa3FZd3diTjc2clh3bS1BMTVMQkt3bzFNTG0tOHEzbmV1Ry1lWlV5T3BrczVrTzJkMHJNUEVrT2xRSkE?oc=5",
+      "summary": "미국 노동자들이 국가 경제에서 차지하는 몫이 줄어들고 있다는 분석이 나왔습니다. 이는 소득 불평등 심화와 중산층 약화 문제를 시사합니다. 노동 시장의 구조적 변화와 정책적 대응이 시급함을 보여주는 핵심 지표입니다.",
+      "pub_date": "2026-10-27T09:00:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "트럼프 2.0 시대의 휘발유 가격, 바이든 재임 시절보다 더 비싸져",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UlY4Z3p3WU1uZHBad3FzOEFzamd4bFJmNW12UW0zblFPMGR3dndtMUtyZU56bDRQWEttaENRU1kzZndqMXlkekhzRW1JZnpnajJ2ZHdMUHE2YVJOTEJkU0hVSlI0eWFWUXA1ZjZaVjRwSjAz?oc=5",
-      "summary": "'트럼프 2.0' 시대의 휘발유 가격이 현재 바이든 행정부 시절보다 더 비싸다는 분석이 나왔습니다. 이는 에너지 정책과 물가에 대한 유권자들의 인식을 좌우하는 중요한 지표가 될 수 있습니다. 다가오는 선거에서 에너지 가격 문제가 주요 쟁점으로 떠오를 가능성이 큽니다.",
-      "pub_date": "2026-10-26T10:00:15+00:00"
+      "title": "앤스로픽 IPO 서류 분석: CNN 비즈니스",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdk5ObUlJZm8wdVQxbjA3WUFvOFBYZVBEN2VRR1dGUXk0Ukt1TE1VcFd6cUVudFloYThWRVV1SUE4UE1lVHhUNzE4ZFhuQ0lISGo4TGl3NWdWaUNjVmk4Vy1hNzQwWVZnVVgxX2NjNjRyQnN1VmwwOEFvS1NWNW1XamVGSWFFZzk4cF92YzhxVQ?oc=5",
+      "summary": "CNN 비즈니스에서 앤스로픽의 기업공개(IPO) 서류를 분석했습니다. 이는 주요 AI 기업의 상장이 임박했음을 알리는 중요한 소식입니다. AI 산업의 성장 잠재력과 함께 투자자들의 관심이 집중될 것입니다.",
+      "pub_date": "2026-10-27T04:28:00+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "노스캐롤라이나 해안, '낙원'에서 가격 부담으로 밀려나는 사람들",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnB2d21SSV9kRVlEM29EWkltNVgtZm9NLTcyaDI5QS1TWHRsZmhLODIzbDI5MllXMVV2RDN6N1kzZ2dnTzBRaVdtbnhUaDFjMlloLUdWTW93eHBFQjBTVXdILVVKaFhuUHJEb1FiUjFYQ1N2WVM4RUExcF9zcWVUUlhOalEybTNwTjkwUGtUc1loZTRPMWlwWVlDT0Q5dw?oc=5",
-      "summary": "노스캐롤라이나 해안 지역이 주거 비용 상승으로 인해 많은 주민들이 살기 어려워지는 '가격 부담 낙원'이 되고 있습니다. 아름다운 해안가는 이제 높은 집값과 생활비로 인해 서민들에게는 멀어진 꿈이 되어가고 있습니다. 이는 지역 경제 활성화와 주거 안정 정책의 필요성을 제기하고 있습니다.",
-      "pub_date": "2026-10-26T10:00:00+00:00"
+      "title": "유럽, 85억 달러 규모 운하 건설로 이집트 수에즈 운하 모델 추진",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUtrUG53b0dOWndZc1NPSnl1LTAtMWhYWExFZk51cTFabVhsUTg3R0prS0dEOXA3TGJ3SUo3ZUVVVmJJVlAzRzB6LXZiNGZYeC1aWmZvMDB0ek1qMlBlU0NLOThQencwTHBFLVRQejBVaWtZdXEyamdLVmhQWk5mTV9aUGpwYzk0VmdkMmdPSlVISFd2Q2M0dS1pa05CLUpOR1ltT2MyTFA1Y2tSaGdoaGF6YlZ4Yjd0TUN4aVZJT2c5d2hyZFdSRWJzUWJWQ3pySkZkanVOWDA?oc=5",
+      "summary": "유럽이 프랑스, 벨기에, 네덜란드를 가로지르는 107km 길이의 85억 달러 규모 운하 건설로 이집트 수에즈 운하 모델을 추진합니다. 이는 유럽 내륙 수송의 효율성을 높이고 경제에 큰 영향을 미칠 대규모 인프라 프로젝트입니다. 글로벌 무역 경로에도 잠재적인 변화를 가져올 수 있습니다.",
+      "pub_date": "2026-10-27T11:59:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "PHP에 이어 노드.js에서도 보안 취약점 발견, 서버 생태계 전반 위협",
-      "link": "https://zdnet.co.kr/view/?no=20261027060701",
-      "summary": "널리 사용되는 웹 개발 언어인 PHP에 이어 노드.js에서도 심각한 보안 취약점이 발견되어 서버 생태계 전반이 위협받고 있습니다. 이는 수많은 웹 서비스와 애플리케이션의 안정성에 직접적인 영향을 미칠 수 있습니다. 보안 전문가들은 즉각적인 패치와 시스템 점검을 권고하고 있습니다.",
-      "pub_date": "2026-10-26T21:07:01+00:00"
+      "title": "미국 정부, 사이버 방어 전략을 '수동적'에서 '공격적·선제적'으로 대전환",
+      "link": "https://zdnet.co.kr/view/?no=20261027220658",
+      "summary": "미국 정부가 사이버 방어 전략을 '수동적 대응'에서 '공격적·선제적 방어'로 대전환합니다. 이는 국가 사이버 안보 정책의 중대한 변화를 의미합니다. 국제 사이버 공간에서의 패러다임 변화와 함께 각국의 대응에 영향을 미칠 것입니다.",
+      "pub_date": "2026-10-27T13:06:58+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "미국과 중국 간의 AI 냉전 속에서 거세지는 선택 압박",
-      "link": "https://zdnet.co.kr/view/?no=20261026225023",
-      "summary": "미국과 중국 간의 인공지능(AI) 기술 패권 경쟁이 격화되면서, 각국 기업과 연구기관에 '미국이냐 중국이냐'의 선택 압박이 거세지고 있습니다. 이는 글로벌 기술 공급망과 협력 관계에 중대한 변화를 가져올 수 있습니다. AI 기술의 군사적, 경제적 중요성이 부각되면서 국가 간 긴장이 고조되고 있습니다.",
-      "pub_date": "2026-10-26T13:50:23+00:00"
+      "title": "오라클, 오픈AI와 AI 보안 위협 공동 대응…'취약점 찾아 고친다'",
+      "link": "https://zdnet.co.kr/view/?no=20261028025822",
+      "summary": "오라클과 오픈AI가 AI 보안 위협에 공동 대응하기 위해 협력합니다. 양사는 AI 시스템의 취약점을 찾아내고 개선하는 데 주력할 예정입니다. AI 기술의 안전하고 윤리적인 발전을 위한 주요 기업들의 노력입니다.",
+      "pub_date": "2026-10-27T17:58:22+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "PHP 취약점이 드러낸 인공지능 시대 보안의 딜레마",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=676663",
-      "summary": "최근 PHP 보안 취약점 사태는 인공지능(AI) 시대의 사이버 보안 딜레마를 극명하게 보여주고 있습니다. AI 기술 발전이 가져오는 새로운 위협과 동시에 기존 시스템의 취약점이 결합되며 보안 문제가 더욱 복잡해지고 있습니다. 이는 AI 기술 활용과 보안 강화 사이의 균형점을 찾는 것이 시급함을 시사합니다.",
-      "pub_date": "2026-10-27T07:30:00+00:00"
+      "title": "네이버, 브룩필드와 12조원 AI 인프라 계약…AI 팩토리 사업 본궤도",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676889",
+      "summary": "네이버가 브룩필드와 12조원 규모의 인공지능(AI) 인프라 계약을 체결하며 AI 팩토리 사업을 본격화합니다. 이는 국내 대표 IT 기업의 대규모 AI 투자로, 한국의 AI 기술 경쟁력 강화에 기여할 것입니다. 향후 AI 산업 생태계에 큰 영향을 미 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-10-27T18:18:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "앤트로픽 기업공개 본격화, 매출 폭증과 손실 확대 속 AI 기업가치 시험대",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=676775",
-      "summary": "인공지능(AI) 선도 기업 앤트로픽이 기업공개(IPO)를 본격화하며 시장의 주목을 받고 있습니다. 매출은 폭증하고 있지만 동시에 손실도 확대되는 상황에서, 이 기업의 가치가 어떻게 평가될지 관심이 쏠리고 있습니다. 이번 IPO는 AI 기업들의 미래 성장 가능성과 투자 리스크를 가늠하는 중요한 시험대가 될 것입니다.",
-      "pub_date": "2026-10-27T03:05:05+00:00"
+      "title": "국정원, PHP 취약점 잇따르자 '공공 전산망 일시 중지 검토'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=676885",
+      "summary": "국정원이 PHP 취약점이 잇따라 발견되자 공공 전산망의 일시 중지를 검토하고 있습니다. 이는 국가 안보 차원의 심각한 사이버 보안 위협 상황임을 보여줍니다. 웹 서비스에 광범위하게 사용되는 PHP의 보안 문제가 큰 파장을 일으키고 있습니다.",
+      "pub_date": "2026-10-27T17:48:32+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "수년간 개발한 게임, 인공지능으로 순식간에 복제 가능해져 게임 업계에 덮친 'AI 카피캣' 공포",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/26/PWQ6XRYIIJA6DHDTTUEKAPBMJY/",
-      "summary": "수년간의 노력을 들여 개발한 게임들이 인공지능(AI) 기술을 통해 순식간에 복제될 수 있다는 'AI 카피캣' 공포가 게임 업계를 강타하고 있습니다. 이는 개발자들의 창작 활동과 지적 재산권 보호에 심각한 위협이 되고 있습니다. 업계는 AI 기술의 윤리적 사용과 저작권 보호 방안 마련을 촉구하고 있습니다.",
-      "pub_date": "2026-10-26T07:52:27+00:00"
+      "title": "SK하이닉스, 3분기 영업이익 83조3338억원 ‘역대 최대’… 매출 첫 100조원 돌파",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/28/PMDIEB2AJVFSBGZ76IRAHAUEAY/",
+      "summary": "SK하이닉스가 3분기 역대 최대인 83조3338억원의 영업이익을 기록하며 매출 100조원을 돌파했습니다. 이는 글로벌 반도체 시장의 회복과 SK하이닉스의 기술력에 힘입은 성과입니다. 국내외 주식 시장과 반도체 산업 전반에 긍정적인 신호로 작용할 것입니다.",
+      "pub_date": "2026-10-27T23:29:08+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "스페이스X, 인공지능 칩 구매에 53조 원 조달, 머스크 \"네오클라우드 소수만 생존\" 예언",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/26/76YSGXUX5NHGVGD5ME6CQKJMLA/",
-      "summary": "스페이스X가 인공지능(AI) 칩 구매를 위해 무려 53조 원을 조달하며 대규모 투자를 단행했습니다. 일론 머스크는 AI 클라우드 시장에서 소수의 기업만이 살아남을 것이라고 예측했습니다. 이는 AI 인프라 경쟁의 심화와 함께 미래 기술 시장의 재편 가능성을 시사합니다.",
-      "pub_date": "2026-10-26T05:43:03+00:00"
+      "title": "MS, 직원 6만 명에 자발적 퇴사 제안…AI 투자 확대 속 인력 재편",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/27/SGJB3I6GBZAVNDOLQYLWMEE3XQ/",
+      "summary": "마이크로소프트(MS)가 직원 6만 명에게 자발적 퇴사를 제안하며 인력 구조 재편에 나섰습니다. 이는 AI 투자 확대에 따른 조직 효율화의 일환으로 해석됩니다. AI 시대의 도래가 글로벌 빅테크 기업들의 고용 전략에 큰 변화를 가져오고 있음을 보여줍니다.",
+      "pub_date": "2026-10-27T07:09:17+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "PHP 보안 취약점으로 전 세계 패치 대란 발생, 웹사이트 먹통 사태 초래",
-      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "summary": "널리 사용되는 웹 언어 PHP에서 심각한 보안 취약점이 발견되어 전 세계적으로 긴급 패치 대란이 발생하고 있습니다. 이로 인해 수많은 정부 및 기업 웹사이트들이 일시적으로 운영을 중단하는 사태가 벌어졌습니다. 이번 사태는 사이버 보안의 중요성과 즉각적인 대응 시스템의 필요성을 다시 한번 일깨우고 있습니다.",
-      "pub_date": "2026-10-22T16:01:36+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "마이크로소프트, 인공지능 투자 확대하며 6만 명 직원에게 퇴직금 지급 제안",
+      "title": "마이크로소프트, AI 투자 확대하며 6만 명 직원에게 퇴직금 제안",
       "link": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
-      "summary": "마이크로소프트가 인공지능(AI) 분야 투자를 확대하는 과정에서 6만 명의 직원에게 퇴직금 지급을 제안했습니다. 이는 AI 기술 발전이 기업의 인력 구조 변화에 미치는 영향을 보여주는 상징적인 사례입니다. 주요 기술 기업들의 AI 전환이 고용 시장에 어떤 파장을 미칠지 주목됩니다.",
+      "summary": "마이크로소프트(MS)가 인공지능(AI) 투자 확대를 위해 6만 명의 직원에게 퇴직금 지급을 제안했습니다. 이는 기술 산업 전반에 걸쳐 AI가 인력 구조를 어떻게 변화시키고 있는지 보여주는 사례입니다. 대규모 기업의 구조조정이 예상됩니다.",
       "pub_date": "2026-10-26T20:15:39+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "PHP란 무엇이며, 왜 전 세계적인 사이버 보안 비상사태를 촉발했는가?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "summary": "최근 전 세계를 강타한 사이버 보안 비상사태의 중심에는 웹 개발 언어인 PHP의 심각한 취약점이 있었습니다. 이 기사는 PHP가 무엇인지, 그리고 어떻게 이 취약점이 수많은 웹사이트에 영향을 미쳐 글로벌 패치 대란을 일으켰는지 설명합니다. 이번 사태는 디지털 인프라의 근간을 이루는 기술의 보안 관리 중요성을 강조합니다.",
-      "pub_date": "2026-10-23T12:24:17+00:00"
+      "outlet": "NYT",
+      "title": "PHP 보안 결함으로 전 세계적인 패치 러시 발생, 웹사이트 오프라인 상태",
+      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "summary": "PHP 보안 결함으로 인해 전 세계적으로 긴급 패치 작업이 진행되고 있으며, 많은 웹사이트가 일시적으로 오프라인 상태가 되었습니다. 이는 광범위한 웹 서비스에 사용되는 PHP의 중요성과 사이버 보안의 취약성을 동시에 보여줍니다. 정부 및 기업 시스템에 대한 심각한 위협으로 인식되고 있습니다.",
+      "pub_date": "2026-10-22T16:01:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "앤트로픽, 대규모 상장 앞두고 인류에게 '재앙적 위험' 경고",
+      "title": "앤스로픽, 블록버스터 상장 앞두고 인류에게 '재앙적 위험' 경고",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "summary": "인공지능(AI) 기업 앤트로픽이 대규모 주식 상장을 앞두고 AI 기술이 인류에게 '재앙적인 위험'을 초래할 수 있다고 경고했습니다. 이는 AI 기술의 급속한 발전과 함께 윤리적 문제 및 안전성 논의의 중요성을 부각시킵니다. 기술 발전의 긍정적 측면뿐만 아니라 잠재적 위협에 대한 경각심을 높이는 계기가 되고 있습니다.",
+      "summary": "주요 AI 기업인 앤스로픽이 상장을 앞두고 인류에게 '재앙적 위험'이 있을 수 있다고 경고했습니다. 이는 AI 기술 발전과 함께 심화되는 윤리적, 안전성 문제의 중요성을 부각합니다. AI 개발에 대한 사회적 책임과 규제 논의를 촉발할 것입니다.",
       "pub_date": "2026-10-26T16:27:17+00:00"
     },
     {
-      "category": "세계",
-      "outlet": "NYT",
-      "title": "룰라, 브라질 대통령 당선으로 볼소나루 제압, 라틴 아메리카 우파에 타격",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
-      "summary": "루이스 이나시오 룰라 다시우바 전 대통령이 브라질 대선에서 자이르 볼소나루 현 대통령을 꺾고 승리하며 라틴 아메리카 우파 세력에 큰 타격을 입혔습니다. 룰라의 승리는 브라질의 국내외 정책에 중대한 변화를 가져올 것으로 예상됩니다. 이번 선거 결과는 라틴 아메리카 정치 지형의 변동을 상징합니다.",
-      "pub_date": "2026-10-26T20:32:15+00:00"
+      "category": "IT/과학",
+      "outlet": "BBC",
+      "title": "영국, '세계 최초' AI 생물보안 연구소에 1억 파운드 투자",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "영국이 '세계 최초' 인공지능(AI) 생물보안 연구소에 1억 파운드를 투자합니다. 이는 AI 기술의 잠재적 생물학적 위협에 대비하는 선제적 조치입니다. AI 안전성 연구 분야에서 영국의 리더십을 강화하고 국제 협력을 촉진할 것입니다.",
+      "pub_date": "2026-10-24T00:05:45+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "앤스로픽, 기록적인 IPO를 위해 서류 제출",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzJnMExTamFqR2Z5TGxLT1RUTjhvS1RJOVpfRlpLZDlCWjlxalFiUDZsQmRxeUptY3gwelZ2ZEhGUnRwOHBfYkM1OWdubjU3bVRvYjloSkFXYnd1NEJyb2F5bGtGV3dYcXNHMER3Um9NTTN0ZFFRdjRLZ0RpOEszMjl5SWlyam5odHBCS3hCdlBUNTNQU2kyYThwWmcwYW8?oc=5",
+      "summary": "인공지능 기업 앤스로픽이 잠재적으로 기록적인 기업공개(IPO)를 위해 서류를 제출했습니다. 이는 AI 산업의 급성장과 투자 열기를 반영하는 주요 사건입니다. 기술 시장과 금융 시장 모두에 큰 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-10-27T08:22:03+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "핵심 주에서 라틴계 유권자 조기 투표 증가, 민주당에 좋은 신호인가?",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTU4N01Dc0VkNDNhYXRrcGh0dDNxN1VzTktUbVlsVnJUdWxERzNOWFluT3htWl9kcUtPVWxEU1UtVEdsREI1NmtKbFg4dENra0tIY2p2TlZWZFZLcUNXcDh5d3podHpqU2NvRk9ZTFItYURMeTh3NVpNY3lqWERReVFJS0R3ZEI0LUVxdHJOM0FEcXZiTF9jRkRua1dyRlk?oc=5",
+      "summary": "핵심 경합주에서 라틴계 유권자들의 조기 투표율이 지난 중간선거보다 높아졌습니다. 이는 민주당에 긍정적인 신호로 해석될 수 있어 선거 결과에 귀추가 주목됩니다. 유권자 구성 변화가 미국 정치 지형에 미칠 영향에 대한 분석이 필요합니다.",
+      "pub_date": "2026-10-27T17:49:32+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "CNN",
+      "title": "주유소 유가 압박: 최신 동향",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVU3bHNQZEhUanRZS2UzcE9oeUIySWpnV2liUWRtNWtVZ3lVa2lRN3NLY01MZ3J6QmtGZnI2NHB5bVo2UUZTTWtXTE1UNlRPNjNrX2ZDalZZR3M4SmROeDluR2d5S2Nna1d3XzZDNFFiSG1OVWlIbDAzZGNIckVLZkpoR1JKRlUzZGkwLU9aN1A?oc=5",
+      "summary": "유가 상승으로 인한 주유소 가격 압박이 계속되고 있습니다. 이는 소비자 물가에 직접적인 영향을 미치며 경제 전반의 불안 요인으로 작용합니다. 에너지 시장의 변동성과 정부의 물가 안정 대책에 대한 관심이 커지고 있습니다.",
+      "pub_date": "2026-10-27T13:49:18+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "미국과 이스라엘의 전쟁 재개 계획 보도 속 이란에 외교적 움직임 활발",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
-      "summary": "미국과 이스라엘이 이란에 대한 전쟁 재개 계획을 검토 중이라는 보도가 나오면서 이란 주변에서 외교적 움직임이 활발해지고 있습니다. 이는 중동 지역의 군사적 긴장을 고조시키고 잠재적인 충돌 가능성을 시사합니다. 국제 사회는 사태의 확산을 막기 위해 외교적 노력을 집중하고 있습니다.",
-      "pub_date": "2026-10-26T14:30:53+00:00"
+      "title": "속보: 이스라엘 핵심 선거 출구 조사, 승자 불분명",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "summary": "이스라엘 핵심 선거의 출구 조사 결과, 명확한 승자가 나타나지 않았습니다. 이는 이스라엘 정치의 불확실성을 가중시키며 연립 정부 구성에 난항이 예상됩니다. 중동 정세에도 영향을 미칠 수 있는 중요한 결과입니다.",
+      "pub_date": "2026-10-28T00:10:44+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "\"병든 나무를 뽑아내라\": 시진핑의 끊임없는 숙청이 다음 임기를 위한 길을 닦다",
-      "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-      "summary": "시진핑 중국 주석이 \"병든 나무를 뽑아내라\"는 구호 아래 끊임없는 숙청 작업을 벌이며 자신의 다음 임기를 위한 권력 기반을 다지고 있습니다. 이는 중국 공산당 내부의 권력 재편과 함께 시 주석의 장기 집권 체제를 더욱 공고히 하려는 의도로 풀이됩니다. 숙청의 범위와 강도에 국제 사회의 관심이 쏠리고 있습니다.",
-      "pub_date": "2026-10-26T13:14:20+00:00"
+      "title": "멜라니아 트럼프 중재한 휴전, 우크라이나 올레시키 시에서 시작",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "summary": "멜라니아 트럼프 여사가 중재한 휴전이 우크라이나 올레시키 시에서 발효되었습니다. 이는 이례적인 중재로, 우크라이나 전쟁의 인도주의적 상황에 긍정적인 영향을 미칠 수 있습니다. 국제사회의 관심이 집중될 것입니다.",
+      "pub_date": "2026-10-27T08:25:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "마리아 코리나 마차도, 베네수엘라로 귀국",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "summary": "베네수엘라 야권 지도자 마리아 코리나 마차도가 오랜 망명 생활을 마치고 국내로 귀국했습니다. 그녀의 귀국은 베네수엘라의 정치적 위기에 새로운 전환점이 될 수 있습니다. 마차도는 마두로 정부에 대한 야권의 저항을 다시 결집시키려는 움직임을 보일 것으로 예상됩니다.",
-      "pub_date": "2026-10-26T16:40:43+00:00"
+      "title": "이집트 법원, 비판 언론 탄압 경고 속 뉴스 사이트 폐쇄 명령",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
+      "summary": "이집트 법원이 비판에 대한 탄압 경고에도 불구하고 뉴스 웹사이트 폐쇄를 명령했습니다. 이는 이집트의 언론 자유가 심각하게 위협받고 있음을 보여줍니다. 국제 인권 단체들의 우려를 사고 있습니다.",
+      "pub_date": "2026-10-27T17:21:41+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "유엔 인권위원회, 휴전 이후 이스라엘이 가자지구에서 학살 행위 저질렀다고 발표",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-      "summary": "유엔 인권위원회가 휴전 이후 이스라엘이 가자지구에서 '학살 행위'를 저질렀다고 발표하여 국제 사회에 큰 충격을 주고 있습니다. 이는 이스라엘의 전쟁 행위에 대한 심각한 비판이자 국제법 위반 가능성을 제기합니다. 유엔의 보고서는 가자지구 사태에 대한 국제사회의 책임과 개입을 촉구하고 있습니다.",
-      "pub_date": "2026-10-26T20:30:07+00:00"
+      "title": "찰스 3세 국왕, 카리브해 순방에서 높은 시험대 직면",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+      "summary": "찰스 3세 국왕이 카리브해 순방 중 역사적 식민 지배에 대한 사과 요구 등 높은 시험대에 직면했습니다. 이는 영국 왕실의 역할과 과거 식민 역사에 대한 논쟁을 재점화하고 있습니다. 영연방 국가들과의 관계 재정립에 중요한 영향을 미칠 것입니다.",
+      "pub_date": "2026-10-27T23:39:58+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "NYT",
+      "title": "트럼프, 러시아 주요 투자 펀드에 대한 제재 해제 검토 중",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+      "summary": "트럼프 전 대통령이 러시아의 주요 투자 펀드에 대한 제재 해제 검토 중이라는 소식이 전해졌습니다. 이는 러시아-우크라이나 전쟁 상황에서 미국 대러 정책에 중대한 변화를 가져올 수 있습니다. 국제사회와 국내 정치권의 비판이 예상됩니다.",
+      "pub_date": "2026-10-27T17:30:52+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "룰라, 극적인 브라질 대선 복귀로 네 번째 임기 당선",
-      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "루이스 이나시오 룰라 다시우바 전 대통령이 극적인 역전극 끝에 브라질 대선에서 승리하며 네 번째 대통령 임기를 시작하게 되었습니다. 이는 라틴 아메리카 정치 지형에 큰 변화를 가져올 역사적인 사건으로 평가됩니다. 룰라의 복귀는 브라질의 경제 및 사회 정책 방향에도 상당한 영향을 미칠 것으로 보입니다.",
-      "pub_date": "2026-10-26T21:02:47+00:00"
+      "title": "노르웨이와 핀란드 지도자들, 푸틴과 이례적인 통화",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "노르웨이와 핀란드 지도자들이 블라디미르 푸틴 러시아 대통령과 이례적인 통화를 가졌습니다. 이는 우크라이나 전쟁 이후 서방 국가 지도자들과 푸틴의 직접 소통이 드문 상황에서 주목됩니다. 북유럽의 안보 우려와 외교적 노력의 일환으로 해석됩니다.",
+      "pub_date": "2026-10-27T18:28:23+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "세르비아, 베테랑 통치자 부치치 학생 주도 시위 운동에 선거 패배 후 축하 분위기",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "세르비아에서 오랜 기간 집권했던 알렉산다르 부치치 대통령이 학생 주도의 시위 운동에 밀려 선거에서 패배하자 전국적으로 축하 분위기가 고조되고 있습니다. 이는 권위주의 정권에 대한 민주주의적 저항의 승리로 해석됩니다. 이번 선거 결과는 세르비아의 정치적 미래에 새로운 지평을 열 것으로 기대됩니다.",
-      "pub_date": "2026-10-26T14:34:52+00:00"
+      "title": "우크라이나 헤르손 지역에 휴전 확대, 관계자들 밝혀",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "우크라이나 헤르손 지역에서 휴전이 확대되었다고 관계자들이 밝혔습니다. 이는 격렬한 전투가 벌어지던 지역의 인도주의적 상황 개선에 기여할 것으로 기대됩니다. 분쟁의 평화적 해결 가능성에 대한 미묘한 신호로 볼 수 있습니다.",
+      "pub_date": "2026-10-27T22:11:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "베네수엘라 야권 지도자 마리아 마차도, 수개월 망명 끝에 귀국",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "베네수엘라 야권 지도자 마리아 마차도가 수개월간의 망명 생활을 마치고 귀국했습니다. 그녀의 귀국은 마두로 정부에 맞서는 야권의 새로운 움직임을 예고하며 국내 정치에 큰 파장을 불러올 것으로 예상됩니다. 이는 베네수엘라 정치 위기의 새로운 국면을 의미할 수 있습니다.",
-      "pub_date": "2026-10-26T05:20:19+00:00"
+      "title": "룰라의 브라질 복귀, 트럼프의 라틴 아메리카 야망에 타격",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "룰라 전 대통령의 브라질 복귀가 트럼프 전 대통령의 라틴 아메리카에 대한 야망에 타격을 주었습니다. 이는 브라질의 정치적 지형 변화가 미국과 라틴 아메리카 관계에 미치는 영향을 보여줍니다. 지역 내 정치적 세력 균형에 중요한 변화를 가져올 것입니다.",
+      "pub_date": "2026-10-27T01:46:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "알제리, 1973년 이래 첫 해외 파병으로 니제르에 병력 파견 예정",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "summary": "알제리가 1973년 이후 처음으로 해외 병력을 파견하여 니제르에 군대를 보낼 예정입니다. 이는 사헬 지역의 안보 상황이 심각해지고 있음을 시사하며, 역내 정세에 중요한 영향을 미칠 수 있습니다. 알제리의 이번 결정은 지역 안정을 위한 적극적인 개입으로 해석될 수 있습니다.",
-      "pub_date": "2026-10-26T17:00:09+00:00"
+      "title": "이집트 법원, 언론인 리나 아탈라에게 벌금 부과 및 뉴스 사이트 폐쇄 명령",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "이집트 법원이 언론인 리나 아탈라에게 벌금을 부과하고 뉴스 웹사이트 폐쇄를 명령했습니다. 이는 이집트 정부의 언론 탄압이 심각한 수준에 이르렀음을 보여줍니다. 국제사회와 인권 단체들의 강력한 비판을 받고 있습니다.",
+      "pub_date": "2026-10-27T20:44:40+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "중국의 주요 정치 회의에서 시진핑 주석, 당 내 '규율 강화' 예상",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "summary": "중국의 중요한 정치 회의에서 시진핑 주석이 당 내 '규율 강화'를 추진할 것으로 예상됩니다. 이는 시 주석의 권력 기반을 더욱 공고히 하고, 자신의 통치 이념에 대한 충성을 강화하려는 움직임으로 해석됩니다. 이번 회의를 통해 중국의 정치적 방향성과 리더십의 변화가 드러날 것으로 보입니다.",
-      "pub_date": "2026-10-26T07:40:57+00:00"
+      "title": "서방, 수단 내전 지속으로 기근 위험 경고",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "서방 국가들이 수단 내전이 계속됨에 따라 기근 위험을 경고했습니다. 이는 수단 내 심각한 인도주의적 위기가 고조되고 있음을 의미합니다. 국제사회의 즉각적인 인도적 지원과 갈등 해결 노력이 시급합니다.",
+      "pub_date": "2026-10-27T15:41:46+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "룰라, 브라질에서 역사적인 복귀로 네 번째 임기 확보",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNWs2bWp1Vjlaem1GMWREaWxFNVdiVWxHYmxrS3E4TzliaFNtV2Y3b1dCZEJoY2w1NjFjUmctR0hyTjgybHpXWnQ2TERoaS00R2RNUlFkOEt6azMtenFGWEo5SjBCdnBOaHliVDhqbDRoRUxhRjRaNFVoeGJxY0E?oc=5",
-      "summary": "루이스 이나시오 룰라 다시우바 전 대통령이 브라질 대선에서 극적인 역전승을 거두며 역사상 네 번째 대통령 임기를 확보했습니다. 이는 브라질은 물론 라틴 아메리카 전체의 정치 지형에 큰 영향을 미칠 사건으로 평가됩니다. 룰라의 재집권은 향후 브라질의 국내외 정책 방향에 중요한 변화를 가져올 것입니다.",
-      "pub_date": "2026-10-26T19:10:04+00:00"
+      "title": "이스라엘 선거 출구 조사에서 명확한 승자 없어",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmhLYVdNc3ByX2JRYXgtOGVqY3NYVy16OVFjcTlaVENyT0JvNDJyZFpVMm1xODVZVFRxVnYtUmdIWDMySVpScm1lMEMxWTZyalh6RTdNYTMwR0NLNmdMNTBpOFo3MThzSXIxZDNIVXJtcExmNWdmbjN6TmNqaHZGQ2RJdmZPZVR3TGtXZks3dm8xOFRPUjRaM01ITzhfNzJVZnc?oc=5",
+      "summary": "이스라엘 선거 출구 조사 결과, 어느 쪽도 명확한 승리를 거두지 못한 것으로 나타났습니다. 이는 이스라엘 정치의 불확실성을 심화시키고 연립 정부 구성에 난항을 예고합니다. 중동 지역의 안정성에도 영향을 미칠 수 있는 중요한 결과입니다.",
+      "pub_date": "2026-10-27T20:11:57+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "'목소리가 들리지 않는 세대': 세르비아에서 학생 운동이 권위주의 지도자 전복시켜",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3MwMXU3VHF5YU9udzFuN2hyWlJaX25ETWEtNVZ2Wnpob0tGWm9WRXlvYWhSNHdvNTU1NldWVGwwbmtOOENmMjV6dEV1WURZaDlSemdyUmo1ckdieW9oSTF4MHBtQkNab2hHc0JKLTZPRE5SMUNUSkI3bkVwWnRUcU9aRUh1eW1Jbk1B?oc=5",
-      "summary": "세르비아에서 '목소리가 들리지 않는 세대'의 학생 운동이 장기 집권한 권위주의 지도자를 전복시키는 놀라운 정치적 승리를 거두었습니다. 이는 젊은 세대의 정치 참여와 사회 변화를 이끄는 힘을 보여주는 상징적인 사례입니다. 세르비아의 이번 변화는 전 세계 민주주의 운동에 영감을 줄 수 있습니다.",
-      "pub_date": "2026-10-26T17:49:34+00:00"
+      "title": "베네수엘라 마차도, 망명 후 환호하는 인파 속 귀국",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0Z1R1hJZGE0OE1yZk9LZGk3UkpSU0J5alRpbGNLUzBmMWFsemF4RDdlNHpKNl93aVFGc1pSeWxOMFhUOU1HRk5RRkttbTBuR3BCT0pNdElVY2FwdFdnZ2ZVazBheTZYRFlOT2V5TWsyeWtxenFwZ09URnA3TVNUaXZ5TWE4WXJRWS05WUtHQ0pEUWJpc19KcFpub0E2Qm02Zm5HNW1SYkNWOG5GZ3JJa3hSMjY3dHhhT19tQTlzRXg2Xy1rRzdUdFFvMzJESG1uWUE?oc=5",
+      "summary": "베네수엘라의 야권 지도자 마리아 코리나 마차도가 망명 후 환호하는 인파 속에서 귀국했습니다. 이는 베네수엘라의 정치적 상황에 중요한 변화를 가져올 수 있는 사건입니다. 야권의 재결집과 정부에 대한 압박이 커질 것으로 보입니다.",
+      "pub_date": "2026-10-27T20:15:14+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "마차도, 마침내 베네수엘라 귀국. 이제 미국을 자극하지 않고 로드리게스를 압박하는 것이 과제",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeExWeS02NjVLbTlFOTB4WWFHUnRpX2J1LU5KNGtrejYyeFZ0bF9Ga0hYNFdibVlBUnV6LXh2VXBTNGY2TnNmbXF5OHNEVXpZdktLYnNXZUFPS0dfWWxJMlF3RGRlaUVoazF2a25ZTjNsdkM0SzJQQWZGZFZTc21TWHdrRTNSSC1GQ05zQQ?oc=5",
-      "summary": "베네수엘라 야권 지도자 마리아 마차도가 마침내 조국으로 돌아왔지만, 이제 그녀에게는 미국과의 관계를 손상시키지 않으면서 로드리게스 정부를 압박해야 하는 복잡한 과제가 주어졌습니다. 이는 베네수엘라 내부 정치와 국제 관계가 얽혀 있는 민감한 상황을 보여줍니다. 마차도의 향후 행보에 따라 베네수엘라 정국이 요동칠 수 있습니다.",
-      "pub_date": "2026-10-26T18:52:40+00:00"
+      "title": "찰스 국왕, 카리브해 방문 중 노예제 사과 요구 증대",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXNEb2lWTnA0dnZFY3VaUGtKVDRVX0hmNUVzcEcxQ3U2QUo2UmJvTHdOX0JCVndVaXRGRzNMbWNoZnRDcEdzZnpKb211Y21iMjlkQUN2Szlqcm5nQTcwaDloX3JvWnIzNFduZVo3S1VtbWJVaFpWUEwyWUE3aFc2Tmd6Y2xTeXFlNWoxVDRCR2NaVEtwVmVaMm9oLXJwWjk0MHNBQVVTdHRlbS0wYlZj?oc=5",
+      "summary": "찰스 3세 국왕이 카리브해 순방 중 노예제에 대한 공식 사과 요구에 직면했습니다. 이는 영국 왕실과 과거 식민지배 역사에 대한 논쟁을 재점화하고 있습니다. 역사적 정의와 배상 문제에 대한 국제적 관심을 촉발할 것입니다.",
+      "pub_date": "2026-10-27T18:28:02+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "이스라엘, 총격 사건 후 보복 다짐하자 수천 명의 팔레스타인 주민 피난",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkhCM2RiQlpPUEZCNDFjN01qbDRJWTRBYlpBZ3dlMjVxNnVmNFFjSXRyTzR6MFNXVnJBZW5hd1Z2Y1lNOXpDNHdDQVhKLUpGY2NNX3JuTmRsX0pqNHF6d1NGZk91c3RTX3huRG5hMi1qaGxvR0lSblNpUS1odzIxVW1qQzJqOVp5c3ZnbVZxSFNsaVBIM01HanRhMGtVQU9IU0Yzb2ZZaDRob0duMHBfcFdrVFc2anlNNUNfcQ?oc=5",
-      "summary": "최근 총격 사건 발생 후 이스라엘이 보복을 다짐하면서, 수천 명의 팔레스타인 주민들이 피난길에 올랐습니다. 이는 가자지구와 서안 지구의 긴장이 다시 고조되고 있음을 보여줍니다. 무력 충돌의 재발 가능성이 높아지면서 민간인 피해에 대한 우려가 커지고 있습니다.",
-      "pub_date": "2026-10-26T19:38:00+00:00"
+      "title": "멜라니아 트럼프가 중재한 국지적 올레시키 휴전 발효",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHdzQ0cwZHNYUHJaREQwX29kY0xMRzVERC1ua0ZJbUtZVFNJTE1kSXYxdG53aklFTWo5blBZRVBnR0dVWFdBUDY4dWtaQkxLR2JYZ1pORXdZZXVaa3NLYUpRVjVuajI2MVdKVEZKX2FVbTItMG9nbGVsSG1odmR1UE9uUDl1YUdBVmE3clA5cGpWaTFnNkE5YTU5R3E2X2RLcEVvLWdQcXFEQQ?oc=5",
+      "summary": "멜라니아 트럼프가 중재한 우크라이나 올레시키 지역의 국지적 휴전이 발효되었습니다. 이는 우크라이나 전쟁 중 이례적인 중재 사례로 주목받고 있습니다. 민간인 보호와 인도주의적 지원에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "pub_date": "2026-10-27T15:17:35+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "미국, 트럼프 선택 시 이란에 대한 주요 공격 계획 보유",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMkYxX0xCdEJNR19IcUM5QTlEN09sZS1zODJGam1TWTNMZGxUN0dRVTJNR0hhRENuYWo1SURGd2pQbTJYNGdiNmVMdlBCRmE4QUZDLXFXMjVnLWRSNXZfb3JERnBYa1U2a0d1ZnVPQnpEZm1w?oc=5",
-      "summary": "미국이 도널드 트럼프 전 대통령의 재집권 시 이란에 대한 대규모 군사 공격 계획을 가지고 있다는 보도가 나왔습니다. 이는 중동 지역의 안보 상황을 크게 뒤흔들 수 있는 잠재적 위협으로 평가됩니다. 이란 핵 문제와 중동 평화에 미칠 영향에 국제 사회의 이목이 집중되고 있습니다.",
-      "pub_date": "2026-10-26T04:00:15+00:00"
+      "title": "유럽을 강타하는 연속적인 폭풍",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFl3Yk1oWUw1VHE2emRlSXY1eWltZU1WdUY1YkE5WXdXa2NwaVM4UU96eVNMblQwZk5IdFRXSUZDZm5wZkF6VmlZZW5tRVBWbFAxOVNUQmYzSk9hckZpNEMtMU0yNGhwS2psdFJFZVF1TWNFa2NLN1BGZWc0UFVCeklR?oc=5",
+      "summary": "일련의 강력한 폭풍이 유럽을 강타하며 광범위한 피해를 입혔습니다. 이는 기후 변화로 인한 이상 기후 현상의 심각성을 보여줍니다. 유럽 전역의 인프라와 주민 생활에 큰 영향을 미치고 있습니다.",
+      "pub_date": "2026-10-27T00:55:00+00:00"
     }
   ]
 }
