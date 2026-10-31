@@ -1,413 +1,405 @@
 {
-  "last_updated": "2026-10-31T00:25:13.695634+00:00",
+  "last_updated": "2026-10-31T23:57:52.904986+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "북한, 초정밀 600mm 방사포 사격: 김정은 \"힘이 곧 평화\" 언급",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823420&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "북한이 초정밀 600mm 방사포 사격 훈련을 진행했다. 김정은 국무위원장은 \"힘이 곧 평화\"라고 강조하며 군사력 증강 의지를 밝혔다. 이는 한반도 긴장 고조의 주요 원인이 되고 있다.",
-      "pub_date": "2026-10-30T08:10:00+00:00"
+      "title": "북한, 집속탄두 위력 시험으로 13헥타르 초토화 주장",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824779&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "북한이 집속탄두 위력 시험을 진행했다고 밝혔다. 이 시험으로 13헥타르 면적이 초토화될 수 있음을 과시했다. 이는 북한의 군사력 강화 의지를 보여주는 행보로 풀이된다.",
+      "pub_date": "2026-10-31T23:37:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "스위스 외무장관, 북한 최선희 면담 후 청와대 및 외교부에 방북 결과 설명",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823974&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "북한 최선희 외무상과 스위스 외무장관이 만나 회담을 가졌다. 스위스 외무장관은 방북 후 한국 청와대와 외교부에 결과를 상세히 설명했다. 이는 북한과의 대화 가능성을 엿볼 수 있는 중요한 외교적 접촉이었다.",
-      "pub_date": "2026-10-30T16:01:00+00:00"
+      "title": "미 해병대, 한반도 최초로 한국 특수부대와 다영역훈련 실시",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824457&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "미국 해병대가 한국 특수부대와 함께 한반도에서 처음으로 다영역훈련을 실시했다. 이 훈련은 유사시 다양한 작전 환경에서 연합 대응 능력을 강화하기 위함이다. 한미 동맹의 억지력과 상호운용성을 한층 더 높이는 계기가 될 것으로 보인다.",
+      "pub_date": "2026-10-31T11:38:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "라브로프에 대한 불쾌감으로 미국, 애틀랜타 G20 기념사진 촬영 취소",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
-      "summary": "러시아 라브로프 장관의 참석으로 미국이 애틀랜타 G20 회의의 기념사진 촬영을 취소했다. 이는 우크라이나 사태 이후 서방과 러시아 간의 깊어진 갈등을 보여준다. 국제 외교 무대에서 러시아의 고립이 심화되고 있음을 시사한다.",
-      "pub_date": "2026-10-30T20:12:18+00:00"
+      "title": "트럼프, 미국 과학 연구 시스템 해체 논란",
+      "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
+      "summary": "트럼프 전 대통령이 미국의 과학 연구 시스템을 해체하고 있다는 비판이 제기되었다. 이는 국가 과학 기술 역량 약화로 이어질 수 있다는 우려를 낳고 있다. 향후 미국의 혁신과 경쟁력에 장기적인 영향을 미칠 수 있는 문제로 주목받고 있다.",
+      "pub_date": "2026-10-31T17:32:04+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "법무부, 알래스카 수사 확인했으나 수사 초점은 불분명",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-      "summary": "미국 법무부가 알래스카 관련 수사가 진행 중임을 확인했다. 하지만 구체적인 수사 대상이나 목적은 아직 명확히 밝혀지지 않았다. 이는 해당 지역의 정치적 불확실성을 증폭시키고 있다.",
-      "pub_date": "2026-10-30T23:56:11+00:00"
+      "title": "오바마케어 보험료, 2027년에 또다시 급격한 인상 예상",
+      "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+      "summary": "오바마케어 보험 정책이 2027년에도 가파른 보험료 인상을 겪을 것으로 예상된다. 이는 수백만 미국인의 의료비 부담을 가중시킬 수 있다. 의료 접근성과 비용 문제에 대한 논의가 다시 활발해질 전망이다.",
+      "pub_date": "2026-10-30T23:42:10+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "항소법원, 트럼프의 캘리포니아 투표용지 압수 시도 재차 기각",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
-      "summary": "항소법원이 도널드 트럼프 전 대통령의 캘리포니아 투표용지 압수 요청을 또다시 기각했다. 이는 선거 결과에 대한 트럼프 측의 지속적인 법적 도전을 보여준다. 동시에 사법부가 절차적 정당성을 유지하려는 의지를 드러냈다.",
-      "pub_date": "2026-10-30T20:25:06+00:00"
+      "title": "트럼프 전 대통령의 아치형 구조물, 버지니아와 워싱턴 D.C.로부터 새로운 법적 문제 직면",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
+      "summary": "트럼프 전 대통령이 소유한 아치형 구조물이 버지니아주와 워싱턴 D.C.로부터 새로운 법적 도전에 직면했다. 이는 트럼프의 사업 활동에 대한 지속적인 법적 압박을 보여준다. 법적 분쟁의 결과가 그의 정치적 입지에도 영향을 미칠지 주목된다.",
+      "pub_date": "2026-10-31T19:11:06+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "북한 방문 스위스 외교장관, 위성락·정연두 면담 후 방북 결과 설명",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261030230424V7d",
-      "summary": "스위스 외교장관이 북한 방문을 마친 후 한국 측 위성락, 정연두 관계자를 면담했다. 이 자리에서 스위스 외교장관은 북한 방문 결과를 상세히 설명했다. 이는 북한과 서방 간의 간접적인 소통 채널의 중요성을 보여주는 사례다.",
-      "pub_date": "2026-10-30T14:04:25+00:00"
+      "title": "북한, 전술탄도미사일 집속탄두 시험으로 13헥타르 초토화 주장",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH202611010832371s2",
+      "summary": "북한이 전술탄도미사일에 장착되는 집속탄두의 위력 시험을 성공적으로 진행했다고 발표했다. 이 시험을 통해 13헥타르에 달하는 면적을 초토화할 수 있다고 과시했다. 이는 북한의 핵무력 증강 의지를 다시 한번 드러내며 한반도 안보에 긴장을 높이고 있다.",
+      "pub_date": "2026-10-31T23:32:39+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "이 대통령 \"다문화가정 과잉 우대는 극우적 선동의 빌미\" 발언",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261030221038CH7",
-      "summary": "이 대통령이 다문화가정에 대한 과잉 우대가 극우적 선동의 빌미가 될 수 있다고 발언했다. 이 발언은 사회 내 다문화 정책에 대한 찬반 논쟁을 촉발할 것으로 예상된다. 정부의 다문화 정책 방향성에 대한 재검토 요구가 나올 수 있다.",
-      "pub_date": "2026-10-30T13:10:39+00:00"
+      "title": "국정감사 종료 후 821조 예산 전쟁 돌입, 본격 심사 시작",
+      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261101084824NpR",
+      "summary": "국정감사가 마무리되고 이제 821조 원 규모의 내년도 예산안 심사가 본격적으로 시작된다. 여야는 예산 배정을 놓고 치열한 공방을 벌일 것으로 예상된다. 민생 안정과 경제 활성화를 위한 예산 편성에 국민들의 관심이 집중되고 있다.",
+      "pub_date": "2026-10-31T23:48:25+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "러시아 장관 참석 반발로 G20 '가족사진' 촬영 취소",
+      "title": "러시아 장관 참석에 대한 항의로 G20 '가족사진' 촬영 취소",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아 장관의 G20 회의 참석에 대한 항의로 '가족사진' 촬영이 취소됐다. 이는 우크라이나 전쟁 이후 국제 사회에서 러시아의 입지가 위축되고 있음을 보여준다. 주요 20개국 간의 외교적 긴장 상태가 여전함을 시사한다.",
+      "summary": "러시아 장관의 참석에 대한 항의 시위로 주요 20개국(G20) 정상회의 '가족사진' 촬영이 전격 취소됐다. 이는 국제 외교 무대에서 러시아에 대한 서방 국가들의 강경한 입장을 보여준다. G20 회의의 상징적인 행사가 무산되면서 국제 정세의 긴장감이 고조되고 있다.",
       "pub_date": "2026-10-30T22:11:52+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "번햄의 부인에도 불구하고 국회의원들이 조기 총선에 대해 계속 언급하는 이유",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
-      "summary": "앤디 번햄 시장이 조기 총선 가능성을 부인했음에도 불구하고, 많은 국회의원들이 이에 대해 논의하고 있다. 이는 영국 정치권 내에서 조기 총선에 대한 기대감과 불안감이 공존하고 있음을 보여준다. 차기 총선 시기가 영국 정치의 주요 쟁점으로 떠오르고 있다.",
-      "pub_date": "2026-10-31T00:00:15+00:00"
+      "title": "싱크탱크, 생활 수준 하락으로 '고통스러운' 미래 경고",
+      "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "summary": "여러 싱크탱크가 다가올 몇 년간 생활 수준이 하락할 것이며 '고통스러운' 시기가 될 것이라고 경고했다. 이는 높은 인플레이션과 경기 둔화로 인한 경제적 어려움을 시사한다. 정부와 가계 모두 이에 대비해야 할 필요성이 강조되고 있다.",
+      "pub_date": "2026-10-29T13:19:24+00:00"
     },
     {
       "category": "정치",
       "outlet": "조선일보",
-      "title": "김정은의 '드론 협박', 스텔스 무인기 등 30종 공개",
-      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/10/31/TAMOZPSKXJFG5LKFDBTK3ISLJA/",
-      "summary": "북한 김정은이 스텔스 무인기 등 30종의 드론을 공개하며 '드론 협박'에 나섰다. 이는 북한의 비대칭 전력 강화와 한국 및 미국에 대한 위협을 고조시키는 행위다. 한반도 안보 환경에 심각한 영향을 미칠 것으로 분석된다.",
-      "pub_date": "2026-10-30T15:56:00+00:00"
+      "title": "북한, 13헥타르 초토화 주장 탄도 미사일 발사…군은 포착 후 발표 안 해",
+      "link": "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/M2FV6JY6MZBEHFLZP4ENQT752I/",
+      "summary": "북한이 13헥타르를 초토화할 수 있는 탄도 미사일을 발사했다고 주장했다. 우리 군은 이를 포착하고도 즉시 발표하지 않아 논란이 일고 있다. 북한의 도발에 대한 투명한 정보 공개와 안보 대응 체계에 대한 의문이 제기되고 있다.",
+      "pub_date": "2026-10-31T23:39:43+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "민주당 의원, 트럼프의 이란 전쟁 재개 계획 보도에 \"도대체 목표가 무엇인가?\" 질문",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQTdYbV9xSXNOOHZRWFZ1OHFrQ0xaM09LRm5DSmNjQzdOeTg2YmJDQlB3RjN5eDFydGViZnp0NTdHOXhkRnNMOGhPZ0FCNmNEM1lvWmsxa2R1SS1CaEhoYVBkOVhpc0pxdXNNQjhSU1k0NFlqZklSQk9RVHI2VEo1WGVZZTNaNUh4VWgyTFJYYzItaGlENjZPUldSNHliMkRUV2FaaHpManA5T21ON0VFaDF3WEYxZnEwLVVpQ1hWc1pQc0JXeXBDd1NiWE02Smt4SzZ2RU1TVHVnOThzTEdqRW40cw?oc=5",
-      "summary": "민주당 하원의원이 트럼프 전 대통령의 이란 전쟁 재개 계획 보도에 대해 의문을 제기했다. 그는 \"도대체 목표가 무엇인가?\"라며 강하게 비판했다. 이란과의 관계 재설정 가능성이 미국의 중동 정책에 중대한 변화를 가져올 수 있음을 시사한다.",
-      "pub_date": "2026-10-30T22:49:02+00:00"
+      "title": "판사, 전국 선거 관리인에 대한 법무부 압력 캠페인 중단 긴급 명령 발표",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3lBMGJMaXJVTFBCclFIVU5mdzg2QzZxMTZaRUo1ZVExTHFKZEhWS1NrZUhvNVZqcV9zbDduQUhlekI3M1JlSHVfLVZ2RlhSUVB1NlhIQ1A0aVE0azN4ZGw5RXV4SWRVV0JHS19iYlowSGc3WERrUWtfRGNQNnZZZU45ZUxnamNwYlU2azl4NmNKZ3ZGdUtYLUZVV2ZxYklJS2hkeA?oc=5",
+      "summary": "한 판사가 전국 선거 관리인들을 향한 법무부의 압력 캠페인을 중단시키는 광범위한 긴급 명령을 내렸다. 이는 선거 과정의 독립성과 공정성을 보호하기 위한 조치로 풀이된다. 다가오는 중간선거를 앞두고 중요한 법적 선례가 될 것으로 보인다.",
+      "pub_date": "2026-10-31T02:16:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 공화당 강세 지역 유세 취소 결정 돌연 번복",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHROb0hyOXRoZFIza1MtaE1yNmIwM0JCUjlUT19Db3FkcFBwSFlmTzVwd01CeXlOS082Mk40LXdUaEhSZnNSdlVQNENIQ0J5cFM0ekI5aGNBMXpCeVBFZnlmSV9Rc21McUR1eHM2dmdrOHBDbDBhcWZ2cDlHRGdnUDJMNDRXakl1T2dsaDVRRlh4NXo5SENGd3pwNTdYT1ZWMGJ0TUJEWWZlc0hMdUg0amNhaGQ2eTQ?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 공화당 강세 지역 유세 취소 결정을 갑자기 번복했다. 이는 중간선거를 앞두고 트럼프의 선거 전략에 혼선이 있거나 새로운 판단이 개입했음을 보여준다. 그의 행보가 선거 판세에 미칠 영향이 주목된다.",
-      "pub_date": "2026-10-31T00:04:23+00:00"
+      "title": "러시아 외무장관 참석 긴장 고조로 G20 단체 사진 촬영 취소",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWlpblZnbXJCV3RtTjdJUUQycnFFUUtvQW5YLWNYeVNwN0d5NnFRODZCdTR3aDh1YWdVb0xvY0J6OWZqOHphNXFXcTVxMlY1NW5fZGFiUnZ2NjQtZXNxRXJ0cmFieVF4bnZ1UGVWTzV4RVVaLThGNkp2aGplZmJMR0JTRS05WTlfWlo2eTFxRm4xYUdka2JJSGJPN2VITXUyUVRGUVJQeGYxS0JNX0lXQWp4c210Vm9iSlRCQUFia18wdw?oc=5",
+      "summary": "러시아 외무장관 참석을 둘러싼 긴장이 고조되면서 G20 정상회의 단체 사진 촬영이 취소되었다. 이는 국제 사회의 러시아에 대한 강경한 입장을 명확히 보여주는 상징적인 사건이다. 외교적 마찰이 심화되고 있음을 드러내며 국제 정세에 대한 우려를 증폭시키고 있다.",
+      "pub_date": "2026-10-31T01:12:05+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "'모든 곳에서 정말 걱정한다.' 상원 경합 지역 확대에 공화당의 고심 깊어져",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNF9aZnhXX2xYUlpWNnlwMzYtaUw2VXdKTlBReWIzSU42S0liWXZibHA5cDlSb3E3NTN5UThlYVdkNG1oSWYzaS1qLVlFYi03T1R6MlFYd3ZMN21MWXBlS1ItU2VkNVBndlhtOUxRT1ZIVGtjczdxa28yZDhIYWJiLTFRN0YxMEllMzh6TXRHZw?oc=5",
-      "summary": "상원 선거의 경합 지역이 예상보다 넓어지면서 공화당 내부의 우려가 커지고 있다. 이는 중간선거를 앞두고 공화당이 더 많은 자원과 노력을 투입해야 하는 상황에 놓였음을 의미한다. 선거 결과가 예상보다 예측 불가능할 수 있음을 시사한다.",
-      "pub_date": "2026-10-30T17:22:44+00:00"
+      "title": "멕시코 거주 미국인들, 중간선거 앞두고 민주주의의 미래에 대한 우려 공유",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3JEdktuRlVBS0RGbWJCMnFzVG1mQWRxYkpPMzFvZzJaZm9pd01qZDdycHVneDB3X2J0VFdMNDRGSkMxaVo5ZXU5ay1fU2xEUVRmR3RaNXhrbjlEazJjT2c3ME01SDF1WjdwYTJ3eEdYQjBURDNnMGdkelZPV0R1cnhnM0M2SDR3?oc=5",
+      "summary": "멕시코에 거주하는 미국 유권자들이 다가오는 중간선거를 앞두고 미국 민주주의의 미래에 깊은 우려를 표명하고 있다. 이들은 양극화된 정치 환경과 선거의 공정성에 대한 불안감을 나타냈다. 해외 거주 미국인들 사이에서도 자국 민주주의에 대한 깊은 성찰이 이루어지고 있음을 보여준다.",
+      "pub_date": "2026-10-31T17:00:15+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "바이낸스, 암호화폐 해커들이 63억 달러 훔쳐가 인출 중단",
-      "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "summary": "암호화폐 거래소 바이낸스가 해킹으로 63억 달러(약 8조원) 규모의 암호화폐를 도난당했다. 이로 인해 바이낸스는 모든 암호화폐 인출을 일시 중단했다. 이번 사건은 역대 최대 규모의 암호화폐 해킹 사건으로, 암호화폐 시장에 큰 충격을 주었다.",
-      "pub_date": "2026-10-30T15:16:55+00:00"
+      "title": "바이낸스 63억 달러 해킹 사건, 암호화폐 시장의 위험한 새 시대 서막",
+      "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "summary": "세계 최대 암호화폐 거래소 바이낸스에서 발생한 63억 달러 해킹 사건이 암호화폐 시장의 새로운 위험 시대를 예고하고 있다. 이번 해킹은 디지털 자산 보안에 대한 심각한 우려를 불러일으키고 있다. 앞으로 암호화폐 산업은 더 강력한 보안 조치와 규제 강화에 직면할 것으로 전망된다.",
+      "pub_date": "2026-10-30T21:17:37+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "미국 3분기 국내총생산(GDP) 3.4% 증가",
-      "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-      "summary": "미국의 3분기 국내총생산(GDP)이 3.4% 증가하며 견조한 경제 성장을 기록했다. 이는 당초 예상치를 뛰어넘는 수치로, 경제 회복에 대한 긍정적인 신호를 보낸다. 하지만 지속적인 인플레이션 압력은 여전히 우려 요인으로 작용하고 있다.",
-      "pub_date": "2026-10-29T21:10:38+00:00"
+      "title": "빅테크 기업들의 데이터 센터 확장이 현금 소진과 월스트리트의 우려를 낳고 있다",
+      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "summary": "거대 기술 기업들의 데이터 센터 구축 경쟁이 막대한 현금을 소진시키고 있으며 월스트리트 투자자들의 우려를 사고 있다. 인공지능(AI) 열풍으로 데이터 센터 수요가 급증했지만, 천문학적인 투자 비용이 수익성에 부담을 주고 있다. 이러한 대규모 투자가 장기적인 성장으로 이어질지 시장의 관심이 쏠리고 있다.",
+      "pub_date": "2026-10-31T00:03:24+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "도어대시, 인스타카트 170억 달러에 인수하며 두 배달 거대 기업 합병",
-      "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-      "summary": "배달 서비스 기업 도어대시가 경쟁사인 인스타카트를 170억 달러(약 22조원)에 인수하기로 합의했다. 이번 합병으로 두 거대 배달 기업이 하나로 통합되며 시장 지배력이 크게 강화될 전망이다. 배달 시장의 경쟁 구도에 상당한 변화를 가져올 것으로 예상된다.",
-      "pub_date": "2026-10-29T18:52:07+00:00"
+      "title": "메타, 소셜 미디어 중독 소송 합의로 재판 회피",
+      "link": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+      "summary": "페이스북 모회사 메타(Meta)가 소셜 미디어 중독 관련 소송에서 합의에 도달하여 재판을 피하게 되었다. 이는 소셜 미디어가 사용자 정신 건강에 미치는 부정적 영향에 대한 책임을 인정한 것으로 해석된다. 빅테크 기업의 사회적 책임과 사용자 보호에 대한 논의가 더욱 활발해질 것으로 보인다.",
+      "pub_date": "2026-10-30T18:11:24+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "암호화폐 거대 기업 바이낸스, 북한 연계 해킹으로 도난당한 63억 달러 회수 시도 중",
+      "title": "암호화폐 대기업 바이낸스, 북한 연계 해킹으로 도난당한 63억 달러 회수 시도 중",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "암호화폐 거래소 바이낸스가 북한과 연계된 해킹으로 도난당한 63억 달러(약 8조원) 규모의 자금을 회수하려 노력 중이다. 이 사건은 암호화폐 시장의 보안 취약성을 다시 한번 드러냈다. 국제 사회는 북한의 사이버 범죄 활동에 대한 경각심을 높이고 있다.",
+      "summary": "세계적인 암호화폐 거래소 바이낸스가 북한과 연계된 해킹으로 도난당한 63억 달러(약 8조 6천억 원) 규모의 암호화폐를 회수하려 노력 중이다. 이는 역사상 최대 규모의 암호화폐 해킹 사건으로, 북한의 사이버 범죄 능력을 여실히 보여준다. 이번 사건은 글로벌 금융 안보와 국가 안보에 대한 심각한 위협으로 인식되고 있다.",
       "pub_date": "2026-10-30T21:13:14+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "구글 가치 5천억 달러 급락, 자체 AI 검색이 광고 판매에 타격",
+      "title": "구글, 자체 AI 검색 기능이 광고 매출에 타격 주며 5천억 달러 가치 폭락",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "summary": "구글의 시장 가치가 자체 개발한 인공지능(AI) 검색 기능이 광고 매출에 부정적인 영향을 미치면서 5천억 달러(약 650조원) 급락했다. AI 기술 발전이 기존 비즈니스 모델에 미치는 영향을 여실히 보여준다. 기술 혁신이 기업 가치에 예상치 못한 방식으로 작용할 수 있음을 시사한다.",
+      "summary": "구글의 시장 가치가 자체 인공지능(AI) 검색 기능 도입으로 인한 광고 매출 감소 우려로 5천억 달러(약 680조 원) 급락했다. 이는 AI 기술이 기업의 핵심 수익 모델에 예상치 못한 방식으로 영향을 미칠 수 있음을 보여준다. 기술 혁신이 기존 사업 모델에 미치는 파급 효과에 대한 경고로 해석된다.",
       "pub_date": "2026-10-30T12:04:02+00:00"
     },
     {
       "category": "경제",
-      "outlet": "CNN",
-      "title": "미국 경제 성장 가속화, 인플레이션 4개월 최고치 기록",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2dDaUY0S3VjZEwzQm8xQ1JaS21qS05DTmJiTTdMQ05PUmFMaTlRSk1DN0dZbU5ZMXVZSE5QUTNEMy10WlgwczMwQ25rU3RMVThDQWUyTldDVWt3cERrTmhNYzR1T3o0dWJyZVdmUVdVa09kOXpWMkFZTXhRaVpVdWVmT2Y5X0tqUUl1UkhDLU9mbW9ocWxEcjlIUE80UnA0VngxeVQtcWg?oc=5",
-      "summary": "미국 경제가 빠르게 성장하고 있으나 인플레이션은 4개월 만에 최고치를 기록했다. 이는 강한 경제 활동과 함께 물가 상승 압력이 동시에 존재함을 보여준다. 연방준비제도(Fed)의 통화 정책 결정에 복합적인 요인으로 작용할 전망이다.",
-      "pub_date": "2026-10-30T15:09:20+00:00"
+      "outlet": "서울경제",
+      "title": "FBI, 북한이 가상화폐 63억 달러 탈취 배후이며 이더리움으로 전환했음을 발표",
+      "link": "https://www.sedaily.com/article/20108634",
+      "summary": "미국 연방수사국(FBI)이 북한이 63억 달러(약 8조 6천억 원) 규모의 가상화폐 탈취 사건의 배후이며, 탈취 자금을 이더리움으로 전환했다고 공식 발표했다. 이는 북한의 국가 주도 사이버 범죄 능력이 심각한 수준임을 다시 한번 확인시켜준다. 이번 발표로 국제 사회의 대북 제재 및 사이버 안보 대응 강화 논의가 가속화될 것으로 예상된다.",
+      "pub_date": "2026-10-31T22:55:31+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "바이낸스 해킹, 보안 문제 제기",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmtObmk5S3pfczktNHEtV2ZIaE5CV0VtMHdnOGNNWGR2WkRqZGI4YzJNclF1a2Z3Q2dDNUYyRFBPQzN4RG5aWF9LZmJfZmhSZ0NXbGlCMFNBLTUxU2RlNW01SWtjMDVkMFNDQnhQLWdVVkk3Q3pwdGxIWHJTbmxmUEg1OVlVUW9TRmJlRHVKZzVtS011bzg4cjIzM2dIM2k0UjIwTE1vNGJDbWdBMGNnS0Vqc2psNUV4aXkySg?oc=5",
-      "summary": "암호화폐 거래소 바이낸스 해킹 사건으로 인해 암호화폐 보안에 대한 심각한 의문이 제기되었다. 이번 대규모 해킹은 사용자 자산 보호의 중요성을 강조한다. 업계 전반의 보안 강화 노력이 시급함을 보여준다.",
-      "pub_date": "2026-10-30T21:51:43+00:00"
-    },
-    {
-      "category": "경제",
-      "outlet": "CNN",
-      "title": "거대 석유 기업들 막대한 수익 창출, 트럼프 같은 주주들은 이익 얻고 시민들은 높은 유가 부담",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sd0x3WGpwQ3hLWF8wVVNkS3FxMThzcnNUSUV6WHZ6Uzhpd0lQZ080Tm14aGxSbzJ1MXgxbmxNTDVOejltY3BHb1V1aTNjaWMwRk1uUmkycEVTMWFUSTJrYTZIeURIYlhXY2dfRjJENUZSQ0FoM1I1V2szcHM?oc=5",
-      "summary": "주요 석유 기업들이 막대한 이익을 거두고 있으며, 도널드 트럼프 같은 주요 주주들이 배당금을 받고 있다. 하지만 일반 소비자들은 계속되는 높은 유가로 고통받고 있다. 이는 에너지 기업의 이윤과 소비자 부담 간의 불균형을 보여주는 사례다.",
-      "pub_date": "2026-10-30T11:56:22+00:00"
+      "title": "트럼프, 공화당 강세 지역 마지막 유세에서 자신에게 집중",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjRMZXFRRmNFbWMzai1hUmpXQVpnVFlYWGRWUF9jNUFMbGljcjg2RTZSRC1tVXdIM3p3cEFRb2pYQnRPTGhQemRWSUJxdXNBZW1KeVk1UkJxb1diWjNRR3NzYXFFS3h2eHlkcmF5RVJwWUlGZUM1OE9iekRKZFNyYXloLS1wb19Q?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 공화당 지지세가 강한 지역에서 마지막 유세 일정을 소화하며 자신에게 초점을 맞췄다. 그의 연설은 주로 자신의 업적과 정치적 메시지를 강조하는 데 할애되었다. 이는 다가오는 선거에서 유권자들에게 강력한 개인 브랜드를 각인시키려는 전략으로 해석된다.",
+      "pub_date": "2026-10-31T16:30:34+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "우주를 넘어 클라우드까지 확장하는 스페이스X, 매출 단숨에 10위권 진입",
-      "link": "https://zdnet.co.kr/view/?no=20261031074349",
-      "summary": "일론 머스크의 스페이스X가 우주 사업을 넘어 클라우드 서비스 분야로 사업을 확장하며 빠르게 성장했다. 그 결과 매출이 단숨에 글로벌 기업 순위 10위권에 진입했다. 이는 스페이스X가 단순한 우주 기업을 넘어 다각적인 기술 기업으로 도약하고 있음을 보여준다.",
-      "pub_date": "2026-10-30T22:43:49+00:00"
+      "title": "삼성 사장단, 샘 올트먼과 인공지능 미래 전략 논의",
+      "link": "https://zdnet.co.kr/view/?no=20261031160238",
+      "summary": "삼성 사장단이 오픈AI의 샘 올트먼 최고경영자와 만나 인공지능(AI)의 미래 전략에 대해 논의했다. 이번 회동은 AI 기술 발전 방향과 삼성의 AI 투자 계획을 심도 깊게 모색하는 자리였다. 글로벌 AI 시장에서 삼성의 입지를 강화하고 미래 성장 동력을 확보하려는 노력으로 풀이된다.",
+      "pub_date": "2026-10-31T07:08:02+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "10월 D램 가격 5.7% 상승, 낸드 가격 보합세 전환",
-      "link": "https://zdnet.co.kr/view/?no=20261030163628",
-      "summary": "10월 D램 가격이 5.7% 상승하며 반도체 시장의 회복세를 보였다. 반면 낸드 가격은 보합세로 전환되며 안정세를 찾았다. 이는 글로벌 IT 수요 증가와 함께 메모리 반도체 시장의 긍정적인 변화를 시사한다.",
-      "pub_date": "2026-10-30T11:00:07+00:00"
+      "title": "나스닥 급락에 오픈AI도 흔들…인공지능 투자 열기 식을까",
+      "link": "https://zdnet.co.kr/view/?no=20261031124538",
+      "summary": "최근 나스닥 증시의 급락세가 이어지면서 인공지능(AI) 분야의 선두 주자인 오픈AI까지 영향을 받고 있다. 이는 과열되었던 AI 투자 열기가 식어가는 신호일 수 있다는 우려를 낳고 있다. AI 기술의 발전 속도와 시장의 현실적 평가 사이에서 균형점을 찾아야 할 시점이라는 분석이 나온다.",
+      "pub_date": "2026-10-31T03:48:45+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "'최악의 하루' 구글 알파벳, 하루 만에 시가총액 670조 원 증발, 주가 13% 폭락",
-      "link": "https://www.etnews.com/20261030000077",
-      "summary": "구글의 모회사 알파벳이 하루 만에 시가총액 670조 원이 증발하고 주가가 13% 폭락하는 '최악의 하루'를 경험했다. 이는 거대 기술 기업의 실적 부진과 미래 성장에 대한 우려가 시장에 반영된 결과다. 기술주 전반에 대한 투자 심리 위축으로 이어질 수 있다.",
-      "pub_date": "2026-10-30T01:01:07+00:00"
+      "title": "챗GPT 조언 믿고 뇌전증약 끊은 미국 30대 여성 사망, 오픈AI 피소",
+      "link": "https://www.etnews.com/20261030000098",
+      "summary": "미국에서 30대 여성이 챗GPT의 조언을 믿고 뇌전증약을 중단했다가 사망하는 사건이 발생하며 오픈AI가 피소되었다. 이번 사건은 인공지능(AI) 정보의 신뢰성과 안전성 문제에 대한 심각한 경고음을 울린다. AI 서비스 제공 기업의 책임 범위와 윤리적 가이드라인 마련이 시급하다는 목소리가 커지고 있다.",
+      "pub_date": "2026-10-31T08:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "전자신문",
-      "title": "현대차그룹, 새만금 9조 원 규모 인공지능(AI) 밸리 본격화: 데이터센터 착수 및 현장 사무소 개소",
-      "link": "https://www.etnews.com/20261030000197",
-      "summary": "현대차그룹이 새만금에 9조 원을 투자하여 인공지능(AI) 밸리 조성 사업을 본격화했다. 데이터센터 착공과 현장 사무소 개소를 통해 사업 추진에 박차를 가하고 있다. 이는 국내 AI 인프라 확충과 미래 모빌리티 기술 개발에 중요한 역할을 할 것으로 기대된다.",
-      "pub_date": "2026-10-30T04:17:42+00:00"
+      "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동하며 인공지능 협력 논의",
+      "link": "https://www.etnews.com/20261031000037",
+      "summary": "최태원 SK그룹 회장이 오픈AI의 샘 올트먼 최고경영자와 오찬 회동을 갖고 인공지능(AI) 분야 협력 방안을 논의했다. 이번 만남은 SK그룹의 AI 사업 확대 의지를 보여주는 동시에 글로벌 AI 생태계에서의 협력 가능성을 모색하는 자리였다. 국내 주요 기업과 세계적 AI 선두 주자 간의 협력이 앞으로 어떤 시너지를 낼지 주목된다.",
+      "pub_date": "2026-10-31T08:57:59+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
       "title": "인텔, PC 사업 우려로 1982년 이후 최대 주가 하락 기록",
       "link": "https://www.bloter.net/news/articleView.html?idxno=677385",
-      "summary": "인텔 주가가 개인용 컴퓨터(PC) 사업 부진에 대한 우려로 1982년 이후 최대 낙폭을 기록했다. 이는 PC 시장의 변화와 인텔의 시장 대응 전략에 대한 투자자들의 불안감을 반영한다. 반도체 산업 전반에 미치는 영향이 주목된다.",
+      "summary": "세계적인 반도체 기업 인텔이 PC 사업에 대한 우려로 1982년 이래 최대 폭의 주가 하락을 기록했다. 이는 PC 시장의 침체와 AI 반도체 경쟁 심화가 복합적으로 작용한 결과로 분석된다. 전통 강자인 인텔이 새로운 기술 패러다임 변화 속에서 중대한 도전에 직면했음을 보여준다.",
       "pub_date": "2026-10-31T07:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "포스코퓨처엠, LG에너지솔루션과 손잡고 7년간 72만 톤 규모 LFP 배터리 사업 확장",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=677353",
-      "summary": "포스코퓨처엠이 LG에너지솔루션과 협력하여 LFP(리튬인산철) 배터리 사업을 대폭 확장한다. 향후 7년간 72만 톤 규모의 양극재를 공급할 예정이다. 이는 전기차 시장의 핵심 소재인 LFP 배터리 공급망 강화에 기여할 전망이다.",
-      "pub_date": "2026-10-30T17:47:28+00:00"
+      "title": "바이낸스, 사상 최대 규모 가상자산 해킹에 암호화폐 업계 전체 긴장",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=677383",
+      "summary": "세계 최대 암호화폐 거래소 바이낸스가 사상 최대 규모의 가상자산 해킹 공격을 받으면서 암호화폐 업계 전체가 긴장하고 있다. 수십억 달러에 달하는 피해액은 디지털 자산의 보안 취약성을 다시 한번 부각시켰다. 이번 사건은 암호화폐 시장의 신뢰도 하락과 함께 규제 강화의 목소리를 더욱 키울 것으로 예상된다.",
+      "pub_date": "2026-10-31T09:00:00+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "북한 해킹 조직, 인공지능(AI)으로 사이버 공격 고도화: 한국 겨냥 피싱 문서 대량 제작",
+      "title": "인공지능 투자 불안정으로 오픈AI, 자금 조달 목표 100억 달러 축소",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/31/HUCCV4FEERBRTIOJXFCSK3HYQA/",
+      "summary": "인공지능(AI) 시장의 투자 불안정성이 커지면서 오픈AI가 당초 목표했던 100억 달러의 자금 조달 규모를 축소했다. 이는 AI 분야에 대한 투자가 이전만큼 활발하지 않을 수 있다는 신호로 해석된다. 거품론과 함께 AI 기술의 실질적인 수익 창출 능력에 대한 회의론이 대두되고 있다.",
+      "pub_date": "2026-10-31T05:13:42+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "조선비즈 IT/Tech",
+      "title": "북한 해킹 조직, 인공지능으로 사이버 공격 고도화…한국 겨냥 대량 피싱 문서 제작",
       "link": "https://biz.chosun.com/it-science/ict/2026/10/30/XJB3TNIZZNGQTIMPEXHXJEFBCM/",
-      "summary": "북한 해킹 조직이 인공지능(AI) 기술을 활용하여 사이버 공격을 고도화하고 있다. 특히 한국을 겨냥한 피싱 문서를 대량으로 제작하며 위협 수위를 높였다. 이는 국가 안보에 심각한 위협이 되며, 사이버 방어 체계 강화가 시급하다.",
+      "summary": "북한 해킹 조직이 인공지능(AI) 기술을 활용해 사이버 공격을 고도화하고 있는 것으로 나타났다. 특히 한국을 겨냥한 피싱 문서를 대량으로 제작하여 유포하고 있어 각별한 주의가 요구된다. AI를 이용한 사이버 위협이 현실화됨에 따라 국가 및 기업 차원의 강력한 방어 체계 구축이 시급하다.",
       "pub_date": "2026-10-30T06:28:30+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "조선비즈 IT/Tech",
-      "title": "삼성, 첫 스마트 글래스 올해 12월 중순 한국과 미국에서 최초 출시 예정",
-      "link": "https://biz.chosun.com/it-science/ict/2026/10/30/SOVGN3EDPVFKXCCGBIL6B7RQHM/",
-      "summary": "삼성이 첫 스마트 글래스를 올해 12월 중순 한국과 미국 시장에 먼저 출시할 예정이다. 이는 삼성의 새로운 웨어러블 기기 시장 진출을 알리는 중요한 발표다. 증강현실(AR) 기술 기반의 차세대 기기가 소비자들에게 어떤 반응을 얻을지 주목된다.",
-      "pub_date": "2026-10-30T05:58:12+00:00"
+      "outlet": "NYT",
+      "title": "인공지능 거품 논란 가열, 우리는 이제 곧 알게 될 것",
+      "link": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
+      "summary": "인공지능(AI) 기술에 대한 막대한 투자와 기대가 과도한 거품으로 이어지고 있는지에 대한 논란이 가열되고 있다. 전문가들은 이제 곧 AI 시장의 현실이 드러날 것이라고 전망한다. 기술 발전과 시장 평가 사이의 균형점을 찾는 것이 중요한 시점이다.",
+      "pub_date": "2026-10-30T10:00:25+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "바이낸스, 암호화폐 해커들이 63억 달러 훔쳐가 인출 중단",
-      "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-      "summary": "암호화폐 거래소 바이낸스가 해킹으로 63억 달러(약 8조원) 규모의 암호화폐를 도난당했다. 이로 인해 바이낸스는 모든 암호화폐 인출을 일시 중단했다. 이번 사건은 역대 최대 규모의 암호화폐 해킹 사건으로, 암호화폐 시장에 큰 충격을 주었다.",
-      "pub_date": "2026-10-30T15:16:55+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "NYT",
-      "title": "인텔 주가 20% 폭락, 인공지능(AI)이 일부 사업 부문에 걸림돌로 작용",
+      "title": "인텔 주가, 인공지능이 일부 사업에 지장을 주면서 20% 급락",
       "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-      "summary": "인텔의 주가가 20% 폭락하며 기업 가치에 큰 타격을 입었다. 이는 인공지능(AI) 기술 발전이 인텔의 일부 핵심 사업 부문에 부정적인 영향을 미쳤기 때문이다. 전통적인 반도체 기업들이 급변하는 AI 시대에 직면한 도전을 보여준다.",
+      "summary": "인텔의 주가가 인공지능(AI) 기술 발전이 일부 핵심 사업에 부정적인 영향을 미칠 것이라는 우려 속에 20% 급락했다. 이는 AI 시대의 도래가 기존 기술 기업들에게 새로운 도전과 사업 구조 재편을 요구하고 있음을 보여준다. 전통적인 반도체 강자인 인텔이 시장 변화에 어떻게 대응할지 관심이 쏠린다.",
       "pub_date": "2026-10-29T21:17:41+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "구글, 자체 인공지능(AI) 검색이 광고 매출에 타격 주며 기업 가치 5천억 달러 급락",
+      "title": "북한 '정예' 해커들, 대규모 바이낸스 해킹의 주요 용의자로 지목된 이유",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "북한의 '정예' 해커들이 대규모 바이낸스 해킹 사건의 주요 용의자로 지목된 배경과 이유가 분석되고 있다. 이들은 자금 조달을 위해 고도화된 사이버 공격 능력을 지속적으로 활용해왔다. 이번 사건은 북한의 사이버 위협이 전 세계 금융 시스템에 미치는 심각성을 다시 한번 일깨우고 있다.",
+      "pub_date": "2026-10-31T02:12:19+00:00"
+    },
+    {
+      "category": "IT/과학",
+      "outlet": "BBC",
+      "title": "구글 가치, 자체 인공지능 검색 기능이 광고 매출에 타격을 주며 5천억 달러 급락",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "summary": "구글의 기업 가치가 자체 개발한 인공지능(AI) 검색 기능으로 인해 광고 매출이 감소하면서 5천억 달러(약 650조원) 급락했다. 이는 AI 기술이 기존 핵심 비즈니스 모델에 미치는 광범위한 영향을 보여준다. 기술 변화가 기업의 시장 지배력에 직접적인 영향을 줄 수 있음을 시사한다.",
+      "summary": "구글의 시장 가치가 자체 개발한 인공지능(AI) 검색 기능이 기존 광고 매출에 부정적인 영향을 미칠 수 있다는 우려로 5천억 달러나 급락했다. 이는 AI 기술이 혁신을 가져오면서도 기업의 기존 수익 모델에 예상치 못한 도전을 제기할 수 있음을 보여준다. 기술 발전과 비즈니스 모델 재편의 복합적인 과제에 직면한 구글의 향방이 주목된다.",
       "pub_date": "2026-10-30T12:04:02+00:00"
     },
     {
       "category": "IT/과학",
-      "outlet": "BBC",
-      "title": "암호화폐 거대 기업 바이낸스, 역사상 최대 규모로 추정되는 63억 달러 해킹 피해",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "세계 최대 암호화폐 거래소 바이낸스가 역사상 최대 규모로 추정되는 63억 달러(약 8조원) 규모의 해킹 피해를 입었다. 이 사건은 암호화폐 시장 전체에 대한 보안 우려를 증폭시켰다. 디지털 자산의 안전성에 대한 근본적인 질문을 던진다.",
-      "pub_date": "2026-10-30T09:33:51+00:00"
+      "outlet": "CNN",
+      "title": "과학자들, 수십 년 된 생명 기원 이론이 틀렸을 수도 있다고 주장",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVXMzVk1RQk9KbDlBUm15UHJ1cC1WdXQ4SDM2ekdQNm5FYTNxSTlJYlNyZEI2SmRHN3J5UEFxb0VyVHVIUjlPeXE4cFotcUU5bnJjWWdoUjFUZnBtTFpyTW9LMEJfa3dqd0tnV1picnI2MlF2dXgwOHl1LTF4UW8?oc=5",
+      "summary": "과학자들이 수십 년간 정설로 받아들여져 온 생명 기원 이론이 틀렸을 가능성이 있다고 주장했다. 새로운 연구 결과와 증거들이 기존 이론의 재평가를 요구하고 있다. 이는 생명의 시작에 대한 우리의 이해를 근본적으로 바꿀 수 있는 중대한 과학적 발견으로 주목된다.",
+      "pub_date": "2026-10-31T10:00:36+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "해커들, 역사상 최대 규모 암호화폐 강탈: 60억 달러 이상 도난",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkN5ZkJxbjFmNFNyemFtazNGOEZXOHh6X1BPMWdSVzZ3NUxrODhKbjNXV1hhZEtxdFNIOXIzcXJaX1NjZERpeXVVelBJeHR6X0QxTGFmYmt2R25jV29TQ3VmNmFrWk5YOFBYX2NkQURUcFUyOFdHbGYzUk9ibEJhV3F3MXB5RTdpLWpDcTNzMUVPOUJRaC1KVUFYSnRNVERmdlp3NERsSjc3Q2s?oc=5",
-      "summary": "해커들이 60억 달러(약 7조 8천억 원) 이상을 훔쳐 역사상 최대 규모의 암호화폐 강탈 사건을 벌였다. 이 사건은 암호화폐 거래소의 취약한 보안 시스템을 드러냈다. 디지털 자산 시장의 신뢰도에 치명적인 타격을 입혔다.",
-      "pub_date": "2026-10-30T10:04:20+00:00"
+      "title": "정부들, 시민들에게 식량과 물 비축 촉구…그 배경은?",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2NtYTJDWnlVbUQxNzh6dzNvVzdzTjJzS25GMTczdTdqSW9tOEpTWG5KOEprTWFRaC03ZGtlbnpMRkNlTjRmYUgwelZSM0RCUE5kTEdFUVpIcEFRVFRURDBFVVh0bFVXdHJkaWZHMkIxLXlLTDFEdFRVYklBMkE0N3l6WVZqMElYd0RGcUJ0clFqd3hFOWx5eHJQZVl0a0pISlJkTHVscDFNMUpN?oc=5",
+      "summary": "전 세계 여러 정부가 시민들에게 식량과 물을 비축하도록 촉구하고 있어 그 배경에 관심이 쏠린다. 이는 팬데믹, 기후 변화, 지정학적 불안정 등 다양한 위기 상황에 대비하기 위한 조치로 해석된다. 불확실성이 커지는 시대에 정부의 비상 대비 전략에 대한 논의가 활발해지고 있다.",
+      "pub_date": "2026-10-31T15:08:50+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "도하의 글로벌 관점: 인공지능(AI)이 모든 것을 변화시킬 것인가?",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFRIZUo2TE8wdXhuUlY5dmxFb1oya0MxR0x3LXhqa1FmRDBaOUlScTBXendhTDYtQXNCa09MZFJsS1Y0c3pDYWxzSXpIMFAwSU53MTduQ0tsc0pwckpMLXNQN0Q3Mng0XzJUY082QTc1TGNkdHJ2MEZoRXk3YkNDeHkwLUw3VDhSX0g5NnV1NUh3UE8weUY0c1I4NWJsNkt3ZUQ3aWlwSElLNkxEeGVKREEwVkF0MldQNVFyejRVMlRBMUN2WThRQjdhRV9yQQ?oc=5",
-      "summary": "카타르 도하에서 열린 '글로벌 관점' 포럼에서 인공지능(AI)이 세상 모든 것을 변화시킬 것인지에 대한 논의가 이루어졌다. AI가 사회, 경제, 문화를 비롯한 전반적인 분야에 미칠 영향에 대한 깊이 있는 통찰을 제공했다. AI 시대의 미래와 도전 과제를 탐색하는 자리였다.",
-      "pub_date": "2026-10-30T10:08:28+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "CNN",
-      "title": "로봇이 온다",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORW0xdGJUOExMaXNXOUdGd0N6dWJuX0VQS2lFbkctR2ZKYlZ0dk5zcmo1WjQ2aDhlM24wc1AySklUWi1aOGpSemJidUdTS0FqamdxcVJQNi1UREk5cUQzRUFWSXU4ZEFfN2wwREVNM2hVNUFhQnc1MHE0M3l5RERwTXNaMmo1R3FCQU5IaHJ5VV9VcGRYdHZ2d3dzbGVsbnYxc01GR1pnTW53UEJNT0dHbC03QlJNSFFjUXk2UWtEbWs0MEk2Y09WaVlLVUxZYjhhTFJLM2tfZFZTaTg2RFE5MDU0MTB5WC1yUURLWkthU216XzBjU2NpMV92aDQtNTdTSFg5SHFlcC14QjkxUVVPWWxNdWllRGxrYmFJ?oc=5",
-      "summary": "'로봇이 온다'는 제목으로 로봇 기술의 발전과 그로 인한 사회적 변화에 대한 심층 보도가 이루어졌다. 로봇이 산업 현장뿐만 아니라 일상생활 곳곳으로 확산될 가능성을 다뤘다. 미래 사회에서 로봇과 인간의 공존 방식에 대한 질문을 던진다.",
-      "pub_date": "2026-10-30T05:49:36+00:00"
+      "title": "트럼프, 중간선거 유세 막바지에 목소리 상태 '49.2%' 발언",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFZPZjNBYWtNU0h5UVd1NGxiQ01XQzFYXzU0SzA1Q2RPSVoydzI1QzNOdVVCTjBSVFZCRklKQmpVUVFoeWVidzJnTDh2b3ZmQWozZzZlYTFPaTM1dlptU3VRalAwcENTaGh6YU4tT1BUc2ZQb0J4WHJjNHA4T0Q4Ty1BVE1NckRrTEMwdg?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 중간선거 유세 막바지에 자신의 목소리 상태가 '49.2%'에 달한다고 발언했다. 이는 그의 유세 강행군이 막바지에 이르렀음을 암시하는 동시에 특유의 화법을 보여준다. 선거 결과에 대한 그의 자신감과 피로감을 동시에 드러내는 발언으로 해석된다.",
+      "pub_date": "2026-10-31T01:00:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "우크라이나인들, 지하 가스관 안에서 러시아군과 전투 벌여: 현장 방문기",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-      "summary": "우크라이나 군인들이 러시아군과 지하 가스관 내부에서 전투를 벌이는 전례 없는 상황이 보도되었다. 이는 우크라이나 전쟁의 새로운 전술적 양상을 보여준다. 전쟁의 참혹함과 특이한 전투 환경을 생생하게 전달한다.",
-      "pub_date": "2026-10-30T20:40:51+00:00"
+      "title": "FBI, 북한 해커들이 수십억 달러를 훔쳤으며 이는 처음이 아니라고 발표",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+      "summary": "미국 연방수사국(FBI)이 북한 해커들이 수십억 달러를 훔쳤으며 이러한 대규모 절도가 처음이 아니라고 밝혔다. 이는 북한이 핵무기 개발 자금을 마련하기 위해 지속적으로 사이버 범죄를 저지르고 있음을 시사한다. 국제 사회의 사이버 안보 강화와 대북 제재 이행의 중요성이 더욱 강조되고 있다.",
+      "pub_date": "2026-10-31T23:05:42+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "이스라엘 총선 최종 결과, 명확한 승자 없어",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-      "summary": "이스라엘 총선 최종 결과, 그 어떤 정당이나 연합도 과반 의석을 확보하지 못해 명확한 승자가 나타나지 않았다. 이는 이스라엘 정치의 불안정성과 연립 정부 구성의 어려움을 예고한다. 향후 정치적 교착 상태가 장기화될 가능성이 있다.",
-      "pub_date": "2026-10-30T15:02:51+00:00"
+      "title": "“우리는 지옥에서 왔다”: 우크라이나 도시 피난민들의 생존 이야기",
+      "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+      "summary": "러시아 점령 지역에서 탈출한 우크라이나 도시 피난민들이 “우리는 지옥에서 왔다”며 참혹한 생존 이야기를 전했다. 이들의 증언은 전쟁의 비극과 민간인들이 겪는 고통을 생생하게 보여준다. 국제 사회는 전쟁의 종식과 인도주의적 지원 확대의 필요성을 다시금 인식하고 있다.",
+      "pub_date": "2026-10-31T21:43:34+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "크렘린에 저항했던 러시아 언론사 폐쇄: \"그들이 우리를 죽였다\"",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "summary": "크렘린에 맞서 독립적인 보도를 해왔던 러시아의 한 뉴스 매체가 결국 폐쇄되었다. 해당 언론사 관계자는 \"그들이 우리를 죽였다\"며 당국의 압력을 비난했다. 이는 러시아 내 언론 자유의 심각한 위축을 보여주는 상징적인 사건이다.",
-      "pub_date": "2026-10-30T19:09:14+00:00"
+      "title": "폴란드, 대법원 장악 둘러싼 대치 상황에 진압 경찰 투입",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+      "summary": "폴란드 정부가 대법원 장악을 둘러싼 대치 상황에서 진압 경찰을 투입했다. 이는 사법부 독립을 침해하려는 정부 시도에 대한 강력한 반발을 보여준다. 폴란드 내 민주주의와 법치주의에 대한 우려가 고조되고 있으며 유럽연합(EU)의 개입 가능성도 제기된다.",
+      "pub_date": "2026-10-31T18:06:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "카니, 캐나다를 유럽연합(EU)의 첫 '준회원국'으로 만들겠다고 공언",
-      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "summary": "캐나다의 마크 카니가 캐나다를 유럽연합(EU)의 첫 '준회원국'으로 만들겠다는 구상을 발표했다. 이는 북미와 유럽 간의 경제 및 정치적 연대를 강화하는 중대한 변화를 의미한다. 양측의 협력 관계가 새로운 차원으로 발전할 수 있음을 시사한다.",
-      "pub_date": "2026-10-30T21:08:01+00:00"
+      "title": "영국 총리, 노예제도 공식 사과 가능성 시사",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
+      "summary": "영국 총리가 역사적 노예제도에 대한 공식적인 사과 가능성을 시사했다. 이는 과거 식민주의와 노예 무역의 잔재를 청산하고 인종 차별 문제를 해결하려는 노력의 일환으로 풀이된다. 이 발언은 국내외에서 뜨거운 논쟁을 불러일으킬 것으로 예상된다.",
+      "pub_date": "2026-10-31T09:19:30+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "트럼프와 그의 측근들, 볼소나루의 브라질 탈출 및 미국 입국 지원",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-      "summary": "도널드 트럼프 전 미국 대통령과 그의 측근들이 자이르 볼소나루 전 브라질 대통령의 브라질 탈출과 미국 입국을 도왔다는 보도가 나왔다. 이는 국제적인 정치 스캔들로 비화될 가능성이 있다. 미국과 브라질 양국의 정치적 파장에 이목이 집중된다.",
-      "pub_date": "2026-10-29T18:53:47+00:00"
+      "title": "엘살바도르 부켈레 대통령, 아이티의 구원자가 될 수 있을까?",
+      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "summary": "엘살바도르의 나이브 부켈레 대통령이 극심한 혼란을 겪는 아이티의 치안 위기를 해결할 구원자가 될 수 있을지에 대한 논의가 활발하다. 그는 강력한 대규모 범죄 소탕으로 자국 치안을 안정시킨 경험이 있다. 하지만 부켈레식 접근법이 인권 침해 논란을 일으킨 만큼, 아이티에 적용될 경우 예상되는 파장에도 이목이 쏠린다.",
+      "pub_date": "2026-10-31T00:51:38+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "미국, 우크라이나에 패트리엇 미사일 500기 판매 승인",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 정부가 우크라이나에 패트리엇 미사일 500기 판매를 승인했다. 이는 러시아와의 전쟁 중인 우크라이나의 방공 능력 강화에 크게 기여할 전망이다. 서방의 우크라이나에 대한 지속적인 군사 지원 의지를 보여주는 사례다.",
-      "pub_date": "2026-10-30T22:20:52+00:00"
+      "title": "“우리는 지옥에서 돌아왔다”, 러시아 점령 최전선 도시의 우크라이나인들 증언",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "러시아에 점령되었던 최전선 도시에서 탈출한 우크라이나인들이 “우리는 지옥에서 돌아왔다”며 비극적인 경험을 털어놓았다. 이들의 증언은 전쟁의 참상과 민간인이 겪는 극심한 고통을 다시금 상기시킨다. 국제 사회는 전쟁 피해자들에 대한 인도주의적 지원을 확대하고 평화 정착을 위한 노력을 지속해야 할 것이다.",
+      "pub_date": "2026-10-31T19:22:26+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "암호화폐 거대 기업 바이낸스, 북한 연계 해킹으로 도난당한 63억 달러 회수 시도 중",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "summary": "암호화폐 거래소 바이낸스가 북한과 연계된 해킹으로 도난당한 63억 달러(약 8조원) 규모의 자금을 회수하려 노력 중이다. 이 사건은 암호화폐 시장의 보안 취약성을 다시 한번 드러냈다. 국제 사회는 북한의 사이버 범죄 활동에 대한 경각심을 높이고 있다.",
-      "pub_date": "2026-10-30T21:13:14+00:00"
+      "title": "콩고민주공화국 에볼라 최악의 발병으로 5천명 이상 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "콩고민주공화국에서 발생한 에볼라 바이러스 최악의 발병 사태로 5천명 이상의 사망자가 발생했다. 이는 해당 지역의 공중 보건 시스템에 심각한 부담을 주고 있다. 국제 보건 기구들은 확산 방지와 백신 보급을 위한 긴급 지원을 촉구하고 있다.",
+      "pub_date": "2026-10-31T15:16:20+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "러시아 장관 참석 반발로 G20 '가족사진' 촬영 취소",
+      "title": "글로벌 자연 보호 회담 합의 도달, 그러나 자금 문제가 여전히 걸림돌",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "전 세계 자연 보호 회담에서 주요 합의에 도달했지만, 목표 달성을 위한 충분한 자금 확보가 여전히 난제로 남아있다. 이는 생물 다양성 보전과 기후 변화 대응에 필요한 재원 마련의 어려움을 보여준다. 각국 정부와 국제 기구의 적극적인 재정 기여가 시급하다는 목소리가 커지고 있다.",
+      "pub_date": "2026-10-31T01:27:05+00:00"
+    },
+    {
+      "category": "세계",
+      "outlet": "BBC",
+      "title": "러시아 장관 참석 항의로 G20 '가족 사진' 촬영 취소",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아 장관의 G20 회의 참석에 대한 항의로 '가족사진' 촬영이 취소됐다. 이는 우크라이나 전쟁 이후 국제 사회에서 러시아의 입지가 위축되고 있음을 보여준다. 주요 20개국 간의 외교적 긴장 상태가 여전함을 시사한다.",
+      "summary": "러시아 장관 참석에 대한 항의 시위가 발생하자 주요 20개국(G20) 정상들의 '가족 사진' 촬영 행사가 취소되었다. 이는 국제 외교 무대에서 러시아에 대한 서방 국가들의 불편한 시선을 상징적으로 보여준다. 이번 사건은 G20 회의의 분위기를 냉각시키며 국제 정세의 긴장감을 드러냈다.",
       "pub_date": "2026-10-30T22:11:52+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "시진핑, 중국 정치 회의에서 '당 기율' 강조하며 기록적인 숙청 단행",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "중국 시진핑 주석이 정치 회의에서 '당 기율'을 강조하며 기록적인 수의 숙청을 단행했다. 이는 시진핑의 권력 공고화와 당내 반대 세력 척결 의지를 보여준다. 중국 공산당의 내부 통제가 더욱 강화되고 있음을 시사한다.",
-      "pub_date": "2026-10-30T03:24:12+00:00"
-    },
-    {
-      "category": "세계",
-      "outlet": "BBC",
-      "title": "베네수엘라 야권 지도자 마리아 마차도, 귀국 후 선거 요구",
-      "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "summary": "베네수엘라 야권 지도자 마리아 마차도가 귀국 직후 정부에 즉각적인 선거를 요구했다. 이는 베네수엘라의 정치적 위기와 민주주의 회복에 대한 강력한 의지를 보여준다. 마차도의 복귀가 베네수엘라 정국에 중대한 변화를 가져올지 주목된다.",
-      "pub_date": "2026-10-29T21:05:03+00:00"
+      "title": "암호화폐 기업 바이낸스, 63억 달러 해킹 손실의 90% 보전 발표",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "암호화폐 거래소 바이낸스가 63억 달러 규모의 해킹 피해 손실 중 90%를 보전했다고 발표했다. 이는 사용자 자산 보호를 위한 신속한 조치로, 시장의 신뢰를 회복하려는 노력을 보여준다. 그러나 나머지 손실 보전과 향후 보안 강화 방안에 대한 관심은 여전히 높다.",
+      "pub_date": "2026-10-31T22:11:45+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "전 나토 사무총장, 푸틴과 우크라이나 문제 논의",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWVPbmpud0FZZklreUFJalEtSGY1UWV3cU1Pem90YjljN0FXVXVNUW43OXhMUXFET1VnNUpLUWV6LWtpbHluaFgxVndrMVBaNUUyS0txeHFfa2NiekxvamVudnAxRlVMNV9DLWw2a1gxLUJoNmQ2S09lVFo5SjVzb05DN0hMRUlDaHcxSkptOGRrQUdfRnd3LWRKZjhRV1VqWHN4cHBydktLblZWanNSSg?oc=5",
-      "summary": "전 나토 사무총장이 블라디미르 푸틴 러시아 대통령과 우크라이나 전쟁에 대해 심도 있게 논의했다. 이는 우크라이나 분쟁의 복잡성과 국제 사회의 지속적인 우려를 보여준다. 국제 안보 전문가의 분석은 사태 해결의 실마리를 찾는데 중요한 시사점을 제공한다.",
-      "pub_date": "2026-10-30T21:49:39+00:00"
+      "title": "각국 정부, 시민들에게 식량과 물 비축 촉구…그 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFRTVkZVU0Rza2FUdmlJc1NMcWhvdlZPdG1JajhKOHlvN3ZYbV9JWG1LY0ZQUFZ1dU9WQ2RIZFRwQ1pUZmw5bl9TNlFEdDR2WjhsdC1nVDlXalZzWnNJdVBDNkd6b29oLWhfY3hpejZYT3BBLXFHT0RBOHFyUmdOdmRKd0JiVkhWeUlUZUpTMHJvZi1zX2prLWRTUVhrY0RLOVlBeEpCSQ?oc=5",
+      "summary": "세계 각국 정부가 시민들에게 식량과 물을 비축하도록 촉구하고 있어 그 배경에 관심이 쏠린다. 이는 자연재해, 전염병, 지정학적 불안정 등 예상치 못한 위기 상황에 대비하기 위함이다. 불확실한 미래에 대한 각국 정부의 비상 대비 태세 강화 움직임으로 해석된다.",
+      "pub_date": "2026-10-31T15:08:50+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "도하의 글로벌 관점: 인공지능(AI)이 모든 것을 변화시킬 것인가?",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFRIZUo2TE8wdXhuUlY5dmxFb1oya0MxR0x3LXhqa1FmRDBaOUlScTBXendhTDYtQXNCa09MZFJsS1Y0c3pDYWxzSXpIMFAwSU53MTduQ0tsc0pwckpMLXNQN0Q3Mng0XzJUY082QTc1TGNkdHJ2MEZoRXk3YkNDeHkwLUw3VDhSX0g5NnV1NUh3UE8weUY0c1I4NWJsNkt3ZUQ3aWlwSElLNkxEeGVKREEwVkF0MldQNVFyejRVMlRBMUN2WThRQjdhRV9yQQ?oc=5",
-      "summary": "카타르 도하에서 열린 '글로벌 관점' 포럼에서 인공지능(AI)이 세상 모든 것을 변화시킬 것인지에 대한 논의가 이루어졌다. AI가 사회, 경제, 문화를 비롯한 전반적인 분야에 미칠 영향에 대한 깊이 있는 통찰을 제공했다. AI 시대의 미래와 도전 과제를 탐색하는 자리였다.",
-      "pub_date": "2026-10-30T10:08:28+00:00"
+      "title": "우크라이나 점령지 마을에서 수개월간 식량 없이 지낸 가족들 재회",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VpLVZneDB6VWJuQ0lsR2lpWFhOWUtjNHdyU3JLZkpiZzhZYTQyb3MxUy1paGNZWE8zVUFXel9Jbk9LUG5IY1YtM0VFVV9IU01idU9aMF9feTYtUmRma3RmZ2Zzc3NrVHBiM2VveXkyVjRxcDNRand6OGNVVnRKb2N1ZlpkakVBRktOempwTmZRa3JnRXRmc0ltQTZiZFhuakVmNWlrNEY0RF9XZFpuU1JicXJHSkY5UTNsV2s3SEk5QQ?oc=5",
+      "summary": "러시아 점령 하의 우크라이나 마을에서 수개월 동안 식량 부족에 시달리던 가족들이 극적으로 재회했다. 이들의 재회는 전쟁의 비극 속에서도 희망의 메시지를 전하지만, 점령지 주민들의 고통스러운 현실을 여실히 보여준다. 인도주의적 지원의 시급성과 전쟁 종식의 필요성이 더욱 강조된다.",
+      "pub_date": "2026-10-31T21:22:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "도하의 글로벌 관점: 로봇이 온다",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdExOSFNyb2lDQVVQaU5COVY4elhwT0hwcFlmcTBiLXk5RnlacVYwVkdBY3l3d2pueFpKaUpPbGNMT19pVlFHN2JXUmh3aXRZZ0o5SmJfT0ZVemJlZlFsRUZsRE1yeURKa3lmSEpucWRZc2YzbUlQNnc3QkFfRWgyUFBaWTF1OGJKX3VlSlBMeDZiaExHTUUxQ2FMN0trNklEN0hPcFZn?oc=5",
-      "summary": "카타르 도하의 '글로벌 관점' 포럼에서 '로봇이 온다'는 주제로 로봇 기술의 현재와 미래에 대한 논의가 진행되었다. 로봇이 인간의 삶과 산업에 미칠 혁신적인 변화와 윤리적, 사회적 과제를 다뤘다. 자동화 시대의 도래를 예고하며 심층적인 분석을 제공했다.",
-      "pub_date": "2026-10-30T05:49:36+00:00"
+      "title": "악명 높은 해커, 바이낸스 해킹 과정 설명",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXg0d0ZFRDVvY1pxY3J1M2tmV0doNHh5MW9uMDNrZ1VIcUg2V3FqNmRzTWFaSDVveHg4OWpvOERyQ3VYbUdKai1jczdsQ3E4MHBHeGJiNy1XYVZWWU8yRTA3ZWV1U2E4WDRzbnVzTVlPR242TVpqWUV0c1RVVGpTWlJZVk5xcnY0QWtqLU95bw?oc=5",
+      "summary": "세계 최대 암호화폐 거래소 바이낸스 해킹 사건과 관련하여 악명 높은 한 해커가 해킹 과정을 상세히 설명했다. 그의 설명은 복잡한 해킹 수법과 디지털 자산 보안의 취약점을 드러냈다. 이는 암호화폐 사용자들과 기업들에게 보안 강화의 중요성을 다시 한번 일깨우는 계기가 되고 있다.",
+      "pub_date": "2026-10-31T15:49:00+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "도하의 글로벌 관점: 할리우드를 넘어서",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekNGSl9Yb3pZM0MxcHlmbDhQZ21HNDZSYWxfNDFDampTN0swdzdhSFdrSzEtTzBjM1dFWmdEQU9yX1dfa19zS3JUalV2cDVxVUx4NEI0Nk9WYVlQeG9hNEFocXB6TGdKXzUtbUl0S1Q0bElQS0J3Y1VvRnBlZXNLRktNMExibU5ORXZnRmwwYVVfaGJ5QUU4ZmJGdDhPdzNOQ1E?oc=5",
-      "summary": "카타르 도하의 '글로벌 관점' 포럼에서 '할리우드를 넘어서'라는 주제로 세계 영화 및 미디어 산업의 미래가 논의되었다. 할리우드 중심의 시각에서 벗어나 다양한 문화권의 콘텐츠 발전 가능성을 탐색했다. 글로벌 미디어 시장의 다변화와 새로운 성장 동력을 조명하는 자리였다.",
-      "pub_date": "2026-10-30T15:52:16+00:00"
+      "title": "교황 레오, 미국 대학 농구 스타들을 바티칸으로 초청 환영",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElvNjVIUjNORG5aN2tDWVduLWdqQ2M1RXZxY0xVay1BZlNHNFk3TktuVDJLYWYwQjNMVXl3NGpSdDJsa0xsSmpMVkVvN2NBVEdHZ1BrU1B3V2lPV3NRRnNpZkhLcWlhenZCTFZtMGltbFRvQ0czeWx1ZThNUi1RYUszS3ZsY2hVYkZ4Zkc4Q0FETXIxODFYMHNJNEE0dk5NaHV2cTNZVlotRUlSbXZ0LXBJMFJGRWJaZzNTNQ?oc=5",
+      "summary": "교황 레오가 미국 대학 농구 스타들을 바티칸으로 초청하여 환영했다. 이는 종교와 스포츠를 넘어선 문화 교류의 장을 마련한 것으로 평가된다. 젊은 세대와의 소통을 통해 종교의 사회적 역할을 확장하려는 교황청의 노력을 보여준다.",
+      "pub_date": "2026-10-31T15:03:06+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "도하의 글로벌 관점: 판돈을 올리다 (위험을 높이다)",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzV6Z1pFN2JyV3Z2cG5JMnR4OXFQTXI1U2VEWU5DbnU3STg1Ti02dFJObFNCTVZGcDRWc195VWpPbHBEWF83dWtUUDVjV0h3QmFMdkhuTC1IWnpRRndLVkwzTkR6MUtlU21wTk5VczY1SDdESzdGWUoyMTJrMWk1NzI2Y1hMYkhTbC1zMkc2eHQ1MnQ4UE5FTmVqWWF3UWZqeXp0dQ?oc=5",
-      "summary": "카타르 도하 '글로벌 관점' 포럼에서 '판돈을 올리다'는 주제로 국제 정세의 위험과 도전이 심화되고 있음에 대한 논의가 진행되었다. 경제, 정치, 안보 등 다양한 분야에서 높아지는 불확실성을 분석했다. 전 세계적인 협력과 리더십의 중요성을 강조하는 자리였다.",
-      "pub_date": "2026-10-30T01:30:45+00:00"
+      "title": "과학자들, 수십 년 된 생명 기원 이론이 틀렸을 수도 있다고 주장",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVXMzVk1RQk9KbDlBUm15UHJ1cC1WdXQ4SDM2ekdQNm5FYTNxSTlJYlNyZEI2SmRHN3J5UEFxb0VyVHVIUjlPeXE4cFotcUU5bnJjWWdoUjFUZnBtTFpyTW9LMEJfa3dqd0tnV1picnI2MlF2dXgwOHl1LTF4UW8?oc=5",
+      "summary": "과학자들이 수십 년간 정설로 여겨져 온 생명 기원 이론이 잘못되었을 가능성이 있다고 주장하고 나섰다. 새로운 연구 결과들이 기존 학설에 대한 재검토를 요구하며 논의를 촉발하고 있다. 이는 생명의 탄생에 대한 인류의 이해를 근본적으로 변화시킬 잠재력을 가진 중요한 과학적 진전이다.",
+      "pub_date": "2026-10-31T10:00:36+00:00"
     }
   ]
 }
