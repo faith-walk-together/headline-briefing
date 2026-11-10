@@ -1,421 +1,405 @@
 {
-  "last_updated": "2026-11-09T00:32:31.025122+00:00",
+  "last_updated": "2026-11-10T03:16:12.795244+00:00",
   "articles": [
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "당정, 소방 필수 투자에 2조 원 재정 지원 및 지방 부담 완화 검토",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836202&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "정부와 여당은 소방 분야 필수 투자에 2조 원의 재정 지원을 약속했습니다. 이를 통해 지방의 재정 부담을 덜어줄 방안도 검토 중입니다. 이는 최근 '소방 빨대' 논란에 대한 대책으로 풀이됩니다.",
-      "pub_date": "2026-11-08T11:37:00+00:00"
+      "title": "대통령, \"미 중간선거 이후 대외 환경 변화에 대비해 실용 및 국익 외교에 집중할 것\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838761&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "윤석열 대통령은 미국 중간선거 이후 변화할 국제 정세에 대응하여 외교 정책의 전환을 예고했습니다. 대외 환경 변화를 면밀히 분석하고, 국익을 최우선으로 하는 실용 외교에 집중하겠다고 밝혔습니다. 이는 미국 정치 변화가 한국 외교에 미칠 영향을 주시하며 선제적으로 대응하려는 의지로 풀이됩니다.",
+      "pub_date": "2026-11-10T02:17:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "SBS",
-      "title": "북한 김성남, 중국 중앙당교 참관 후 귀국…고위급 연쇄 회동",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835905&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "북한 김성남 중앙당 비서가 중국 중앙당교 참관을 마치고 귀국했습니다. 그는 닷새간 중국 고위급 인사들과 연쇄적으로 회동했습니다. 이번 방문은 북중 관계 강화에 대한 의지를 보여주는 것으로 해석됩니다.",
-      "pub_date": "2026-11-08T06:35:00+00:00"
+      "title": "국민의힘, 청와대 앞에서 의원총회 열고 '조작 기소 의혹 특검법' 거부권 행사 압박",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838759&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "국민의힘은 청와대 앞에서 의원총회를 개최하여 '조작 기소 의혹 특검법'에 대한 대통령의 거부권 행사를 강하게 촉구했습니다. 당은 해당 특검법이 야당의 정치적 공세에 불과하며, 사법 정의를 훼손할 수 있다고 주장했습니다. 이는 여야 간의 첨예한 법안 대립과 정치적 갈등이 심화되고 있음을 보여줍니다.",
+      "pub_date": "2026-11-10T02:11:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프와 미국, 명확한 선거 판결에도 불확실한 미래 직면",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
-      "summary": "도널드 트럼프 전 대통령과 미국은 중간선거에서 명확한 결과를 얻었음에도 여전히 불투명한 미래에 직면했습니다. 트럼프는 공화당 내부에서 비판에 직면했지만 자신의 방식대로 나아가려 합니다. 미국 정치 지형이 어떻게 변화할지 주목됩니다.",
-      "pub_date": "2026-11-08T16:25:45+00:00"
+      "title": "트럼프, 중간선거 결과에 의문 제기하며 '조작된 선거' 주장 재점화",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+      "summary": "도널드 트럼프 전 대통령이 중간선거 결과에 대해 다시금 의문을 제기하며 '선거 조작' 주장을 되풀이했습니다. 이는 미국 정치의 분열을 심화시키고, 선거 시스템에 대한 신뢰를 약화시킬 수 있다는 우려를 낳고 있습니다. 그의 주장은 향후 미국 정치 지형과 다음 대선에 큰 영향을 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-11-09T18:37:12+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "트럼프, 이란 전쟁 해결 위한 어려운 선택지 고심 중",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "summary": "도널드 트럼프 전 대통령이 이란 전쟁을 해결하기 위한 여러 어려운 선택지를 신중하게 검토하고 있습니다. 여기에는 외교적 해결책과 더불어 군사적 압박 강화 등 다양한 가능성이 포함됩니다. 이는 중동 정세와 국제 관계에 중대한 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-11-08T23:49:53+00:00"
+      "title": "새롭게 재편된 워싱턴으로 돌아온 의회, 불확실한 의제 속 활동 시작",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
+      "summary": "중간선거로 인해 권력 지형이 재편된 미국 의회가 워싱턴으로 복귀했으나, 향후 입법 의제가 불분명한 상황입니다. 여야 간의 치열한 대치와 협력 부족으로 인해 주요 법안 처리와 국정 운영에 난항이 예상됩니다. 이는 새롭게 시작될 의회 임기가 순탄치 않을 것임을 시사합니다.",
+      "pub_date": "2026-11-09T23:46:18+00:00"
     },
     {
       "category": "정치",
       "outlet": "NYT",
-      "title": "세계 최고 외교관 자리를 향한 혼란스러운 경쟁",
-      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-      "summary": "세계 최고 외교관 자리를 놓고 치열하고 혼란스러운 경쟁이 펼쳐지고 있습니다. 각국은 자국의 이익을 대변할 최적의 인물을 세우기 위해 물밑 작업을 벌이고 있습니다. 이 과정은 국제 외교의 미래 향방을 결정하는 중요한 분기점이 될 것입니다.",
-      "pub_date": "2026-11-08T14:33:49+00:00"
+      "title": "민주당, 선거 승리 후 조사할 계획 발표",
+      "link": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
+      "summary": "민주당은 중간선거 승리 이후 자신들이 계획하고 있는 주요 조사 목록을 발표했습니다. 이 조사들은 주로 트럼프 행정부의 정책과 관련 인사들의 비리 의혹에 초점을 맞출 것으로 예상됩니다. 이는 향후 미국 정치권에서 민주당이 주도할 강력한 견제와 대립을 예고합니다.",
+      "pub_date": "2026-11-09T22:44:37+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "당정, 소방 필수 투자에 2조 원 재정 지원…지방 부담 완화 검토",
-      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261108192338D8J",
-      "summary": "정부와 여당은 소방 분야 필수 투자에 2조 원을 지원하기로 했습니다. 이는 지방 정부의 재정 부담을 덜어주기 위한 조치도 포함됩니다. 최근 '소방 빨대' 논란에 대한 근본적인 해결책을 마련하려는 움직임입니다.",
-      "pub_date": "2026-11-08T10:23:41+00:00"
+      "title": "군용 무인기, 훈련 중 김포 공원에 추락하여 사고 원인 조사 중",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110114725XRS",
+      "summary": "군용 무인기가 훈련 도중 김포의 한 공원에 추락하는 사고가 발생하여 군 당국이 정확한 원인을 조사하고 있습니다. 다행히 인명 피해는 없었지만, 민간 지역에서의 군사 장비 추락은 안전 문제에 대한 우려를 높이고 있습니다. 국방부는 재발 방지를 위한 대책 마련을 약속했습니다.",
+      "pub_date": "2026-11-10T02:47:26+00:00"
     },
     {
       "category": "정치",
       "outlet": "연합뉴스",
-      "title": "북한 김성남, 닷새간 중국 고위급 회동…북중 정상회담 조율했나",
-      "link": "https://www.yonhapnewstv.co.kr/news/MYH20261108192854pyh",
-      "summary": "북한 김성남 중앙당 비서가 중국 고위급 인사들과 닷새간 회동했습니다. 그의 중국 방문은 북중 관계 심화와 함께 양국 정상회담을 조율하기 위한 것 아니냐는 관측이 나옵니다. 북한과 중국 간의 긴밀한 교류가 주목됩니다.",
-      "pub_date": "2026-11-08T10:28:56+00:00"
+      "title": "대통령, \"법을 어기며 이익을 취하는 집단이 존재한다\"며 전수 조사 지시",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261110113921q0C",
+      "summary": "윤석열 대통령이 법을 위반하며 부당한 이익을 취하는 집단에 대해 철저한 전수 조사를 지시했습니다. 이는 사회 전반의 불법 행위와 부패를 척결하고, 공정한 법 집행을 강조하려는 의도로 풀이됩니다. 이번 지시로 광범위한 분야에서 강도 높은 조사가 이루어질 것으로 예상됩니다.",
+      "pub_date": "2026-11-10T02:39:22+00:00"
     },
     {
       "category": "정치",
       "outlet": "BBC",
-      "title": "3년여 만에 금리 4% 인상…영국 경제에 파급 효과",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 중앙은행이 3년여 만에 기준 금리를 4%로 인상했습니다. 이는 높은 인플레이션을 억제하기 위한 조치로 풀이됩니다. 이번 금리 인상은 주택 대출 및 전반적인 경제 활동에 상당한 영향을 미칠 것으로 예상됩니다.",
-      "pub_date": "2026-11-05T17:09:55+00:00"
-    },
-    {
-      "category": "정치",
-      "outlet": "BBC",
-      "title": "미국 선거 결과 후, 총리 물가 안정에 집중할 때라고 밝혀",
+      "title": "미국 선거 결과 후, 총리 생활비 문제에 집중할 때라고 언급",
       "link": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
-      "summary": "미국 선거 결과 발표 후, 영국 총리가 이제 생계비 문제 해결에 집중해야 할 때라고 강조했습니다. 전 세계적인 경제 불안 속에서 자국민의 삶의 질을 개선하는 것이 최우선 과제임을 시사했습니다. 이는 총리의 향후 정책 방향에 영향을 미칠 것으로 보입니다.",
+      "summary": "영국 총리가 미국 중간선거 결과를 언급하며, 이제 국내 생활비 문제 해결에 집중할 시점이라고 밝혔습니다. 이는 글로벌 정치 상황 속에서도 자국민의 경제적 어려움을 최우선 과제로 삼겠다는 의지를 드러낸 것입니다. 정부는 물가 상승과 에너지 비용 부담 완화를 위한 추가 대책을 모색할 것으로 보입니다.",
       "pub_date": "2026-11-04T15:35:09+00:00"
     },
     {
       "category": "정치",
+      "outlet": "BBC",
+      "title": "영국은 유럽연합 단일 시장 협상을 선별적으로 취할 수 없다고 바르니에 전 협상가가 BBC에 발언",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "미셸 바르니에 전 유럽연합 협상가가 영국이 유럽연합 단일 시장 협상에서 '골라먹기'식 접근을 할 수 없다고 BBC에 밝혔습니다. 이는 영국이 브렉시트 이후에도 특정 분야에서만 유럽연합 규정을 따르려는 시도에 대한 분명한 경고입니다. 이번 발언은 영국과 유럽연합 간의 무역 관계 및 미래 협상에 중요한 영향을 미 미칠 것으로 예상됩니다.",
+      "pub_date": "2026-11-07T15:19:35+00:00"
+    },
+    {
+      "category": "정치",
       "outlet": "조선일보",
-      "title": "이용철 법무장관 후보자 두고 여야 공방…여 “법조 베테랑” 야 “대장동 설계자”",
-      "link": "https://www.chosun.com/politics/politics_general/2026/11/08/27MVZ2KSTNALLMASWKWYNB3EYA/",
-      "summary": "이용철 법무부 장관 후보자를 두고 여야가 치열한 공방을 벌이고 있습니다. 여당은 그를 '법조 베테랑'으로 옹호하는 반면, 야당은 '대장동 숨은 설계자'라고 비판하며 지명 철회를 요구하고 있습니다. 이번 인사는 정국 경색의 또 다른 뇌관이 될 전망입니다.",
-      "pub_date": "2026-11-08T05:26:31+00:00"
+      "title": "대통령, \"법 질서에 대한 무력 저항 사례를 전국적으로 점검해야 한다\"고 언급하며 특정 단체 겨냥 가능성 제기",
+      "link": "https://www.chosun.com/politics/blue_house/2026/11/10/YOKEKIKRZNEMFKN6XS4DV6TTA4/",
+      "summary": "윤석열 대통령이 법 질서를 무시하고 저항하는 사례들을 전국적으로 점검하라고 지시했습니다. 이는 특정 단체, 특히 사랑제일교회와 같은 과거 충돌 사례를 겨냥한 발언으로 해석될 수 있습니다. 정부의 법치주의 확립 의지를 보여주는 동시에, 향후 사회적 갈등 관리에 귀추가 주목됩니다.",
+      "pub_date": "2026-11-10T01:42:11+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "트럼프, 2028년에도 정치적 그림자 드리울 것이라 분석가 경고",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWms3OTVqLVhPMGRoX3hNdE0wWGw5THRUNzhHZl9SLVlZVElGazNTdWxVc2h1a2E1cWNYanV0TGZ1b0dVMW90WWVrSnBhYUtvTFh3a09FVndaems1Tkk5QlR1bkJ5dEx0RVlVbzhadHVIUmgyMGxUdzg3YzVxNW9oN0JfcGpPX2MtZTBfTDFDRjE5R253ZV8teGhHTmotdkdIRGdlYlVUVXlsUXpUV19yc3Vpb0E0ZDNkN0FrUURwOFo0a2FNZFE?oc=5",
-      "summary": "한 정치 분석가가 도널드 트럼프 전 대통령이 2028년 대선에도 강력한 정치적 영향력을 행사할 것이라고 경고했습니다. 그는 트럼프의 독특한 정치 스타일이 계속해서 미국 정치 지형에 큰 영향을 미칠 것으로 내다봤습니다. 이는 향후 미국 정치 판도를 예측하는 데 중요한 요소입니다.",
-      "pub_date": "2026-11-08T21:30:40+00:00"
+      "title": "트럼프, 선거 결과에 대한 입장 번복 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2JoRldEeGZ2eFJOU2RranBWdXhVV0xUc1JHeC1Jb0gzaGw4a2hkZE1ycnN0M2RmREQtdHRmMmRHYWdwX1hZMU53WXdNTUg5QjVwUGdXbGVieXgyMjFNR0VvendpRVBYYUNuUEE5ZWw5T1ZkQ1lsZVJQNVlRY3JRRTI3LURiOFhFT0h0VQ?oc=5",
+      "summary": "도널드 트럼프 전 대통령이 미국 중간선거 결과에 대한 자신의 입장을 바꾸며 혼란을 야기했습니다. 그는 선거 결과에 불복하는 듯한 발언을 했다가 다시 수용하는 모습을 보여 정치적 파장을 일으켰습니다. 이는 공화당 내부에서도 트럼프의 리더십과 향후 정치 행보에 대한 의문을 제기하고 있습니다.",
+      "pub_date": "2026-11-09T21:12:00+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "에즈라 클라인, 민주당의 놀라운 중간선거 성과 분석",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElZa2RFQnRVYUJVRXhUblIwalV0bm5hbnFNbXVJb2FZVkotWGd0RjBWTTFpb2RiRmtsdE1ZTDhlWC1lNk94TmI4bk5lcG9GcjlVSzRjWFdkenJmQzdiLTBXNDhfelpXTWNwM0dQZnd5QTJDb3phMk9sdjY0NkNpQVpsajR3enZYWnY4?oc=5",
-      "summary": "정치 평론가 에즈라 클라인이 민주당의 놀라운 중간선거 성과에 대해 심층 분석했습니다. 그는 민주당이 예상 밖의 선전을 펼친 배경과 주요 원인을 진단했습니다. 이번 분석은 미국 중간선거 결과의 의미를 이해하는 데 도움이 될 것입니다.",
-      "pub_date": "2026-11-08T17:20:03+00:00"
+      "title": "신임 민주당 의원들, 척 슈머를 지도자로 회의적인 시선 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2x5cnJPcWpxbW9MVlFZTWJJSUt3LU92bGl4ZlBJTzBWWWxYdFFwRFdGblg5UkRfeUdhQTZRV1puWUh5Znp3cEFVT2dKYUtxS2RwZVFERjBqVndhV3dYaURMN2JhOEpJVXNuNkljQzhCc2Y2dVVXTUhLdDM4R1lBaExjVW9VMTloTWRFOUFyZjlHblBhOUgzX1kxc1J2QWgyTDF1eHlHUDltZ0pz?oc=5",
+      "summary": "새로 당선된 민주당 의원들 사이에서 척 슈머 상원 원내대표의 리더십에 대한 회의적인 시각이 제기되고 있습니다. 이는 민주당 내부의 세대교체 요구와 함께 당의 미래 방향성에 대한 논의를 촉발할 수 있습니다. 당의 단결과 향후 입법 전략에 중요한 영향을 미칠 것으로 보입니다.",
+      "pub_date": "2026-11-09T06:35:39+00:00"
     },
     {
       "category": "정치",
       "outlet": "CNN",
-      "title": "UFC 데이나 화이트 대표, 트럼프의 대변인 제안 거절 소식",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdC1NYjVSRVVDSTNiV3lsNko4QWJyNzQ3ZEZBeWEwbXRaZkg5SnhyYVpfaWM4VGhjaGxnODZtWktSbUxiSWtiLUVtbVdWdVJRSXViM1BoYVA2VHNsYXFORmpkX1FhTGY5d3NiUW56cHFlQXQwTHpLX0U5VFhjOGQ0ck41UDFqc2R6YnNVWUdiSF9EcktpczJOaGhqRlJIVlFRRXR5NDI1TGtqWWo5TkZ2cWhJc0lZTGRqUHc?oc=5",
-      "summary": "UFC 데이나 화이트 대표가 도널드 트럼프 전 대통령의 대변인 제안을 거절했다고 소식통이 전했습니다. 트럼프 전 대통령의 파격적인 인선 시도였으나 성사되지 않은 것으로 보입니다. 이는 트럼프의 향후 인사 구상에 영향을 미 미칠 수 있습니다.",
-      "pub_date": "2026-11-08T11:51:49+00:00"
+      "title": "공화당 의원, 헤그세스 장관에 대한 탄핵 소추안 발의 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSU1WSVBLMUhjWU1kNlRiRUtNcHktcU1QSklsQXV6M3lBYXFwTjBTeGs4SFRya3E0TGdGNUJzUWhKdEJyaHNHeEx5V2JVUXNFdHlzTlRyVkl3UmRXUkZpUEx1bEpXd2VvWXlDZjJQU0hiY0JybWwwMmlZbkhmekpPSVlRTFp4MnQ1U1V2V1RDZnQ5ZmhLNmFDbWdGdkxJZXFaOUxnRUYySnVLcHE0c09jSjg1cV93SjRiNFE?oc=5",
+      "summary": "공화당 소속 매시 하원 의원이 피트 헤그세스 국방부 장관에 대한 탄핵 소추안을 발의했습니다. 이는 공화당 내부의 분열을 보여주는 동시에, 고위 관료에 대한 정치적 공격이 심화되고 있음을 시사합니다. 탄핵 추진이 실제 표결로 이어질 경우 상당한 정치적 논란을 불러일으킬 것입니다.",
+      "pub_date": "2026-11-09T22:53:11+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "AI 이용해 1억 2,900만 달러 이상 훔친 신종 범죄 발생",
-      "link": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-      "summary": "상사가 아닐 때: 인공지능(AI)을 이용해 1억 2,900만 달러 이상을 훔친 신종 사기 사건이 발생했습니다. 범죄자들은 AI 음성 기술을 사용하여 피해자들을 속여 거액을 가로챘습니다. 이는 AI 기술의 악용 가능성에 대한 심각한 경고음을 울리고 있습니다.",
-      "pub_date": "2026-11-08T23:34:09+00:00"
+      "title": "미국과 이란 간 평화 기대감에 유가 하락",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+      "summary": "미국과 이란 간의 평화 협상 재개에 대한 기대감이 커지면서 국제 유가가 하락했습니다. 이는 중동 지역의 긴장 완화가 글로벌 에너지 시장에 긍정적인 영향을 미칠 수 있음을 시사합니다. 유가 변동은 전 세계 경제와 소비자 물가에 직접적인 영향을 줄 것으로 예상됩니다.",
+      "pub_date": "2026-11-09T21:24:16+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "2조 5천억 달러 증발 후, 기술 투자자들 더 큰 고통 예상",
-      "link": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
-      "summary": "기술주 시장에서 2조 5천억 달러가 증발한 후, 기술 투자자들이 더 큰 고통을 예상하고 있습니다. 글로벌 경제 불확실성과 높은 인플레이션이 시장을 압박하고 있습니다. 이는 기술주 중심의 투자 전략에 대한 재고를 요구하고 있습니다.",
-      "pub_date": "2026-11-06T13:07:35+00:00"
+      "title": "넥스트에라와 도미니언의 대규모 합병, 전기 요금 불만 속 무산 위기 직면",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "summary": "에너지 기업 넥스트에라와 도미니언의 초대형 합병이 치솟는 전기 요금에 대한 대중의 불만으로 인해 무산될 위기에 처했습니다. 이는 기업의 이익 추구가 소비자의 부담 증가로 이어질 때 발생할 수 있는 대규모 반발을 보여줍니다. 합병 실패는 에너지 시장의 판도와 기업 전략에 큰 영향을 미 미칠 수 있습니다.",
+      "pub_date": "2026-11-09T15:18:30+00:00"
     },
     {
       "category": "경제",
       "outlet": "NYT",
-      "title": "테슬라, 사이버트럭 생산 종료하고 사이버캡에 집중",
-      "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
-      "summary": "테슬라가 사이버트럭 생산을 종료하고 사이버캡 개발에 역량을 집중할 예정입니다. 이는 테슬라의 미래 전략 변화를 보여주는 중요한 결정입니다. 자율주행 택시 서비스 시장 선점을 위한 움직임으로 해석됩니다.",
-      "pub_date": "2026-11-06T17:38:29+00:00"
+      "title": "미국 상무부의 메가스피드 조사, 엔비디아의 개입 후 중단",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "summary": "미국 상무부가 진행하던 메가스피드에 대한 조사가 엔비디아의 개입 이후 갑작스럽게 중단되었습니다. 이는 거대 기술 기업의 로비력이 정부 규제 과정에 미치는 영향에 대한 의문을 제기합니다. 이번 사건은 기업의 정치적 영향력과 정부의 독립성 문제를 다시 한번 부각시킬 수 있습니다.",
+      "pub_date": "2026-11-09T23:27:04+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "엔비디아, 젠슨 황 CEO의 중국 스파이 연루 의혹 조사 착수",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "summary": "엔비디아가 젠슨 황 최고경영자(CEO)의 중국 스파이 연루 의혹에 대한 내부 조사에 착수했습니다. 이는 엔비디아의 핵심 경영진과 관련된 민감한 사안으로, 기술 및 국가 안보에 미치는 영향이 주목됩니다. 이번 조사는 기업 이미지와 글로벌 공급망에도 영향을 줄 수 있습니다.",
-      "pub_date": "2026-11-09T00:16:49+00:00"
+      "title": "엔비디아 주가, 황 CEO의 중국 스파이 의혹 연루 조사로 폭락",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "summary": "엔비디아 주가가 젠슨 황 최고경영자(CEO)의 중국 스파이 의혹 연루에 대한 조사 소식에 폭락했습니다. 이 스캔들은 글로벌 기술 기업의 리더십 리스크와 지정학적 긴장이 복합적으로 작용하여 시장에 큰 충격을 주었습니다. 엔비디아는 이번 사태로 인해 기업 이미지와 사업 전반에 걸쳐 막대한 타격을 입을 것으로 예상됩니다.",
+      "pub_date": "2026-11-09T19:58:01+00:00"
     },
     {
       "category": "경제",
       "outlet": "BBC",
-      "title": "3년여 만에 금리 4% 인상…영국 경제 타격 우려",
+      "title": "3년여 만에 처음으로 금리 4%로 인상",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "summary": "영국이 3년여 만에 기준 금리를 4%로 인상하는 결정을 내렸습니다. 이는 높은 물가 상승에 대응하기 위한 강력한 조치로 평가됩니다. 하지만 주택 시장과 가계 경제에 상당한 부담을 줄 것이라는 우려도 커지고 있습니다.",
+      "summary": "중앙은행이 3년여 만에 처음으로 기준금리를 4%로 인상했습니다. 이번 금리 인상은 인플레이션을 억제하기 위한 조치로, 가계 대출 부담 증가와 기업 투자 위축 등 경제 전반에 광범위한 영향을 미 미칠 것으로 예상됩니다. 높은 금리 수준은 경제 성장 둔화와 경기 침체 가능성에 대한 우려를 증폭시키고 있습니다.",
       "pub_date": "2026-11-05T17:09:55+00:00"
     },
     {
       "category": "경제",
       "outlet": "서울경제",
-      "title": "보험설계사 근로자 인정 시 연 1.1조 부담…보험업계 우려 증폭",
-      "link": "https://www.sedaily.com/article/20111680",
-      "summary": "보험설계사를 근로자로 인정할 경우, 보험업계에 연간 1.1조 원의 추가 부담이 발생할 것으로 예상됩니다. 이는 보험사의 경영 환경에 큰 영향을 미칠 수 있어 업계의 우려가 커지고 있습니다. 법적 판단에 따라 고용 형태와 비용 구조에 근본적인 변화가 생길 수 있습니다.",
-      "pub_date": "2026-11-08T21:20:05+00:00"
+      "title": "엔비디아를 강타한 '스파이 및 지분 분할' 악재, 삼성전자와 SK하이닉스 HBM 공급망에 비상",
+      "link": "https://www.sedaily.com/article/20112278",
+      "summary": "엔비디아가 CEO의 스파이 의혹과 지분 분할 이슈라는 악재에 직면하면서, 고대역폭 메모리(HBM) 주요 공급사인 삼성전자와 SK하이닉스 공급망에 비상이 걸렸습니다. 엔비디아의 불확실성은 전 세계 인공지능(AI) 반도체 시장에 큰 파장을 일으키며, 국내 반도체 기업들의 실적에도 영향을 미칠 수 있습니다. 이는 글로벌 반도체 생태계의 복잡한 연관성을 보여주는 사례입니다.",
+      "pub_date": "2026-11-10T01:00:05+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "엔비디아, 젠슨 황 CEO의 외국 정보 관련 우려 조사 착수",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDZKWXR6NWRkSU1kLUV0M3FSOHpOYUtQWlV1OWVhUGN5Z3BraUg2d3BIdEJDZjBMMV9Ca3JBaEw5bWl4a0FPVFdGMWgwTEt3SUZtMnBkcU1MempFcGRwZVlXdmVfeGgtQm1sZW5zQVJMU29DczY5MjJ2WHF2cVo0M05pbw?oc=5",
-      "summary": "엔비디아가 젠슨 황 최고경영자(CEO)의 외국 정보 관련 우려에 대한 조사에 착수했습니다. 이는 글로벌 기술 기업의 리더십과 국가 안보 문제의 연관성을 보여주는 중대한 사건입니다. 이번 조사의 결과는 엔비디아뿐 아니라 반도체 산업 전반에 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-11-08T20:36:42+00:00"
+      "title": "엔비디아 주가, 젠슨 황 CEO 조사로 폭락 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjd1STlFVVdocVMyaDAzbjhBcDJuNVl4LVotRVBHWTVuS09pZ091aVNVN0xzci1wSHNPZTY3M0UzLW5JYmJ2cE1YRzYyZm9uM2lncGdnMlhYSGp6d24zcVU1T3d4T1NRMUFRZ1E4TzN3YmUtMV9wS2Fsb0JSdzRmSVlJNC1OVjFkSWZlTTF3VTAzWUk0eFpUTHo1Y0R2cEFpTnFMVy1FRWcyV2dxQUJHaUtDR1dOMlNjb3BRbQ?oc=5",
+      "summary": "엔비디아의 주가가 젠슨 황 최고경영자(CEO)에 대한 조사가 시작되면서 폭락했습니다. 이는 기업 리더십 리스크가 글로벌 기술 시장에 미치는 심각한 영향을 보여줍니다. 이번 사태는 엔비디아의 미래 사업 방향과 인공지능(AI) 산업 전반에 걸쳐 큰 불확실성을 안겨주고 있습니다.",
+      "pub_date": "2026-11-09T23:00:51+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "평화 회담 임박에도 푸틴, 우크라이나 경제 파괴 노력 강화",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNajVaREhfSG42bFFYVmxKVEtkRmJsR0dIVURUdDExQl9sNk9MTTBwSkJ5SmdnMVY1WklRdzhFeGFUS1UzSDIxdnNmeVhyMHBmSDN6T2RTdkxDajhZbWFyMDdrNzBYSXp2TFgzN1RhVVJmTDBhTTFEMC1rNnM5TUh2NUdxRzQzcThOdHJlek1NSG14MkdwMEZaUTJvNmNYQ0t4TkFzMFdjbE83ME50NlU5dzBFNy1XMGNxWjVKV2Z1QkxmX0FtV0l3RzFB?oc=5",
-      "summary": "새로운 평화 회담이 임박했지만, 블라디미르 푸틴 러시아 대통령은 우크라이나 경제를 파괴하기 위한 노력을 강화하고 있습니다. 러시아는 에너지 인프라 등에 대한 공격을 지속하며 우크라이나의 저항 의지를 꺾으려 합니다. 이는 평화 협상 전망을 더욱 불투명하게 만들고 있습니다.",
-      "pub_date": "2026-11-08T05:00:15+00:00"
+      "title": "노벨상 수상자 폴 크루그먼, \"인공지능(AI)이 경제 불평등을 심화시킨다\"고 경고 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmFjUTE3blFOWDEtRWNFdDFUelBQeHYzOHBHOEtxa21UNm1XX29TTVdDRGpuU1psMlI1bHhOVVhmS3VIcEM2a2ZuT3VtdUY4UzQtTElwX01vanBuUEFxd1R4cTJjRXVUcjF2MnBjSmJsNnVYcnpFanNESkxhWFpYRFFzWExLMUs4RFVj?oc=5",
+      "summary": "노벨 경제학상 수상자인 폴 크루그먼 교수가 인공지능(AI) 기술이 경제적 불평등을 더욱 강화하고 있다고 경고했습니다. 그는 AI의 발전이 노동 시장의 양극화를 심화시키고, 부의 집중을 초래할 수 있다고 지적했습니다. 이번 경고는 AI 기술의 사회적 영향에 대한 심도 깊은 논의와 정책적 개입의 필요성을 강조합니다.",
+      "pub_date": "2026-11-09T18:25:21+00:00"
     },
     {
       "category": "경제",
       "outlet": "CNN",
-      "title": "필라델피아, 친이스라엘 기업 대상 불매 운동에 맞서 대규모 반대 시위",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTIwSG8zbzV2TWc4NXBBcnZMZ0ZCaGt3YnZ3ZnAyQThoc3g3Z0JtMTBNcGgyMlBUczd3M080UUVVcnRuUnRndnFpNlJpTExpaldzWWJScjBtVExnVXBWZHdYMXRIZk1LX3JFaWMydWJnOFYxNWhvUzFkNE41X3QxSVpUQQ?oc=5",
-      "summary": "필라델피아에서 친이스라엘 기업들을 겨냥한 불매 운동에 맞서 수백 명의 반대 시위대가 모여 맞섰습니다. 이는 중동 분쟁이 미국 내 지역 사회 갈등으로 확산되고 있음을 보여줍니다. 시위대는 경제적 차별에 대한 우려를 표명했습니다.",
-      "pub_date": "2026-11-08T17:36:47+00:00"
+      "title": "휘발유 가격, 7월 이후 처음으로 갤런당 4달러 아래로 하락 임박 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jWlZEbFdQaTZmZW5NVXRQd0VyU3hGcF9HT3Fyb0RKLTE2alhwMTFVQThjaEtzM1JmMWd4NjJSdmIxVnh4LVAxODh5a0lLc3VabVJ6dktuSkU5NldtV1lXQU00Tk5qUDQ3RWlwTlYzX3AyNnVhR0dN?oc=5",
+      "summary": "미국 휘발유 가격이 지난 7월 이후 처음으로 갤런당 4달러 아래로 떨어질 것으로 예상됩니다. 이는 소비자들이 유류비 부담을 덜고, 전반적인 인플레이션 압력이 완화될 수 있다는 긍정적인 신호로 해석됩니다. 유가 하락은 연말 소비 활성화에도 기여할 것으로 기대됩니다.",
+      "pub_date": "2026-11-09T13:38:30+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "젠슨 황, 불륜 인정…엔비디아 이사회 자체 조사 착수",
-      "link": "https://zdnet.co.kr/view/?no=20261109083723",
-      "summary": "엔비디아의 젠슨 황 최고경영자(CEO)가 불륜 사실을 인정하며 이사회가 자체 조사에 착수했습니다. 이는 글로벌 반도체 업계를 이끄는 주요 인물의 사생활 논란으로 주목받고 있습니다. 이번 조사는 회사 이미지와 리더십에 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-11-08T23:58:17+00:00"
+      "title": "대통령, \"미국 중간선거 변화에 대비하여 반도체 및 인공지능(AI) 경쟁력 강화해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261110105033",
+      "summary": "윤석열 대통령이 미국 중간선거 이후 예상되는 국제 정세 변화에 대응하여, 한국의 반도체 및 인공지능(AI) 산업 경쟁력 강화를 지시했습니다. 이는 핵심 기술 분야에서 글로벌 리더십을 확보하고, 미래 산업의 주도권을 놓치지 않으려는 전략적 의지를 보여줍니다. 정부는 관련 부처에 구체적인 실행 방안 마련을 주문했습니다.",
+      "pub_date": "2026-11-10T01:50:33+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "ZDNet Korea",
-      "title": "한국 챗GPT 이용자 1,800만 명 돌파…이용 시간 2배 급증",
-      "link": "https://zdnet.co.kr/view/?no=20261108123102",
-      "summary": "한국에서 챗GPT 이용자 수가 1,800만 명을 넘어섰으며, 이용 시간도 두 배 이상 급증했습니다. 이는 인공지능(AI) 챗봇이 국내 일상과 비즈니스에 빠르게 침투하고 있음을 보여줍니다. AI 기술이 사회 전반에 미치는 영향력이 더욱 커질 것으로 예상됩니다.",
-      "pub_date": "2026-11-08T03:38:31+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "젠슨 황, 중국 스파이 연루 의혹 속 불륜 인정…엔비디아 이사회 조사 착수",
-      "link": "https://www.etnews.com/20261109000007",
-      "summary": "엔비디아 젠슨 황 CEO가 중국 스파이 연루 의혹과 함께 불륜을 인정한 것으로 알려지면서 이사회가 조사에 착수했습니다. 이는 글로벌 기술 기업의 수장에게 제기된 심각한 문제로, 기술 안보와 윤리적 책임에 대한 논란을 불러일으키고 있습니다. 조사 결과에 따라 큰 파장이 예상됩니다.",
-      "pub_date": "2026-11-08T22:01:10+00:00"
-    },
-    {
-      "category": "IT/과학",
-      "outlet": "전자신문",
-      "title": "TSMC, 메모리 반도체 사업 진출설 공식 부인…기존 파운드리 집중",
-      "link": "https://www.etnews.com/20261108000094",
-      "summary": "세계 최대 파운드리(반도체 위탁 생산) 기업인 TSMC가 메모리 반도체 사업 진출설을 공식 부인했습니다. TSMC는 앞으로도 기존 파운드리 사업에 역량을 집중할 것이라고 밝혔습니다. 이는 글로벌 반도체 시장의 지형 변화에 대한 중요한 신호로 해석됩니다.",
-      "pub_date": "2026-11-08T09:38:33+00:00"
+      "title": "[AI는 지금] 미국 인공지능(AI) 투자 주춤, 중국에 추격의 기회 열려",
+      "link": "https://zdnet.co.kr/view/?no=20261110095956",
+      "summary": "현재 미국 내 인공지능(AI) 투자가 다소 주춤하면서, 중국이 AI 기술 격차를 줄이고 추격할 수 있는 기회가 열리고 있습니다. 이는 글로벌 AI 기술 패권 경쟁의 지형이 변화하고 있음을 시사하며, 양국 간의 기술 투자 전략에 영향을 미칠 것입니다. 한국을 비롯한 다른 국가들의 AI 기술 개발 및 투자 전략에도 중요한 고려 사항이 될 것으로 보입니다.",
+      "pub_date": "2026-11-10T01:33:07+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "삼성, 현대차에 특별한 '러브콜'…170명 초청한 까닭",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=678059",
-      "summary": "삼성그룹이 현대차그룹 경영진 170여 명을 특별히 초청해 '러브콜'을 보냈습니다. 이는 두 국내 최고 대기업 간의 협력 강화 움직임으로 풀이됩니다. 미래 모빌리티 등 신사업 분야에서의 시너지 창출이 기대됩니다.",
-      "pub_date": "2026-11-08T16:38:27+00:00"
+      "title": "미국 의회 권력 재편과 중국 스파이 의혹 속, 젠슨 황 엔비디아 CEO 정치적 압박 직면",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678162",
+      "summary": "젠슨 황 엔비디아 CEO가 미국 의회 권력 재편과 맞물려 불거진 중국 스파이 의혹으로 강력한 정치적 압박에 직면했습니다. 이는 글로벌 기술 기업의 리더가 지정학적 갈등의 중심에 놓이면서 겪는 어려움을 단적으로 보여줍니다. 황 CEO에 대한 조사는 엔비디아의 사업은 물론, 미국과 중국의 기술 패권 경쟁에도 중대한 영향을 미칠 것입니다.",
+      "pub_date": "2026-11-10T02:05:59+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "블로터",
-      "title": "JB금융, AI 지분 투자 및 M&A로 미래 수익원 다변화",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=677943",
-      "summary": "JB금융그룹이 인공지능(AI) 관련 기업에 지분 투자를 단행하고 인수합병(M&A)을 추진하며 미래 수익원 확보에 나섰습니다. 이는 금융 산업의 디지털 전환 가속화에 발맞춰 새로운 성장 동력을 찾으려는 전략입니다. AI 기술을 활용한 금융 서비스 혁신이 기대됩니다.",
-      "pub_date": "2026-11-08T16:00:00+00:00"
+      "title": "삼성과 현대차, '원팀' 협력 확대하여 로봇 및 에너지 분야에서 새로운 기회 모색",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=678153",
+      "summary": "삼성과 현대차 그룹이 '원팀' 협력을 확대하며 로봇과 에너지 등 미래 신기술 분야에서 새로운 사업 기회를 모색하고 있습니다. 양대 그룹의 협력은 한국 산업의 미래 성장 동력을 확보하고 글로벌 경쟁력을 강화하는 데 중요한 전환점이 될 것입니다. 이번 협력을 통해 이종 산업 간 시너지를 창출하고 혁신적인 솔루션을 개발할 것으로 기대됩니다.",
+      "pub_date": "2026-11-09T17:53:57+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "카카오모빌리티, 엔비디아와 협력해 레벨4 자율주행 기술 고도화 추진",
-      "link": "https://biz.chosun.com/it-science/ict/2026/11/09/Q3IOU35FQJG5PD2E6FSFWA7WHY/",
-      "summary": "카카오모빌리티가 엔비디아와 손잡고 레벨4 자율주행 기술 고도화에 나섭니다. 양사는 AI 기반 자율주행 시스템 개발에 협력하여 미래 모빌리티 시장을 선도할 계획입니다. 이는 국내 자율주행 기술 발전의 중요한 전환점이 될 것으로 보입니다.",
-      "pub_date": "2026-11-09T00:15:26+00:00"
+      "title": "\"한국을 인공지능(AI) 토큰 수출국으로\"…엔비디아, SKT, 리벨리온이 국산 NPU 결합 인프라 개발",
+      "link": "https://biz.chosun.com/it-science/ict/2026/11/09/VEQFUHFPKRHDREPSVKJXN67PZ4/",
+      "summary": "엔비디아와 SKT, 리벨리온이 협력하여 국산 신경망처리장치(NPU)를 결합한 인공지능(AI) 인프라를 개발, 한국을 AI 토큰 수출국으로 만들겠다는 비전을 제시했습니다. 이는 국내 AI 반도체 기술의 글로벌 경쟁력을 높이고, 새로운 비즈니스 모델을 창출하는 중요한 계기가 될 것입니다. 정부와 기업의 적극적인 지원을 통해 AI 허브로서 한국의 위상이 강화될 것으로 기대됩니다.",
+      "pub_date": "2026-11-09T09:10:56+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "조선비즈 IT/Tech",
-      "title": "TSMC, 메모리 시장 진출설 부인…파운드리 사업에 집중",
-      "link": "https://biz.chosun.com/it-science/ict/2026/11/08/UO5RK4GHW5E77DX4JIR3YBH5ZU/",
-      "summary": "TSMC가 메모리 반도체 시장 진출설에 대해 공식적으로 부인하며 기존 파운드리(반도체 위탁 생산) 사업에 집중할 것임을 재확인했습니다. 이는 글로벌 반도체 공급망에 중요한 영향을 미치는 발표입니다. TSMC의 전략은 반도체 업계 전반의 구도에도 영향을 줄 수 있습니다.",
-      "pub_date": "2026-11-08T08:14:29+00:00"
+      "title": "\"인공지능(AI) 서버용 낸드만 호황\"... 삼성전자, 키옥시아, SK하이닉스 실적 엇갈려",
+      "link": "https://biz.chosun.com/it-science/ict/2026/11/10/CG2AAGKUS5HUNC6BUCFBSV5CII/",
+      "summary": "인공지능(AI) 서버용 낸드플래시 수요만 유독 강세를 보이면서, 삼성전자, 키옥시아, SK하이닉스 등 주요 반도체 기업들의 실적 전망이 엇갈리고 있습니다. 일반 낸드 시장의 부진 속에서도 AI 특수 분야가 전체 시장을 견인하는 양상을 보이고 있습니다. 이는 AI 기술 발전이 반도체 산업의 특정 부문에 집중적인 기회를 제공하고 있음을 보여줍니다.",
+      "pub_date": "2026-11-09T21:00:01+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "엔비디아, 젠슨 황 CEO의 중국 스파이 연루 의혹 조사 착수",
-      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "summary": "엔비디아가 젠슨 황 최고경영자(CEO)의 중국 스파이 연루 의혹에 대해 내부 조사에 착수했습니다. 이는 세계적인 반도체 기업의 수장과 관련된 중대한 사안으로, 기술 산업과 국가 안보에 미칠 파장이 클 것으로 예상됩니다. 조사의 결과는 엔비디아의 미래에 결정적인 영향을 줄 수 있습니다.",
-      "pub_date": "2026-11-08T23:51:34+00:00"
+      "title": "인공지능(AI)이 젠슨 황 엔비디아 CEO를 최고 반열에 올렸지만, 스캔들이 뒤따랐다",
+      "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+      "summary": "인공지능(AI) 기술 혁명을 이끌며 젠슨 황 엔비디아 CEO를 업계 최고 반열에 올렸으나, 그 뒤를 이어 스파이 의혹 관련 스캔들이 불거졌습니다. 이 사건은 한 개인의 성공을 넘어, 급변하는 기술 패권 시대의 도덕적, 지정학적 위험을 부각시킵니다. AI 산업의 미래와 기업 리더십에 대한 심각한 질문을 던지고 있습니다.",
+      "pub_date": "2026-11-09T17:58:29+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "NYT",
-      "title": "유권자들, 중간선거에서 AI 거부…이제 감시의 시대가 도래",
+      "title": "유권자들, 중간선거에서 인공지능(AI)을 거부하다. 이제는 감시의 시대가 도래했다.",
       "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
-      "summary": "미국 중간선거에서 유권자들이 인공지능(AI) 관련 정책에 대해 회의적인 반응을 보이면서, 이제 AI에 대한 감시의 시대가 도래했습니다. 이는 AI 기술 발전과 함께 윤리적, 사회적 문제에 대한 논의가 더욱 활발해질 것임을 시사합니다. 앞으로 AI 기술의 규제와 활용 방안에 대한 심도 깊은 논의가 필요할 것입니다.",
+      "summary": "미국 중간선거에서 유권자들이 인공지능(AI) 기술과 관련된 일부 후보들을 거부하는 경향을 보였습니다. 이는 AI의 급속한 발전이 가져올 사회적 영향에 대한 대중의 우려와 경계심을 반영합니다. 선거 결과는 앞으로 AI 기술에 대한 규제와 감시가 강화될 새로운 시대를 예고하고 있습니다.",
       "pub_date": "2026-11-04T19:53:16+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "정부, 16세 미만 빈티드 및 이베이 이용 금지 심각하게 검토 중",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "summary": "영국 정부가 16세 미만 청소년들의 온라인 중고거래 플랫폼 빈티드와 이베이 이용을 금지하는 방안을 심각하게 검토하고 있습니다. 이는 청소년 보호와 온라인 안전을 강화하기 위한 조치로 보입니다. 정책 도입 시 청소년들의 온라인 활동에 큰 변화가 예상됩니다.",
-      "pub_date": "2026-11-08T15:37:25+00:00"
+      "title": "트럼프, FBI가 엔비디아 CEO의 중국 스파이 의혹 연루 사건을 조사 중이라고 밝혀",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "summary": "도널드 트럼프 전 대통령이 연방수사국(FBI)이 엔비디아 최고경영자(CEO)와 관련된 중국 스파이 의혹 사건을 조사 중이라고 언급했습니다. 이는 단순한 기업 스캔들을 넘어 국가 안보와 첨단 기술 패권 경쟁의 문제로 부상하고 있음을 시사합니다. 이번 조사는 미국과 중국 간의 기술 대립을 더욱 심화시킬 수 있습니다.",
+      "pub_date": "2026-11-10T01:44:53+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "BBC",
-      "title": "바이낸스, 가짜 면접 이용한 63억 달러 규모 암호화폐 해킹 피해 시인",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "summary": "바이낸스가 가짜 직업 면접을 이용한 해커들의 공격으로 63억 달러 규모의 암호화폐 해킹 피해를 입었다고 밝혔습니다. 이는 역대 최대 규모의 암호화폐 해킹 사건 중 하나로, 사이버 보안 취약성을 다시금 보여줍니다. 암호화폐 시장의 신뢰도 하락으로 이어질 수 있습니다.",
-      "pub_date": "2026-11-03T16:19:29+00:00"
+      "title": "미국 중간선거가 인공지능(AI) 주식 매도세를 촉발한 이유",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "summary": "미국 중간선거 결과가 인공지능(AI) 관련 주식의 대규모 매도세를 촉발한 배경에 관심이 집중되고 있습니다. 선거 결과가 기술 기업에 대한 규제 강화나 정책 변화로 이어질 수 있다는 우려가 투자 심리를 위축시킨 것으로 분석됩니다. 이는 정치적 불확실성이 기술 시장에 미치는 직접적인 영향을 보여주는 사례입니다.",
+      "pub_date": "2026-11-06T18:32:16+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "정치 분석가 경고: 트럼프, 2028년에도 긴 그림자 드리울 것",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeURHa19uaUhiV19LTmVvV2ZJa0pBemltYXVRS3dJYUZlRHpyYjIwS3U3WlN2cjhSaHZwa21YZW1hcjRXTDZRTHdwY3RwbnExQjJJc1ktWGM0NXBzaW4xVXRJR1l2YmMzMEJvVnFERUo3LWlpa2M2dFl6OVQwa2RELW1oc2xFRWZ1aWxMdnlwQ2dwSGttTDQxY3h2Z2pQVFRlWUpldnVmNTZQZWlUejV3U2wtbHBSM1YyY29kMjdPT0UwdHBjQ0pJeW5lYw?oc=5",
-      "summary": "한 정치 분석가가 도널드 트럼프 전 대통령이 2028년 대선에도 여전히 강력한 영향력을 행사하며 정치에 긴 그림자를 드리울 것이라고 경고했습니다. 이는 트럼프의 정치적 기반과 지지층이 여전히 견고함을 시사합니다. 향후 미국 정치 지형의 불확실성이 지속될 것으로 보입니다.",
-      "pub_date": "2026-11-08T21:30:40+00:00"
+      "title": "엔비디아 주가, CEO의 중국 스파이 의혹 연루 조사 후 하락 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0dyN3hOR1ZJeHY5czJwaGwtbTkydUdmZW5XNDRNV01MbUpPSnAxSmxyay1PdVBFMHdqX0M1R3ZTZlV6QktYY2VlVUhvVUx6cDhyNWRFcWxIM1Y5cWlvQnUyUjZnRG0wUzhmRDl6d2QyVUtlYXRLRTNoaHZ2emVCVFd1anItVHA0dGxXTGY5Mi1TVHlNeDdWNy0xTTR4elVhaXBaWjlVS1V5OVNXZU0ybG9vNEY4d252UDRsZWVQTGJ0Q1VCdmFzTVU2aXgyM2d0Y0tJNE11Nlk2U2M?oc=5",
+      "summary": "엔비디아 주가가 젠슨 황 최고경영자(CEO)의 중국 스파이 의혹 연루에 대한 조사 소식이 전해진 후 하락했습니다. 이 사건은 글로벌 반도체 및 인공지능(AI) 시장의 선두 주자인 엔비디아에 큰 타격을 주며, 기술 기업의 보안 및 윤리 문제에 대한 경각심을 높이고 있습니다. 주가 하락은 투자자들의 우려를 반영하며, 향후 사태 추이에 따라 기업 가치에 더 큰 영향을 미칠 수 있습니다.",
+      "pub_date": "2026-11-09T22:27:52+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "에즈라 클라인, 민주당의 놀라운 중간선거 성과 집중 분석",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZnFwSmVnNTVndnAzekNVWWZtM2dYcGljOWROSWk0UVNpSnZkREdGdXkzaWlLTGdvTjZpbko0aHNNNFBJMDVpbUpQNkJjekxZeE0xN1NEX0FxcG9kN0VvT09YX01qdkNIcWhSaXlEV2xDdlFFcGhlWnNWMXNnQW9SZmREcXJnOEd6R1VkRW9WT3Q?oc=5",
-      "summary": "에즈라 클라인은 민주당이 중간선거에서 예상치 못한 좋은 성과를 거둔 배경과 의미를 집중 분석했습니다. 그는 민주당의 전략과 유권자들의 변화된 인식을 조명했습니다. 이번 중간선거 결과는 미국 정치사에 중요한 전환점으로 기록될 것입니다.",
-      "pub_date": "2026-11-08T17:20:03+00:00"
+      "title": "인공지능(AI)이 있는 곳에 에너지가 있다 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UelItZmxpb2xEUU0zTFprNGJtQWJybTFMM3dSNzdHbnZXaUF4TmZQVzFBWUcyS0xocnJ2UHlCNTRSVk5XeW94MGNuUHViRm54S3Fna1hIZEtvRHp1RUlLaXp6a2djTnllTFM2bw?oc=5",
+      "summary": "인공지능(AI) 기술의 급격한 발전과 확산이 막대한 에너지 소비를 동반한다는 점이 부각되고 있습니다. AI 데이터 센터 운영에 필요한 전력량이 급증하면서 에너지 효율과 지속 가능한 전력 공급이 주요 과제로 떠올랐습니다. 이는 AI 시대의 도래와 함께 에너지 정책 및 인프라 구축의 중요성을 강조합니다.",
+      "pub_date": "2026-11-09T04:34:19+00:00"
     },
     {
       "category": "IT/과학",
       "outlet": "CNN",
-      "title": "워터게이트급 비판: 1974년 공화당 참패, 2026년 결과에도 영향 미칠 것",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ItOC0xdW82djlSQUR3QjdXNUZPREtGcjZyVWRVZGljRm5zUG1rYktWZzI0RTN3bHV1M2g1NlZ1QTNDckctNVVtOWVLRmFtR181bjBkNGl1dmd0Rjh2cVlxY2ZjcVBqMVhPUnhDNEpDMV9CdkpKdnhKQ21FT2JfX181dDByWmJaZ0RqYW5BUXFJRHdJbVk3SzFVNlU1Z1F3Q3NkUUN0WUlQYkpfZFZlMmpad01HREFUTEtFaEJrbw?oc=5",
-      "summary": "1974년 워터게이트 사건 당시 공화당의 참패가 2026년 선거 결과에도 영향을 미칠 수 있다는 분석이 나왔습니다. 이는 정치적 스캔들과 대중의 신뢰 상실이 장기적으로 정당에 미치는 파급력을 보여줍니다. 역사적 교훈을 통해 미래 정치 판도를 예측하려는 시도입니다.",
-      "pub_date": "2026-11-08T14:33:38+00:00"
+      "title": "인공지능(AI) 경쟁에서 가장 중요한 것은 무엇인가 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JczVxNjIwWFQ0TlhxczBfMWFLQTZPdk80aG84bnlRZzVpZXZ6OVl4M0h3RWRINGItZkVGMmZ2NUk0b19xbWF2bmpiSWdMTWVxUlMxMWxDN2kwazMtUjQ1aGY1Y1NWNjJXWXRqVHRaZ0ZzTkw3bmFN?oc=5",
+      "summary": "글로벌 인공지능(AI) 패권 경쟁 속에서 진정으로 중요한 요소가 무엇인지에 대한 분석이 나왔습니다. 단순한 기술 개발을 넘어 데이터 확보, 인재 양성, 윤리적 기준 마련 등 복합적인 요인들이 승패를 가를 핵심으로 지목되었습니다. 이는 각국이 AI 경쟁에서 우위를 점하기 위해 다각적인 전략을 수립해야 함을 시사합니다.",
+      "pub_date": "2026-11-09T04:29:06+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "사우디 아람코 타워, 예멘 후티 반군 공격으로 피해 입어",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "summary": "사우디아라비아 수도 리야드의 금융 지구에 위치한 사우디 아람코 타워가 예멘 후티 반군의 공격으로 피해를 입었습니다. 이번 공격은 중동 지역의 긴장 상태를 더욱 고조시키고 있습니다. 유가 및 국제 안보에 미칠 영향이 주목됩니다.",
-      "pub_date": "2026-11-08T16:52:42+00:00"
+      "title": "세네갈 해안에서 난파선 침몰로 수십 명 사망, 카나리아 제도 이민 비상사태 선포",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "summary": "세네갈 해안에서 유럽으로 향하던 난파선이 침몰하여 수십 명의 이민자들이 사망하는 비극이 발생했습니다. 이 사건으로 인해 인근 카나리아 제도는 이민 비상사태를 선포하며 인도주의적 위기에 직면했습니다. 이번 참사는 아프리카발 유럽행 이민 문제의 심각성을 다시 한번 드러내고 있습니다.",
+      "pub_date": "2026-11-09T20:50:13+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "폴란드 크라쿠프 총격 사건으로 최소 6명 사망",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-      "summary": "폴란드 크라쿠프에서 발생한 총격 사건으로 경찰에 따르면 최소 6명이 사망했습니다. 이 충격적인 사건은 폴란드 사회에 큰 슬픔과 불안감을 안겨주었습니다. 당국은 용의자를 추적하며 사건 경위를 조사하고 있습니다.",
-      "pub_date": "2026-11-07T23:36:18+00:00"
+      "title": "프랑스, 이란이 냉장 시스템에 대한 사이버 공격을 감행했다고 비난",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "summary": "프랑스 정부가 자국의 냉장 시스템에 대한 사이버 공격의 배후로 이란을 지목하며 강력히 비난했습니다. 이는 사이버 공간에서의 국가 간 긴장이 고조되고 있음을 보여주는 심각한 사안입니다. 이번 공격은 민간 인프라를 노린 것으로, 국제 안보와 사이버 전쟁의 위험성을 다시금 부각시킵니다.",
+      "pub_date": "2026-11-09T19:29:39+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "우크라이나, 러시아에 맞서 전황 역전 도운 작전 성공 내부 분석",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "summary": "우크라이나가 러시아에 맞서 일부 전황을 역전시키는 데 성공한 작전의 내부 분석 결과가 나왔습니다. 이는 우크라이나군의 전략적 능력과 서방의 지원이 결합된 결과로 평가됩니다. 전쟁의 양상에 중요한 변화를 가져올 수 있습니다.",
-      "pub_date": "2026-11-07T18:17:34+00:00"
+      "title": "드문 총기 난사 사건에 휘청이는 폴란드, 젊은 용의자의 범행 동기 의문 제기",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "summary": "폴란드에서 발생한 이례적인 대규모 총기 난사 사건으로 국가 전체가 충격에 빠진 가운데, 젊은 용의자의 범행 동기에 대한 의문이 커지고 있습니다. 이번 사건은 폴란드 사회에 큰 트라우마를 남겼으며, 총기 규제 및 정신 건강 문제에 대한 논의를 촉발했습니다. 당국은 용의자의 심리 상태와 범행 배경을 밝히기 위해 수사를 진행 중입니다.",
+      "pub_date": "2026-11-08T22:48:25+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "교황 프란치스코, 아르헨티나 밀레이 대통령에게 경제는 서민을 섬겨야 한다고 촉구",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "summary": "교황 프란치스코가 아르헨티나 밀레이 대통령에게 경제는 취약 계층을 섬겨야 한다고 촉구했습니다. 이는 밀레이 대통령의 급진적인 경제 개혁 정책에 대한 우려를 표명한 것으로 풀이됩니다. 교황의 발언은 아르헨티나 사회에 큰 울림을 줄 것으로 예상됩니다.",
-      "pub_date": "2026-11-08T23:36:32+00:00"
+      "title": "예멘에서 하루 동안 50명 이상 사망, 전쟁 중 가장 치명적인 24시간 중 하나",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "summary": "예멘 내전에서 하루 동안 50명 이상의 사망자가 발생하며 전쟁 이래 가장 치명적인 24시간 중 하나로 기록되었습니다. 이는 장기화된 내전의 심각한 인명 피해와 인도주의적 위기를 단적으로 보여줍니다. 국제 사회의 평화 중재 노력에도 불구하고 예멘의 비극은 계속되고 있습니다.",
+      "pub_date": "2026-11-08T21:45:25+00:00"
     },
     {
       "category": "세계",
       "outlet": "NYT",
-      "title": "유럽, 폭탄 위협 및 사이버 공격 증가로 일상에 불안감 고조",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "summary": "유럽 전역에서 폭탄 위협과 사이버 공격이 증가하면서 일상생활에 불안감이 고조되고 있습니다. 이는 안보 위협이 단순한 뉴스에서 벗어나 실제 삶에 영향을 미치고 있음을 보여줍니다. 유럽 국가들은 안보 강화에 총력을 기울이고 있습니다.",
-      "pub_date": "2026-11-07T22:05:57+00:00"
+      "title": "우크라이나 평화 회담, 이번 주 아부다비에서 재개",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "summary": "우크라이나 평화 회담이 이번 주 아부다비에서 다시 열릴 예정입니다. 이는 러시아-우크라이나 전쟁의 장기화 속에서 외교적 해법을 모색하려는 국제 사회의 지속적인 노력을 보여줍니다. 비록 구체적인 성과를 내기까지는 난항이 예상되지만, 대화의 재개 자체로 의미가 크다는 평가입니다.",
+      "pub_date": "2026-11-09T15:08:54+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "사우디 수도 한복판 아람코 타워, 후티 반군 공격으로 피격",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "summary": "사우디아라비아 수도 리야드 한복판에 위치한 아람코 타워가 예멘 후티 반군의 공격으로 피격되었습니다. 이는 사우디 경제의 심장부를 겨냥한 공격으로, 중동 지역의 긴장 상황을 극도로 끌어올리고 있습니다. 국제 유가 및 안보에 미칠 파장이 클 것으로 예상됩니다.",
-      "pub_date": "2026-11-08T21:37:36+00:00"
+      "title": "세네갈 해안에서 유럽행 이민 보트 침몰, 최소 39명 사망",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "summary": "세네갈 해안에서 유럽으로 향하던 이민 보트가 침몰하여 최소 39명의 이민자가 사망하는 비극적인 사고가 발생했습니다. 이 사건은 지중해를 통한 위험한 이민 시도가 끊이지 않고 있음을 보여주며, 국제 사회에 인도주의적 대응을 촉구하고 있습니다. 당국은 실종자 수색 및 구조 작업을 진행 중입니다.",
+      "pub_date": "2026-11-09T16:33:55+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "이집트 열차 충돌 사고, 7명 사망 및 100명 이상 부상",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "summary": "이집트에서 발생한 열차 충돌 사고로 7명이 사망하고 100명 이상이 부상당했습니다. 이는 대규모 인명 피해를 동반한 비극적인 사고로, 이집트 사회에 큰 충격을 안겨주었습니다. 당국은 사고 원인 규명에 나섰습니다.",
-      "pub_date": "2026-11-08T19:58:02+00:00"
+      "title": "프랑스, 이란이 슈퍼마켓 냉장고 해킹했다고 비난",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "프랑스 정부가 이란이 자국 슈퍼마켓의 냉장고 시스템을 해킹했다고 공식적으로 비난했습니다. 이는 민간 시설을 대상으로 한 국가 주도 사이버 공격 가능성을 제기하며 국제적 긴장을 고조시키는 사안입니다. 양국 관계에 부정적인 영향을 미칠 것으로 예상되며, 사이버 안보의 중요성을 부각시키고 있습니다.",
+      "pub_date": "2026-11-09T20:20:08+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "이란, 1월 시위 관련 '무장 소요' 혐의 남성 3명 처형",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "summary": "이란이 지난 1월 반정부 시위와 관련하여 '무장 소요' 혐의로 기소된 남성 3명을 처형했습니다. 이는 이란 당국이 시위대에 대한 강경한 진압을 계속하고 있음을 보여줍니다. 국제사회는 이란의 인권 탄압에 대한 우려를 표명하고 있습니다.",
-      "pub_date": "2026-11-08T13:37:50+00:00"
+      "title": "경찰, 크라쿠프 총격 사건 용의자 병원에서 사망 확인",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "summary": "폴란드 크라쿠프에서 발생한 총격 사건의 용의자가 병원에서 사망했다고 경찰이 발표했습니다. 용의자 사망으로 인해 사건의 정확한 범행 동기와 배경을 규명하는 데 어려움이 예상됩니다. 이번 사건은 폴란드 사회에 큰 충격을 주었으며, 총기 규제 및 공공 안전에 대한 논의를 촉발했습니다.",
+      "pub_date": "2026-11-09T11:56:25+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "러시아 공습, 우크라이나 전력망 손상…평화 회담 앞두고 긴장 고조",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "summary": "러시아군의 공습으로 우크라이나의 전력망이 손상되고 9명이 부상당했습니다. 이는 평화 회담을 앞두고 양국 간 긴장을 더욱 고조시키고 있습니다. 러시아는 전력망 공격을 통해 우크라이나에 대한 압박을 이어가고 있습니다.",
-      "pub_date": "2026-11-07T12:49:36+00:00"
+      "title": "미국 당국자들, 우크라이나 평화 회담 재개, 교전 당사국들 '약간의 유연성' 보인다고 언급",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "미국 당국자들이 우크라이나 평화 회담이 재개되었으며, 교전 당사국들이 '약간의 유연성'을 보이고 있다고 밝혔습니다. 이는 장기화된 전쟁에 대한 외교적 해결 노력에 희망을 불어넣는 긍정적인 신호로 해석될 수 있습니다. 그러나 여전히 양측 간의 이견이 커 최종 합의에 이르기까지는 난항이 예상됩니다.",
+      "pub_date": "2026-11-10T00:09:49+00:00"
     },
     {
       "category": "세계",
       "outlet": "BBC",
-      "title": "유럽 항공사들, 새로운 폭탄 위협에 시달려",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "유럽의 주요 항공사들이 새로운 폭탄 위협에 시달리고 있습니다. 이는 항공 보안에 대한 우려를 증폭시키고 여행객들에게 불안감을 안겨주고 있습니다. 당국은 위협의 심각성을 평가하고 보안 조치를 강화하고 있습니다.",
-      "pub_date": "2026-11-06T15:25:35+00:00"
+      "title": "러시아 주요 독립 신문사, 퇴거 조치 후 폐쇄",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "summary": "러시아의 선도적인 독립 신문사가 당국의 퇴거 조치 이후 결국 폐쇄되었습니다. 이는 러시아 내 언론 자유가 심각하게 위축되고 있음을 보여주는 상징적인 사건입니다. 정부의 통제가 강화되면서 독립 언론의 입지가 더욱 좁아지고 있다는 우려가 커지고 있습니다.",
+      "pub_date": "2026-11-09T18:08:07+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "가자지구, 폭우로 수만 채의 텐트 침수 피해 심화",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHZ0JFYlUtRkdiTGZpcWtyeUFHNWpEZkNkVjhYVVYwWkRRNXNpSV8tUVRObElhQ2prNkxZUGh4TzM1bjkzOUJ4dnF2OTRINlJyZHUzYndZVEptOXBFTGdpRGtMUFNEQmkweGlFd3owcnQ4X25BcFR1SUZkaHY?oc=5",
-      "summary": "가자지구에 내린 폭우로 수만 채의 텐트가 침수되면서 인도주의적 위기가 더욱 심화되고 있습니다. 이미 열악한 환경에서 생활하던 주민들이 추가적인 고통을 겪고 있습니다. 국제사회의 긴급 지원이 절실한 상황입니다.",
-      "pub_date": "2026-11-08T16:57:19+00:00"
+      "title": "폴란드 총기 난사 사건 총격범, 병원에서 사망 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZy1UbGRlbGhSTGs4TTZrbkdSWHBRZ0FSUExlMmVacDNDcmlpZkFiSEJ1dUdSejNqSzhLWE5MVEMtaDZGYXFSb2lELXF3UENHREpIVTFwQjNfbEFBUHdTVU9TM3V1QVNLRlIxd3N2bDVBWWF3VThraXFWN0hlT0xUTXB0ZmtGUFREQTRvWG9rd2JrSVlMZUIzWlJYdXZIYjA?oc=5",
+      "summary": "폴란드 크라쿠프에서 발생한 총기 난사 사건의 총격범이 병원에서 사망했습니다. 이 사건으로 인해 폴란드 사회는 큰 충격에 빠졌으며, 범인의 동기 규명에 난항이 예상됩니다. 이번 비극은 유럽 내 총기 폭력 문제에 대한 경각심을 다시 한번 일깨우고 있습니다.",
+      "pub_date": "2026-11-09T11:44:43+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "사우디 국영 석유기업 아람코 건물, 미사일 공격으로 피해",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnlLRVByNzg2LTdwYlg5YVNWZ3daRUw1YXZ2RTYzWWdRYTZCbjdWN1RRMlRsdWl2MDhPVkxPbE1kZElFS3N5MnpiMjQ3VTlsOGp4bjliUWNSQ0FXQXhGWFZGYlZ4T3dJYUZ3NnI5TU9lcGs4TDgyY2NHYVljb0F5YkRwZV9LWFVwcTZHLQ?oc=5",
-      "summary": "사우디아라비아 국영 석유기업 아람코의 건물이 리야드 금융지구에 대한 미사일 공격으로 피해를 입었습니다. 이는 예멘 후티 반군의 소행으로 추정되며, 중동 지역의 긴장 상태가 더욱 고조되고 있음을 보여줍니다. 국제 석유 시장에도 영향을 미칠 수 있습니다.",
-      "pub_date": "2026-11-08T09:10:29+00:00"
+      "title": "레오 14세 교황, 부에노스아이레스에서 교황 재임 중 최대 규모의 미사 집전, 250만 명 운집 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0IxLUdVVThZNXJwMkJxN2NNTlpMd2pIX1FDbkE3cHZPSGY4ejZyanZvTllEWmFCeTdIX0t3NnZKUldUN1ZITkxjRHJ3RVdfVjZUdkZtWTctcGhTVG11OXpDLWhlUGpoWUo5aHRlQWU0YWp4MEJabmVJV1JuOFo1c2tnYVg0a3dOd3g4Q0tKTi14MnVJbFFLb3l4dEZZNmZhb1AwUklDQ2l0OUhiYkRJODlHOGJTZElRN21QOERNLVBkelp6Y0E?oc=5",
+      "summary": "레오 14세 교황이 아르헨티나 부에노스아이레스에서 교황 재임 기간 중 가장 큰 규모의 미사를 집전했으며, 무려 250만 명의 인파가 운집했습니다. 이는 교황의 높은 인기와 가톨릭 신자들의 뜨거운 신앙심을 보여주는 상징적인 행사입니다. 이번 대규모 미사는 남미 지역의 가톨릭 신자들에게 큰 영적 감동을 선사했습니다.",
+      "pub_date": "2026-11-09T17:52:53+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "트럼프, 이란에 대한 추가 공격 위협 및 항공모함 3척 대기 발표",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkFaMUk1ZjNEUGhpZmVHWHh4MlBoY0F5NzYwYzEzb3Exb1ZxQkQ2d3p1Q0tPMnhhTFZyOXBGQ1RXX0RRY196Zk12Yl9rcHVBdTFGb3V1U1ZRMnBDang0UTBYUGNhYzhRTU41WDgtWXdmVVZLbGJpNjVrVndxVHpiZ1dhR2VOeXBUQzF2eVJLOUZ4R0NUaUUwMFllLUp5WWdtTkZWVmhCcw?oc=5",
-      "summary": "도널드 트럼프 전 대통령이 이란에 대한 추가 공격을 위협하며 항공모함 3척이 대기 중이라고 발표했습니다. 이는 미국의 대이란 강경책을 시사하며 중동 지역의 군사적 긴장을 한층 더 높일 수 있습니다. 국제사회의 우려가 커지고 있습니다.",
-      "pub_date": "2026-11-08T19:34:24+00:00"
+      "title": "러시아의 마지막 독립 신문사, 활동 중단 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkVTaWxsbmVoSjV3eVJ6VDJxMFNjVGJ3My04bG9mckxHYUQtOEVhN0ZhcVV0Vmp3UUJNUXJhRnF3WE9ocDI0QXM4anBseHk1Nmt5SEJnWmI0M0VQSnVPeC1FLVE0SmhXNGsxVzF3X1BuQXdKSHphN2JicVNYZHdobUFtX3NScWgtd0VKcl9sMjUwZFNsWFNSVTAzZ1RQSjBselQzSmg3RGVSdXRyNGc?oc=5",
+      "summary": "러시아에 남아있던 마지막 독립 신문사 중 한 곳이 활동을 중단했습니다. 이는 러시아 내 언론의 자유가 점차 사라지고 정부의 언론 통제가 심화되고 있음을 여실히 보여주는 사건입니다. 독립적인 정보의 흐름이 막히면서 러시아 사회의 투명성에 대한 우려가 커지고 있습니다.",
+      "pub_date": "2026-11-09T19:14:57+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "북한, 바비큐 식당 개업 소식 전해져",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejRuV2NUTUw3eF9qeDh5dy1zSWlveUhWYWx6MlVnOFBaUXZlc0Z4NDVFNkdac1VPeTlqQlFqMDMzdGR1dUhKWFhkU2NSVk02dUpyT2hrSGE3LTBFcmlkY01ERkN3cERLRmJaZmE3N2ZxenEzc2MwX0Z2V1VvNk5hRG9BN2Z4c25XcWhLcFV5cDduMVhBSG1mREprd3Q2UTZ3YXFJRDlOSjZaSDVhR0x2RURXVUlTS01vbWtHV1JoZmNDU1c0Slk1ZUJxb3A0RVkwXzNhdnJmaGxRYU51bGc?oc=5",
-      "summary": "북한이 바비큐 식당을 개업했다는 소식이 전해졌습니다. 이는 폐쇄적인 북한 사회에서 보기 드문 이색적인 소식으로, 외부 세계에 소소한 관심을 불러일으키고 있습니다. 북한 주민들의 생활 변화를 엿볼 수 있는 단면으로 해석됩니다.",
-      "pub_date": "2026-11-08T07:19:12+00:00"
+      "title": "중동이 긴장 상태를 유지하는 가운데, 미국과 이란이 비공개 협상 중. 주요 내용 요약 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OejVwb3pCVS10a0dlaVBzWnBYaHEzb3JqVnNmZGdDZ1BGTC1PdHBVMEZsUzFpTjI3b2ZoQVJEYVltdWdZZURVTTg5ZF8tVlR5NDVrR3ZGVHYzQ3luZy0zVzlYRUVUTC1QN2F4ZDhNR3MwTzhMcDdRMk1n?oc=5",
+      "summary": "중동 지역의 긴장 상태가 지속되는 가운데, 미국과 이란이 비공개로 협상을 진행하고 있다는 소식이 전해졌습니다. 이는 양국 간의 관계 개선 가능성을 시사하며, 중동 정세에 중요한 영향을 미칠 수 있습니다. 협상 내용은 아직 공개되지 않았으나, 지역 안정화를 위한 중대한 외교적 노력으로 평가됩니다.",
+      "pub_date": "2026-11-09T05:00:15+00:00"
     },
     {
       "category": "세계",
       "outlet": "CNN",
-      "title": "정치 분석가 경고: 트럼프, 2028년까지 긴 정치적 그림자 드리울 것",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeURHa19uaUhiV19LTmVvV2ZJa0pBemltYXVRS3dJYUZlRHpyYjIwS3U3WlN2cjhSaHZwa21YZW1hcjRXTDZRTHdwY3RwbnExQjJJc1ktWGM0NXBzaW4xVXRJR1l2YmMzMEJvVnFERUo3LWlpa2M2dFl6OVQwa2RELW1oc2xFRWZ1aWxMdnlwQ2dwSGttTDQxY3h2Z2pQVFRlWUpldnVmNTZQZWlUejV3U2wtbHBSM1YyY29kMjdPT0UwdHBjQ0pJeW5lYw?oc=5",
-      "summary": "한 정치 분석가가 도널드 트럼프 전 대통령이 2028년에도 미국 정치에 긴 그림자를 드리울 것이라고 경고했습니다. 트럼프의 지지 기반과 영향력이 여전히 강력함을 강조하며, 향후 미국 정치 판도가 크게 변동될 가능성을 시사했습니다. 이는 다음 대선 구도에도 영향을 미 미칠 것입니다.",
-      "pub_date": "2026-11-08T21:30:40+00:00"
+      "title": "엔비디아, CEO의 외도 시인 후 해외 스파이 의혹 조사 착수 – CNN",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjZPUnN4WE96Z2FZekdubDc2UTRoTURmVFFKSXFKYldkVTkyQlNZck1CMTg5LUFQcUFKME9LSWVCOFEtWXpZUlhTeGxTeHVpVDVpY1hJdFplUlFvYWh0clNMU0hPRzNQWUxuYlBWOW5zbVRJajd3Mzd2bUZmNUFBanplVVVFOFhIS2Vtek5FNmV6a1dVaFI2NkRoVGtTWGVDVjVBYklpQQ?oc=5",
+      "summary": "엔비디아가 최고경영자(CEO)의 외도 시인 후 불거진 해외 스파이 의혹에 대해 자체 조사를 시작했습니다. 이 사건은 세계적인 기술 기업의 리더십과 관련된 스캔들로, 기업 이미지와 사업 전반에 걸쳐 심각한 영향을 미칠 것으로 예상됩니다. 엔비디아는 이번 조사를 통해 명확한 사실 관계를 규명하고 신뢰 회복에 나설 것으로 보입니다.",
+      "pub_date": "2026-11-09T14:51:01+00:00"
     }
   ]
 }
