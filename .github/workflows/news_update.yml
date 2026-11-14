@@ -6,6 +6,13 @@ on:
     # 18:50 KST (09:50 UTC same day) & 06:50 KST (21:50 UTC previous day)
     - cron: '50 9 * * *'
     - cron: '50 21 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'pipeline/watchlist.json'
+      - 'pipeline/main.py'
+      - '.github/workflows/news_update.yml'
   workflow_dispatch: # Allow manual trigger
 
 env:
