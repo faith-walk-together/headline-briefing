@@ -174,6 +174,7 @@ interface BookmarkState {
   githubToken: string;
   selectedEditionFile: string | null;
   selectedEditionLabel: string | null;
+  lastEarningsPopupDate: string | null;
   addBookmark: (article: Article) => void;
   removeBookmark: (link: string) => void;
   isBookmarked: (link: string) => boolean;
@@ -181,6 +182,7 @@ interface BookmarkState {
   removeWatchlistItem: (symbol: string) => void;
   setGithubToken: (token: string) => void;
   setSelectedEdition: (file: string | null, label: string | null) => void;
+  setLastEarningsPopupDate: (dateKey: string) => void;
 }
 
 export async function syncWatchlistToGithubRepo(
@@ -260,6 +262,7 @@ export const useBookmarkStore = create<BookmarkState>()(
       githubToken: '',
       selectedEditionFile: null,
       selectedEditionLabel: null,
+      lastEarningsPopupDate: null,
       addBookmark: (article) =>
         set((state) => ({
           bookmarks: state.bookmarks.some((b) => b.link === article.link)
@@ -312,6 +315,7 @@ export const useBookmarkStore = create<BookmarkState>()(
           selectedEditionFile: file,
           selectedEditionLabel: label,
         }),
+      setLastEarningsPopupDate: (dateKey) => set({ lastEarningsPopupDate: dateKey }),
     }),
     {
       name: 'headline-bookmarks',
@@ -330,6 +334,7 @@ export const useBookmarkStore = create<BookmarkState>()(
         bookmarks: state.bookmarks,
         watchlist: state.watchlist,
         githubToken: state.githubToken,
+        lastEarningsPopupDate: state.lastEarningsPopupDate,
       }),
     }
   )

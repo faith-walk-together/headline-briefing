@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   View,
   StyleSheet,
@@ -8,8 +8,10 @@ import {
   TouchableOpacity,
   RefreshControl,
   Platform,
+  Modal,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useFocusEffect } from 'expo-router';
 
 import { useNews, useArchiveIndex } from '@/hooks/useNews';
 import { useScrollTabVisibility } from '@/hooks/useScrollTabVisibility';
@@ -35,6 +37,111 @@ interface LiveQuote {
   up: boolean;
 }
 
+// 테스트용 플래그: true일 때는 리포트 탭 진입 시마다 항상 팝업을 표시하며,
+// false로 설정하면 하루에 한 번(todayKey 기준)만 표시됩니다.
+const TEST_ALWAYS_SHOW_EARNINGS_POPUP = false;
+
+interface EarningsScheduleItem {
+  symbol: string;
+  name: string;
+  market: 'KR' | 'US';
+  dateText: string;
+  dDayLabel: string;
+  isWithin7Days: boolean;
+  sortTimestamp: number;
+  opProfit: string;
+  revenue: string;
+}
+
+function parseEarningsScheduleInfo(rawDateStr?: string): {
+  isWithin7Days: boolean;
+  dDayLabel: string;
+  dateText: string;
+  sortTimestamp: number;
+} {
+  const cleanText = (rawDateStr || '일정 확인 중')
+    .replace(/\s*\([1-4]Q[^)]*\)/gi, '')
+    .trim();
+
+  if (!rawDateStr || rawDateStr === '-') {
+    return {
+      isWithin7Days: false,
+      dDayLabel: '예정',
+      dateText: '일정 확인 중',
+      sortTimestamp: Number.MAX_SAFE_INTEGER,
+    };
+  }
+
+  const now = new Date();
+  const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  let targetDate: Date | null = null;
+
+  // 1. YYYY.MM.DD 또는 YYYY-MM-DD 형식
+  const fullMatch = rawDateStr.match(/(20\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})/);
+  if (fullMatch) {
+    const y = parseInt(fullMatch[1], 10);
+    const m = parseInt(fullMatch[2], 10) - 1;
+    const d = parseInt(fullMatch[3], 10);
+    targetDate = new Date(y, m, d);
+  }
+
+  // 2. "M월 D일" 형식 (예: "11월 18일 실적발표")
+  if (!targetDate) {
+    const krMatch = rawDateStr.match(/(\d{1,2})\s*월\s*(\d{1,2})\s*일/);
+    if (krMatch) {
+      const m = parseInt(krMatch[1], 10) - 1;
+      const d = parseInt(krMatch[2], 10);
+      let y = now.getFullYear();
+      if (m < now.getMonth() - 1) {
+        y += 1;
+      }
+      targetDate = new Date(y, m, d);
+    }
+  }
+
+  // 3. "YYYY.MM 초/중순/하순/말" 형식
+  if (!targetDate) {
+    const ymPeriodMatch = rawDateStr.match(/(20\d{2})[.\-/](\d{1,2})\s*(초|중순|하순|말)/);
+    if (ymPeriodMatch) {
+      const y = parseInt(ymPeriodMatch[1], 10);
+      const m = parseInt(ymPeriodMatch[2], 10) - 1;
+      const periodWord = ymPeriodMatch[3];
+      const approxDay =
+        periodWord === '초'
+          ? 8
+          : periodWord === '중순'
+            ? 15
+            : periodWord === '하순'
+              ? 25
+              : 28;
+      targetDate = new Date(y, m, approxDay);
+    }
+  }
+
+  if (!targetDate || isNaN(targetDate.getTime())) {
+    return {
+      isWithin7Days: false,
+      dDayLabel: '예정',
+      dateText: cleanText,
+      sortTimestamp: Number.MAX_SAFE_INTEGER,
+    };
+  }
+
+  const targetMidnight = new Date(
+    targetDate.getFullYear(),
+    targetDate.getMonth(),
+    targetDate.getDate()
+  ).getTime();
+  const diffDays = Math.round((targetMidnight - todayMidnight) / (1000 * 60 * 60 * 24));
+
+  return {
+    isWithin7Days: diffDays >= 0 && diffDays <= 7,
+    dDayLabel: diffDays === 0 ? 'D-Day' : diffDays > 0 ? `D-${diffDays}` : '발표완료',
+    dateText: cleanText,
+    sortTimestamp: targetMidnight,
+  };
+}
+
 export default function ReportScreen() {
   const { data, isLoading, isError, refetch, isRefetching } = useNews();
   const { data: archiveIndex } = useArchiveIndex();
@@ -44,14 +151,19 @@ export default function ReportScreen() {
   const selectedEditionFile = useBookmarkStore((state) => state.selectedEditionFile);
   const selectedEditionLabel = useBookmarkStore((state) => state.selectedEditionLabel);
   const setSelectedEdition = useBookmarkStore((state) => state.setSelectedEdition);
+  const lastEarningsPopupDate = useBookmarkStore((state) => state.lastEarningsPopupDate);
+  const setLastEarningsPopupDate = useBookmarkStore((state) => state.setLastEarningsPopupDate);
   const setSelectedArticle = useUIStore((state) => state.setSelectedArticle);
 
   const [selectedSymbol, setSelectedSymbol] = useState<string>('');
   const [pickerVisible, setPickerVisible] = useState(false);
   const [watchlistModalVisible, setWatchlistModalVisible] = useState(false);
+  const [earningsPopupVisible, setEarningsPopupVisible] = useState(false);
   const [liveQuotes, setLiveQuotes] = useState<Record<string, LiveQuote>>({});
+  const isTabFocusedRef = useRef(false);
 
   const backgroundColor = useThemeColor({}, 'background');
+  const chromeColor = useThemeColor({}, 'chrome');
   const cardColor = useThemeColor({}, 'card');
   const textColor = useThemeColor({}, 'text');
   const subtextColor = useThemeColor({}, 'subtext');
@@ -188,13 +300,13 @@ export default function ReportScreen() {
         });
 
         const fallbackFundamentals: StockFundamentals = {
-          earnings_date: '차기 분기 실적발표 예정 (파이프라인 동기화 대기)',
+          earnings_date: '차기 분기 실적발표 예정',
           earnings_is_confirmed: false,
-          quarter_period: '최근 분기(E)',
+          quarter_period: '3분기(추정)',
           quarter_revenue: '수집 예정',
           quarter_op_profit: '수집 예정',
           quarter_net_income: '수집 예정',
-          annual_period: '연간 추정(E)',
+          annual_period: '추정',
           annual_revenue: '수집 예정',
           annual_op_profit: '수집 예정',
           target_price: '-',
@@ -237,8 +349,8 @@ export default function ReportScreen() {
           fundamentals: fallbackFundamentals,
           related_articles:
             matchedArticles.length > 0
-              ? matchedArticles.slice(0, 4)
-              : (data?.stock_articles ?? []).slice(0, 3),
+              ? matchedArticles.slice(0, 5)
+              : (data?.stock_articles ?? []).slice(0, 5),
         };
       }
     }
@@ -266,6 +378,115 @@ export default function ReportScreen() {
     return reportsBySymbol[selectedSymbol.toUpperCase()] ?? null;
   }, [selectedSymbol, reportsBySymbol]);
 
+  const fData = activeReport?.fundamentals;
+
+  // 관심 종목 전체의 실적발표 일정을 발표일자 순으로 정렬
+  const sortedWatchlistEarnings: EarningsScheduleItem[] = useMemo(() => {
+    const items = watchlist.map((w) => {
+      const report = reportsBySymbol[w.symbol.toUpperCase()];
+      const fund = report?.fundamentals;
+      const schedule = parseEarningsScheduleInfo(fund?.earnings_date);
+      return {
+        symbol: w.symbol,
+        name: w.name,
+        market: w.market,
+        dateText: schedule.dateText,
+        dDayLabel: schedule.dDayLabel,
+        isWithin7Days: schedule.isWithin7Days,
+        sortTimestamp: schedule.sortTimestamp,
+        opProfit: fund?.quarter_op_profit || '-',
+        revenue: fund?.quarter_revenue || '-',
+      };
+    });
+
+    return items.sort((a, b) => a.sortTimestamp - b.sortTimestamp);
+  }, [watchlist, reportsBySymbol]);
+
+  // 리포트 탭 진입 시 실적발표 일정 팝업 표시 (하루 1회 기록 + 현재 테스트 모드로 진입 시마다 표시)
+  useFocusEffect(
+    useCallback(() => {
+      isTabFocusedRef.current = true;
+      const now = new Date();
+      const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(
+        now.getDate()
+      ).padStart(2, '0')}`;
+
+      if (
+        watchlist.length > 0 &&
+        (TEST_ALWAYS_SHOW_EARNINGS_POPUP || lastEarningsPopupDate !== todayKey)
+      ) {
+        setEarningsPopupVisible(true);
+        setLastEarningsPopupDate(todayKey);
+      }
+
+      return () => {
+        isTabFocusedRef.current = false;
+      };
+    }, [watchlist.length, lastEarningsPopupDate, setLastEarningsPopupDate])
+  );
+
+  const handleSelectStockSymbol = (sym: string) => {
+    setSelectedSymbol(sym);
+  };
+
+  const isBull = activeReport ? activeReport.up || activeReport.signal === 'BULL' : true;
+  const signalColor = isBull ? bullColor : bearColor;
+
+  const {
+    qLabelPrefix,
+    qStatusSuffix,
+    annualStatusSuffix,
+    cleanEarningsDate,
+    isEarningsWithin7Days,
+    cleanOpinion,
+    dayRangeLines,
+  } = useMemo(() => {
+    const rawQ = fData?.quarter_period || '3분기(추정)';
+    const isConfirmedQ = rawQ.includes('확정');
+    let qNum = '분기';
+    if (rawQ.includes('1분기') || rawQ.includes('.03')) qNum = '1분기';
+    else if (rawQ.includes('2분기') || rawQ.includes('.06')) qNum = '2분기';
+    else if (rawQ.includes('3분기') || rawQ.includes('.09')) qNum = '3분기';
+    else if (rawQ.includes('4분기') || rawQ.includes('.12')) qNum = '4분기';
+
+    const rawA = fData?.annual_period || '추정';
+    const isConfirmedA = rawA.includes('확정');
+
+    const scheduleInfo = parseEarningsScheduleInfo(fData?.earnings_date);
+    const cleanedDate = (fData?.earnings_date || '')
+      .replace(/\s*\([1-4]Q[^)]*\)/gi, '')
+      .trim();
+
+    const cleanedOp = (fData?.investment_opinion || '')
+      .replace(/\s*\([^)]*\)/g, '')
+      .trim();
+
+    const rawDayRange = fData?.day_range || '-';
+    const splitLines =
+      rawDayRange !== '-'
+        ? rawDayRange
+            .split('·')
+            .map((s) => s.trim())
+            .filter(Boolean)
+        : ['-'];
+
+    return {
+      qLabelPrefix: qNum,
+      qStatusSuffix: isConfirmedQ ? '(확정)' : '(추정)',
+      annualStatusSuffix: isConfirmedA ? '(확정)' : '(추정)',
+      cleanEarningsDate: cleanedDate || '-',
+      isEarningsWithin7Days: scheduleInfo.isWithin7Days,
+      cleanOpinion: cleanedOp || '-',
+      dayRangeLines: splitLines,
+    };
+  }, [
+    fData?.quarter_period,
+    fData?.annual_period,
+    fData?.earnings_date,
+    fData?.investment_opinion,
+    fData?.day_range,
+  ]);
+
   if (isLoading) {
     return (
       <View style={[styles.center, { backgroundColor }]}>
@@ -285,39 +506,6 @@ export default function ReportScreen() {
     );
   }
 
-  const isBull = activeReport ? activeReport.up || activeReport.signal === 'BULL' : true;
-  const signalColor = isBull ? bullColor : bearColor;
-  const fData = activeReport?.fundamentals;
-
-  const { qLabelPrefix, qStatusSuffix, annualStatusSuffix, cleanEarningsDate, cleanOpinion } = useMemo(() => {
-    const rawQ = fData?.quarter_period || '3분기(추정)';
-    const isConfirmedQ = rawQ.includes('확정');
-    let qNum = '분기';
-    if (rawQ.includes('1분기') || rawQ.includes('.03')) qNum = '1분기';
-    else if (rawQ.includes('2분기') || rawQ.includes('.06')) qNum = '2분기';
-    else if (rawQ.includes('3분기') || rawQ.includes('.09')) qNum = '3분기';
-    else if (rawQ.includes('4분기') || rawQ.includes('.12')) qNum = '4분기';
-
-    const rawA = fData?.annual_period || '추정';
-    const isConfirmedA = rawA.includes('확정');
-
-    const cleanedDate = (fData?.earnings_date || '')
-      .replace(/\s*\([1-4]Q[^)]*\)/gi, '')
-      .trim();
-
-    const cleanedOp = (fData?.investment_opinion || '')
-      .replace(/\s*\([^)]*\)/g, '')
-      .trim();
-
-    return {
-      qLabelPrefix: qNum,
-      qStatusSuffix: isConfirmedQ ? '(확정)' : '(추정)',
-      annualStatusSuffix: isConfirmedA ? '(확정)' : '(추정)',
-      cleanEarningsDate: cleanedDate || '-',
-      cleanOpinion: cleanedOp || '-',
-    };
-  }, [fData?.quarter_period, fData?.annual_period, fData?.earnings_date, fData?.investment_opinion]);
-
   return (
     <SafeAreaView style={[styles.container, { backgroundColor }]} edges={['top']}>
       {/* 1. 상단 관심 종목별 수치 Ticker 바 (종목 클릭 시 선택) */}
@@ -327,7 +515,7 @@ export default function ReportScreen() {
           selectedSymbol={selectedSymbol}
           onSelectTicker={(item) => {
             if (item.symbol) {
-              setSelectedSymbol(item.symbol);
+              handleSelectStockSymbol(item.symbol);
             }
           }}
         />
@@ -425,7 +613,7 @@ export default function ReportScreen() {
             {/* 핵심 등락 포인트 (01 · 02 · 03) */}
             {activeReport.key_points && activeReport.key_points.length > 0 && (
               <View style={[styles.sectionBlock, { borderBottomColor: dividerColor }]}>
-                <Text style={[styles.sectionLabel, { color: accentColor }]}>
+                <Text style={[styles.sectionLabel, { color: subtextColor }]}>
                   KEY DRIVERS · 핵심 등락 요인
                 </Text>
                 <View style={styles.keyPointsList}>
@@ -451,7 +639,7 @@ export default function ReportScreen() {
 
             {/* AI 등락 심층 분석 단락 */}
             <View style={[styles.sectionBlock, { borderBottomColor: dividerColor }]}>
-              <Text style={[styles.sectionLabel, { color: accentColor }]}>
+              <Text style={[styles.sectionLabel, { color: subtextColor }]}>
                 MARKET ANALYSIS · 등락 상세 분석
               </Text>
               <View style={styles.paragraphList}>
@@ -469,7 +657,7 @@ export default function ReportScreen() {
             {/* 4. 등락 상세 분석 아래: 실적발표 일정 · 추정 실적 · MTS 주가 판단 요약 카드 */}
             {fData && (
               <View style={[styles.sectionBlock, { borderBottomColor: dividerColor }]}>
-                <Text style={[styles.sectionLabel, { color: accentColor }]}>
+                <Text style={[styles.sectionLabel, { color: subtextColor }]}>
                   EARNINGS & MTS SUMMARY · 추정 실적 및 투자지표 요약
                 </Text>
 
@@ -493,7 +681,7 @@ export default function ReportScreen() {
                       <Text
                         style={[
                           styles.mtsHighlightValue,
-                          { color: fData.earnings_is_confirmed ? bullColor : accentColor },
+                          { color: isEarningsWithin7Days ? accentColor : textColor },
                         ]}
                         numberOfLines={1}
                         adjustsFontSizeToFit
@@ -606,18 +794,18 @@ export default function ReportScreen() {
                     </View>
                   </View>
 
-                  {/* (3) 52주 최고/최저 대비 현재가 위치 바 */}
+                  {/* (3) 최고/최저 대비 현재가 위치 바 (색상 및 52주 문구 제거) */}
                   {fData.week52_low !== '-' && fData.week52_high !== '-' && (
                     <View style={[styles.week52Section, { borderBottomColor: borderColor }]}>
                       <View style={styles.week52LabelRow}>
                         <Text style={[styles.mtsSmallLabel, { color: subtextColor }]}>
-                          52주 최저 {fData.week52_low}
+                          최저 {fData.week52_low}
                         </Text>
-                        <Text style={[styles.week52PosBadge, { color: accentColor }]}>
-                          52주 밴드 내 {fData.week52_pos}% 위치
+                        <Text style={[styles.week52PosBadge, { color: textColor }]}>
+                          현재 {fData.week52_pos}%
                         </Text>
                         <Text style={[styles.mtsSmallLabel, { color: subtextColor }]}>
-                          52주 최고 {fData.week52_high}
+                          최고 {fData.week52_high}
                         </Text>
                       </View>
                       <View style={[styles.week52Track, { backgroundColor: borderColor }]}>
@@ -626,7 +814,7 @@ export default function ReportScreen() {
                             styles.week52Fill,
                             {
                               width: `${Math.max(4, Math.min(100, fData.week52_pos))}%`,
-                              backgroundColor: signalColor,
+                              backgroundColor: subtextColor,
                             },
                           ]}
                         />
@@ -634,7 +822,7 @@ export default function ReportScreen() {
                     </View>
                   )}
 
-                  {/* (4) MTS 주가 판단 요약 지표 (2열 그리드) */}
+                  {/* (4) MTS 주가 판단 요약 지표 (2열 그리드, 시가·고가·저가 세로 나열) */}
                   <View style={styles.mtsGridContainer}>
                     <View style={styles.mtsGridRow}>
                       <View style={styles.mtsGridCell}>
@@ -698,9 +886,16 @@ export default function ReportScreen() {
                         <Text style={[styles.mtsSmallLabel, { color: subtextColor }]}>
                           당일 시가 · 고가 · 저가
                         </Text>
-                        <Text style={[styles.mtsCellValue, { color: textColor }]}>
-                          {fData.day_range}
-                        </Text>
+                        <View style={styles.verticalPriceStack}>
+                          {dayRangeLines.map((line, lIdx) => (
+                            <Text
+                              key={lIdx}
+                              style={[styles.mtsCellValue, { color: textColor }]}
+                            >
+                              {line}
+                            </Text>
+                          ))}
+                        </View>
                       </View>
                       <View style={styles.mtsGridCell}>
                         <Text style={[styles.mtsSmallLabel, { color: subtextColor }]}>
@@ -716,7 +911,7 @@ export default function ReportScreen() {
                   {/* (5) 최근 투자자별 수급 동향 */}
                   {fData.investor_trend && fData.investor_trend !== '-' && (
                     <View style={[styles.investorTrendBar, { borderTopColor: borderColor }]}>
-                      <Text style={[styles.investorTrendLabel, { color: accentColor }]}>
+                      <Text style={[styles.investorTrendLabel, { color: subtextColor }]}>
                         최근 수급 (순매수)
                       </Text>
                       <Text style={[styles.investorTrendValue, { color: textColor }]}>
@@ -728,14 +923,11 @@ export default function ReportScreen() {
               </View>
             )}
 
-            {/* 관련 뉴스 링크 섹션 (클릭 시 ArticleReaderModal 상세 팝업 오픈) */}
+            {/* 관련 뉴스 링크 섹션 ("터치하여 본문 상세보기" 및 "상세 >" 버튼 제거) */}
             <View style={styles.sectionBlock}>
               <View style={styles.relatedHeaderRow}>
-                <Text style={[styles.sectionLabel, { color: accentColor, marginBottom: 0 }]}>
+                <Text style={[styles.sectionLabel, { color: subtextColor, marginBottom: 0 }]}>
                   RELATED NEWS · 관련 주요 뉴스
-                </Text>
-                <Text style={[styles.relatedHintText, { color: subtextColor }]}>
-                  터치하여 본문 상세보기
                 </Text>
               </View>
 
@@ -781,12 +973,6 @@ export default function ReportScreen() {
                           {article.title}
                         </Text>
                       </View>
-
-                      <View style={[styles.openPopupBadge, { borderColor }]}>
-                        <Text style={[styles.openPopupBadgeText, { color: accentColor }]}>
-                          상세 ›
-                        </Text>
-                      </View>
                     </TouchableOpacity>
                   );
                 })}
@@ -795,6 +981,120 @@ export default function ReportScreen() {
           </ScrollView>
         )}
       </View>
+
+      {/* 리포트 탭 진입 시 관심종목 전체의 실적발표 일정을 일자순으로 보여주는 팝업 */}
+      <Modal
+        visible={earningsPopupVisible}
+        transparent
+        animationType="fade"
+        onRequestClose={() => setEarningsPopupVisible(false)}
+      >
+        <View style={styles.alertBackdrop}>
+          <View
+            style={[
+              styles.alertCard,
+              { backgroundColor: chromeColor, borderColor },
+            ]}
+          >
+            <View style={styles.alertTopRow}>
+              <Text style={[styles.alertHeaderLabel, { color: subtextColor }]}>
+                EARNINGS CALENDAR · 실적발표 일정
+              </Text>
+              <TouchableOpacity
+                onPress={() => setEarningsPopupVisible(false)}
+                hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+              >
+                <Text style={[styles.alertCloseIcon, { color: subtextColor }]}>✕</Text>
+              </TouchableOpacity>
+            </View>
+
+            <ScrollView
+              style={styles.scheduleScrollBox}
+              contentContainerStyle={styles.scheduleListContent}
+              showsVerticalScrollIndicator
+            >
+              {sortedWatchlistEarnings.map((item, idx) => {
+                const rawOp = (item.opProfit || '').trim();
+                const hasDigits = /\d/.test(rawOp);
+                const isNegativeOp = rawOp.startsWith('-') || rawOp.includes('적자');
+                const opProfitColor = !hasDigits
+                  ? subtextColor
+                  : isNegativeOp
+                    ? bearColor
+                    : bullColor;
+
+                return (
+                  <TouchableOpacity
+                    key={item.symbol}
+                    activeOpacity={0.78}
+                    onPress={() => {
+                      setSelectedSymbol(item.symbol);
+                      setEarningsPopupVisible(false);
+                    }}
+                    style={[
+                      styles.scheduleRowCard,
+                      {
+                        backgroundColor: cardColor,
+                        borderColor: item.isWithin7Days ? accentColor : borderColor,
+                      },
+                    ]}
+                  >
+                    <View style={styles.scheduleRowTop}>
+                      <View style={styles.scheduleStockLeft}>
+                        <Text style={[styles.scheduleRankNum, { color: subtextColor }]}>
+                          {String(idx + 1).padStart(2, '0')}
+                        </Text>
+                        <Text style={[styles.scheduleStockName, { color: textColor }]}>
+                          {item.name}
+                        </Text>
+                        <Text style={[styles.scheduleStockCode, { color: subtextColor }]}>
+                          {item.symbol.replace(/\.(KS|KQ)$/i, '')}
+                        </Text>
+                      </View>
+
+                      <View
+                        style={[
+                          styles.scheduleDdayBadge,
+                          {
+                            backgroundColor: 'transparent',
+                            borderColor: item.isWithin7Days ? accentColor : borderColor,
+                          },
+                        ]}
+                      >
+                        <Text
+                          style={[
+                            styles.scheduleDdayText,
+                            {
+                              color: item.isWithin7Days ? accentColor : subtextColor,
+                            },
+                          ]}
+                        >
+                          {item.isWithin7Days ? `임박 · ${item.dDayLabel}` : item.dDayLabel}
+                        </Text>
+                      </View>
+                    </View>
+
+                    <View style={styles.scheduleRowBottom}>
+                      <Text style={[styles.scheduleDateValue, { color: subtextColor }]}>
+                        발표 예정: {item.dateText}
+                      </Text>
+                      <Text
+                        style={[styles.scheduleOpValue, { color: subtextColor }]}
+                        numberOfLines={1}
+                      >
+                        영업이익(추정){' '}
+                        <Text style={[styles.scheduleOpHighlight, { color: opProfitColor }]}>
+                          {item.opProfit}
+                        </Text>
+                      </Text>
+                    </View>
+                  </TouchableOpacity>
+                );
+              })}
+            </ScrollView>
+          </View>
+        </View>
+      </Modal>
 
       {/* 이전 브리핑 회차 선택 모달 */}
       <EditionPickerModal
@@ -1040,10 +1340,6 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: '800',
   },
-  consensusPeriodBadge: {
-    fontSize: 11,
-    fontWeight: '700',
-  },
   consensusGrid: {
     flexDirection: 'row',
     gap: 6,
@@ -1109,6 +1405,11 @@ const styles = StyleSheet.create({
     flex: 1,
     gap: 3,
   },
+  verticalPriceStack: {
+    flexDirection: 'column',
+    gap: 2,
+    marginTop: 1,
+  },
   mtsCellValue: {
     fontSize: 12,
     fontWeight: '700',
@@ -1136,10 +1437,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 12,
   },
-  relatedHintText: {
-    fontSize: 11,
-    fontWeight: '600',
-  },
   relatedLinksList: {
     gap: 9,
   },
@@ -1151,7 +1448,6 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     borderRadius: 10,
     borderWidth: 1,
-    gap: 12,
   },
   relatedNewsLeft: {
     flex: 1,
@@ -1175,14 +1471,104 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     lineHeight: 20,
   },
-  openPopupBadge: {
-    paddingHorizontal: 8,
-    paddingVertical: 5,
-    borderRadius: 6,
-    borderWidth: 1,
+  alertBackdrop: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 18,
   },
-  openPopupBadgeText: {
+  alertCard: {
+    width: '100%',
+    maxHeight: '82%',
+    borderRadius: 16,
+    borderWidth: 1,
+    padding: 18,
+    gap: 10,
+  },
+  alertTopRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingBottom: 2,
+  },
+  alertHeaderLabel: {
     fontSize: 11,
     fontWeight: '800',
+    letterSpacing: 0.6,
+  },
+  alertCloseIcon: {
+    fontSize: 18,
+    fontWeight: '700',
+  },
+  scheduleScrollBox: {
+    maxHeight: 440,
+    marginTop: 2,
+  },
+  scheduleListContent: {
+    gap: 8,
+    paddingBottom: 2,
+  },
+  scheduleRowCard: {
+    borderWidth: 1,
+    borderRadius: 10,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
+    gap: 5,
+  },
+  scheduleRowTop: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  scheduleStockLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 7,
+    flex: 1,
+  },
+  scheduleRankNum: {
+    fontSize: 11,
+    fontWeight: '800',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  scheduleStockName: {
+    fontSize: 14,
+    fontWeight: '800',
+  },
+  scheduleStockCode: {
+    fontSize: 11,
+    fontWeight: '600',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  scheduleDdayBadge: {
+    paddingHorizontal: 7,
+    paddingVertical: 2,
+    borderRadius: 4,
+    borderWidth: 1,
+  },
+  scheduleDdayText: {
+    fontSize: 10,
+    fontWeight: '700',
+  },
+  scheduleRowBottom: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 8,
+  },
+  scheduleDateValue: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
+  scheduleOpValue: {
+    fontSize: 11,
+    fontWeight: '600',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+  },
+  scheduleOpHighlight: {
+    fontSize: 11,
+    fontWeight: '800',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },
 });
