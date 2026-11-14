@@ -1,6 +1,7 @@
 import React from 'react';
 import { ScrollView, Text, TouchableOpacity, StyleSheet, View } from 'react-native';
 import { useThemeColor } from '@/hooks/use-theme-color';
+import { useColorScheme } from '@/hooks/use-color-scheme';
 
 interface CategoryTabsProps {
   categories: string[];
@@ -9,15 +10,17 @@ interface CategoryTabsProps {
 }
 
 export function CategoryTabs({ categories, selectedCategory, onSelectCategory }: CategoryTabsProps) {
-  const backgroundColor = useThemeColor({}, 'background');
-  const cardColor = useThemeColor({}, 'card');
+  const colorScheme = useColorScheme() ?? 'light';
+  const isDark = colorScheme === 'dark';
+
+  const chromeColor = useThemeColor({}, 'chrome');
   const textColor = useThemeColor({}, 'text');
-  const primaryColor = useThemeColor({}, 'primary');
   const subtextColor = useThemeColor({}, 'subtext');
   const borderColor = useThemeColor({}, 'border');
+  const accentColor = useThemeColor({}, 'accent');
 
   return (
-    <View style={[styles.container, { backgroundColor }]}>
+    <View style={[styles.container, { backgroundColor: chromeColor, borderBottomColor: borderColor }]}>
       <ScrollView
         horizontal
         showsHorizontalScrollIndicator={false}
@@ -30,14 +33,19 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
               key={category}
               style={[
                 styles.tab,
-                { backgroundColor: isActive ? primaryColor : cardColor, borderColor: isActive ? primaryColor : borderColor }
+                isActive
+                  ? { backgroundColor: isDark ? accentColor : textColor }
+                  : { backgroundColor: 'transparent' },
               ]}
               onPress={() => onSelectCategory(category)}
+              activeOpacity={0.75}
             >
               <Text
                 style={[
                   styles.tabText,
-                  { color: isActive ? '#FFFFFF' : subtextColor }
+                  isActive
+                    ? { color: isDark ? '#09090B' : '#F6F2EA', fontWeight: '700' }
+                    : { color: subtextColor, fontWeight: '500' },
                 ]}
               >
                 {category}
@@ -52,20 +60,19 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
 
 const styles = StyleSheet.create({
   container: {
-    paddingVertical: 12,
+    paddingVertical: 8,
+    borderBottomWidth: 1,
   },
   scrollContent: {
     paddingHorizontal: 16,
-    gap: 8,
+    gap: 6,
   },
   tab: {
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-    borderRadius: 20,
-    borderWidth: 1,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 6,
   },
   tabText: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: 13,
   },
 });

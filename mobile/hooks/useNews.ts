@@ -1,13 +1,16 @@
 import { useQuery } from '@tanstack/react-query';
 import Constants from 'expo-constants';
-import { Article } from '@/store/useBookmarkStore';
+import { Article, MarketTicker } from '@/store/useBookmarkStore';
 
-// Development fallback data
+// Development / Offline fallback data
 const localNewsData = require('@/assets/data/latest_news.json');
 
-interface NewsResponse {
+export interface NewsResponse {
   last_updated: string;
+  edition?: string;
+  market_tickers?: MarketTicker[];
   articles: Article[];
+  stock_articles?: Article[];
 }
 
 export function useNews() {
@@ -15,36 +18,39 @@ export function useNews() {
     queryKey: ['news'],
     queryFn: async () => {
       const apiUrl = Constants.expoConfig?.extra?.apiUrl;
-      
+
       if (apiUrl) {
         try {
           // Add timestamp query param and no-cache headers to bypass GitHub Pages CDN & OS HTTP cache
           const response = await fetch(`${apiUrl}?t=${new Date().getTime()}`, {
             headers: {
               'Cache-Control': 'no-cache',
-              'Pragma': 'no-cache'
-            }
+              Pragma: 'no-cache',
+            },
           });
           if (!response.ok) {
             throw new Error('Network response was not ok');
           }
-          const data = await response.json();
-          return data;
+          const data: NewsResponse = await response.json();
+          // Ensure backward compatibility if remote JSON has not yet run v2.0 pipeline
+          return {
+            ...localNewsData,
+            ...data,
+            market_tickers: data.market_tickers?.length
+              ? data.market_tickers
+              : localNewsData.market_tickers,
+            stock_articles: data.stock_articles?.length
+              ? data.stock_articles
+              : localNewsData.stock_articles,
+          };
         } catch (error) {
           console.warn('Failed to fetch from remote URL, falling back to local data.', error);
-          // Fallback to local data if fetch fails (e.g., GH Pages not deployed yet)
           return localNewsData;
         }
       }
 
-      // If no URL is set, just use local mock data
-      return new Promise((resolve) => {
-        setTimeout(() => {
-          resolve(localNewsData);
-        }, 800);
-      });
+      return localNewsData;
     },
-    // Refresh every 5 minutes in background
     staleTime: 5 * 60 * 1000,
   });
 }

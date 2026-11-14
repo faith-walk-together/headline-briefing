@@ -2,8 +2,9 @@ name: News Update Pipeline
 
 on:
   schedule:
-    # 6 AM KST is 9 PM UTC of the previous day
-    - cron: '0 21 * * *' # 9 PM UTC is 6 AM KST
+    # Run twice a day at 12-hour intervals:
+    # 07:00 KST (22:00 UTC previous day) & 19:00 KST (10:00 UTC same day)
+    - cron: '0 22,10 * * *'
   workflow_dispatch: # Allow manual trigger
 
 env:
@@ -41,4 +42,4 @@ jobs:
         publish_dir: ./public_data
         publish_branch: gh-pages
         keep_files: false
-        commit_message: "chore: auto-update latest news [skip ci]"
+        commit_message: "chore: auto-update latest news & market briefing [skip ci]"

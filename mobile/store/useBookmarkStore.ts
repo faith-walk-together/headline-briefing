@@ -2,13 +2,28 @@ import { create } from 'zustand';
 import { persist, createJSONStorage } from 'zustand/middleware';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
+export interface MarketTicker {
+  group: string;
+  name: string;
+  value: string;
+  change: string;
+  up: boolean;
+}
+
 export interface Article {
   category: string;
   outlet: string;
+  is_foreign?: boolean;
+  original_title?: string;
   title: string;
   link: string;
   summary: string;
+  summary_lines?: string[];
+  full_body?: string[];
+  image_url?: string;
   pub_date: string;
+  signal?: 'BULL' | 'BEAR' | '';
+  signal_label?: string;
 }
 
 interface BookmarkState {
@@ -35,7 +50,7 @@ export const useBookmarkStore = create<BookmarkState>()(
       isBookmarked: (link) => get().bookmarks.some((b) => b.link === link),
     }),
     {
-      name: 'headline-bookmarks', // unique name
+      name: 'headline-bookmarks',
       storage: createJSONStorage(() => AsyncStorage),
     }
   )
