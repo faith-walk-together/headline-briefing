@@ -43,6 +43,15 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="report"
+        options={{
+          title: '리포트',
+          tabBarIcon: ({ color }) => (
+            <IconSymbol size={24} name="doc.text.magnifyingglass" color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
         name="bookmarks"
         options={{
           title: '스크랩',

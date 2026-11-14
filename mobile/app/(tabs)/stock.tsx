@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
   },
   listContent: {
-    paddingBottom: 24,
+    paddingBottom: 120,
   },
   floatingEditionBadge: {
     position: 'absolute',

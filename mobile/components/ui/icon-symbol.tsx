@@ -9,6 +9,8 @@ const MAPPING = {
   'house.fill': 'home',
   'book.fill': 'menu-book',
   'chart.line.uptrend.xyaxis': 'trending-up',
+  'doc.text.magnifyingglass': 'analytics',
+  'gearshape.fill': 'settings',
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',

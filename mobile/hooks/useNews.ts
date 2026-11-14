@@ -1,6 +1,12 @@
 import { useQuery } from '@tanstack/react-query';
 import Constants from 'expo-constants';
-import { Article, MarketTicker, useBookmarkStore } from '@/store/useBookmarkStore';
+import {
+  Article,
+  MarketTicker,
+  StockReport,
+  WatchlistItem,
+  useBookmarkStore,
+} from '@/store/useBookmarkStore';
 
 // Development / Offline fallback data
 const localNewsData = require('@/assets/data/latest_news.json');
@@ -13,6 +19,8 @@ export interface NewsResponse {
   market_tickers?: MarketTicker[];
   articles: Article[];
   stock_articles?: Article[];
+  stock_reports?: StockReport[];
+  watchlist?: WatchlistItem[];
 }
 
 export interface EditionEntry {
@@ -22,6 +30,7 @@ export interface EditionEntry {
   file: string;
   article_count?: number;
   stock_count?: number;
+  report_count?: number;
 }
 
 export interface ArchiveIndexResponse {
@@ -91,15 +100,47 @@ export function useNews() {
             throw new Error('Network response was not ok');
           }
           const data: NewsResponse = await response.json();
+          const mergedReportsMap = new Map<string, StockReport>();
+          for (const r of (localNewsData.stock_reports ?? []) as StockReport[]) {
+            mergedReportsMap.set(r.symbol.toUpperCase(), r);
+          }
+          for (const r of data.stock_reports ?? []) {
+            const symKey = r.symbol.toUpperCase();
+            const localR = mergedReportsMap.get(symKey);
+            const remoteRel = r.related_articles ?? [];
+            const localRel = localR?.related_articles ?? [];
+            mergedReportsMap.set(symKey, {
+              ...localR,
+              ...r,
+              fundamentals: r.fundamentals ?? localR?.fundamentals,
+              related_articles:
+                remoteRel.length >= localRel.length ? remoteRel : localRel,
+            });
+          }
+          const remoteStockArticles: Article[] = data.stock_articles ?? [];
+          const localStockArticles: Article[] = localNewsData.stock_articles ?? [];
+          let finalStockArticles = remoteStockArticles.length
+            ? [...remoteStockArticles]
+            : [...localStockArticles];
+          if (finalStockArticles.length < 20 && localStockArticles.length > 0) {
+            const seenLinks = new Set(finalStockArticles.map((a) => a.link));
+            for (const item of localStockArticles) {
+              if (!seenLinks.has(item.link)) {
+                finalStockArticles.push(item);
+                seenLinks.add(item.link);
+              }
+              if (finalStockArticles.length >= 20) break;
+            }
+          }
+
           return {
             ...localNewsData,
             ...data,
             market_tickers: data.market_tickers?.length
               ? data.market_tickers
               : localNewsData.market_tickers,
-            stock_articles: data.stock_articles?.length
-              ? data.stock_articles
-              : localNewsData.stock_articles,
+            stock_articles: finalStockArticles,
+            stock_reports: Array.from(mergedReportsMap.values()),
           };
         } catch (error) {
           console.warn('Failed to fetch from remote URL, falling back to local data.', error);

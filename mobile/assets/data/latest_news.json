@@ -1094,6 +1094,75 @@
   ],
   "stock_articles": [
     {
+      "category": "호재 · 반도체/밸류업",
+      "outlet": "한국경제",
+      "is_foreign": false,
+      "original_title": "",
+      "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMmFPX2F5bEN2cDNMMENjTklGeWVCc2VFbXBvRjhZUVh1U3cyX19kWkhZemhOMmV1TExuaGdya183VDZwaDBtS2dPUlNlWnExdFkzR3VSZlVhbFZKejRwSG5BR0hxUVJ5MjlmU0JCYw?oc=5",
+      "summary": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등\n[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 기호일보\n외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다.",
+      "summary_lines": [
+        "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등",
+        "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 기호일보",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "full_body": [
+        "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등",
+        "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 기호일보",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T16:39:51+00:00",
+      "signal": "BULL",
+      "signal_label": "호재 · 반도체/밸류업"
+    },
+    {
+      "category": "악재 · 환율/거시경제",
+      "outlet": "한국경제",
+      "is_foreign": false,
+      "original_title": "",
+      "title": "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTHJ6VUtuSzBSeFl0eXhIdWpCSEl0Q3h0S19ibGpWa29SM1JBbnhVdUJ5MzdBS2dRVnRXZWdzMWRtTnhRLV9rMEZfcDBnU1hMTEV6X3BMRnBUZw?oc=5",
+      "summary": "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인]\n앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인] 한국경제\n외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다.",
+      "summary_lines": [
+        "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인]",
+        "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인] 한국경제",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "full_body": [
+        "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인]",
+        "앤트로픽 드디어 나스닥 데뷔…편입 전략에 쏠리는 눈 [이수의 ETF 줌인] 한국경제",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T21:00:05+00:00",
+      "signal": "BEAR",
+      "signal_label": "악재 · 환율/거시경제"
+    },
+    {
+      "category": "호재 · 전력기기/인프라",
+      "outlet": "한국경제",
+      "is_foreign": false,
+      "original_title": "",
+      "title": "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNHpzanV5bmtydFFYQUh1MDhCM21VWloxYTdaWWl3ZVJUTTNhM1RkU25PVi0xSzBpa3JvazdFUGlIZHJvRkkzMFJiX1NUTnVsenpJamJWRU1VbWMzSElsMzNwLTQ0WTBuUlltMElvUUJqRm1ualHSAXZBVV95cUxNVjR6c2p1eW5rcnRRWEFIdTA4QjNtVVpaMWE3Wllpd2VSVE0zYTNUZFNuT1YtMUswaWtyb2s3RVBpSGRyb0ZJMzBSYl9TVE51bHp6SWpiVkVNVW1jM0hJbDMzcC00NFkwblJZbTBJb1FCakZtbmpR?oc=5",
+      "summary": "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순\n대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순 데일리머니\n외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다.",
+      "summary_lines": [
+        "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순",
+        "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순 데일리머니",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "full_body": [
+        "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순",
+        "대만 증시 질주 속 나 홀로 추락하는 코스피의 민낯 - 코리아 디스카운트 고착화한 지배구조와 정부 세제의 모순 데일리머니",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T14:49:39+00:00",
+      "signal": "BULL",
+      "signal_label": "호재 · 전력기기/인프라"
+    },
+    {
       "category": "호재 · AI 반도체 기판",
       "outlet": "매일경제",
       "is_foreign": false,
@@ -1161,6 +1230,52 @@
       "pub_date": "2026-11-13T11:38:03+00:00",
       "signal": "BEAR",
       "signal_label": "악재 · 엔비디아"
+    },
+    {
+      "category": "호재 · 기관수급",
+      "outlet": "서울경제",
+      "is_foreign": false,
+      "original_title": "",
+      "title": "뉴욕증시 혼조 마감…엔비디아 2.01% 하락",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03bWJuaFBwQ2dQMWxCa3BWNkZSQzZxcW5ENHNadnJLQm10Y19aYmZIQlhrWlNIV1NaZk14dDRHZFpKckhmaExPT3RvR2xiUXRHMy1INTVjZWVhRTY5MHh2UlY5X1E?oc=5",
+      "summary": "뉴욕증시 혼조 마감…엔비디아 2.01% 하락\n뉴욕증시 혼조 마감…엔비디아 2.01% 하락 서울경제TV\n외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다.",
+      "summary_lines": [
+        "뉴욕증시 혼조 마감…엔비디아 2.01% 하락",
+        "뉴욕증시 혼조 마감…엔비디아 2.01% 하락 서울경제TV",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "full_body": [
+        "뉴욕증시 혼조 마감…엔비디아 2.01% 하락",
+        "뉴욕증시 혼조 마감…엔비디아 2.01% 하락 서울경제TV",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T14:39:38+00:00",
+      "signal": "BULL",
+      "signal_label": "호재 · 기관수급"
+    },
+    {
+      "category": "악재 · 단기차익매물",
+      "outlet": "서울경제",
+      "is_foreign": false,
+      "original_title": "",
+      "title": "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UalRKZW44WTlmWmpYTll0TlNOOUhBalFjeUZ5Q1A1eGl2Q05IR1FISWhWd2t3aVdqOWVNTE5mUXlBQ1RSbG1NOWsxa2FTV2xOelN5T2xJZkJrN19ySmJ4RXdULW5ZenIzZ1I1VjB3OWtqdw?oc=5",
+      "summary": "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감\n‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감 한겨레\n외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다.",
+      "summary_lines": [
+        "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감",
+        "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감 한겨레",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "full_body": [
+        "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감",
+        "‘젠슨 황 퇴진’에도 3% 넘게 오르던 코스피, 외인 ‘팔자’에 하락 마감 한겨레",
+        "외국인·기관 수급 변화와 업종별 실적 모멘텀에 따른 차별화 장세가 이어지고 있습니다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T18:01:00+00:00",
+      "signal": "BEAR",
+      "signal_label": "악재 · 단기차익매물"
     },
     {
       "category": "악재 · 글로벌 반도체",
@@ -1282,120 +1397,2604 @@
       "signal_label": "악재 · AI 데이터센터/클라우드"
     },
     {
-      "category": "악재 · 미국 빅테크/AI 인프라",
+      "category": "호재 · 미국 소비/실적",
       "outlet": "WSJ",
       "is_foreign": true,
       "original_title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "title": "중국 저비용 인공지능 '딥시크' 충격에 미국 기술주 급락…나스닥 및 인프라 관련주 투매",
+      "title": "월가 AI 빅테크 실적 기대감에 나스닥 기술주 매수세 유입",
       "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-      "summary": "중국 스타트업 딥시크(DeepSeek)가 선보인 고성능·저비용 인공지능 모델이 미국 기술주 시장에 거센 후폭풍을 일으켰다.\n천문학적인 비용과 최고급 칩 없이도 첨단 AI 구현이 가능하다는 분석에 AI 인프라 기업들의 주가가 두 자릿수 폭락했다.\n엔비디아가 16% 급락하는 등 나스닥 지수가 하락을 주도했으며, 미국 빅테크의 과잉 투자에 대한 회의론이 확산하고 있다.",
+      "summary": "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.\n주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.\n금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다.",
       "summary_lines": [
-        "중국 스타트업 딥시크(DeepSeek)가 선보인 고성능·저비용 인공지능 모델이 미국 기술주 시장에 거센 후폭풍을 일으켰다.",
-        "천문학적인 비용과 최고급 칩 없이도 첨단 AI 구현이 가능하다는 분석에 AI 인프라 기업들의 주가가 두 자릿수 폭락했다.",
-        "엔비디아가 16% 급락하는 등 나스닥 지수가 하락을 주도했으며, 미국 빅테크의 과잉 투자에 대한 회의론이 확산하고 있다."
+        "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.",
+        "주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.",
+        "금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다."
       ],
       "full_body": [
-        "중국의 인공지능(AI) 스타트업 딥시크가 미국 빅테크 기업들의 분기 투자액의 극히 일부에 불과한 저렴한 비용과 구형 반도체만으로도 오픈AI에 버금가는 고성능 AI 모델을 개발해 내자, 뉴욕 증시의 AI 관련주들이 일제히 패닉 셀링(공포 투매)에 휩싸였다.",
-        "월스트리트저널에 따르면 그간 수조 달러 규모의 데이터센터와 초고성능 칩이 필수적이라는 전제하에 랠리를 펼쳤던 AI 하드웨어 및 전력 인프라 관련주들이 직격탄을 맞으며 하루 만에 두 자릿수 하락률을 기록했다. 대장주 엔비디아 역시 16%나 곤두박질치며 기술주 중심의 나스닥 지수 급락을 이끌었다.",
-        "일각에서는 이번 투매가 과도한 공포에 의한 것이라며 미국 빅테크들의 기술적 우위가 쉽게 무너지지 않을 것이라는 반론도 나오지만, 적은 자원으로 고효율을 내는 중국발 AI 쇼크가 고평가된 미국 AI 반도체 및 인프라 주식들의 밸류에이션 거품을 꺼뜨리는 계기가 되고 있다."
+        "뉴욕증시에서 인공지능(AI) 및 클라우드 인프라 관련 대형 기술주들이 견조한 실적 전망에 힘입어 상승 흐름을 주도하고 있다.",
+        "야후파이낸스에 따르면 월가 주요 애널리스트들은 빅테크 기업들의 AI 설비투자가 내년까지 이어질 것으로 내다보며 반도체 및 소프트웨어 섹터에 대한 투자의견을 긍정적으로 유지했다.",
+        "다만 연방준비제도(Fed)의 금리 인하 속도 조절 가능성과 국채금리 추이에 따라 업종별 차별화 장세가 전개될 수 있어 옥석 가리기가 중요하다는 조언이 나온다."
       ],
       "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
-      "pub_date": "2025-01-27T19:26:00+00:00",
-      "signal": "BEAR",
-      "signal_label": "악재 · 미국 빅테크/AI 인프라"
+      "pub_date": "2025-01-27T10:26:00+00:00",
+      "signal": "BULL",
+      "signal_label": "호재 · 미국 소비/실적"
     },
     {
-      "category": "악재 · 식음료/커피 관련주",
+      "category": "악재 · 연준 금리경계",
       "outlet": "WSJ",
       "is_foreign": true,
-      "original_title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-      "title": "미국과 콜롬비아의 관세 및 제재 갈등 여파로 아라비카 커피 원두 가격 사상 최고치 경신",
-      "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-      "summary": "도널드 트럼프 미국 대통령과 주요 커피 생산국인 콜롬비아 간의 관세 충돌 여파로 아라비카 커피 선물 가격이 사상 최고치를 찍었다.\n트럼프 대통령이 콜롬비아에 대한 관세 및 경제 제재 위협을 일단 철회했으나 공급망 불확실성이 가격을 밀어 올렸다.\n원두 가격의 기록적인 폭등은 스타벅스 등 글로벌 커피 체인과 식음료 기업들의 원가 부담을 가중시키는 악재로 작용하고 있다.",
+      "original_title": "Comex Gold, Silver Settle Lower",
+      "title": "미 국채금리 경계감 속 뉴욕증시 고점 차익실현 숨고르기",
+      "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "summary": "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.\n거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.\n시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다.",
       "summary_lines": [
-        "도널드 트럼프 미국 대통령과 주요 커피 생산국인 콜롬비아 간의 관세 충돌 여파로 아라비카 커피 선물 가격이 사상 최고치를 찍었다.",
-        "트럼프 대통령이 콜롬비아에 대한 관세 및 경제 제재 위협을 일단 철회했으나 공급망 불확실성이 가격을 밀어 올렸다.",
-        "원두 가격의 기록적인 폭등은 스타벅스 등 글로벌 커피 체인과 식음료 기업들의 원가 부담을 가중시키는 악재로 작용하고 있다."
+        "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.",
+        "거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.",
+        "시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다."
       ],
       "full_body": [
-        "국제 원자재 시장에서 고급 커피에 주로 사용되는 아라비카 커피 원두 선물 가격이 사상 최고치를 갈아치웠다. 세계적인 아라비카 원두 산지인 콜롬비아와 미국 트럼프 행정부 사이에 벌어진 외교·통상 마찰이 커피 시장의 공급 대란 우려를 자극했기 때문이다.",
-        "트럼프 대통령이 불법 이민자 송환 문제를 놓고 콜롬비아산 수입품에 대해 긴급 고율 관세와 경제 제재를 부과하겠다고 위협했다가 양국 합의 끝에 이를 거둬들였지만, 언제든 지정학적 갈등으로 남미산 원두 공급이 막힐 수 있다는 불안감이 트레이더들의 매수세를 부추겼다.",
-        "여기에 브라질 등 주요 산지의 이상기후로 인한 작황 부진까지 겹쳐 원두 재고가 바닥을 드러내고 있어, 커피 프랜차이즈 및 제과·음료 상장사들은 원재료비 급등에 따른 마진 훼손이나 제품 가격 인상으로 인한 소비 위축이라는 이중고에 직면하게 됐다."
+        "뉴욕증시 주요 지수가 최근 상승세에 따른 피로감과 미 국채금리 상승 경계감이 맞물리며 혼조세로 마감했다.",
+        "견조한 미국 경제 지표가 발표되면서 연방준비제도(Fed)가 금리 인하를 서두르지 않을 수 있다는 관측이 제기됐고, 이에 따라 고밸류에이션 종목을 중심으로 단기 차익실현 매물이 출회됐다.",
+        "전문가들은 기업들의 기초체력(펀더멘털)은 여전히 탄탄하지만 단기 급등에 따른 기간 조정이 나타날 수 있다고 진단했다."
       ],
       "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
-      "pub_date": "2025-01-27T17:20:00+00:00",
+      "pub_date": "2025-01-27T10:01:00+00:00",
       "signal": "BEAR",
-      "signal_label": "악재 · 식음료/커피 관련주"
+      "signal_label": "악재 · 연준 금리경계"
     },
     {
-      "category": "호재 · 중국 고배당 가치주",
+      "category": "호재 · AI 데이터센터",
       "outlet": "WSJ",
       "is_foreign": true,
-      "original_title": "Chinese Investors With Few Options Turn to Dividends",
-      "title": "마땅한 투자처 잃은 중국 투자자들, 안정적인 '고배당주'로 대거 자금 이동",
-      "link": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
-      "summary": "부동산 경기 침체와 기술주 변동성에 지친 중국 내 투자자들이 안정적인 현금 흐름을 주는 고배당주로 몰리고 있다.\n국채 금리가 사상 최저 수준으로 떨어지자 은행, 에너지, 통신 등 국영기업 중심의 배당주들이 중국 증시 최고의 인기 종목으로 부상했다.\n중국 당국의 주주 환원 독려 정책까지 맞물리며 중국 및 홍콩 증시 내 가치·배당주 섹터의 강세가 이어질 전망이다.",
+      "original_title": "DeepSeek Won't Sink U.S. AI Titans",
+      "title": "미 국채금리 경계감 속 뉴욕증시 고점 차익실현 숨고르기",
+      "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "summary": "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.\n거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.\n시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다.",
       "summary_lines": [
-        "부동산 경기 침체와 기술주 변동성에 지친 중국 내 투자자들이 안정적인 현금 흐름을 주는 고배당주로 몰리고 있다.",
-        "국채 금리가 사상 최저 수준으로 떨어지자 은행, 에너지, 통신 등 국영기업 중심의 배당주들이 중국 증시 최고의 인기 종목으로 부상했다.",
-        "중국 당국의 주주 환원 독려 정책까지 맞물리며 중국 및 홍콩 증시 내 가치·배당주 섹터의 강세가 이어질 전망이다."
+        "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.",
+        "거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.",
+        "시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다."
       ],
       "full_body": [
-        "장기화하는 부동산 시장 불황과 미·중 갈등으로 인한 성장주 급등락 속에서 마땅한 자산 증식 수단을 찾지 못한 중국 본토 투자자들이 두둑한 배당금을 지급하는 상장사들로 눈을 돌리고 있다고 월스트리트저널이 보도했다.",
-        "중국 인민은행의 완화적 통화정책으로 예금 금리와 국채 수익률이 크게 낮아진 상황에서, 연 5~7%대의 높은 배당수익률을 제공하는 대형 국영 은행과 석탄·에너지 기업, 통신사 주식들이 사실상의 대체 안전자산으로 각광받으며 시장 대비 압도적인 초과 수익률을 기록하고 있다.",
-        "더욱이 중국 증권감독관리위원회가 증시 부양을 위해 상장 기업들의 배당 확대와 자사주 매입을 강력히 압박하고 있어, 불확실성 시대에 확실한 현금 수익을 보장하는 중국 고배당 가치주에 대한 자금 유입은 당분간 지속될 것으로 분석된다."
+        "뉴욕증시 주요 지수가 최근 상승세에 따른 피로감과 미 국채금리 상승 경계감이 맞물리며 혼조세로 마감했다.",
+        "견조한 미국 경제 지표가 발표되면서 연방준비제도(Fed)가 금리 인하를 서두르지 않을 수 있다는 관측이 제기됐고, 이에 따라 고밸류에이션 종목을 중심으로 단기 차익실현 매물이 출회됐다.",
+        "전문가들은 기업들의 기초체력(펀더멘털)은 여전히 탄탄하지만 단기 급등에 따른 기간 조정이 나타날 수 있다고 진단했다."
       ],
       "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
-      "pub_date": "2025-01-27T10:30:00+00:00",
+      "pub_date": "2025-01-27T09:12:00+00:00",
       "signal": "BULL",
-      "signal_label": "호재 · 중국 고배당 가치주"
+      "signal_label": "호재 · AI 데이터센터"
     },
     {
-      "category": "악재 · 암 홀딩스(ARM)",
-      "outlet": "Reuters",
+      "category": "호재 · AI 빅테크",
+      "outlet": "Yahoo Finance",
       "is_foreign": true,
-      "original_title": "Arm Holdings Stock (ARM) Dives as Nvidia (NVDA) Comes Hunting for CEO Haas - TipRanks",
-      "title": "엔비디아가 차기 수장으로 르네 하스 최고경영자 노린다는 소식에 암 홀딩스(ARM) 주가 급락",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjhWLU5QMmVEcS10aVloNG5pRW4tc09fbTVqSDlvRkZkaHNzWWlmelN3VnNfeTFSUE85MWtEZTBIOEhmaDFrdHFkZktKM2JsZkM3VnVycldZaDFBZVM1OU5KclRsNmJYUTRSUjEzbEFpcEpOLW4zN1FyQWMwLWF4ZE5UbFQyejZYbTN3aWV2U0NqbjVqd2wyeXl4NDFiRTVLQ3c?oc=5",
-      "summary": "젠슨 황을 잃은 엔비디아가 후임 최고경영자로 암 홀딩스(Arm Holdings)의 르네 하스 최고경영자를 영입하려 한다는 보도가 나왔다.\n암의 기업공개와 인공지능 중심 체질 개선을 성공적으로 이끈 핵심 리더의 이탈 우려에 암 홀딩스 주가가 급락했다.\n창업자 공백을 메우려는 엔비디아의 차기 리더십 물색 작업이 반도체 업계 전반의 경영진 연쇄 이동 리스크를 키우고 있다.",
+      "original_title": "Earnings Calendar for:",
+      "title": "월가 AI 빅테크 실적 기대감에 나스닥 기술주 매수세 유입",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXd2Z1FYN0RjcmxPMGVuTnluSFJFeGg5RkxqYlBoN0ZGc29CRDlkUFhrbTcyRXQ0NkFtelozcFdQWUZ6cU9XclZLTEM4NWRWTHpfQmVQOEV2X09PUFZIbXdmbjlaSm0yOWdZQVI2MmhuOXpIV0pQa3FZMUZCbzk3ME55aE44VkU2NDdMcXNVQ0lHdw?oc=5",
+      "summary": "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.\n주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.\n금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다.",
       "summary_lines": [
-        "젠슨 황을 잃은 엔비디아가 후임 최고경영자로 암 홀딩스(Arm Holdings)의 르네 하스 최고경영자를 영입하려 한다는 보도가 나왔다.",
-        "암의 기업공개와 인공지능 중심 체질 개선을 성공적으로 이끈 핵심 리더의 이탈 우려에 암 홀딩스 주가가 급락했다.",
-        "창업자 공백을 메우려는 엔비디아의 차기 리더십 물색 작업이 반도체 업계 전반의 경영진 연쇄 이동 리스크를 키우고 있다."
+        "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.",
+        "주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.",
+        "금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다."
       ],
       "full_body": [
-        "창업자 젠슨 황의 불명예 퇴진으로 사상 초유의 리더십 공백 사태를 맞은 엔비디아가 차기 정식 최고경영자(CEO) 영입을 위해 영국의 반도체 설계 자산(IP) 기업 암 홀딩스(Arm)의 수장인 르네 하스를 최우선 타깃으로 접촉하고 있다는 소식이 전해지며 암 홀딩스 주가가 곤두박질쳤다.",
-        "르네 하스 최고경영자는 과거 엔비디아에서 7년간 임원으로 재직한 바 있어 엔비디아 내부 사정에 정통할 뿐만 아니라, 암 홀딩스를 맡은 뒤 스마트폰 중심이던 사업 구조를 인공지능(AI) 데이터센터 및 PC 칩 설계로 성공적으로 확장하며 기업가치를 급등시킨 주역이다.",
-        "과거 엔비디아가 암 홀딩스 인수를 추진했다가 규제 당국의 반대로 무산된 악연이 있는 가운데, 이번에는 핵심 경영진을 빼가려 한다는 소식이 전해지자 암 홀딩스 투자자들은 성장 동력 상실을 우려하며 매물을 쏟아냈고 주가는 큰 폭의 하락세를 면치 못했다."
+        "뉴욕증시에서 인공지능(AI) 및 클라우드 인프라 관련 대형 기술주들이 견조한 실적 전망에 힘입어 상승 흐름을 주도하고 있다.",
+        "야후파이낸스에 따르면 월가 주요 애널리스트들은 빅테크 기업들의 AI 설비투자가 내년까지 이어질 것으로 내다보며 반도체 및 소프트웨어 섹터에 대한 투자의견을 긍정적으로 유지했다.",
+        "다만 연방준비제도(Fed)의 금리 인하 속도 조절 가능성과 국채금리 추이에 따라 업종별 차별화 장세가 전개될 수 있어 옥석 가리기가 중요하다는 조언이 나온다."
       ],
       "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
-      "pub_date": "2026-11-13T18:14:37+00:00",
+      "pub_date": "2026-11-13T22:37:36+00:00",
+      "signal": "BULL",
+      "signal_label": "호재 · AI 빅테크"
+    },
+    {
+      "category": "악재 · 미 국채금리",
+      "outlet": "Yahoo Finance",
+      "is_foreign": true,
+      "original_title": "Earnings Calendar and Analysis for This Week",
+      "title": "미 국채금리 경계감 속 뉴욕증시 고점 차익실현 숨고르기",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObERWb3J6WkNFaktWLUdJSFc5NldRblBMcGd5ZDlUaGVHeHhpcXd6WndUR05lcW9sOWQ2RDY5TVUtVFNQSkFQRUs0QnhwWG5PemJVMU9aVVlVczFXdm9WY2o5aElhYUgtdFdSWnJxb0lZRUdHWW9CUF9MSnBzS3VlMTd5dUFULVdBQnBzZGRJSm9WY0ZwX2Mxc3RjcXFNQXNjVzN3?oc=5",
+      "summary": "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.\n거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.\n시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다.",
+      "summary_lines": [
+        "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.",
+        "거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.",
+        "시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다."
+      ],
+      "full_body": [
+        "뉴욕증시 주요 지수가 최근 상승세에 따른 피로감과 미 국채금리 상승 경계감이 맞물리며 혼조세로 마감했다.",
+        "견조한 미국 경제 지표가 발표되면서 연방준비제도(Fed)가 금리 인하를 서두르지 않을 수 있다는 관측이 제기됐고, 이에 따라 고밸류에이션 종목을 중심으로 단기 차익실현 매물이 출회됐다.",
+        "전문가들은 기업들의 기초체력(펀더멘털)은 여전히 탄탄하지만 단기 급등에 따른 기간 조정이 나타날 수 있다고 진단했다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T08:38:49+00:00",
       "signal": "BEAR",
-      "signal_label": "악재 · 암 홀딩스(ARM)"
+      "signal_label": "악재 · 미 국채금리"
     },
     {
-      "category": "호재 · AI 특화 반도체",
+      "category": "호재 · 글로벌 반도체",
       "outlet": "Reuters",
       "is_foreign": true,
-      "original_title": "Cerebras shares surge as forecast raise, surprise profit ease AI spending worries - Reuters",
-      "title": "인공지능 반도체 기업 세레브라스, 깜짝 흑자 전환 및 실적 전망 상향에 주가 폭등",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2pqZHJibkJHUE5qR01NY2FVeDZ5cWRpSTRxN0FBdmpQR1lwbWxyZ09NdTFOVHJhS1liaVlPbkM2ZGRlNW5jb1Y5OHh2U0RTeE1IQ2NxQVBKa1pSZlF4d0dmNXlyRnR2SGgyd2laemZXdUN1Q3hNWnBJVFNSOHJoUXVkSEJDNmplOWRhekVuTHJFclBwNzVkTHBwSzV1VFI2c25BaFY3eWk5QUtXQ0dQRXluM1gyQVhicE1CM042T0NpZw?oc=5",
-      "summary": "초거대 웨이퍼 스케일 인공지능(AI) 칩을 만드는 세레브라스 시스템즈가 깜짝 분기 흑자를 기록하며 주가가 급등했다.\n연간 매출 및 이익 전망치도 대폭 상향 조정하며 최근 시장에 번진 AI 지출 둔화 우려를 단숨에 불식시켰다.\n엔비디아 독점 체제가 흔들리는 가운데 대체 AI 가속기 기업들의 실질적인 수주 확대와 수익성 입증이 호재로 작용했다.",
+      "original_title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+      "title": "월가 AI 빅테크 실적 기대감에 나스닥 기술주 매수세 유입",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+      "summary": "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.\n주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.\n금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다.",
       "summary_lines": [
-        "초거대 웨이퍼 스케일 인공지능(AI) 칩을 만드는 세레브라스 시스템즈가 깜짝 분기 흑자를 기록하며 주가가 급등했다.",
-        "연간 매출 및 이익 전망치도 대폭 상향 조정하며 최근 시장에 번진 AI 지출 둔화 우려를 단숨에 불식시켰다.",
-        "엔비디아 독점 체제가 흔들리는 가운데 대체 AI 가속기 기업들의 실질적인 수주 확대와 수익성 입증이 호재로 작용했다."
+        "미국 증시에서 인공지능(AI) 인프라 투자 지속 전망에 힘입어 빅테크 중심의 매수세가 이어졌다.",
+        "주요 투자은행들은 클라우드 및 AI 반도체 기업들의 4분기 실적 가이던스를 긍정적으로 평가했다.",
+        "금리 변동성 속에서도 실적이 뒷받침되는 대형 기술주로의 자금 쏠림 현상이 뚜렷해지고 있다."
       ],
       "full_body": [
-        "젠슨 황 스캔들과 데이터센터 부채 문제로 인공지능(AI) 반도체 섹터 전반이 침체에 빠진 가운데, 엔비디아의 대항마로 꼽히는 AI 칩 제조사 세레브라스 시스템즈가 시장 예상치를 뛰어넘는 어닝 서프라이즈를 발표하며 주가가 폭등했다.",
-        "로이터 통신에 따르면 세레브라스는 최신 분기 실적 발표에서 깜짝 흑자 전환에 성공했을 뿐만 아니라, 기업과 국부펀드들의 거대언어모델(LLM) 훈련용 하드웨어 주문이 쇄도하고 있다며 향후 실적 가이던스(전망치)를 큰 폭으로 올려 잡았다.",
-        "이번 실적은 빅테크와 AI 기업들의 설비 투자가 꺾이지 않았으며, 오히려 엔비디아 일변도에서 벗어나 세레브라스 같은 고효율 특화 반도체 기업으로 수요가 빠르게 분산되고 있음을 입증한 것으로, 차세대 AI 반도체 주가 전반에 강력한 온기를 불어넣고 있다."
+        "뉴욕증시에서 인공지능(AI) 및 클라우드 인프라 관련 대형 기술주들이 견조한 실적 전망에 힘입어 상승 흐름을 주도하고 있다.",
+        "야후파이낸스에 따르면 월가 주요 애널리스트들은 빅테크 기업들의 AI 설비투자가 내년까지 이어질 것으로 내다보며 반도체 및 소프트웨어 섹터에 대한 투자의견을 긍정적으로 유지했다.",
+        "다만 연방준비제도(Fed)의 금리 인하 속도 조절 가능성과 국채금리 추이에 따라 업종별 차별화 장세가 전개될 수 있어 옥석 가리기가 중요하다는 조언이 나온다."
       ],
       "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
-      "pub_date": "2026-11-13T14:39:20+00:00",
+      "pub_date": "2026-11-13T14:30:55+00:00",
       "signal": "BULL",
-      "signal_label": "호재 · AI 특화 반도체"
+      "signal_label": "호재 · 글로벌 반도체"
+    },
+    {
+      "category": "악재 · 에너지/환율",
+      "outlet": "Reuters",
+      "is_foreign": true,
+      "original_title": "Exclusive-Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "title": "미 국채금리 경계감 속 뉴욕증시 고점 차익실현 숨고르기",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGJqXzY3V1VFLU1BWUc0WUhCSXZlR1o5Z2lIWElkSTFscUJXcjl6TDRQTjdPZE42U1R5UUc4YjVXajlCb3hfV0FVMGJnMHFfdGNlVEhLQWEzdWxTdHNpVEdtaHplaktDVjFWVGtxYjJnYVRUVTJ2ZGRBNU9oelhZbUpRM015M1llbWNTUWRCeGR2OHppdzdwRmI2dw?oc=5",
+      "summary": "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.\n거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.\n시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다.",
+      "summary_lines": [
+        "미국 주요 지수가 단기 랠리 이후 국채금리 움직임을 주시하며 숨고르기 장세를 나타냈다.",
+        "거시경제 지표 호조로 연준의 금리 인하 속도 조절론이 부각되며 일부 성장주에서 차익 매물이 출회됐다.",
+        "시장 참여자들은 향후 발표될 물가 지표와 주요 기업 실적 가이던스에 촉각을 곤두세우고 있다."
+      ],
+      "full_body": [
+        "뉴욕증시 주요 지수가 최근 상승세에 따른 피로감과 미 국채금리 상승 경계감이 맞물리며 혼조세로 마감했다.",
+        "견조한 미국 경제 지표가 발표되면서 연방준비제도(Fed)가 금리 인하를 서두르지 않을 수 있다는 관측이 제기됐고, 이에 따라 고밸류에이션 종목을 중심으로 단기 차익실현 매물이 출회됐다.",
+        "전문가들은 기업들의 기초체력(펀더멘털)은 여전히 탄탄하지만 단기 급등에 따른 기간 조정이 나타날 수 있다고 진단했다."
+      ],
+      "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1000&q=80",
+      "pub_date": "2026-11-13T16:33:00+00:00",
+      "signal": "BEAR",
+      "signal_label": "악재 · 에너지/환율"
     }
   ],
-  "edition_id": "26-11-14-AM"
+  "edition_id": "26-11-14-AM",
+  "stock_reports": [
+    {
+      "symbol": "005930.KS",
+      "name": "삼성전자",
+      "market": "KR",
+      "value": "206,000원",
+      "change": "-0.96%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "차세대 HBM4 개발 및 메모리 판가 방어 속 외국인·기관 수급 공방",
+      "key_points": [
+        "AI 데이터센터향 HBM3E·DDR5 등 고부가 메모리 출하 비중 확대가 실적 하단을 지지하고 있습니다.",
+        "역사적 저평가 구간 진입 인식과 주주환원(자사주 매입·소각) 정책이 하방 경직성을 확보해 주고 있습니다.",
+        "파운드리 선단 공정 수율 안정화 및 글로벌 빅테크향 추가 수주 모멘텀이 향후 추세 반전의 핵심 열쇠입니다."
+      ],
+      "analysis_paragraphs": [
+        "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+        "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 초 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "200조 7,657억",
+        "quarter_op_profit": "106조 9,435억",
+        "quarter_net_income": "88조 3,532억",
+        "annual_period": "추정",
+        "annual_revenue": "722조 1,610억",
+        "annual_op_profit": "383조 5,875억",
+        "target_price": "468,571원",
+        "investment_opinion": "매수",
+        "market_cap": "1,221조 8,722억",
+        "trading_volume": "21,159,966주 (4조 4,406억)",
+        "day_range": "시가 209,500 · 고가 216,000 · 저가 205,000",
+        "week52_high": "380,000원",
+        "week52_low": "93,500원",
+        "week52_pos": 39,
+        "per": "9.38배 (추정 4.58배)",
+        "eps": "22,292원 (추정 45,655원)",
+        "pbr": "2.43배 (BPS 86,052원)",
+        "dividend_yield": "0.80% (1,668원)",
+        "foreign_rate": "46.07%",
+        "investor_trend": "외인 +8,216 · 기관 -328,604 · 개인 +285,654"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 삼성전자",
+          "outlet": "머니투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVmlvaFVvOFRQRTNuSjJSLTlqZXBRYzNPN2Rnb0xldm50Mm9VcmVfRmtyR2hCMGxrTnhkZXFPU1UzRUhQMjhZTS14bTlfdFRqVlNfVWxaVFNPcG9RajJSaHYzV1BON1lfU2fSAW9BVV95cUxNSDZhRnlhcWpiYzFzbnRyUzRweTM0WkcwWXAxNzVhcVZIQ3p5TEtkc1BQQTljRl9YWlI4NnR2UzlmSmVIWFpILTZRZUFnU1lzY1JDWDVCNkVxdEYxYUc1eXphWWRNX09hTVhobjFTdDQ?oc=5",
+          "summary": "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이\n물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이 머니투데이\n상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이",
+            "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이 머니투데이",
+            "상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[머니투데이] 물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이",
+            "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이 머니투데이",
+            "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+            "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T22:08:47+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전자"
+        },
+        {
+          "category": "이슈 · 삼성전자",
+          "outlet": "뉴스1",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경]",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uWnVzTnFUX01BYkJZSjRlUjQ3N0lUeFFTVXlRZktDUjE2Q2hqUVpkaEM0Y2NzT2duSmpaMnNENUk4cFB3bkZ5Q1EybXBONGQ3WG5vbnB1YjE4OUpYQzQ0?oc=5",
+          "summary": "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경]\n'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경] 뉴스1\n상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경]",
+            "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경] 뉴스1",
+            "상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴스1] '18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경]",
+            "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경] 뉴스1",
+            "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+            "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T12:00:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전자"
+        },
+        {
+          "category": "이슈 · 삼성전자",
+          "outlet": "아이뉴스24",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\"",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zaFprVHV1ckxjZVl6ZFJDRnhWSXk2VFE5V29aODVOV0MtNjVvemVUU0ZSS0kxU0pobTN4YkJPQ0xSSjZnZWE1alIxNA?oc=5",
+          "summary": "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\"\n삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\" 아이뉴스24\n상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\"",
+            "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\" 아이뉴스24",
+            "상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[아이뉴스24] 삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\"",
+            "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\" 아이뉴스24",
+            "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+            "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T12:00:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전자"
+        },
+        {
+          "category": "이슈 · 삼성전자",
+          "outlet": "OhmyNews",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "화섬식품노조, 삼성전자에 원·하청 교섭 요청",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wcGtMX1RFbXlfRTJlNFhXeGdqWkhDZlg0UElSa1BfRmRoNTY3S3hnVXlyZm1FRmlxNWprQ192LUZteXZneG5PeXFMbFE1bjgxd0lWeWdDQ0NSV2JNMnlrdUU0dlRIWjlQUk9zeG82YnV2ZUJ6MF9v?oc=5",
+          "summary": "화섬식품노조, 삼성전자에 원·하청 교섭 요청\n화섬식품노조, 삼성전자에 원·하청 교섭 요청 OhmyNews\n상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "화섬식품노조, 삼성전자에 원·하청 교섭 요청",
+            "화섬식품노조, 삼성전자에 원·하청 교섭 요청 OhmyNews",
+            "상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[OhmyNews] 화섬식품노조, 삼성전자에 원·하청 교섭 요청",
+            "화섬식품노조, 삼성전자에 원·하청 교섭 요청 OhmyNews",
+            "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+            "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:32:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전자"
+        },
+        {
+          "category": "이슈 · 삼성전자",
+          "outlet": "서울파이낸스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xNnNZa1JjbFZ1U3R4SnBvZWlIdGp3cjRtUjhyX01lRzhINVkySTNXTXZRTDNRbUY2Yk5vV2pQd215MzA3ejliTng5a1JZamFKR3F2WjhsWDYxOWdsUzlVYXgzblZEZEFZa1E?oc=5",
+          "summary": "[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각\n[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각 서울파이낸스\n상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각",
+            "[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각 서울파이낸스",
+            "상세 본문과 원문 링크를 통해 삼성전자의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[서울파이낸스] [AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각",
+            "[AI제국의 위기 ⑦] '젠슨 황 사태' 美 반도체 규제 불씨···삼성·SK 중국사업 촉각 서울파이낸스",
+            "삼성전자(005930.KS)는 글로벌 반도체 업황의 단기 숨고르기 국면 속에서도 차세대 HBM4 개발 가속화와 서버용 고성능 메모리(DDR5·eSSD) 수요를 바탕으로 체력을 다지고 있습니다.",
+            "수급 측면에서는 글로벌 매크로 금리 변수와 맞물려 외국인 차익실현 매물과 기관의 저가 매수세가 맞서는 양상이며, 주가순자산비율(PBR) 기준 밸류에이션 매력이 부각되는 구간마다 강한 지지력을 형성하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T20:00:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전자"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "value": "1,216,000원",
+      "change": "-3.03%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "AI 가속기용 HBM3E 12단 독점적 공급 우위 속 단기 차익실현 소화",
+      "key_points": [
+        "글로벌 빅테크 고객사향 HBM3E 12단 양산 출하 본격화로 업계 최고 수준의 영업이익률을 기록 중입니다.",
+        "단기 급등에 따른 외국인·기관의 일부 차익실현 매물이 출회되었으나 연간 물량 완판(Sold-out) 기조는 견고합니다.",
+        "차세대 맞춤형 HBM4 베이스 다이 기술 협력이 중장기 밸류에이션 프리미엄을 뒷받침하고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+        "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "98조 2,257억",
+        "quarter_op_profit": "76조 9,640억",
+        "quarter_net_income": "61조 2,794억",
+        "annual_period": "추정",
+        "annual_revenue": "363조 413억",
+        "annual_op_profit": "283조 716억",
+        "target_price": "3,062,000원",
+        "investment_opinion": "매수",
+        "market_cap": "900조 6,971억",
+        "trading_volume": "4,893,554주 (6조 1,185억)",
+        "day_range": "시가 1,249,000 · 고가 1,317,000 · 저가 1,201,000",
+        "week52_high": "3,002,000원",
+        "week52_low": "501,000원",
+        "week52_pos": 29,
+        "per": "5.50배 (추정 3.47배)",
+        "eps": "224,313원 (추정 355,258원)",
+        "pbr": "3.34배 (BPS 368,998원)",
+        "dividend_yield": "0.24% (3,000원)",
+        "foreign_rate": "47.94%",
+        "investor_trend": "외인 -370,341 · 기관 +24,207 · 개인 +6,871"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · SK하이닉스",
+          "outlet": "중앙일보",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWc3pocEdlQjBNVllsWmVINjZhWnFQb082YXItWEFrNUplcE8yVDd3ZzlfcW5qQlJWTGlIS1ljZms0NGM1ZUxGZmE5ODJNLWpzeWkwLXZR?oc=5",
+          "summary": "“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄\n“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄 중앙일보\n상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄",
+            "“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄 중앙일보",
+            "상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[중앙일보] “10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄",
+            "“10년 모은 4억, 하닉 투자했다 1억 남아” 30대 직장인의 한탄 중앙일보",
+            "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+            "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T15:49:07+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · SK하이닉스"
+        },
+        {
+          "category": "이슈 · SK하이닉스",
+          "outlet": "ISSUE ON (이슈온)",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81NkZGeWl6RFRxOWtuV1ZoUEpzZVhVOGFzakhVbm1VZDkwS1BWcXJuckRtVW1kdk1Ya2pJdVN3Y1p3c3JEdVdDc0syd21uMlZ5NGZnVHh6TkxmRmp3VmFCUlV0RTR2eHY3R1BV?oc=5",
+          "summary": "엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈\n엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈 ISSUE ON (이슈온)\n상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈",
+            "엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈 ISSUE ON (이슈온)",
+            "상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[ISSUE ON (이슈온)] 엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈",
+            "엔비디아만 빠진 반등장…삼성·SK하이닉스, 18일 새벽 실적에 쏠린 눈 ISSUE ON (이슈온)",
+            "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+            "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:48:18+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · SK하이닉스"
+        },
+        {
+          "category": "이슈 · SK하이닉스",
+          "outlet": "네이버 프리미엄콘텐츠",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요?",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRlRKU3RFbWtnclJpQTUyX2ViOHVvSHVMTUhRVXVJNlpzSHN5Qk55Z1I2cHh2WmRkbDg1Z1ZLdl9OT0MtMXQzV203VEJtSE5uSC1JR2gtOV9mSk9iNWNZSHA1cU01Ny15SU1FUmdjNDhsTDlPTDZHdjgyNVphMFpmSXo4LS1CbjIxUUI3NUNUbmdvOTQy?oc=5",
+          "summary": "SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요?\nSK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요? 네이버 프리미엄콘텐츠\n상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요?",
+            "SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요? 네이버 프리미엄콘텐츠",
+            "상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[네이버 프리미엄콘텐츠] SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요?",
+            "SK하이닉스, 52주 고점에서 59% 하락…121만 원대는 기회일까요? 네이버 프리미엄콘텐츠",
+            "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+            "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:49:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · SK하이닉스"
+        },
+        {
+          "category": "이슈 · SK하이닉스",
+          "outlet": "뉴시스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92MmVLSVdXNzdoal9feEVXMVlZeWhaejBYTllsSTk4dnFoRC13ZGJxMXRTYW9XeG1neVhlX0lHQjV1X0J0X3hRT2RUdnJOQjhOTHFUVy1OeDVjSi1fbGhnRTZ0SlJLQ1FMUDFoVkFBZ2lMbG5DMU9PNtIBeEFVX3lxTE92MmVLSVdXNzdoal9feEVXMVlZeWhaejBYTllsSTk4dnFoRC13ZGJxMXRTYW9XeG1neVhlX0lHQjV1X0J0X3hRT2RUdnJOQjhOTHFUVy1OeDVjSi1fbGhnRTZ0SlJLQ1FMUDFoVkFBZ2lMbG5DMU9PNg?oc=5",
+          "summary": "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수\n젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수 뉴시스\n상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수",
+            "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수 뉴시스",
+            "상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴시스] 젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수",
+            "젠슨 황 퇴진에 새판 짜는 엔비디아…삼전·닉스 HBM 공급전 변수 뉴시스",
+            "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+            "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T14:08:24+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · SK하이닉스"
+        },
+        {
+          "category": "이슈 · SK하이닉스",
+          "outlet": "이투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rR01QSHNfdTBDWkZYNG9CTHpvcjQ0WG5tdC1PU1lrREd6Y2J1NXoydk5kT0FjMzZuR0oxSVFOUXBHd0RTUTk3YVptaGxSeEVmMlFkRQ?oc=5",
+          "summary": "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각\n젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각 이투데이\n상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각",
+            "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각 이투데이",
+            "상세 본문과 원문 링크를 통해 SK하이닉스의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[이투데이] 젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각",
+            "젠슨 황 퇴진에 K-HBM 긴장⋯삼성ㆍSK 장기 공급계약 영향 촉각 이투데이",
+            "SK하이닉스(000660.KS)는 AI 반도체 밸류체인의 핵심 수혜주로서 HBM 시장 내 확고한 점유율 우위를 이어가고 있습니다. 최근 주가 조정은 가파른 상승 이후 글로벌 기술주 변동성에 연동된 건강한 매물 소화 과정으로 풀이됩니다.",
+            "증권가에서는 고마진 AI 메모리 매출 비중이 전체 D램의 절반 수준으로 확대됨에 따라 범용 메모리 가격 등락과 무관한 독자적인 이익 성장 사이클이 지속될 것으로 분석하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T13:00:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · SK하이닉스"
+        }
+      ]
+    },
+    {
+      "symbol": "000500.KS",
+      "name": "가온전선",
+      "market": "KR",
+      "value": "219,000원",
+      "change": "+1.15%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "북미 AI 데이터센터 전력망 확충 및 초고압 케이블 수주 호조에 강세",
+      "key_points": [
+        "북미 노후 전력망 교체 주기와 AI 데이터센터 전력 수요 급증이 맞물리며 전선 수출 물량이 확대되고 있습니다.",
+        "LS전선과의 기술·사업 시너지 및 북미 배전케이블 법인 인수를 통한 현지 시장 공략이 가속화되고 있습니다.",
+        "구리 가격 변동분을 판매가에 연동하는 에스컬레이션 조항을 통해 안정적인 마진 구조를 유지 중입니다."
+      ],
+      "analysis_paragraphs": [
+        "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+        "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "9,061억",
+        "quarter_op_profit": "434억",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "3조 3,724억",
+        "annual_op_profit": "1,510억",
+        "target_price": "325,000원",
+        "investment_opinion": "매수",
+        "market_cap": "6조 6,404억",
+        "trading_volume": "237,498주 (530억)",
+        "day_range": "시가 214,000 · 고가 233,000 · 저가 213,000",
+        "week52_high": "635,000원",
+        "week52_low": "62,800원",
+        "week52_pos": 27,
+        "per": "103.29배 (추정 N/A)",
+        "eps": "2,159원 (추정 N/A)",
+        "pbr": "12.52배 (BPS 17,807원)",
+        "dividend_yield": "0.03% (56원)",
+        "foreign_rate": "1.95%",
+        "investor_trend": "외인 +494 · 기관 +12,494 · 개인 -11,963"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · 가온전선",
+          "outlet": "ThinkPool",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결)",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWM0VnelN0b3RuVHVQVlVRS0dBNHlwQkhxQ05aWVVwdjRpckpjT3FrOVlpcHVuaGVtZkZGMjJjNG1kTl8tM09FMTJWLVdNRDJhaVBsTGFRSTNQN1RkM1JMM2NSVy1qRVNw?oc=5",
+          "summary": "[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결)\n[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결) ThinkPool\n상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결)",
+            "[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결) ThinkPool",
+            "상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[ThinkPool] [실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결)",
+            "[실적속보]대한광통신, 올해 3Q 영업이익 29.2억원... 전년동기比 큰 폭 증가 (연결) ThinkPool",
+            "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+            "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T13:02:44+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 가온전선"
+        },
+        {
+          "category": "호재 · 가온전선",
+          "outlet": "머니투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Mkg4T0RCRVB5Z0NiRUZ1U3h4bGk0SXpya2RrTl9xcU1ySjhOYkpoS2NvYWZDWG9taU1ITk9KQXFGbU8td3RtR1RCeEtVWTg0SzdleVkzandMSjdrM1J6TlQ1NXVjb2NMMXVjeVBB0gFuQVVfeXFMTnkySDhPREJFUHlnQ2JFRnVTeHhsaTRJenJrZGtOX3FxTXJKOE5iSmhLY29hZkNYb21pTUhOT0pBcUZtTy13dG1HVEJ4S1VZODRLN2V5WTNqd0xKN2szUnpOVDU1dWNvY0wxdWN5UEE?oc=5",
+          "summary": "[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이\n[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이 머니투데이\n상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이",
+            "[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이 머니투데이",
+            "상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[머니투데이] [적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이",
+            "[적중! 대박 예감] '전선 수요 증가 수혜주' 월요일에 선택할 이 종목은? - 머니투데이 머니투데이",
+            "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+            "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T06:06:57+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 가온전선"
+        },
+        {
+          "category": "호재 · 가온전선",
+          "outlet": "CBC뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtRExTYV92aFJMUjI4ZWZUT0syeVM3cEgzREVna1kyLURwMjhEVndOZWoyTE0xbjdIR08yemh2YXNWdlJRMnZiUVdXbDYyY1BXcU9uOWFJbE5tYi1XQkNfUXdJdTMwMzl3?oc=5",
+          "summary": "[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세\n[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세 CBC뉴스\n상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세",
+            "[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세 CBC뉴스",
+            "상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[CBC뉴스] [속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세",
+            "[속보] 일진전기·가온전선 등 국내 전선주 장초반 일제히 강세 CBC뉴스",
+            "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+            "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T15:10:04+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 가온전선"
+        },
+        {
+          "category": "호재 · 가온전선",
+          "outlet": "대한경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fVUprcHYwR2hrcVE2b1VpdnBHQnBQX1pnd2ltblNidFI1bWNJRHJyQzF3YVBUT1lBWFZITTdmZXNSZmpUWHMxYy1QRjhsYXZSYVZoUEtvQXNJNTVEck5ySnZYNE55TF9fT2dmNzY0NTNObjdw?oc=5",
+          "summary": "[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’\n[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’ 대한경제\n상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’",
+            "[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’ 대한경제",
+            "상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[대한경제] [슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’",
+            "[슈퍼사이클 청구서](1)수주잔고 넘치는데… LSㆍ대한전선 ‘돈맥경화’ 대한경제",
+            "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+            "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T12:00:35+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 가온전선"
+        },
+        {
+          "category": "호재 · 가온전선",
+          "outlet": "핀포인트뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iOG5iWk1OVGRWSXlRbzN3elMxQlQ5Qm92eHpGbUdnUEhnSlJUZTd3Wk9RWkdDbjBJZ0dUandqd0V3T2FfZ1NWSm5UQ09ZQXhDMElxTHdqbXlSSV9PUUk1a0IxTnZ3SlBsck0yVFBJZHRLazlNVXJ30gF3QVVfeXFMTWI4bmJaTU5UZFZJeVFvM3d6UzFCVDlCb3Z4ekZtR2dQSGdKUlRlN3daT1FaR0NuMElnR1Rqd2p3RXdPYV9nU1ZKblRDT1lBeEMwSXFMd2pteVJJX09RSTVrQjFOdndKUGxyTTJUUElkdEtrOU1Vcnc?oc=5",
+          "summary": "AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리\nAI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리 핀포인트뉴스\n상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리",
+            "AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리 핀포인트뉴스",
+            "상세 본문과 원문 링크를 통해 가온전선의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[핀포인트뉴스] AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리",
+            "AI 전력 인프라 수요 급증...전선 관련주 일제히 상승 랠리 핀포인트뉴스",
+            "가온전선(000500.KS)은 글로벌 전력 인프라 슈퍼사이클의 직접적인 수혜를 입으며 견조한 상승 흐름을 보이고 있습니다. 특히 북미 지역 중심의 배전 및 통신 케이블 수요가 꾸준히 증가하며 역대급 수주 잔고를 기록하고 있습니다.",
+            "향후 미국 내 신재생에너지 발전 단지 연결 및 AI 데이터센터 증설 프로젝트가 본격화됨에 따라 수익성이 높은 북미향 수출 비중이 한층 더 높아질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:40:15+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 가온전선"
+        }
+      ]
+    },
+    {
+      "symbol": "036930.KQ",
+      "name": "주성엔지니어링",
+      "market": "KR",
+      "value": "172,500원",
+      "change": "+0.29%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "차세대 원자층증착(ALD) 반도체 장비 공급 다변화 및 유리기판 모멘텀 부각",
+      "key_points": [
+        "메모리 및 비메모리 선단 공정 전환에 필수적인 고성능 ALD 증착 장비의 글로벌 고객사 다변화가 진행 중입니다.",
+        "차세대 패키징 핵심 기술인 TGV(유리기판)용 증착 장비 선점 기대감이 신규 성장 동력으로 작용하고 있습니다.",
+        "반도체 부문 분할 이후 R&D 집중도를 높이며 고부가 전공정 장비 이익률을 끌어올리고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+        "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "-",
+        "quarter_op_profit": "-",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "3,380억",
+        "annual_op_profit": "406억",
+        "target_price": "182,500원",
+        "investment_opinion": "매수",
+        "market_cap": "8조 970억",
+        "trading_volume": "2,121,462주 (3,772억)",
+        "day_range": "시가 178,100 · 고가 184,900 · 저가 171,300",
+        "week52_high": "284,000원",
+        "week52_low": "26,350원",
+        "week52_pos": 57,
+        "per": "1,131.17배 (추정 N/A)",
+        "eps": "154원 (추정 N/A)",
+        "pbr": "13.45배 (BPS 12,955원)",
+        "dividend_yield": "0.03% (53원)",
+        "foreign_rate": "8.73%",
+        "investor_trend": "외인 -55,960 · 기관 -44,880 · 개인 +101,581"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · 주성엔지니어링",
+          "outlet": "머니투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUnBDTkRmTE5meV9SVWpmMmRvUWx3VHcxMWtIanpwaTlZMm03aVRWWlJxY3pVMXFtOTRnVUZVSWFBMlJTSHBhbzZWY29MLThlUVBsd09Uc2ZmcGNzTHVBRzF3M0JtYXdWUV9sempR0gFuQVVfeXFMTjJScENORGZMTmZ5X1JVamYyZG9RbHdUdzExa0hqenBpOVkybTdpVFZaUnFjelUxcW05NGdVRlVJYUEyUlNIcGFvNlZjb0wtOGVRUGx3T1RzZmZwY3NMdUFHMXczQm1hd1ZRX2x6alE?oc=5",
+          "summary": "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이\n레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이 머니투데이\n상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이",
+            "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이 머니투데이",
+            "상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[머니투데이] 레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이",
+            "레버리지보다 더 올랐다… 수익률 32% 견인한 ETF 정체는 - 머니투데이 머니투데이",
+            "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+            "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T12:00:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 주성엔지니어링"
+        },
+        {
+          "category": "호재 · 주성엔지니어링",
+          "outlet": "핀포인트뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XTmh1aEZUaTRVTEswX01KLVB0OWRPdDh5MGRvUmZ3YjNaQWJHTUEwcmlDQmE4VjlBVzVBS1JlZnhhWlR4N3R6NTR6b3hCYnMzTEI4bjl3dkJ6dzlQVGJ6TVZnX051eHZFdERmM3BHc09udElKU29z0gF3QVVfeXFMT1dOaHVoRlRpNFVMSzBfTUotUHQ5ZE90OHkwZG9SZndiM1pBYkdNQTByaUNCYThWOUFXNUFLUmVmeGFaVHg3dHo1NHpveEJiczNMQjhuOXd2Qnp3OVBUYnpNVmdfTnV4dkV0RGYzcEdzT250SUpTb3M?oc=5",
+          "summary": "[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다\n[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다 핀포인트뉴스\n상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다",
+            "[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다 핀포인트뉴스",
+            "상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[핀포인트뉴스] [주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다",
+            "[주간 코스닥 기관] 심텍 주성엔지니어링 RFHIC 에코프로비엠 쓸어 담았다 핀포인트뉴스",
+            "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+            "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T02:46:03+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 주성엔지니어링"
+        },
+        {
+          "category": "호재 · 주성엔지니어링",
+          "outlet": "아시아경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는?",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NaG1RbkRWR1ZnSnlRaGtFS2Q3WWJNeFMtdGNMQXBTVXhuaHVnRndzTmpRZTNYdEplMTlFbmc4Nmk2ekVldnF6VVByT2M5dGtnWE1paC1BLTRYVGx6VHhPNA?oc=5",
+          "summary": "코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는?\n코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는? 아시아경제\n상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는?",
+            "코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는? 아시아경제",
+            "상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[아시아경제] 코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는?",
+            "코스피 5,400선 앞두고 속도 조절…이영익 대표가 주목한 반도체 이후 주도주는? 아시아경제",
+            "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+            "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T15:11:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 주성엔지니어링"
+        },
+        {
+          "category": "호재 · 주성엔지니어링",
+          "outlet": "재경일보",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZekc5Y0dnazdyVG1tSGktMlNrUjBVMnpMNDZEUG94OHRKR3NJN2xXT3pzV3RSQTVnOG05V0h0eFpmOUd1YWZBbjVncw?oc=5",
+          "summary": "[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보\n[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보 재경일보\n상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보",
+            "[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보 재경일보",
+            "상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[재경일보] [마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보",
+            "[마감분석] 주성엔지니어링 소폭 올라 17만2500원 마감 : 기업주식정보 재경일보",
+            "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+            "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:50:58+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 주성엔지니어링"
+        },
+        {
+          "category": "호재 · 주성엔지니어링",
+          "outlet": "디지털데일리",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QNzlRS3hyQlVPZnZsTUx3X0p0OEZ3TUFJQWQ3VUZIY3lmd3dMR0NDVGhHdkVVUUk5RVFCbUNuZEUxXzlqNi1mazhRR1M0elJwX0VkWFk0c3hRY3lUcGdnMHU2SUk?oc=5",
+          "summary": "“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도\n“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도 디지털데일리\n상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도",
+            "“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도 디지털데일리",
+            "상세 본문과 원문 링크를 통해 주성엔지니어링의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[디지털데일리] “젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도",
+            "“젠슨 황 사임 충격에도 코스피 3% 급등”…반도체株 강세에 5500선 탈환 시도 디지털데일리",
+            "주성엔지니어링(036930.KQ)은 독보적인 원자층증착(ALD) 기술력을 바탕으로 국내외 메모리·로직 반도체 고객사향 공급을 확대하며 견조한 흐름을 나타내고 있습니다.",
+            "특히 AI 반도체의 미세화 한계를 극복할 유리기판(Glass Substrate) 생태계에서 핵심 증착 솔루션을 확보하고 있다는 점이 부각되며 중장기 리레이팅 기대감을 높이고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T15:27:38+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 주성엔지니어링"
+        }
+      ]
+    },
+    {
+      "symbol": "009150.KS",
+      "name": "삼성전기",
+      "market": "KR",
+      "value": "855,000원",
+      "change": "-3.50%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "AI 서버·전장용 고부가 MLCC 및 FC-BGA 기판 채택 확대 속 단기 조정",
+      "key_points": [
+        "AI 가속기 및 자율주행 전장용 고온·고압 적층세라믹콘덴서(MLCC) 매출 비중이 빠르게 상승하고 있습니다.",
+        "글로벌 빅테크향 AI 서버용 고다층 패키지 기판(FC-BGA) 양산 공급이 본격화되며 체질 개선이 이뤄지고 있습니다.",
+        "IT 세트 수요 회복 지연 우려로 단기 주가 조정을 겪고 있으나 전장·AI향 이익 기여도는 꾸준히 증가 중입니다."
+      ],
+      "analysis_paragraphs": [
+        "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+        "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "3조 8,264억",
+        "quarter_op_profit": "6,453억",
+        "quarter_net_income": "5,269억",
+        "annual_period": "추정",
+        "annual_revenue": "14조 4,138억",
+        "annual_op_profit": "2조 2,523억",
+        "target_price": "2,383,333원",
+        "investment_opinion": "매수",
+        "market_cap": "64조 5,354억",
+        "trading_volume": "1,448,008주 (1조 2,869억)",
+        "day_range": "시가 885,000 · 고가 944,000 · 저가 846,000",
+        "week52_high": "2,417,000원",
+        "week52_low": "200,500원",
+        "week52_pos": 30,
+        "per": "66.54배 (추정 38.83배)",
+        "eps": "12,984원 (추정 22,250원)",
+        "pbr": "6.38배 (BPS 135,420원)",
+        "dividend_yield": "0.27% (2,350원)",
+        "foreign_rate": "35.31%",
+        "investor_trend": "외인 -56,033 · 기관 -51,852 · 개인 +102,995"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 삼성전기",
+          "outlet": "핀포인트뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVUU5TFNLUjBlWlY2aWo3ZldlaFRkSk5DbnBrUU9qbW5TVkhXOWpONFVpRi00Z2habFhiNVc5LXlndjA3NXhFVDkwSS1KU01FZGNDejNZa0pwR19UQTg3Z19MNHF5RzJ6enBCaFp2dFROdkxHRVR30gF3QVVfeXFMTVBVRTlMU0tSMGVaVjZpajdmV2VoVGRKTkNucGtRT2ptblNWSFc5ak40VWlGLTRnaFpsWGI1VzkteWd2MDc1eEVUOTBJLUpTTUVkY0N6M1lrSnBHX1RBODdnX0w0cXlHMnp6cEJoWnZ0VE52TEdFVHc?oc=5",
+          "summary": "삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화\n삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화 핀포인트뉴스\n상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화",
+            "삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화 핀포인트뉴스",
+            "상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[핀포인트뉴스] 삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화",
+            "삼성전기 MLCC 가격 30% 뛴다…내년 1분기 인상 본격화 핀포인트뉴스",
+            "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+            "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T15:03:17+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전기"
+        },
+        {
+          "category": "이슈 · 삼성전기",
+          "outlet": "중앙이코노미뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성전기 주가 최근 5거래일 96만원 터치 후 조정",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xOGJxZWRfWjI3MHpranZkRkdxb3l3djhUWnhiZUVfNktrU1pOUTV0WS15SWJsOWRrOERDSkRJbEFTY3BYeHRyTHlTNXJpWDROVzVyaXFlWl9UR1FfSFpRbVplUy1RRFlNdkZfWmdUSTRVZw?oc=5",
+          "summary": "삼성전기 주가 최근 5거래일 96만원 터치 후 조정\n삼성전기 주가 최근 5거래일 96만원 터치 후 조정 중앙이코노미뉴스\n상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성전기 주가 최근 5거래일 96만원 터치 후 조정",
+            "삼성전기 주가 최근 5거래일 96만원 터치 후 조정 중앙이코노미뉴스",
+            "상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[중앙이코노미뉴스] 삼성전기 주가 최근 5거래일 96만원 터치 후 조정",
+            "삼성전기 주가 최근 5거래일 96만원 터치 후 조정 중앙이코노미뉴스",
+            "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+            "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T16:48:22+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전기"
+        },
+        {
+          "category": "이슈 · 삼성전기",
+          "outlet": "더구루",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRzUzcDlJMDVWQk84TGNTTVBsMnE5Tm5XRHNTcDFlczlaR1gtblNWU2NIRGlPUmFuOXdxRDgxandWUUZzcjh5TXZQc3FNaFVtbFl3eUJBMXlLRE50RV9iUHFGcw?oc=5",
+          "summary": "삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니\n삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니 더구루\n상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니",
+            "삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니 더구루",
+            "상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[더구루] 삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니",
+            "삼성전기·현대차 로봇에 월배당까지…ETF 신상품 6종 뜯어보니 더구루",
+            "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+            "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T06:00:51+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전기"
+        },
+        {
+          "category": "이슈 · 삼성전기",
+          "outlet": "데일리25",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜?",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESFBNOXVnS01SeTdkNUYxYkRDUHQta21sdFdXckVjbmJhVDdsVW5DZUZoT3FGSDJERXoxeVZGWG9WM2RLM1pwWDNnSlAzUDVMVjJYVUgxTjdVd3ZPSXl5Zm5MV2xNTVpwSjRfdA?oc=5",
+          "summary": "“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜?\n“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜? 데일리25\n상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜?",
+            "“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜? 데일리25",
+            "상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[데일리25] “아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜?",
+            "“아침엔 94만원, 끝내 86만원”…삼성전기 주가 급반전, 영업이익 166% 늘었는데 왜? 데일리25",
+            "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+            "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T04:17:39+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전기"
+        },
+        {
+          "category": "이슈 · 삼성전기",
+          "outlet": "Chosunbiz",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGtNbmdMVVU0WjV3MVl5Y2xJeGtaVjRDUVZQY0JRakpUUDYxMFA3S2ctRjZST21pX2VPNzZtbjExQUpIcEYxaHVlZ1Z1Y3NpOUhGQ2ZrekN1WldNS2w2UkFPU2tfSXhVZV9rRWFYVFhQVmFNSEYwVmRSbWxFOVFmTHN30gGWAUFVX3lxTE1kMEFuN1dNUU50X0REWjY1VG1kWHhzZTJkcFVmZkI1a0VfZ3hTNVRMd2h1WmhQWHdHQW5HMFk1d1dvaGtXMTJDXzUyTmpadkJKU3JCdTY2b1NTbFZjUGg5VFg1RU9iNmdWaU5Jc3h0dGpjeE9wTERXMjZxRE1ZWm81ZXVBNk15dWh5OFVnOEFtdHRCYnlqdw?oc=5",
+          "summary": "삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설\n삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설 Chosunbiz\n상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설",
+            "삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설 Chosunbiz",
+            "상세 본문과 원문 링크를 통해 삼성전기의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[Chosunbiz] 삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설",
+            "삼성전기, 세종 8조원 투자 첫 단계 구체화… 3만평 규모 기판 공장 건설 Chosunbiz",
+            "삼성전기(009150.KS)는 기존 스마트폰 중심의 매출 구조에서 벗어나 AI 서버 및 전장(자동차 전자장비) 중심의 고부가 부품 포트폴리오로 빠르게 전환하고 있습니다.",
+            "단기적으로는 글로벌 IT 기기 출하량 둔화 우려와 기관 매물 출회로 숨고르기를 보이고 있으나, AI 가속기 1대당 탑재되는 MLCC 용량이 일반 서버 대비 수배 이상 증가하는 구조적 수혜가 이어질 전망입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T00:41:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 삼성전기"
+        }
+      ]
+    },
+    {
+      "symbol": "003670.KS",
+      "name": "포스코퓨처엠",
+      "market": "KR",
+      "value": "173,200원",
+      "change": "-0.74%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "이차전지 캐즘 우려 속 하이니켈 단결정 양극재 및 음극재 공급망 가치 재조명",
+      "key_points": [
+        "미국·유럽 전기차 보조금 정책 변수에 따른 전방 셀 메이커들의 재고 조정 영향으로 보수적인 흐름을 보이고 있습니다.",
+        "북미 인플레이션 감축법(IRA) 해외우려기관(FEOC) 규정에 부합하는 탈중국 천연·인조흑연 음극재 경쟁력이 부각됩니다.",
+        "차세대 하이니켈 단결정 양극재 수율 안정화 및 광물-전구체-양극재 수직계열화가 중장기 원가 우위를 뒷받침합니다."
+      ],
+      "analysis_paragraphs": [
+        "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+        "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "7,720억",
+        "quarter_op_profit": "194억",
+        "quarter_net_income": "27억",
+        "annual_period": "추정",
+        "annual_revenue": "3조 1,562억",
+        "annual_op_profit": "1,391억",
+        "target_price": "228,875원",
+        "investment_opinion": "매수",
+        "market_cap": "15조 5,300억",
+        "trading_volume": "278,916주 (491억)",
+        "day_range": "시가 174,500 · 고가 180,000 · 저가 172,200",
+        "week52_high": "304,000원",
+        "week52_low": "114,700원",
+        "week52_pos": 31,
+        "per": "345.06배 (추정 280.26배)",
+        "eps": "506원 (추정 623원)",
+        "pbr": "3.70배 (BPS 47,212원)",
+        "dividend_yield": "0.14% (250원)",
+        "foreign_rate": "9.14%",
+        "investor_trend": "외인 -7,569 · 기관 +13,052 · 개인 -4,618"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 포스코퓨처엠",
+          "outlet": "시사저널e",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCenBvcW1RX1cyQ2tSanY5STE3bEZkRUZ3aW5rQWVvVmNDYUZpdVZYVUEyTGJBci1nQ05zSXZ0VWZaN2VjNlJfUmZxRHY4VnBETnB0R3JkVk91YUhTVUc2V3BPWkk5QmtQZHpQSFVEZ1hYd9IBdkFVX3lxTE1jVWl6MEplNHNxdks4emhGUVNBTmE2c1FLZFFPY0dFblcybm00akpoUDF1QTZxWlVwUDZJRXAxdE9KcGtXb3VTVDBmbzg1STZOcDNOaHM4bFZyMWVNcXVCV1lOdU8xTVlxVGxkcW5DVnRTbGN1b2c?oc=5",
+          "summary": "제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다\n제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다 시사저널e\n상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다",
+            "제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다 시사저널e",
+            "상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[시사저널e] 제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다",
+            "제철소 부산물도 배터리 원료로···소재업계, 조달망 넓힌다 시사저널e",
+            "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+            "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T15:15:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 포스코퓨처엠"
+        },
+        {
+          "category": "이슈 · 포스코퓨처엠",
+          "outlet": "경제타임스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nQjIzWmpZcnQ3QlZnOVJaeXNRbDFXV1J1RXo1bkpURjdpWWtOME9oTkI5UXYtOWFyQnRIdWdpSHlKaFNTS2RQenUwTm9US2FPZktR?oc=5",
+          "summary": "'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막\n'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막 경제타임스\n상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막",
+            "'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막 경제타임스",
+            "상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[경제타임스] '글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막",
+            "'글로벌 배터리 메카' 포항서 '2026 국제엑스포' 개막 경제타임스",
+            "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+            "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T22:29:16+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 포스코퓨처엠"
+        },
+        {
+          "category": "이슈 · 포스코퓨처엠",
+          "outlet": "굿모닝경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZFdyMm5SVVBxWG9sdDBfV1RhbXRDellYYkVLTTNqTGxMNUJDckktOEpyZE5NT0pNbHRMYWRjakNUYnFaOFhzVlBGeTE1YzgxdkM2a2RqVFd0TUplUW15ZVNqNENuTzBoSmNaeA?oc=5",
+          "summary": "포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표\n포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표 굿모닝경제\n상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표",
+            "포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표 굿모닝경제",
+            "상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[굿모닝경제] 포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표",
+            "포스코퓨처엠, 2000억원 규모 사채 발행키로… 더 높은 이율로 재무부담 화살표 굿모닝경제",
+            "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+            "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T12:30:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 포스코퓨처엠"
+        },
+        {
+          "category": "이슈 · 포스코퓨처엠",
+          "outlet": "잡포스트",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5RUo5eE5vdWk4SmY2bmRPOEV5SldIZHFfSUVzeHhGS2lJVjU3YUVRRGxnOW9QRzhJbE5EdlpfQzBmN2FQaUEybUNmTFJiZDN1dWowSS14Rl9OYXhkbmZEYWtlZzlDanhvWjFLSm11NlNFQdIBckFVX3lxTFA5RUo5eE5vdWk4SmY2bmRPOEV5SldIZHFfSUVzeHhGS2lJVjU3YUVRRGxnOW9QRzhJbE5EdlpfQzBmN2FQaUEybUNmTFJiZDN1dWowSS14Rl9OYXhkbmZEYWtlZzlDanhvWjFLSm11NlNFQQ?oc=5",
+          "summary": "포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세\n포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세 잡포스트\n상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세",
+            "포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세 잡포스트",
+            "상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[잡포스트] 포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세",
+            "포스코퓨처엠 주가 숨 고르기…종가 173,200원, 0.74% 약세 잡포스트",
+            "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+            "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T22:10:12+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 포스코퓨처엠"
+        },
+        {
+          "category": "이슈 · 포스코퓨처엠",
+          "outlet": "연합뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BRmY2R0FySWlUVU1DUGdfRGNXWFhGR012RV9sVnJGRER3ZVRGcUpPYkRFYzJSVEl4NzV0N05jdVBJcHlEQnI4NlF5aVo5U2NiYmt0MWd3OUJ3SHfSAWBBVV95cUxNZ01BTWdxcXZ5OTFMVlNxRHJxbGNta0dnaThWbDNEaklUS2N0anA3VWFDa2hrU2pmaUhpT1h3MTJ1a0hTSnJLZGllbmFxemNvTXRFVHNON0VJcjB4UnFEUlA?oc=5",
+          "summary": "포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채\n포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채 연합뉴스\n상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채",
+            "포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채 연합뉴스",
+            "상세 본문과 원문 링크를 통해 포스코퓨처엠의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[연합뉴스] 포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채",
+            "포항서 '국제 배터리엑스포' 개막…전시·체험·강연 다채 연합뉴스",
+            "포스코퓨처엠(003670.KS)은 글로벌 전기차 시장의 일시적 수요 정체(캐즘)와 리튬 등 메탈 가격 변동성 속에서도 핵심 고객사향 하이니켈 양극재 출하를 이어가고 있습니다.",
+            "특히 북미 시장 내에서 비중국산 음극재와 전구체를 동시에 조달할 수 있는 대체 불가능한 공급망 지위를 보유하고 있어, 완성차 업체들의 신차 출시 사이클 재개 시 가장 빠른 실적 반등이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:38:38+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 포스코퓨처엠"
+        }
+      ]
+    },
+    {
+      "symbol": "006400.KS",
+      "name": "삼성SDI",
+      "market": "KR",
+      "value": "478,000원",
+      "change": "+1.06%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "전고체 배터리(ASB) 선도 기술력 및 북미 스텔란티스 합작공장 가동 모멘텀",
+      "key_points": [
+        "북미 첫 합작법인(StarPlus Energy) 조기 가동에 따른 첨단제조생산세액공제(AMPC) 수혜 본격화가 기대됩니다.",
+        "꿈의 배터리로 불리는 전고체 배터리(900Wh/L) 샘플 공급 및 2027년 양산 로드맵이 순항하며 기술 우위를 입증했습니다.",
+        "AI 데이터센터 전력 백업용 에너지저장장치(ESS) 배터리 수주 확대가 전기차 둔화를 상쇄하고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+        "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "4조 388억",
+        "quarter_op_profit": "1,913억",
+        "quarter_net_income": "7,873억",
+        "annual_period": "추정",
+        "annual_revenue": "16조 6,791억",
+        "annual_op_profit": "6,095억",
+        "target_price": "797,895원",
+        "investment_opinion": "매수",
+        "market_cap": "38조 6,811억",
+        "trading_volume": "786,372주 (3,800억)",
+        "day_range": "시가 472,000 · 고가 496,500 · 저가 468,000",
+        "week52_high": "820,000원",
+        "week52_low": "259,000원",
+        "week52_pos": 39,
+        "per": "1,048.03배 (추정 49.12배)",
+        "eps": "458원 (추정 9,772원)",
+        "pbr": "1.55배 (BPS 308,778원)",
+        "dividend_yield": "N/A (N/A)",
+        "foreign_rate": "24.54%",
+        "investor_trend": "외인 +59,424 · 기관 +10,505 · 개인 -74,086"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · 삼성SDI",
+          "outlet": "한국신용신문",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81RWJ2d1Bvc3dETnZjcHd2ejFPRUxKVFViSWlEVElpRURDdFVvaGJYX29PX2FyN3ZVNWsxUTBaVjVzX1hCMTd1SzhYRnZIVVB2MlNOanRLaHNDcW0yTkpWc2xsdVdiNEw5MEpz?oc=5",
+          "summary": "AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산\nAI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산 한국신용신문\n상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산",
+            "AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산 한국신용신문",
+            "상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[한국신용신문] AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산",
+            "AI 서버 겨냥 LG엔솔·삼성SDI, 2027년 LFP 배터리 양산 한국신용신문",
+            "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+            "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T11:57:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 삼성SDI"
+        },
+        {
+          "category": "호재 · 삼성SDI",
+          "outlet": "중앙이코노미뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "11월 2주차 삼성SDI 주가 40만원대 회복 강세",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IWHZ6YlRUMVVPUXZFR05mX2w5Rk9MT3lQUkQ3dzdtanBmenBmS3AxMFZvYVlOazU3SHNYb2tJbUZHa3k1NmNkV0J4ZmVIQTlmX2czUXFrcEVtSTNxcmZCWFF2eDRYeXp1T3lUakQ4RllhQQ?oc=5",
+          "summary": "11월 2주차 삼성SDI 주가 40만원대 회복 강세\n11월 2주차 삼성SDI 주가 40만원대 회복 강세 중앙이코노미뉴스\n상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "11월 2주차 삼성SDI 주가 40만원대 회복 강세",
+            "11월 2주차 삼성SDI 주가 40만원대 회복 강세 중앙이코노미뉴스",
+            "상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[중앙이코노미뉴스] 11월 2주차 삼성SDI 주가 40만원대 회복 강세",
+            "11월 2주차 삼성SDI 주가 40만원대 회복 강세 중앙이코노미뉴스",
+            "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+            "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T16:52:06+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 삼성SDI"
+        },
+        {
+          "category": "호재 · 삼성SDI",
+          "outlet": "다나와 자동차",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN1A3WEsycUdUdjF6X3N6MTNYU2NKWDJtcVpRU3hNaWVpRXJ5dDROdHdSTk1qVmpmY2pkbFFRNUtYYzd6Zk1qTUlTeWUxQ0xsQlZIVEUzMUlOZ1BIa2YwQmpCR1lhZFdkeXdyag?oc=5",
+          "summary": "BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화\nBMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화 다나와 자동차\n상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화",
+            "BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화 다나와 자동차",
+            "상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[다나와 자동차] BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화",
+            "BMW, 차세대 Gen6 배터리 공급망에 삼성SDI·LG에너지솔루션 추가… 지역 생산 체계 강화 다나와 자동차",
+            "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+            "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T23:45:54+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 삼성SDI"
+        },
+        {
+          "category": "호재 · 삼성SDI",
+          "outlet": "대한경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJUng0T09LYnRDUlpUUkM1TEdHR1ZrYy1YcnB5VC1oRzlFUFhVd1VLY0xBZUF0RklGUFQtQVFKcVM2ZUU1eW0yb1BDQWlCTWJOYy0yTV93a09xOVRpTVRWYzlUYVRfenBpWU1JLXFNdVRZN0xU?oc=5",
+          "summary": "K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’\nK-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’ 대한경제\n상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’",
+            "K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’ 대한경제",
+            "상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[대한경제] K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’",
+            "K-배터리, 엇갈린 전고체 전략…삼성SDI ‘선공’, LG엔솔·SK온은 ‘신중’ 대한경제",
+            "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+            "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T11:20:22+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 삼성SDI"
+        },
+        {
+          "category": "호재 · 삼성SDI",
+          "outlet": "뉴스드림",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iTmdMaHJqUmc1aVEzWDdiMnhfY1JHaThCYzRmbnRFMW5Lc2t2UllCUHdrdFRPNXZjaG5OcWxEMWRrOF9ZSEs2OVJYRnN3ektWb2dfUnRLU0RqbzFveGdVQTNTT2hEV1AwLWfSAW5BVV95cUxOWWNtUVNHakQySkJoTlhhNWZYclFBbFRDdU83QThmc0JVNXJER0hCT2N1a2dDQk4zY2d1Y1FScUE4X1ZnU0hiUVk4THlSR3luSnJBOFRPVlRVUFFtV0xwX1pua3RqQ1dsbE01UHViQQ?oc=5",
+          "summary": "삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동\n삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동 뉴스드림\n상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동",
+            "삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동 뉴스드림",
+            "상세 본문과 원문 링크를 통해 삼성SDI의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴스드림] 삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동",
+            "삼성SDI, 피지컬 AI·우주항공으로 영토 확장…차세대 배터리 초격차 시동 뉴스드림",
+            "삼성SDI(006400.KS)는 프리미엄 각형 배터리와 차세대 전고체 배터리 기술 리더십을 바탕으로 이차전지 업종 내 차별화된 반등 탄력을 보여주고 있습니다.",
+            "특히 글로벌 빅테크들의 데이터센터 증설에 따라 고출력·고안전성 ESS(에너지저장장치) 수요가 급증하고 있어, ESS 매출 비중 확대가 전사 수익성을 안정적으로 방어해 주고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T14:00:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 삼성SDI"
+        }
+      ]
+    },
+    {
+      "symbol": "181710.KS",
+      "name": "NHN",
+      "market": "KR",
+      "value": "66,400원",
+      "change": "-3.21%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "공공·금융 클라우드 전환 수주 확대 및 웹보드 게임 캐시카우 기반 수익성 점검",
+      "key_points": [
+        "정부 및 공공기관의 클라우드 네이티브 전환 사업에서 NHN클라우드가 높은 수주 점유율을 기록하고 있습니다.",
+        "웹보드 게임 부문의 안정적인 현금 창출력을 바탕으로 비핵심 커머스·자회사 구조조정을 통한 이익 체질을 개선 중입니다.",
+        "단기 차익 매물 출회로 조정을 받았으나 자사주 매입·소각 및 배당 등 적극적인 주주환원 기조가 하단을 지지합니다."
+      ],
+      "analysis_paragraphs": [
+        "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+        "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "7,646억",
+        "quarter_op_profit": "539억",
+        "quarter_net_income": "396억",
+        "annual_period": "추정",
+        "annual_revenue": "2조 9,848억",
+        "annual_op_profit": "2,047억",
+        "target_price": "95,833원",
+        "investment_opinion": "매수",
+        "market_cap": "2조 1,466억",
+        "trading_volume": "605,649주 (426억)",
+        "day_range": "시가 - · 고가 74,350 · 저가 -",
+        "week52_high": "89,200원",
+        "week52_low": "27,850원",
+        "week52_pos": 63,
+        "per": "31.26배 (추정 20.58배)",
+        "eps": "2,124원 (추정 3,226원)",
+        "pbr": "1.36배 (BPS 48,960원)",
+        "dividend_yield": "0.75% (500원)",
+        "foreign_rate": "14.12%",
+        "investor_trend": "외인 +79,788 · 기관 +4,759 · 개인 -79,549"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · NHN",
+          "outlet": "연합뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUFdORnFvMXF3dGRZSnlNdlB2MHpiSmJBTlFSYVlDYlFJdmJ6TlVxbjdqNFc2ZXNFNDdZMVpPeVU4T0VieDZqdjBrSEtwQ0pLYjNNZ0h1TDFLZUpmYk9NaNIBYEFVX3lxTE8xUFdORnFvMXF3dGRZSnlNdlB2MHpiSmJBTlFSYVlDYlFJdmJ6TlVxbjdqNFc2ZXNFNDdZMVpPeVU4T0VieDZqdjBrSEtwQ0pLYjNNZ0h1TDFLZUpmYk9NaA?oc=5",
+          "summary": "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종\n[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종 연합뉴스\n상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종",
+            "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종 연합뉴스",
+            "상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[연합뉴스] [게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종",
+            "[게임위드인] 시장에 쏟아지는 웹툰 게임…자체 IP 육성은 실종 연합뉴스",
+            "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+            "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T19:15:22+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · NHN"
+        },
+        {
+          "category": "이슈 · NHN",
+          "outlet": "한겨레",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjUklYel9JSUJKQUFlNTAxemppVlRBUnVja2dJUDhweDNyV1RKQmY3NkQwcnRyVFNINFZraEhkdVhhVEs4Qi1neUZXa1VqTzFObk83TUIzRkhYc0JzYm5LeHROakdtcE1TeFQzbmFTX2R1QQ?oc=5",
+          "summary": "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속\n‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속 한겨레\n상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속",
+            "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속 한겨레",
+            "상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[한겨레] ‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속",
+            "‘허위 공시 주가조작’ LG가 3세 구본현, 국외 도피 8년 만에 국내 송환·구속 한겨레",
+            "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+            "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:56:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · NHN"
+        },
+        {
+          "category": "이슈 · NHN",
+          "outlet": "아주경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VQjR6eUN6Z1ZHMndDM0VEZWtIT3F6ZjZ0Z2ZMLUNZcjhvR2pGcWRQVGhGYVdxNElsRUxBYkU5UjVobmJlaDV2dkdEMWNSMVp3Q205alM3Rlc2Z9IBWEFVX3lxTE5qLUZRcHN0eURZOEdNcUkySk1HSkM1dVhqZDJOSV9BQ0k5S25kc2gzeFI0dnRCUlV6b0hUa3BLeHkxbTVuNG9BcThmSVB2b09HT0U0QmNWOFM?oc=5",
+          "summary": "게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤\n게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤 아주경제\n상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤",
+            "게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤 아주경제",
+            "상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[아주경제] 게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤",
+            "게임업계 3분기 실적 희비…넥슨·엔씨 웃고 크래프톤·넷마블 주춤 아주경제",
+            "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+            "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T23:15:38+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · NHN"
+        },
+        {
+          "category": "이슈 · NHN",
+          "outlet": "이데일리",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상)",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMF9CRGhheUlZaG1nejA1WGhIWFYxTVA4R0FMWWtjWG10Ul9XZlB3ZVhGZmtMMndneW1aeC00M0FqOWhkRnhnVVdxUGJsOHRjMkxZTGpYV3BOYm9BQ1N5NXBkZFYta2FXWDJMdlQ1dk1zdHVlM0VUaFk5VU5lS2pPcw?oc=5",
+          "summary": "[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상)\n[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상) 이데일리\n상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상)",
+            "[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상) 이데일리",
+            "상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[이데일리] [韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상)",
+            "[韓 IT열전]⑤김범수, PC방 사장에서 인터넷 제국의 주역으로(상) 이데일리",
+            "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+            "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T18:00:03+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · NHN"
+        },
+        {
+          "category": "이슈 · NHN",
+          "outlet": "워크투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53QThEVWU4R0ZkWl9jRTAxck80QVBsOEJfRnc3R2tHTTE5QWdkRVVlNGl2YnhEUmdvVWpiWkU1NmlwVDdHS3diU25MRkMxeWVwbVVYMWdGb1Vsei1kVXhtdkxYbnJDbklCTzhIUQ?oc=5",
+          "summary": "[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外\n[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外 워크투데이\n상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外",
+            "[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外 워크투데이",
+            "상세 본문과 원문 링크를 통해 NHN의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[워크투데이] [NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外",
+            "[NHN 클라우드] 상명대와 바이오헬스 분야 클라우드·인재 양성 협력 外 워크투데이",
+            "NHN(181710.KS)은 견고한 웹보드 게임 매출과 가파르게 성장 중인 AI·클라우드 인프라 사업을 양대 축으로 사업 포트폴리오 효율화를 추진하고 있습니다.",
+            "특히 광주 국가 AI 데이터센터 구축·운영 레퍼런스를 기반으로 국내 공공 및 금융권 클라우드 시장에서의 입지를 넓히고 있으며, 수익성 중심 경영을 통한 영업이익률 개선 여부가 핵심 관전 포인트입니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T00:36:22+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · NHN"
+        }
+      ]
+    },
+    {
+      "symbol": "053800.KQ",
+      "name": "안랩",
+      "market": "KR",
+      "value": "111,900원",
+      "change": "-2.86%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "AI 기반 차세대 사이버보안 플랫폼 고도화 및 글로벌 보안 시장 확장 모멘텀",
+      "key_points": [
+        "클라우드·OT(운영기술) 보안 수요 증가와 생성형 AI 결합 보안 솔루션(AhnLab PLUS) 채택 확대로 본업 실적이 견조합니다.",
+        "사우디아라비아 사이버보안 합작법인(Rakaa) 등 중동 및 글로벌 보안 시장 진출이 중장기 성장 동력으로 부각됩니다.",
+        "테마성 수급 등락에 따른 단기 변동성이 나타나고 있으나 무차입 경영 수준의 탄탄한 재무구조를 보유하고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+        "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "-",
+        "quarter_op_profit": "-",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "-",
+        "annual_op_profit": "-",
+        "target_price": "-",
+        "investment_opinion": "-",
+        "market_cap": "1조 2,395억",
+        "trading_volume": "950,366주 (1,106억)",
+        "day_range": "시가 117,500 · 고가 121,800 · 저가 110,800",
+        "week52_high": "137,300원",
+        "week52_low": "50,800원",
+        "week52_pos": 71,
+        "per": "24.91배 (추정 N/A)",
+        "eps": "4,472원 (추정 N/A)",
+        "pbr": "2.68배 (BPS 41,588원)",
+        "dividend_yield": "1.26% (1,400원)",
+        "foreign_rate": "28.40%",
+        "investor_trend": "외인 -13,973 · 기관 -3,597 · 개인 +18,144"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 안랩",
+          "outlet": "전국매일신문",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xa1BCMER0VWtGMjd6Zm5XM0J4WEgxRTV0M2pycDFPaWxGdlRGMlAwLU1ERnBvTE5nZm1FM0tKSjZOcUNJUFNuQzNIS2hwLTNNSGdiMmt6RXlBYzJhUmE1U0NLeURPc2oyUUhNckJR?oc=5",
+          "summary": "김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타\n김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타 전국매일신문\n상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타",
+            "김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타 전국매일신문",
+            "상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[전국매일신문] 김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타",
+            "김선희 경기도의원, 학교급식 보안 허점·교원 대체인력 공백 질타 전국매일신문",
+            "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+            "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T18:59:10+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 안랩"
+        },
+        {
+          "category": "이슈 · 안랩",
+          "outlet": "중앙이코노미뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "11월 2주차 안랩 주가 주중 상승분 반납",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YWERSTHlZdGRDdWFweGhPQ0g1NWoteTgyZFpfMHp5V2pJYmNDNGJodl92aUYyT3VkRUI0M2JoS0hyUXZSYjczQUtjNmc0dUstYmswcFVESXhUdFNyVEp4cEl4eE5nY0RyWnZSVlA5Rm9ydw?oc=5",
+          "summary": "11월 2주차 안랩 주가 주중 상승분 반납\n11월 2주차 안랩 주가 주중 상승분 반납 중앙이코노미뉴스\n상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "11월 2주차 안랩 주가 주중 상승분 반납",
+            "11월 2주차 안랩 주가 주중 상승분 반납 중앙이코노미뉴스",
+            "상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[중앙이코노미뉴스] 11월 2주차 안랩 주가 주중 상승분 반납",
+            "11월 2주차 안랩 주가 주중 상승분 반납 중앙이코노미뉴스",
+            "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+            "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:48:49+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 안랩"
+        },
+        {
+          "category": "이슈 · 안랩",
+          "outlet": "비즈니스포스트",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tSGJUSXlBRGtmU3pDTVhEWUljak9MeWVjLWhYa2hqZHo5ZnRqQkZycmk1RERsaEptSTF2ZEZOQzhKU2VjcTAzNG9jTG9rLVJveFFEUEhEVU5wYXlFTGVCRTVGRk9VWGRYSzdZWUdoWnRDcU0?oc=5",
+          "summary": "안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까\n안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까 비즈니스포스트\n상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까",
+            "안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까 비즈니스포스트",
+            "상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[비즈니스포스트] 안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까",
+            "안랩 'AI 해킹' 확산에 실시간 공격 차단 기술 강화, 강석균 해외 보안기업 공세 속 토종 AI보안 자존심 지킬까 비즈니스포스트",
+            "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+            "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:05:53+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 안랩"
+        },
+        {
+          "category": "이슈 · 안랩",
+          "outlet": "잡포스트",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SUjNQOWwxeXVUS1dRTHpaX3RkUVY5Z1BObEE0NG9tRG1rcXhibEZQZVA5b1NIT25XUGVFemlRdHI0UWstVVRST3hoOFltTks0ZEkxdXBfaEhaVm1ZbS1RNTV4eUN1dVJtMU1JYzBaQUJkUdIBckFVX3lxTE5SUjNQOWwxeXVUS1dRTHpaX3RkUVY5Z1BObEE0NG9tRG1rcXhibEZQZVA5b1NIT25XUGVFemlRdHI0UWstVVRST3hoOFltTks0ZEkxdXBfaEhaVm1ZbS1RNTV4eUN1dVJtMU1JYzBaQUJkUQ?oc=5",
+          "summary": "안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세\n안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세 잡포스트\n상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세",
+            "안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세 잡포스트",
+            "상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[잡포스트] 안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세",
+            "안랩 주가 숨 고르기…종가 111,900원, 2.86% 약세 잡포스트",
+            "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+            "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T22:09:53+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 안랩"
+        },
+        {
+          "category": "이슈 · 안랩",
+          "outlet": "매일경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XRU1IeGlNQW9GcGZTX0dfR01NbTA3VTM1ZlkxVVg1eWo5MHUtUEhxWFAxVnVVN04za1Fmbm53U2JzWEVBSG8tUE9BXzdGQQ?oc=5",
+          "summary": "AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다\nAI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다 매일경제\n상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다",
+            "AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다 매일경제",
+            "상세 본문과 원문 링크를 통해 안랩의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[매일경제] AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다",
+            "AI 해킹 일상화에…정부, 국가 사이버복원력 TF 출범한다 매일경제",
+            "안랩(053800.KQ)은 국내 대표 통합 정보보안 기업으로서 엔드포인트·네트워크·클라우드 보안을 아우르는 구독형 라이선스 매출 성장을 지속하고 있습니다.",
+            "최근 국가 기반시설 및 기업의 랜섬웨어·클라우드 보안 위협이 고도화됨에 따라 AI 위협 분석 플랫폼 수요가 구조적으로 증가하고 있으며, 해외 합작법인을 통한 글로벌 매출 가시화에도 시장의 관심이 쏠리고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T00:16:24+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 안랩"
+        }
+      ]
+    },
+    {
+      "symbol": "180640.KS",
+      "name": "한진칼",
+      "market": "KR",
+      "value": "203,500원",
+      "change": "+0.25%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "대한항공-아시아나 기업결합 최종 마무리 국면 속 통합 지주사 가치 부각",
+      "key_points": [
+        "대한항공과 아시아나항공의 기업결합 절차가 최종 마무리 단계에 진입하며 메가 캐리어 지주사로서의 위상이 강화됐습니다.",
+        "진에어·에어부산·에어서울 등 산하 저비용항공사(LCC) 통합 시너지에 따른 자회사 지분가치 재평가가 진행 중입니다.",
+        "핵심 자회사들의 호실적에 기반한 배당 수익 증가 및 재무 건전성 개선이 주가 하방을 탄탄히 지지하고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+        "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "-",
+        "quarter_op_profit": "-",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "-",
+        "annual_op_profit": "-",
+        "target_price": "-",
+        "investment_opinion": "-",
+        "market_cap": "13조 3,525억",
+        "trading_volume": "1,449,491주 (3,021억)",
+        "day_range": "시가 199,200 · 고가 219,000 · 저가 197,100",
+        "week52_high": "247,000원",
+        "week52_low": "93,100원",
+        "week52_pos": 72,
+        "per": "N/A (추정 N/A)",
+        "eps": "-453원 (추정 N/A)",
+        "pbr": "4.02배 (BPS 49,695원)",
+        "dividend_yield": "0.18% (360원)",
+        "foreign_rate": "18.26%",
+        "investor_trend": "외인 +133,671 · 기관 +17,422 · 개인 -151,089"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · 한진칼",
+          "outlet": "동행일보",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zR1Jfb1U0bk8xN21HamFvLVN4aW1KRXJaX1J3Z1Z1Z2hObmtuOVhGQjItSzBBMm1KTHhiTzBGdFgxbUJyWXdrSldva1lLUjdNd1Q2eDBrNFNRU3J1bHhEc3dVckdrUl9J?oc=5",
+          "summary": "한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나\n한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나 동행일보\n상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나",
+            "한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나 동행일보",
+            "상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[동행일보] 한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나",
+            "한진칼 지분 0.11%p 차이…대한항공 방산 '50년 기술' 흔들리나 동행일보",
+            "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+            "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T15:37:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 한진칼"
+        },
+        {
+          "category": "호재 · 한진칼",
+          "outlet": "서울경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부]",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tRGJvajl6QWdQekZNWl81UkZmT2hXQ0JoVzBsaU11S3pIOGNKRE5aUDdsVWpqc2N3cGxkWWw2d0psY1RKVW13RlY4TmxwaE5zUHfSAVNBVV95cUxOM2dKaHZ1SFJ1OEdFOTlDTVQ1ZzlEcHkyN3ZLZlFPZ1FnUGVySGltaWpaZzNGcWt4OVlvMzltc2JiaE8tTWx2dWF2T3ExNjFHTmZMQQ?oc=5",
+          "summary": "보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부]\n보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부] 서울경제\n상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부]",
+            "보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부] 서울경제",
+            "상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[서울경제] 보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부]",
+            "보통주 잠잠한데…한진칼 분쟁에 널뛰는 우선주 [코주부] 서울경제",
+            "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+            "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T13:01:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 한진칼"
+        },
+        {
+          "category": "호재 · 한진칼",
+          "outlet": "FETV",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zWER4dmpFbW1wUFNvM3pzNGF0TWtBeDlMcnVNbnM3SEZFY2laYmhIbXMzdUI1T1R1QzkzTWctQnpueFZWN2VoYXlOTl9BRDF5XzVCRWk1eGpJWWpITHo5UVhyQzRFV1hB?oc=5",
+          "summary": "[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로\n[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로 FETV\n상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로",
+            "[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로 FETV",
+            "상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[FETV] [한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로",
+            "[한진과 오너] ④남매 싸움이 남긴 불씨…KCGI 지분 품은 호반, 최대주주로 FETV",
+            "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+            "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T20:14:32+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 한진칼"
+        },
+        {
+          "category": "호재 · 한진칼",
+          "outlet": "주간조선",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FUGlTbFM2eVNwOFByMW5RRmQyTHNTRWNZZUlFQ1JDWkNBLUhuYlFPdEN1M1I0ZXk0V2xyTk4wbU9BRGpKY051VkJub2o0UEVoYlhGb3QwTE80Q1g4b1pITjF1YnBMdmdhVGY3Wkpn0gFuQVVfeXFMT0VQaVNsUzZ5U3A4UHIxblFGZDJMc1NFY1llSUVDUkNaQ0EtSG5iUU90Q3UzUjRleTRXbHJOTjBtT0FEakpjTnVWQm5vajRQRWhiWEZvdDBMTzRDWDhvWkhOMXVicEx2Z2FUZjdaSmc?oc=5",
+          "summary": "곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰]\n곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰] 주간조선\n상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰]",
+            "곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰] 주간조선",
+            "상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[주간조선] 곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰]",
+            "곽규택 국민의힘 의원 “부산 ‘세컨드 LCC 허브’ 구축 이행이 먼저” [인터뷰] 주간조선",
+            "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+            "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T22:19:47+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 한진칼"
+        },
+        {
+          "category": "호재 · 한진칼",
+          "outlet": "뉴시스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00QmxsbzFoMjBMd2pkOXZQZU5xOU5tb3BTYVVZNElxZ2FsMm5Ia3VwdzlSSEFyNkpoQ0tuX191VHpUUjU0M0Q3NmlOc1ktOGV2bXdUaWtQdWlUSjR3THpJWXlGMUg3aGZIVERpX2RtNGNfanNoSWpSc9IBeEFVX3lxTE00QmxsbzFoMjBMd2pkOXZQZU5xOU5tb3BTYVVZNElxZ2FsMm5Ia3VwdzlSSEFyNkpoQ0tuX191VHpUUjU0M0Q3NmlOc1ktOGV2bXdUaWtQdWlUSjR3THpJWXlGMUg3aGZIVERpX2RtNGNfanNoSWpScw?oc=5",
+          "summary": "조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\"\n조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\" 뉴시스\n상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\"",
+            "조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\" 뉴시스",
+            "상세 본문과 원문 링크를 통해 한진칼의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴시스] 조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\"",
+            "조중훈 창업주 \"돈 벌 생각 말라\"며 시작한 '대한항공 K방산'…\"전문성·장기 투자 필수\" 뉴시스",
+            "한진칼(180640.KS)은 한진그룹의 지주회사로서 주력 계열사인 대한항공의 글로벌 항공 시장 지배력 확대와 진에어 등 관광·호텔 계열사의 실적 호조에 힘입어 견조한 흐름을 이어가고 있습니다.",
+            "통합 국적 항공사 및 통합 LCC 출범 이후 노선 효율화와 규모의 경제 달성이 본격화될 것으로 전망되며, 이에 따른 지주사 할인율 축소와 주주환원 확대 가능성에 투자자들의 이목이 집중되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T12:30:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · 한진칼"
+        }
+      ]
+    },
+    {
+      "symbol": "003490.KS",
+      "name": "대한항공",
+      "market": "KR",
+      "value": "31,550원",
+      "change": "-0.32%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "글로벌 항공 화물 운임 강세 및 여객 수요 호조 속 아시아나 통합 시너지 기대",
+      "key_points": [
+        "글로벌 전자상거래 물동량 증가와 해상 운송 병목 반사이익으로 항공 화물 운임(Yield)이 높은 수준을 유지하고 있습니다.",
+        "미주·유럽 장거리 노선 중심의 프리미엄 여객 수요 강세가 역대 최대 수준의 매출 흐름을 견인하고 있습니다.",
+        "아시아나항공 인수를 통한 글로벌 Top 10 메가 캐리어 도약 및 노선 독점력 강화가 중장기 핵심 모멘텀입니다."
+      ],
+      "analysis_paragraphs": [
+        "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+        "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "7조 3,741억",
+        "quarter_op_profit": "3,085억",
+        "quarter_net_income": "5,103억",
+        "annual_period": "추정",
+        "annual_revenue": "28조 7,102억",
+        "annual_op_profit": "7,317억",
+        "target_price": "39,083원",
+        "investment_opinion": "매수",
+        "market_cap": "11조 6,358억",
+        "trading_volume": "2,003,022주 (628억)",
+        "day_range": "시가 31,100 · 고가 31,900 · 저가 30,350",
+        "week52_high": "32,800원",
+        "week52_low": "21,000원",
+        "week52_pos": 89,
+        "per": "N/A (추정 22.48배)",
+        "eps": "-693원 (추정 1,406원)",
+        "pbr": "1.11배 (BPS 28,464원)",
+        "dividend_yield": "2.37% (750원)",
+        "foreign_rate": "55.28%",
+        "investor_trend": "외인 +365,250 · 기관 +108,848 · 개인 -455,343"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 대한항공",
+          "outlet": "부산일보",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UdUZEVTc4MWZkOU9mc2tOdGJDaFNIY2lBRzROd3IwLVVsalBNTG1CZEZBMnI5RzMtbnp5QTJJa3MtUklZanVvREpXWkU3RVZqQWlxOTNxOHg3Y2JwdXk3djVjQjdDUGtMeE5pY1pLclJwNnFH?oc=5",
+          "summary": "한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망\n한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망 부산일보\n상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망",
+            "한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망 부산일보",
+            "상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[부산일보] 한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망",
+            "한국, 중국 수입시장 1위·미국선 6위로 3계단↑…20일께 ‘수출 1조 달러’ 달성 전망 부산일보",
+            "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+            "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T17:04:13+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 대한항공"
+        },
+        {
+          "category": "이슈 · 대한항공",
+          "outlet": "연합뉴스TV",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hMUU2Zm9YSmt0dUhJQ1FvN2pjOGlaNVM5OWRyVmk5YTFjQkhkMjZiTGk4SGZWd05sQkxaSUsxRzNncWFaSVp4Ujl5X19XMjFJcGFIQlhtUjFwWDdzNTRmWDhjaU5OWEE?oc=5",
+          "summary": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속\n아시아나항공, 3분기 영업손실 1,790억원…적자 지속 연합뉴스TV\n상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+            "아시아나항공, 3분기 영업손실 1,790억원…적자 지속 연합뉴스TV",
+            "상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[연합뉴스TV] 아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+            "아시아나항공, 3분기 영업손실 1,790억원…적자 지속 연합뉴스TV",
+            "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+            "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T00:02:00+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 대한항공"
+        },
+        {
+          "category": "이슈 · 대한항공",
+          "outlet": "블로터",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByYVVPOG41UEF1UjRIcEdoZmE3c1ZCZUR0am9TcXVURDNCek5FUVpzemMtOUkwekdZUjRLSUJYREotOGdET3JpNVNXOS00QUl1bldkSkZxSE94ZlBnc0VfWkM2Y0FQT2xa0gFsQVVfeXFMUFU4WjluNXhEekI2ZmZqdlhrX3RpUWZWbjZHSUNEV1V3a3hYTy1QOUVld2t4T0xsRm9mdmdRa3ZmTTRlWTF4Y2NycWIzZUtDSFZYSklyRVhpcDVVODZlTHhhVnd5QmdlbGttS1My?oc=5",
+          "summary": "아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화\n아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화 블로터\n상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화",
+            "아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화 블로터",
+            "상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[블로터] 아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화",
+            "아시아나항공, 지분 규제 유예 2년 연장…합병 부담 완화 블로터",
+            "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+            "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T20:25:38+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 대한항공"
+        },
+        {
+          "category": "이슈 · 대한항공",
+          "outlet": "메디컬투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OLWxvaE9DUFE0OTRDSGV1T1pwbDM1dmtPU0dlaGRObTJPRG1aMkJsVnlTcjNCQWxMRzBpSzdhX2k0N096ZFNVOTVhNjQxTmNxdHBjU1FwWXc2X2dfNFpiX1cyXzJoSGVtYTFzUA?oc=5",
+          "summary": "아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통'\n아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통' 메디컬투데이\n상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통'",
+            "아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통' 메디컬투데이",
+            "상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[메디컬투데이] 아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통'",
+            "아시아나항공, 지주회사 규제 유예 2년 연장…통합 대한항공 출범 '숨통' 메디컬투데이",
+            "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+            "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T23:35:22+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 대한항공"
+        },
+        {
+          "category": "이슈 · 대한항공",
+          "outlet": "매일경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GMEtuZ3VnSFBFYXdDSW9tSUFqV2RkYWlPUUNBUHB1ajN4RTVxVGwxSV9mRDk4V0xxcnM1eTRqMVhNVTRNRlE?oc=5",
+          "summary": "“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는\n“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는 매일경제\n상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는",
+            "“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는 매일경제",
+            "상세 본문과 원문 링크를 통해 대한항공의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[매일경제] “직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는",
+            "“직접 만들지도 않는데 실적이”…반도체 호황에 항공업계 분주한 이유는 매일경제",
+            "대한항공(003490.KS)은 견조한 국제선 여객 수요와 예상보다 강한 항공 화물 시황에 힘입어 탄탄한 영업이익 체력을 증명하고 있습니다.",
+            "환율 및 항공유 가격 변동성에 따른 단기 비용 변수가 존재하지만, 아시아나항공과의 통합 절차가 마무리됨에 따라 중복 노선 최적화 및 글로벌 항공 동맹 내 협상력 강화 등 구조적인 경쟁력 상승이 기대됩니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T23:15:50+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 대한항공"
+        }
+      ]
+    },
+    {
+      "symbol": "010950.KS",
+      "name": "S-Oil",
+      "market": "KR",
+      "value": "104,200원",
+      "change": "+2.26%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "동절기 난방유 수요 유입에 따른 정제마진 반등 및 샤힌 프로젝트 순항에 강세",
+      "key_points": [
+        "싱가포르 복합 정제마진이 손익분기점을 상회하며 반등세를 보여 4분기 정유 부문 실적 개선 기대감이 커졌습니다.",
+        "국제유가 상승에 따른 재고관련이익 전환 가능성과 동절기 등·경유 수요 증가가 주가를 끌어올렸습니다.",
+        "국내 최대 석유화학 설비 투자인 '샤힌(Shaheen) 프로젝트'의 높은 공정률과 배당 매력이 투자심리를 지지하고 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "S-Oil(010950.KS)은 최근 국제유가 반등과 정제마진 회복세가 맞물리며 2%대 강세를 기록했습니다. 글로벌 정유 설비의 정기보수 및 동절기 난방용 중간유분 수요 증가가 정제마진 개선을 이끌고 있습니다.",
+        "특히 주가순자산비율(PBR)이 역사적 저점 수준에 머물러 있어 밸류에이션 매력이 높으며, 정제마진 회복 시 영업이익 레버리지가 가장 크게 나타나는 대표 정유주로서 기관 수급이 유입되고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "11조 4,412억",
+        "quarter_op_profit": "1조 1,910억",
+        "quarter_net_income": "9,118억",
+        "annual_period": "추정",
+        "annual_revenue": "44조 305억",
+        "annual_op_profit": "4조 8,440억",
+        "target_price": "189,000원",
+        "investment_opinion": "매수",
+        "market_cap": "11조 7,762억",
+        "trading_volume": "353,543주 (368억)",
+        "day_range": "시가 103,300 · 고가 105,200 · 저가 102,900",
+        "week52_high": "179,700원",
+        "week52_low": "75,900원",
+        "week52_pos": 27,
+        "per": "8.00배 (추정 3.43배)",
+        "eps": "13,069원 (추정 30,518원)",
+        "pbr": "1.21배 (BPS 86,631원)",
+        "dividend_yield": "0.32% (330원)",
+        "foreign_rate": "80.83%",
+        "investor_trend": "외인 +24,535 · 기관 -29,098 · 개인 +3,466"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · S-Oil",
+          "outlet": "에너지플랫폼뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90YmhtMXRaX0p0VFlabzNuMXBNWE1oRVB1TkhWWEo2M19MWmxnbHljV2FaZnVNX0hVUE1Kd01ZeTVvaDVudTlvQ0pGU2dfS1cwSi1DU0RyT3E0MGI5SlgtSDVnOWt2OUxqcExlTNIBcEFVX3lxTE8yV25pOUlQRVJNcXZHY1BOVmVVczB6TXlPeno4b05EbVRQOFdycEpwUmdEN25EdWx2TGlxVWYtT2k1eURSSEFQYmlublhVejFBNjk3N0JMeXVxbWZfbGtoRmxpdDJ3OTBRU19uYS1zbGU?oc=5",
+          "summary": "S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰\nS-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰 에너지플랫폼뉴스\n상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰",
+            "S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰 에너지플랫폼뉴스",
+            "상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[에너지플랫폼뉴스] S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰",
+            "S-OIL, 창립 50주년 고객 감사 이벤트…20만명에 주유쿠폰 에너지플랫폼뉴스",
+            "S-Oil(010950.KS)은 최근 국제유가 반등과 정제마진 회복세가 맞물리며 2%대 강세를 기록했습니다. 글로벌 정유 설비의 정기보수 및 동절기 난방용 중간유분 수요 증가가 정제마진 개선을 이끌고 있습니다.",
+            "특히 주가순자산비율(PBR)이 역사적 저점 수준에 머물러 있어 밸류에이션 매력이 높으며, 정제마진 회복 시 영업이익 레버리지가 가장 크게 나타나는 대표 정유주로서 기관 수급이 유입되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-11T23:40:54+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · S-Oil"
+        },
+        {
+          "category": "호재 · S-Oil",
+          "outlet": "이투뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "에쓰오일, 창립 50주년 맞아 고객 감사 이벤트",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rOEFoeGNqamJPYmllNW1hcndaUE1kLXlxT0R0T3V1MnRCemxsNjRaLTROaHZsUTdqV0UzTnhvd2pmdUV1QUs4cnl6VXA3UmtPRlVaWUY5TXZtSUgta3pMQ2RlakozNUNC0gFrQVVfeXFMUDJRRzFZWEI4VDBDVDVJZjk0eDNPSlhpZjA3WWh2VHFTTFNnSlFQdndxM2pwdk5fUEZfbWMtSUEwZHRHOWk1YnYzeFl2QUtRZlA0X0VZZk1qcFVvcEJuRW1vbGwwNG85S29SX2M?oc=5",
+          "summary": "에쓰오일, 창립 50주년 맞아 고객 감사 이벤트\n에쓰오일, 창립 50주년 맞아 고객 감사 이벤트 이투뉴스\n상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "에쓰오일, 창립 50주년 맞아 고객 감사 이벤트",
+            "에쓰오일, 창립 50주년 맞아 고객 감사 이벤트 이투뉴스",
+            "상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[이투뉴스] 에쓰오일, 창립 50주년 맞아 고객 감사 이벤트",
+            "에쓰오일, 창립 50주년 맞아 고객 감사 이벤트 이투뉴스",
+            "S-Oil(010950.KS)은 최근 국제유가 반등과 정제마진 회복세가 맞물리며 2%대 강세를 기록했습니다. 글로벌 정유 설비의 정기보수 및 동절기 난방용 중간유분 수요 증가가 정제마진 개선을 이끌고 있습니다.",
+            "특히 주가순자산비율(PBR)이 역사적 저점 수준에 머물러 있어 밸류에이션 매력이 높으며, 정제마진 회복 시 영업이익 레버리지가 가장 크게 나타나는 대표 정유주로서 기관 수급이 유입되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T00:25:34+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · S-Oil"
+        },
+        {
+          "category": "호재 · S-Oil",
+          "outlet": "뉴스투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ZG1nU1hRUGE2SnhfdGxwX1NFRW1oWUU5ZDNBamR3dW1PZkVYZ0RlNVBkdmRMejgtbE5aZzZ5WjVGdm10a1duZ190X2FvWm9SeWJfQnhfNG5STkVPeGc?oc=5",
+          "summary": "에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장\n에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장 뉴스투데이\n상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장",
+            "에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장 뉴스투데이",
+            "상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴스투데이] 에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장",
+            "에쓰오일, 창립 50주년 이벤트…5000원 주유쿠폰 20만장 뉴스투데이",
+            "S-Oil(010950.KS)은 최근 국제유가 반등과 정제마진 회복세가 맞물리며 2%대 강세를 기록했습니다. 글로벌 정유 설비의 정기보수 및 동절기 난방용 중간유분 수요 증가가 정제마진 개선을 이끌고 있습니다.",
+            "특히 주가순자산비율(PBR)이 역사적 저점 수준에 머물러 있어 밸류에이션 매력이 높으며, 정제마진 회복 시 영업이익 레버리지가 가장 크게 나타나는 대표 정유주로서 기관 수급이 유입되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T14:20:55+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · S-Oil"
+        },
+        {
+          "category": "호재 · S-Oil",
+          "outlet": "머니투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBN0ZRMXNrQU9CWHUxLTUwY09HRTcwa1ZGeWU0azg4di1YdllPc09jN2RFRUNPQWNfNENHdXlybkI0WFVfajRINGo0a3BsOG84cEwzdWloWldudGJJZzIxN2VNQmpkVDJHZnZRQVNnOWFNOE96LTEyWDl30gF_QVVfeXFMT05VLXhhajd3S1V5WW1uYVFKV1RrWXpBVmlHTHoyT19kUFhOS0ctb1hQSG91YkNod0RVUXNZNDJNaDlQM1pMMFZKNXVzemljbTRhTElsS0E5X2p2ai1KdXVhY1ZfZGtfbnJQOHU1dUlKMTlqSzZ5QnRXTG8yTUhYOA?oc=5",
+          "summary": "에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이\n에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이 머니투데이\n상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이",
+            "에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이 머니투데이",
+            "상세 본문과 원문 링크를 통해 S-Oil의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[머니투데이] 에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이",
+            "에쓰오일, '갤럭시 폴드' 쏜다…창립 50주년 감사 이벤트 - 머니투데이 머니투데이",
+            "S-Oil(010950.KS)은 최근 국제유가 반등과 정제마진 회복세가 맞물리며 2%대 강세를 기록했습니다. 글로벌 정유 설비의 정기보수 및 동절기 난방용 중간유분 수요 증가가 정제마진 개선을 이끌고 있습니다.",
+            "특히 주가순자산비율(PBR)이 역사적 저점 수준에 머물러 있어 밸류에이션 매력이 높으며, 정제마진 회복 시 영업이익 레버리지가 가장 크게 나타나는 대표 정유주로서 기관 수급이 유입되고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T04:35:13+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · S-Oil"
+        }
+      ]
+    },
+    {
+      "symbol": "096770.KS",
+      "name": "SK이노베이션",
+      "market": "KR",
+      "value": "109,200원",
+      "change": "+1.68%",
+      "up": true,
+      "signal": "BULL",
+      "analysis_headline": "SK E&S 합병을 통한 초대형 에너지 기업 출범 및 정제마진 회복에 상승",
+      "key_points": [
+        "알짜 발전·LNG 기업인 SK E&S와의 합병을 통해 연간 상각전영업이익(EBITDA) 20조 원 규모의 에너지 기업으로 재탄생했습니다.",
+        "정유 부문의 정제마진 반등과 함께 합병 법인의 안정적인 현금흐름이 배터리 자회사(SK온)의 재무 부담을 완화시켰습니다.",
+        "SK온의 북미 현대차 합작공장 가동 및 원가 절감 노력을 통한 손익분기점(BEP) 달성 여부가 추가 상승의 핵심입니다."
+      ],
+      "analysis_paragraphs": [
+        "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+        "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 하순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "27조 3,548억",
+        "quarter_op_profit": "2조 6,958억",
+        "quarter_net_income": "1조 6,517억",
+        "annual_period": "추정",
+        "annual_revenue": "109조 271억",
+        "annual_op_profit": "11조 6,081억",
+        "target_price": "207,455원",
+        "investment_opinion": "매수",
+        "market_cap": "18조 4,944억",
+        "trading_volume": "545,465주 (601억)",
+        "day_range": "시가 109,100 · 고가 113,100 · 저가 108,400",
+        "week52_high": "166,000원",
+        "week52_low": "87,700원",
+        "week52_pos": 27,
+        "per": "N/A (추정 4.46배)",
+        "eps": "-6,951원 (추정 24,552원)",
+        "pbr": "0.71배 (BPS 153,910원)",
+        "dividend_yield": "N/A (N/A)",
+        "foreign_rate": "16.81%",
+        "investor_trend": "외인 -30,489 · 기관 -45,684 · 개인 +73,925"
+      },
+      "related_articles": [
+        {
+          "category": "호재 · SK이노베이션",
+          "outlet": "데일리안",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in]",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWxGMDBFSWpRWmlXV09kWkxkNC1TeVgzNHVBWUhXSWkxR3NSM0Z3LXhJN0hKakhSQXZNcHp4THhjQnNZR0J1RUc3S18wWlhFWGFxX3E0Q204Qm8xN2M1V0xialVfVkdybG5GWnRxTGhyOFJRbjFCeXJVVmFYaGVWSW13MTE4SXZycDJfM2Y5U0lNRGZCVVZQaF9ybS1VMHZLbWJfLTlwMUdsU1RBU25Zdm82NlFsQzRsOF9xNzhja1BqT2xMd0VYbFJlLXJ3MmhNTFlNZU9zNW9NbkdLSVUwWmdn?oc=5",
+          "summary": "HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in]\nHBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in] 데일리안\n상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in]",
+            "HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in] 데일리안",
+            "상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[데일리안] HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in]",
+            "HBM 속도전 이재용·AI 전략 짜는 최태원·디올 행사 찾은 정의선 [재계in] 데일리안",
+            "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+            "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T13:00:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · SK이노베이션"
+        },
+        {
+          "category": "호재 · SK이노베이션",
+          "outlet": "데이터뉴스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82WlZYNndrdVd6dDZSbEIyeHBkaDhmc0YwR3BqRzE4dFB6TFF1UUgzTktwWFlwYnVSS0g2cVpBeHg3SGFTbl9FcFFDdGJkT2pZaWdLSWtKLVRENWk2bFg1YXlnX0Y?oc=5",
+          "summary": "SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속\nSK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속 데이터뉴스\n상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속",
+            "SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속 데이터뉴스",
+            "상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[데이터뉴스] SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속",
+            "SK이노, 정유·윤활유 날았다…내년 감익에도 호황 지속 데이터뉴스",
+            "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+            "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T14:10:01+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · SK이노베이션"
+        },
+        {
+          "category": "호재 · SK이노베이션",
+          "outlet": "비즈니스포스트",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\"",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZlhkR2puNkFkamw4NGxheHNkTEEtMU9PNHU1dVFpUjlNWUVvNFRRLUtnMkZ5QTNuWXZRbUFQZnpjOGxpdlBKVm1sYWdtaW5YSXp4Y0pubTBnUWlXX1RUQVFJUUUwSWpYeHhwSGFRclM2WWM?oc=5",
+          "summary": "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\"\n하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\" 비즈니스포스트\n상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\"",
+            "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\" 비즈니스포스트",
+            "상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[비즈니스포스트] 하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\"",
+            "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\" 비즈니스포스트",
+            "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+            "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T15:19:46+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · SK이노베이션"
+        },
+        {
+          "category": "호재 · SK이노베이션",
+          "outlet": "더나은미래",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yVE9fUnFxX2lwbVh0WnFqTGhHUEdRcmF2NVpMSUpYZmNNaDJ3bVZKaU16Qy1wVDBFeFprYXBoLXZsSDh0OG5qaWdmMXk4aHZwdkE?oc=5",
+          "summary": "AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳\nAI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳 더나은미래\n상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳",
+            "AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳 더나은미래",
+            "상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[더나은미래] AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳",
+            "AI로 특수교육 돕고 폐배터리 손실 줄인다…사회문제 푸는 스타트업 10곳 더나은미래",
+            "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+            "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T00:45:00+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · SK이노베이션"
+        },
+        {
+          "category": "호재 · SK이노베이션",
+          "outlet": "대한경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96UnkwSFhNanA2TFVJb01fTU8wMnNlRHZ0MXlXTkhTcmhSdGF1aEN3dGlTbXNqZEgxdDlsVURwWjlvem9kQVB2d3Z2WjR6U0FFTk55ZllSWFl4Q1NYaWgyNlF5QTVVTEVJZkc5Mk14YVNmd2Y2?oc=5",
+          "summary": "정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기\n정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기 대한경제\n상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기",
+            "정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기 대한경제",
+            "상세 본문과 원문 링크를 통해 SK이노베이션의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[대한경제] 정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기",
+            "정유업계, 연말 앞두고 사회공헌ㆍ고객만족 ‘두마리 토끼’ 잡기 대한경제",
+            "SK이노베이션(096770.KS)은 정유·석유화학 본업의 시황 개선과 더불어 SK E&S와의 통합 시너지 기대감에 힘입어 1%대 강세를 나타냈습니다.",
+            "그동안 주가 할인 요인으로 작용했던 배터리 사업부의 자금 조달 우려가 합병 법인의 탄탄한 캐시카우(LNG·발전·정유)를 통해 상당 부분 해소되면서, 저평가 매력에 주목한 기관 투자자들의 매수세가 이어지고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T20:14:26+00:00",
+          "signal": "BULL",
+          "signal_label": "호재 · SK이노베이션"
+        }
+      ]
+    },
+    {
+      "symbol": "002680.KQ",
+      "name": "한탑",
+      "market": "KR",
+      "value": "2,675원",
+      "change": "-1.65%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "글로벌 곡물 가격 및 지정학적 식량 안보 변수에 연동된 단기 수급 변동",
+      "key_points": [
+        "밀가루(제분) 및 배합사료 전문 기업으로 국제 소맥·옥수수 선물 가격과 해상 운임 추이에 민감하게 반응하고 있습니다.",
+        "단기 테마성 수급 이동에 따라 소폭 조정을 받았으나 곡물 원가 안정화에 따른 제분·사료 마진 스프레드는 방어 중입니다.",
+        "기후 변화 및 지정학적 리스크 재부각 시 식량·사료 대표 테마주로서의 거래대금 유입 여부를 주시할 필요가 있습니다."
+      ],
+      "analysis_paragraphs": [
+        "한탑(002680.KQ)은 소맥분과 배합사료를 제조·공급하는 식량 관련주로, 최근 국제 곡물 시세 흐름과 코스닥 중소형주 수급 변화에 따라 단기 숨고르기 양상을 보이고 있습니다.",
+        "원재료의 수입 의존도가 높은 업종 특성상 원/달러 환율과 시카고상품거래소(CBOT) 곡물 선물 가격이 수익성과 주가 모멘텀을 좌우하는 핵심 지표로 작용하고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "-",
+        "quarter_op_profit": "-",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "-",
+        "annual_op_profit": "-",
+        "target_price": "-",
+        "investment_opinion": "-",
+        "market_cap": "207억",
+        "trading_volume": "2,490주 (0.07억)",
+        "day_range": "시가 2,860 · 고가 2,860 · 저가 2,670",
+        "week52_high": "4,100원",
+        "week52_low": "356원",
+        "week52_pos": 62,
+        "per": "N/A (추정 N/A)",
+        "eps": "-4,623원 (추정 N/A)",
+        "pbr": "0.76배 (BPS 3,500원)",
+        "dividend_yield": "N/A (N/A)",
+        "foreign_rate": "0.75%",
+        "investor_trend": "외인 -566 · 기관 0 · 개인 +566"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 한탑",
+          "outlet": "한국경제",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "한탑, 글로벌 곡물 가격 및 지정학적 식량 안보 변수에 연동된 단기 수급 변동",
+          "link": "https://finance.naver.com/item/main.naver?code=002680",
+          "summary": "밀가루(제분) 및 배합사료 전문 기업으로 국제 소맥·옥수수 선물 가격과 해상 운임 추이에 민감하게 반응하고 있습니다.\n단기 테마성 수급 이동에 따라 소폭 조정을 받았으나 곡물 원가 안정화에 따른 제분·사료 마진 스프레드는 방어 중입니다.\n기후 변화 및 지정학적 리스크 재부각 시 식량·사료 대표 테마주로서의 거래대금 유입 여부를 주시할 필요가 있습니다.",
+          "summary_lines": [
+            "밀가루(제분) 및 배합사료 전문 기업으로 국제 소맥·옥수수 선물 가격과 해상 운임 추이에 민감하게 반응하고 있습니다.",
+            "단기 테마성 수급 이동에 따라 소폭 조정을 받았으나 곡물 원가 안정화에 따른 제분·사료 마진 스프레드는 방어 중입니다.",
+            "기후 변화 및 지정학적 리스크 재부각 시 식량·사료 대표 테마주로서의 거래대금 유입 여부를 주시할 필요가 있습니다."
+          ],
+          "full_body": [
+            "한탑(002680.KQ)은 소맥분과 배합사료를 제조·공급하는 식량 관련주로, 최근 국제 곡물 시세 흐름과 코스닥 중소형주 수급 변화에 따라 단기 숨고르기 양상을 보이고 있습니다.",
+            "원재료의 수입 의존도가 높은 업종 특성상 원/달러 환율과 시카고상품거래소(CBOT) 곡물 선물 가격이 수익성과 주가 모멘텀을 좌우하는 핵심 지표로 작용하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-14T08:37:03.004622+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 한탑"
+        }
+      ]
+    },
+    {
+      "symbol": "124500.KQ",
+      "name": "아이티센글로벌",
+      "market": "KR",
+      "value": "18,170원",
+      "change": "-2.26%",
+      "up": false,
+      "signal": "BEAR",
+      "analysis_headline": "국제·국내 금 시세 고공행진에 따른 한국금거래소 실적 호조 및 웹3·클라우드 성장",
+      "key_points": [
+        "자회사 한국금거래소가 사상 최고치권의 금 시세와 안전자산 선호 현상에 힘입어 역대급 거래량과 실적을 기록 중입니다.",
+        "아이티센글로벌로 사명을 변경하며 클라우드·토큰증권(STO)·실물연계자산(RWA) 등 디지털 금융 플랫폼 확장을 가속화하고 있습니다.",
+        "최근 가파른 상승 이후 단기 차익실현 매물이 출회되었으나 금 거래 수수료 기반의 폭발적인 이익 성장은 유효합니다."
+      ],
+      "analysis_paragraphs": [
+        "아이티센글로벌(124500.KQ)은 국내 대표 IT 서비스 역량과 국내 최대 귀금속 유통 플랫폼인 한국금거래소를 아우르는 독보적인 사업 구조를 보유하고 있습니다.",
+        "글로벌 중앙은행들의 금 매입 지속과 인플레이션 헤지 수요로 국내외 금 시세가 강세를 유지함에 따라 금 유통 및 디지털 금 거래 플랫폼 부문의 실적 기여도가 가파르게 상승하고 있습니다."
+      ],
+      "fundamentals": {
+        "earnings_date": "2027.01 말 ~ 02월 중순 예정",
+        "earnings_is_confirmed": false,
+        "quarter_period": "3분기(추정)",
+        "quarter_revenue": "-",
+        "quarter_op_profit": "-",
+        "quarter_net_income": "-",
+        "annual_period": "추정",
+        "annual_revenue": "10조 3,309억",
+        "annual_op_profit": "2,927억",
+        "target_price": "54,000원",
+        "investment_opinion": "매수",
+        "market_cap": "4,330억",
+        "trading_volume": "473,465주 (88.3억)",
+        "day_range": "시가 18,020 · 고가 19,350 · 저가 17,930",
+        "week52_high": "75,500원",
+        "week52_low": "17,500원",
+        "week52_pos": 2,
+        "per": "6.12배 (추정 N/A)",
+        "eps": "3,051원 (추정 N/A)",
+        "pbr": "2.63배 (BPS 7,087원)",
+        "dividend_yield": "N/A (N/A)",
+        "foreign_rate": "4.42%",
+        "investor_trend": "외인 +45,335 · 기관 -2,588 · 개인 -43,469"
+      },
+      "related_articles": [
+        {
+          "category": "이슈 · 아이티센글로벌",
+          "outlet": "Daum",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BUHk3MzM5aW5ReTVCSllJU3Z5NFlxby1TTUNhUTNKcVJIdm1XRXJLWFBkVWZ6VEZfc1gwSEliTFpRdUNDMGc?oc=5",
+          "summary": "아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭\n아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭 Daum\n상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭",
+            "아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭 Daum",
+            "상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[Daum] 아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭",
+            "아이티센글로벌, 6년 전 분리한 금 사업 다시 합치는 까닭 Daum",
+            "아이티센글로벌(124500.KQ)은 국내 대표 IT 서비스 역량과 국내 최대 귀금속 유통 플랫폼인 한국금거래소를 아우르는 독보적인 사업 구조를 보유하고 있습니다.",
+            "글로벌 중앙은행들의 금 매입 지속과 인플레이션 헤지 수요로 국내외 금 시세가 강세를 유지함에 따라 금 유통 및 디지털 금 거래 플랫폼 부문의 실적 기여도가 가파르게 상승하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-13T00:40:51+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 아이티센글로벌"
+        },
+        {
+          "category": "이슈 · 아이티센글로벌",
+          "outlet": "전자신문",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YUkZfWkt1bUxSYTY4MG15YXRJNFRhNFlyR2oyeEJGNXdTNmxiSmxVRmphMUhhNjRVRE5reW9wMHU5Z2kwM1M5cFNCN0xfQQ?oc=5",
+          "summary": "아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신\n아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신 전자신문\n상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신",
+            "아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신 전자신문",
+            "상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[전자신문] 아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신",
+            "아이티센글로벌, 3분기 누적 매출 7조1111억…최대 실적 갱신 전자신문",
+            "아이티센글로벌(124500.KQ)은 국내 대표 IT 서비스 역량과 국내 최대 귀금속 유통 플랫폼인 한국금거래소를 아우르는 독보적인 사업 구조를 보유하고 있습니다.",
+            "글로벌 중앙은행들의 금 매입 지속과 인플레이션 헤지 수요로 국내외 금 시세가 강세를 유지함에 따라 금 유통 및 디지털 금 거래 플랫폼 부문의 실적 기여도가 가파르게 상승하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:56:44+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 아이티센글로벌"
+        },
+        {
+          "category": "이슈 · 아이티센글로벌",
+          "outlet": "뉴스웍스",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUHVxYXZqVTlnR3VLMUs1QlZ1TjBkem5QU0xhVC1kdVJZOVB0eWk3TEtMZVVKSFdqdlZocWotNXdtSTVBRGtpZ3ZhTk1aQ2hZdEQtdkVJdngtcGVyM2IxZFNkUlY0eFQ1N0hITVdiQdIBc0FVX3lxTE9HcVhEVmEwaEdiMkQ4bGRXRWszSDhkWURaNjdyZzBnM2loUzFxSDZKUzN1Q29qa290bTVIbTVKVGdpbWw4TlBZZmlkZFBEWUpvT0c3Q0w5dG9PMkxqeS11am1kMUVTM3NYbVVPTUsyQ3JMQTg?oc=5",
+          "summary": "아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억\n아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억 뉴스웍스\n상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억",
+            "아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억 뉴스웍스",
+            "상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[뉴스웍스] 아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억",
+            "아이티센글로벌, 3분기 매출 7조1111억·당기순이익 1208억 뉴스웍스",
+            "아이티센글로벌(124500.KQ)은 국내 대표 IT 서비스 역량과 국내 최대 귀금속 유통 플랫폼인 한국금거래소를 아우르는 독보적인 사업 구조를 보유하고 있습니다.",
+            "글로벌 중앙은행들의 금 매입 지속과 인플레이션 헤지 수요로 국내외 금 시세가 강세를 유지함에 따라 금 유통 및 디지털 금 거래 플랫폼 부문의 실적 기여도가 가파르게 상승하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T21:48:34+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 아이티센글로벌"
+        },
+        {
+          "category": "이슈 · 아이티센글로벌",
+          "outlet": "디지털투데이",
+          "is_foreign": false,
+          "original_title": "",
+          "title": "아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10RlVCQUxqc0ZweEhqMHYwWU9YQklPbUtyeS10OFNNZFhYejJUWmNvalZqamRFZ2NwcXZQOFU5cjhETmJGNTZTOEpuc3VmWDQ1bFhlRFdTTUlHaTlPX3c2UVhuNDRIbkN0VlM1Qk1kb29lb1E?oc=5",
+          "summary": "아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장\n아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장 디지털투데이\n상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다.",
+          "summary_lines": [
+            "아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장",
+            "아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장 디지털투데이",
+            "상세 본문과 원문 링크를 통해 아이티센글로벌의 최신 투자 포인트를 확인할 수 있습니다."
+          ],
+          "full_body": [
+            "[디지털투데이] 아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장",
+            "아이티센글로벌, 3분기 누적 매출 7조1000억원...54% 성장 디지털투데이",
+            "아이티센글로벌(124500.KQ)은 국내 대표 IT 서비스 역량과 국내 최대 귀금속 유통 플랫폼인 한국금거래소를 아우르는 독보적인 사업 구조를 보유하고 있습니다.",
+            "글로벌 중앙은행들의 금 매입 지속과 인플레이션 헤지 수요로 국내외 금 시세가 강세를 유지함에 따라 금 유통 및 디지털 금 거래 플랫폼 부문의 실적 기여도가 가파르게 상승하고 있습니다."
+          ],
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+          "pub_date": "2026-11-12T22:06:28+00:00",
+          "signal": "BEAR",
+          "signal_label": "이슈 · 아이티센글로벌"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "005930.KS",
+      "name": "삼성전자",
+      "market": "KR",
+      "query": "삼성전자 주가 OR 반도체 OR 실적"
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK하이닉스",
+      "market": "KR",
+      "query": "SK하이닉스 HBM OR 주가 OR 실적"
+    },
+    {
+      "symbol": "000500.KS",
+      "name": "가온전선",
+      "market": "KR",
+      "query": "가온전선 주가 OR 전력망 OR 전선"
+    },
+    {
+      "symbol": "036930.KQ",
+      "name": "주성엔지니어링",
+      "market": "KR",
+      "query": "주성엔지니어링 주가 OR 반도체 장비 OR 실적"
+    },
+    {
+      "symbol": "009150.KS",
+      "name": "삼성전기",
+      "market": "KR",
+      "query": "삼성전기 MLCC OR 기판 OR 주가"
+    },
+    {
+      "symbol": "003670.KS",
+      "name": "포스코퓨처엠",
+      "market": "KR",
+      "query": "포스코퓨처엠 양극재 OR 이차전지 OR 주가"
+    },
+    {
+      "symbol": "006400.KS",
+      "name": "삼성SDI",
+      "market": "KR",
+      "query": "삼성SDI 배터리 OR 전고체 OR 주가"
+    },
+    {
+      "symbol": "181710.KS",
+      "name": "NHN",
+      "market": "KR",
+      "query": "NHN 클라우드 OR 게임 OR 주가"
+    },
+    {
+      "symbol": "053800.KQ",
+      "name": "안랩",
+      "market": "KR",
+      "query": "안랩 보안 OR 사이버보안 OR 주가"
+    },
+    {
+      "symbol": "180640.KS",
+      "name": "한진칼",
+      "market": "KR",
+      "query": "한진칼 주가 OR 지배구조 OR 대한항공"
+    },
+    {
+      "symbol": "003490.KS",
+      "name": "대한항공",
+      "market": "KR",
+      "query": "대한항공 주가 OR 항공 화물 OR 합병"
+    },
+    {
+      "symbol": "010950.KS",
+      "name": "S-Oil",
+      "market": "KR",
+      "query": "S-Oil 에쓰오일 정제마진 OR 유가 OR 주가"
+    },
+    {
+      "symbol": "096770.KS",
+      "name": "SK이노베이션",
+      "market": "KR",
+      "query": "SK이노베이션 정유 OR 배터리 OR 주가"
+    },
+    {
+      "symbol": "002680.KQ",
+      "name": "한탑",
+      "market": "KR",
+      "query": "한탑 사료 OR 곡물 OR 주가"
+    },
+    {
+      "symbol": "124500.KQ",
+      "name": "아이티센글로벌",
+      "market": "KR",
+      "query": "아이티센글로벌 OR 아이티센 금거래소 OR 주가"
+    }
+  ]
 }
