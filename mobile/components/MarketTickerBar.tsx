@@ -21,12 +21,6 @@ export function MarketTickerBar({ tickers }: MarketTickerBarProps) {
 
   return (
     <View style={[styles.wrapper, { backgroundColor: chromeColor, borderBottomColor: borderColor }]}>
-      <View style={styles.headerRow}>
-        <Text style={[styles.headerLabel, { color: subtextColor }]}>
-          글로벌 지수 · 환율 · 유가(3종) · 금 시세
-        </Text>
-        <Text style={[styles.scrollHint, { color: subtextColor }]}>좌우 스크롤 →</Text>
-      </View>
       <ScrollView
         horizontal
         showsHorizontalScrollIndicator={false}
@@ -37,20 +31,18 @@ export function MarketTickerBar({ tickers }: MarketTickerBarProps) {
             key={`${item.name}-${idx}`}
             style={[styles.tickerCard, { backgroundColor: cardColor, borderColor }]}
           >
-            <View style={styles.topRow}>
-              <Text style={[styles.tickerName, { color: subtextColor }]} numberOfLines={1}>
-                {item.name}
-              </Text>
-              <View style={[styles.groupBadge, { borderColor }]}>
-                <Text style={[styles.groupText, { color: subtextColor }]}>{item.group}</Text>
-              </View>
-            </View>
-            <Text style={[styles.tickerValue, { color: textColor }]}>{item.value}</Text>
+            <Text style={[styles.tickerName, { color: subtextColor }]} numberOfLines={1}>
+              {item.name}
+            </Text>
+            <Text style={[styles.tickerValue, { color: textColor }]} numberOfLines={1}>
+              {item.value}
+            </Text>
             <Text
               style={[
                 styles.tickerChange,
                 { color: item.up ? bullColor : bearColor },
               ]}
+              numberOfLines={1}
             >
               {item.up ? '▲' : '▼'} {item.change}
             </Text>
@@ -63,66 +55,32 @@ export function MarketTickerBar({ tickers }: MarketTickerBarProps) {
 
 const styles = StyleSheet.create({
   wrapper: {
-    paddingTop: 10,
-    paddingBottom: 12,
+    paddingVertical: 8,
     borderBottomWidth: 1,
   },
-  headerRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingHorizontal: 16,
-    marginBottom: 8,
-  },
-  headerLabel: {
-    fontSize: 11,
-    fontWeight: '700',
-    letterSpacing: 0.2,
-  },
-  scrollHint: {
-    fontSize: 11,
-    fontFamily: Fonts?.mono,
-  },
   scrollContent: {
-    paddingHorizontal: 16,
-    gap: 8,
+    paddingHorizontal: 12,
+    gap: 6,
   },
   tickerCard: {
-    minWidth: 112,
-    paddingHorizontal: 10,
-    paddingVertical: 8,
-    borderRadius: 8,
+    paddingHorizontal: 8,
+    paddingVertical: 6,
+    borderRadius: 7,
     borderWidth: 1,
-  },
-  topRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    gap: 6,
-    marginBottom: 4,
   },
   tickerName: {
     fontSize: 11,
     fontWeight: '700',
-  },
-  groupBadge: {
-    paddingHorizontal: 4,
-    paddingVertical: 1,
-    borderRadius: 4,
-    borderWidth: 1,
-  },
-  groupText: {
-    fontSize: 9,
-    fontWeight: '600',
-  },
-  tickerValue: {
-    fontSize: 13,
-    fontWeight: '700',
-    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
     marginBottom: 2,
   },
+  tickerValue: {
+    fontSize: 12,
+    fontWeight: '700',
+    fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
+    marginBottom: 1,
+  },
   tickerChange: {
-    fontSize: 11,
+    fontSize: 10,
     fontWeight: '700',
     fontFamily: Platform.OS === 'ios' ? 'Menlo' : 'monospace',
   },

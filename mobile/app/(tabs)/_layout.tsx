@@ -5,10 +5,12 @@ import { HapticTab } from '@/components/haptic-tab';
 import { IconSymbol } from '@/components/ui/icon-symbol';
 import { Colors } from '@/constants/theme';
 import { useColorScheme } from '@/hooks/use-color-scheme';
+import { useUIStore } from '@/store/useUIStore';
 
 export default function TabLayout() {
   const colorScheme = useColorScheme() ?? 'light';
   const palette = Colors[colorScheme];
+  const isScrolling = useUIStore((state) => state.isScrolling);
 
   return (
     <Tabs
@@ -18,6 +20,7 @@ export default function TabLayout() {
         tabBarStyle: {
           backgroundColor: palette.chrome,
           borderTopColor: palette.border,
+          display: isScrolling ? 'none' : 'flex',
         },
         headerShown: false,
         tabBarButton: HapticTab,

@@ -32,8 +32,9 @@ jobs:
     - name: Run pipeline
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PYTHONUNBUFFERED: "1"
       run: |
-        python pipeline/main.py
+        python -u pipeline/main.py
         
     - name: Deploy static JSON to gh-pages
       uses: peaceiris/actions-gh-pages@v4
@@ -41,5 +42,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public_data
         publish_branch: gh-pages
-        keep_files: false
+        keep_files: true
         commit_message: "chore: auto-update latest news & market briefing [skip ci]"

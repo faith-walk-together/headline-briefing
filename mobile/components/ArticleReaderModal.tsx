@@ -68,7 +68,10 @@ export function ArticleReaderModal() {
   const isBear =
     selectedArticle.signal === 'BEAR' || selectedArticle.category.startsWith('악재');
 
-  const badgeLabel = selectedArticle.signal_label || selectedArticle.category;
+  const badgeLabel = (selectedArticle.signal_label || selectedArticle.category).replace(
+    /^[🔴🔵]\s*/,
+    ''
+  );
   const badgeColor = isBull ? bullColor : isBear ? bearColor : accentColor;
 
   const showOriginalTitle = Boolean(
@@ -223,7 +226,11 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
   },
   backdrop: {
-    ...StyleSheet.absoluteFillObject,
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0,
     backgroundColor: 'rgba(0, 0, 0, 0.58)',
   },
   sheetContainer: {

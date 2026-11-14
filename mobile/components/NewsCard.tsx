@@ -43,15 +43,16 @@ export function NewsCard({ article, onPress }: NewsCardProps) {
     });
   }, [article.pub_date]);
 
-  const summaryLines = useMemo(() => {
+  const summaryText = useMemo(() => {
     if (article.summary_lines && article.summary_lines.length > 0) {
-      return article.summary_lines.slice(0, 3);
+      return article.summary_lines
+        .map((s) => s.trim())
+        .filter(Boolean)
+        .join(' ');
     }
-    const split = (article.summary || '')
-      .split(/\n+|(?<=\.)\s+/)
-      .map((s) => s.trim())
-      .filter(Boolean);
-    return split.length > 0 ? split.slice(0, 3) : ['요약 정보를 불러왔습니다.'];
+    return (article.summary || '요약 정보를 불러왔습니다.')
+      .replace(/\s*\n+\s*/g, ' ')
+      .trim();
   }, [article.summary, article.summary_lines]);
 
   const isBull = article.signal === 'BULL' || article.category.startsWith('호재');
@@ -65,11 +66,19 @@ export function NewsCard({ article, onPress }: NewsCardProps) {
 
   const ruleColor = isBull ? bullColor : isBear ? bearColor : accentColor;
 
-  const badgeLabel = article.signal_label || article.category;
+  const badgeLabel = (article.signal_label || article.category).replace(/^[🔴🔵]\s*/, '');
+  const categoryTextColor = isBull
+    ? '#F87171'
+    : isBear
+      ? '#60A5FA'
+      : '#FFFFFF';
   const imageUrl =
     article.image_url ||
     FALLBACK_IMAGES[article.category] ||
     FALLBACK_IMAGES.default;
+
+  // 타이틀이 길어져서 1줄 축소 시 폰트가 15px 이하로 작아질 경우(약 25자 이상) 18px 2줄로 표시
+  const isTwoLineTitle = (article.title || '').trim().length >= 25;
 
   const handleOpenDetail = () => {
     if (onPress) {
@@ -98,70 +107,50 @@ export function NewsCard({ article, onPress }: NewsCardProps) {
         <Image source={{ uri: imageUrl }} style={styles.heroImage} resizeMode="cover" />
         <View style={styles.heroScrim} />
 
-        {/* 상단 배지: 카테고리(또는 호재/악재) & 언론사 */}
-        <View style={styles.heroTopRow}>
-          <View style={[styles.categoryBadge, { backgroundColor: badgeBgColor }]}>
-            <Text style={styles.categoryBadgeText}>
-              {isBull && !badgeLabel.startsWith('🔴')
-                ? `🔴 ${badgeLabel}`
-                : isBear && !badgeLabel.startsWith('🔵')
-                  ? `🔵 ${badgeLabel}`
-                  : badgeLabel}
-            </Text>
-          </View>
-          <View style={styles.outletBadge}>
-            <Text style={styles.outletBadgeText}>{article.outlet}</Text>
-          </View>
-        </View>
-
-        {/* 하단 메타: 발행시각 & 스크랩 토글 버튼 */}
+        {/* 이미지 하단 오버레이: 좌측 카테고리/언론사/시간(투명 배경), 우측 스크랩 아이콘 */}
         <View style={styles.heroBottomRow}>
-          <Text style={styles.dateText}>{formattedDate}</Text>
+          <View style={styles.leftTagGroup}>
+            <Text style={[styles.categoryBadgeText, { color: categoryTextColor }]}>
+              {badgeLabel}
+            </Text>
+            <Text style={styles.outletBadgeText}>{article.outlet}</Text>
+            <Text style={styles.dateText}>{formattedDate}</Text>
+          </View>
+
           <TouchableOpacity
-            style={[
-              styles.bookmarkBtn,
-              isBookmarked && { backgroundColor: 'rgba(251, 191, 36, 0.92)' },
-            ]}
+            style={styles.bookmarkBtn}
             onPress={handleToggleBookmark}
-            hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+            hitSlop={{ top: 10, bottom: 10, left: 10, right: 10 }}
           >
             <Text
               style={[
                 styles.bookmarkBtnText,
-                isBookmarked && { color: '#1C1917', fontWeight: '800' },
+                isBookmarked && { color: '#FBBF24' },
               ]}
             >
-              {isBookmarked ? '★ 스크랩됨' : '☆ 스크랩'}
+              {isBookmarked ? '★' : '☆'}
             </Text>
           </TouchableOpacity>
         </View>
       </View>
 
-      {/* 2. 매거진 에디토리얼 타이틀 & 번호형 AI 3줄 요약 (메인 화면에서는 영문 원제 숨김) */}
+      {/* 2. 매거진 에디토리얼 타이틀 & AI 요약 단락 (메인 화면에서는 영문 원제 숨김) */}
       <View style={styles.editorialBody}>
-        <Text style={[styles.headlineTitle, { color: textColor }]}>{article.title}</Text>
+        <Text
+          style={[styles.headlineTitle, { color: textColor }]}
+          numberOfLines={isTwoLineTitle ? 2 : 1}
+          adjustsFontSizeToFit={!isTwoLineTitle}
+          minimumFontScale={isTwoLineTitle ? undefined : 0.86}
+        >
+          {article.title}
+        </Text>
 
-        <View style={styles.ruleRow}>
-          <View style={[styles.editorialRule, { backgroundColor: ruleColor }]} />
-          <Text style={[styles.ruleCaption, { color: subtextColor }]}>AI 3-LINE BRIEFING</Text>
-        </View>
-
-        <View style={styles.summaryList}>
-          {summaryLines.map((line, index) => (
-            <View key={index} style={styles.summaryRow}>
-              <Text style={[styles.summaryIndex, { color: ruleColor }]}>
-                0{index + 1}
-              </Text>
-              <Text style={[styles.summaryText, { color: subtextColor }]}>{line}</Text>
-            </View>
-          ))}
-        </View>
-
-        <View style={styles.footerRow}>
-          <Text style={[styles.readMoreText, { color: accentColor }]}>
-            뉴스 본문 상세보기 ↑
-          </Text>
-        </View>
+        <Text
+          style={[styles.summaryParagraph, { color: subtextColor }]}
+          textBreakStrategy="simple"
+        >
+          {`${summaryText}\n`}
+        </Text>
       </View>
     </TouchableOpacity>
   );
@@ -176,120 +165,80 @@ const styles = StyleSheet.create({
     width: '100%',
     height: 196,
     position: 'relative',
-    justifyContent: 'space-between',
-    padding: 16,
+    justifyContent: 'flex-end',
     backgroundColor: '#18181B',
+    overflow: 'hidden',
   },
   heroImage: {
-    ...StyleSheet.absoluteFillObject,
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0,
     width: '100%',
     height: '100%',
   },
   heroScrim: {
-    ...StyleSheet.absoluteFillObject,
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0,
     backgroundColor: 'rgba(12, 10, 9, 0.42)',
   },
-  heroTopRow: {
+  heroBottomRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingBottom: 6,
   },
-  categoryBadge: {
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 6,
+  leftTagGroup: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 10,
   },
   categoryBadgeText: {
     color: '#FFFFFF',
     fontSize: 12,
     fontWeight: '700',
   },
-  outletBadge: {
-    paddingHorizontal: 9,
-    paddingVertical: 4,
-    borderRadius: 6,
-    backgroundColor: 'rgba(0, 0, 0, 0.55)',
-  },
   outletBadgeText: {
-    color: '#F4F4F5',
+    color: 'rgba(255, 255, 255, 0.92)',
     fontSize: 12,
     fontWeight: '600',
   },
-  heroBottomRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-  },
   dateText: {
-    color: 'rgba(255, 255, 255, 0.88)',
+    color: 'rgba(255, 255, 255, 0.85)',
     fontSize: 12,
     fontWeight: '500',
   },
   bookmarkBtn: {
-    paddingHorizontal: 10,
-    paddingVertical: 5,
-    borderRadius: 6,
-    backgroundColor: 'rgba(0, 0, 0, 0.55)',
+    paddingHorizontal: 4,
+    paddingVertical: 2,
+    backgroundColor: 'transparent',
   },
   bookmarkBtnText: {
     color: '#FFFFFF',
     fontSize: 12,
-    fontWeight: '600',
+    fontWeight: '700',
   },
   editorialBody: {
     paddingHorizontal: 20,
-    paddingTop: 18,
-    paddingBottom: 20,
+    paddingTop: 8,
+    paddingBottom: 6,
   },
   headlineTitle: {
     fontFamily: Fonts?.serif,
-    fontSize: 20,
+    fontSize: 18,
     fontWeight: '700',
-    lineHeight: 28,
-    marginBottom: 12,
+    lineHeight: 24,
+    marginBottom: 8,
+    includeFontPadding: false,
   },
-  ruleRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
-    marginBottom: 12,
-  },
-  editorialRule: {
-    width: 28,
-    height: 2.5,
-    borderRadius: 2,
-  },
-  ruleCaption: {
-    fontSize: 10,
-    fontWeight: '700',
-    letterSpacing: 1.2,
-  },
-  summaryList: {
-    gap: 10,
-  },
-  summaryRow: {
-    flexDirection: 'row',
-    alignItems: 'flex-start',
-    gap: 10,
-  },
-  summaryIndex: {
-    fontFamily: Fonts?.serif,
-    fontSize: 13,
-    fontWeight: '800',
-    lineHeight: 21,
-    minWidth: 20,
-  },
-  summaryText: {
-    flex: 1,
+  summaryParagraph: {
     fontSize: 14,
-    lineHeight: 21,
-  },
-  footerRow: {
-    marginTop: 14,
-    alignItems: 'flex-end',
-  },
-  readMoreText: {
-    fontSize: 12,
-    fontWeight: '700',
+    lineHeight: 22,
+    includeFontPadding: false,
   },
 });

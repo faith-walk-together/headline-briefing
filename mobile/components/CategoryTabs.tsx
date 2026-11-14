@@ -7,9 +7,15 @@ interface CategoryTabsProps {
   categories: string[];
   selectedCategory: string;
   onSelectCategory: (category: string) => void;
+  rightText?: string;
 }
 
-export function CategoryTabs({ categories, selectedCategory, onSelectCategory }: CategoryTabsProps) {
+export function CategoryTabs({
+  categories,
+  selectedCategory,
+  onSelectCategory,
+  rightText,
+}: CategoryTabsProps) {
   const colorScheme = useColorScheme() ?? 'light';
   const isDark = colorScheme === 'dark';
 
@@ -24,6 +30,7 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
       <ScrollView
         horizontal
         showsHorizontalScrollIndicator={false}
+        style={styles.scrollArea}
         contentContainerStyle={styles.scrollContent}
       >
         {categories.map((category) => {
@@ -45,7 +52,7 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
                   styles.tabText,
                   isActive
                     ? { color: isDark ? '#09090B' : '#F6F2EA', fontWeight: '700' }
-                    : { color: subtextColor, fontWeight: '500' },
+                    : { color: subtextColor, fontWeight: '600' },
                 ]}
               >
                 {category}
@@ -54,25 +61,45 @@ export function CategoryTabs({ categories, selectedCategory, onSelectCategory }:
           );
         })}
       </ScrollView>
+
+      {rightText ? (
+        <Text style={[styles.editionText, { color: accentColor }]} numberOfLines={1}>
+          {rightText}
+        </Text>
+      ) : null}
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 14,
     paddingVertical: 8,
     borderBottomWidth: 1,
   },
+  scrollArea: {
+    flex: 1,
+    marginRight: 14,
+  },
   scrollContent: {
-    paddingHorizontal: 16,
-    gap: 6,
+    alignItems: 'center',
+    gap: 3,
   },
   tab: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
+    paddingHorizontal: 8,
+    paddingVertical: 5,
     borderRadius: 6,
   },
   tabText: {
     fontSize: 13,
+  },
+  editionText: {
+    fontSize: 11,
+    fontWeight: '700',
+    letterSpacing: 0.3,
+    flexShrink: 0,
   },
 });

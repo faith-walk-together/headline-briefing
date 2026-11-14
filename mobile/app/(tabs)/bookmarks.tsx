@@ -3,12 +3,14 @@ import { View, StyleSheet, FlatList, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { useBookmarkStore } from '@/store/useBookmarkStore';
+import { useScrollTabVisibility } from '@/hooks/useScrollTabVisibility';
 import { NewsCard } from '@/components/NewsCard';
 import { useThemeColor } from '@/hooks/use-theme-color';
 import { Fonts } from '@/constants/theme';
 
 export default function BookmarksScreen() {
   const bookmarks = useBookmarkStore((state) => state.bookmarks);
+  const scrollHandlers = useScrollTabVisibility();
 
   const backgroundColor = useThemeColor({}, 'background');
   const chromeColor = useThemeColor({}, 'chrome');
@@ -40,6 +42,7 @@ export default function BookmarksScreen() {
         renderItem={({ item }) => <NewsCard article={item} />}
         contentContainerStyle={styles.listContent}
         showsVerticalScrollIndicator={false}
+        {...scrollHandlers}
       />
     </SafeAreaView>
   );

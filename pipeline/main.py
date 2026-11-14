@@ -91,7 +91,9 @@ class CuratedArticle(BaseModel):
     feed_type: str = Field(description="'news' (일반 매거진 뉴스) 또는 'stock' (주식 호재/악재 뉴스)")
     feed_index: int = Field(description="선택된 기사가 속한 Feed의 고유 인덱스 번호")
     article_id: int = Field(description="선택된 기사의 후보군 내부 ID 번호")
-    translated_title: str = Field(description="반드시 영어 원문을 100% 한국어로 번역/다듬은 매거진 헤드라인 제목 (영단어 노출 최소화)")
+    translated_title: str = Field(
+        description="모바일 화면 한 줄(공백 포함 18~22자 이내)에 들어오도록 핵심만 압축한 100% 한국어 한 줄 헤드라인 제목"
+    )
     summary_lines: list[str] = Field(description="기사의 핵심 팩트를 정리한 한국어 3줄 요약 배열 (반드시 3개 문장)")
     body_paragraphs: list[str] = Field(description="상세보기 리더 모달에 표시할 한국어 뉴스 기사 본문 단락 배열 (3~4개 단락, 상세하고 자연스러운 기사문 형태)")
     signal: str = Field(description="stock 기사인 경우 'BULL'(호재) 또는 'BEAR'(악재), 일반 news 기사인 경우 빈 문자열 ''")
@@ -344,7 +346,7 @@ def fetch_all_briefing_data():
         "단 한 번의 응답으로 두 섹션의 기사를 모두 엄선하여 JSON(all_curated_articles)으로 반환하십시오.\n",
         "[작성 규칙]",
         "1. feed_type은 일반 뉴스면 'news', 증시 뉴스면 'stock'으로 지정하십시오.",
-        "2. translated_title은 영어 원문을 포함해 모든 제목을 100% 자연스러운 한국어 매거진 헤드라인으로 다듬으십시오.",
+        "2. translated_title은 모바일 화면에서 반드시 '한 줄(공백 포함 18~22자 이내)'로 표시될 수 있도록 불필요한 수식어를 덜어내고 핵심만 강렬하게 압축한 100% 한국어 헤드라인으로 작성하십시오.",
         "3. summary_lines는 메인 웹진 지면에 번호(01, 02, 03)로 노출될 핵심 3줄 요약(문장 3개 배열)입니다.",
         "4. body_paragraphs는 사용자가 상세보기 모달을 열었을 때 읽을 수 있는 한국어 뉴스 본문(3~4개 단락 배열)입니다. 해외 기사도 반드시 격조 있는 한국어 뉴스 기사체 본문(3~4단락)으로 풍부하게 작성하십시오.",
         "5. 증시 뉴스(feed_type='stock')는 시장이나 특정 섹터/종목에 미치는 영향을 분석해 signal을 'BULL'(호재) 또는 'BEAR'(악재)로 분류하고, signal_label에 '호재 · AI 반도체', '악재 · 이차전지'처럼 직관적인 라벨을 부여하십시오. (일반 뉴스는 signal='', signal_label='')\n",
@@ -423,12 +425,8 @@ def fetch_all_briefing_data():
                     final_img = scraped_img or CATEGORY_FALLBACK_IMAGES.get(feed["category"], CATEGORY_FALLBACK_IMAGES["세계"])
 
                     ai_paras = [p.strip() for p in item.get("body_paragraphs", []) if p.strip()]
-                    if is_foreign:
-                        # 해외 기사는 한국어로 번역된 본문 단락을 우선 사용
-                        full_body = ai_paras if ai_paras else scraped_paras
-                    else:
-                        # 국내 기사는 실제 스크래핑 본문이 충분하면 우선 사용하고, 짧으면 AI 재구성 본문 활용
-                        full_body = scraped_paras if len(scraped_paras) >= 2 else (ai_paras or scraped_paras)
+                    # Gemini 4 Argon이 정제한 본문 단락을 최우선 사용 (웹 스크래핑 시 댓글창/하단 노이즈 유입 방지)
+                    full_body = ai_paras if ai_paras else scraped_paras
 
                     summary_lines = [s.strip() for s in item.get("summary_lines", []) if s.strip()][:3]
                     if not summary_lines:
@@ -531,24 +529,75 @@ def fetch_all_briefing_data():
 if __name__ == "__main__":
     kst = pytz.timezone("Asia/Seoul")
     now_kst = datetime.now(kst)
-    edition_label = "07:00 조간 브리핑" if now_kst.hour < 15 else "19:00 석간 브리핑"
+    period_label = "AM" if now_kst.hour < 15 else "PM"
+    edition_label = f"{now_kst.strftime('%y-%m-%d')} {period_label}"
+    edition_id = f"{now_kst.strftime('%y-%m-%d')}-{period_label}"
+    archive_rel_path = f"archive/{edition_id}.json"
 
     market_tickers = fetch_market_tickers()
     news_articles, stock_articles = fetch_all_briefing_data()
 
+    now_utc_iso = datetime.now(pytz.utc).isoformat()
     output = {
-        "last_updated": datetime.now(pytz.utc).isoformat(),
-        "edition": f"{now_kst.strftime('%Y.%m.%d')} · {edition_label}",
+        "last_updated": now_utc_iso,
+        "edition": edition_label,
+        "edition_id": edition_id,
         "market_tickers": market_tickers,
         "articles": news_articles,
         "stock_articles": stock_articles,
     }
 
-    os.makedirs("public_data", exist_ok=True)
+    os.makedirs("public_data/archive", exist_ok=True)
+
+    # 1. 최신 브리핑 저장
     with open("public_data/latest_news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
+    # 2. 날짜·회차별 아카이브 파일 저장
+    with open(f"public_data/{archive_rel_path}", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    # 3. 아카이브 인덱스(archive_index.json) 갱신 (기존 gh-pages 인덱스 병합 + 최대 180개 회차/90일 유지)
+    index_path = "public_data/archive_index.json"
+    existing_editions = []
+    if os.path.exists(index_path):
+        try:
+            with open(index_path, "r", encoding="utf-8") as f:
+                idx_data = json.load(f)
+                existing_editions = idx_data.get("editions", [])
+        except Exception as e:
+            print(f"[Warn] Failed to read local archive_index.json: {e}")
+
+    if not existing_editions:
+        try:
+            resp = requests.get(
+                "https://faith-walk-together.github.io/headline-briefing/archive_index.json",
+                timeout=8,
+            )
+            if resp.status_code == 200:
+                existing_editions = resp.json().get("editions", [])
+        except Exception:
+            pass
+
+    new_entry = {
+        "id": edition_id,
+        "edition": edition_label,
+        "last_updated": now_utc_iso,
+        "file": archive_rel_path,
+        "article_count": len(news_articles),
+        "stock_count": len(stock_articles),
+    }
+
+    merged_editions = [new_entry] + [
+        item for item in existing_editions if item.get("id") != edition_id
+    ]
+    merged_editions = merged_editions[:180]
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump({"editions": merged_editions}, f, ensure_ascii=False, indent=2)
+
     print(
-        f"latest_news.json generated successfully: {len(news_articles)} news, "
-        f"{len(stock_articles)} stock news, {len(market_tickers)} market tickers."
+        f"latest_news.json & {archive_rel_path} generated successfully: "
+        f"{len(news_articles)} news, {len(stock_articles)} stock news, "
+        f"{len(market_tickers)} market tickers. Total archived editions: {len(merged_editions)}."
     )
