@@ -2,9 +2,10 @@ name: News Update Pipeline
 
 on:
   schedule:
-    # Run twice a day at 12-hour intervals:
-    # 07:00 KST (22:00 UTC previous day) & 19:00 KST (10:00 UTC same day)
-    - cron: '0 22,10 * * *'
+    # Run twice a day at 12-hour intervals (10 min early to avoid GitHub Actions :00 queue delay):
+    # 18:50 KST (09:50 UTC same day) & 06:50 KST (21:50 UTC previous day)
+    - cron: '50 9 * * *'
+    - cron: '50 21 * * *'
   workflow_dispatch: # Allow manual trigger
 
 env:
