@@ -643,14 +643,21 @@ export default function ReportScreen() {
                 MARKET ANALYSIS · 등락 상세 분석
               </Text>
               <View style={styles.paragraphList}>
-                {activeReport.analysis_paragraphs.map((para, idx) => (
-                  <Text
-                    key={idx}
-                    style={[styles.analysisParagraph, { color: textColor }]}
-                  >
-                    {para}
-                  </Text>
-                ))}
+                {activeReport.analysis_paragraphs.map((para, idx) => {
+                  const isLast = idx === activeReport.analysis_paragraphs.length - 1;
+                  return (
+                    <Text
+                      key={idx}
+                      textBreakStrategy="simple"
+                      style={[
+                        styles.analysisParagraph,
+                        { color: textColor, marginBottom: isLast ? 0 : 14 },
+                      ]}
+                    >
+                      {para}
+                    </Text>
+                  );
+                })}
               </View>
             </View>
 
@@ -1287,11 +1294,14 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   paragraphList: {
-    gap: 14,
+    width: '100%',
   },
   analysisParagraph: {
+    width: '100%',
     fontSize: 15,
     lineHeight: 25,
+    includeFontPadding: false,
+    paddingBottom: 2,
   },
   mtsMasterCard: {
     borderRadius: 12,
