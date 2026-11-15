@@ -1,19 +1,10 @@
 name: News Update Pipeline
 
 on:
-  schedule:
-    # Run twice a day at 12-hour intervals (10 min early to avoid GitHub Actions :00 queue delay):
-    # 18:50 KST (09:50 UTC same day) & 06:50 KST (21:50 UTC previous day)
-    - cron: '50 9 * * *'
-    - cron: '50 21 * * *'
-  push:
-    branches:
-      - main
-    paths:
-      - 'pipeline/watchlist.json'
-      - 'pipeline/main.py'
-      - '.github/workflows/news_update.yml'
-  workflow_dispatch: # Allow manual trigger
+  # Triggered on time by GCP Cloud Scheduler (headline-briefing-news-update, asia-northeast3)
+  # at 06:00 & 18:00 KST via the workflow_dispatch REST API.
+  # GitHub's native `schedule` trigger was removed because it ran 3-5 hours late.
+  workflow_dispatch:
 
 env:
   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
