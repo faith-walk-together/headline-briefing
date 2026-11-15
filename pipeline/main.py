@@ -1098,28 +1098,30 @@ if __name__ == "__main__":
     with open("public_data/watchlist.json", "w", encoding="utf-8") as f:
         json.dump({"stocks": watchlist}, f, ensure_ascii=False, indent=2)
 
-    # 4. 아카이브 인덱스(archive_index.json) 갱신 (기존 gh-pages 인덱스 병합 + 최대 180개 회차/90일 유지)
+    # 4. 아카이브 인덱스(archive_index.json) 갱신
+    #    gh-pages(배포본) 인덱스와 로컬 인덱스를 모두 병합한다.
+    #    (이전에는 로컬 파일이 있으면 원격 인덱스를 읽지 않아, 저장소에 커밋된 오래된
+    #     로컬 인덱스가 배포본을 덮어쓰면서 회차가 누락되는 문제가 있었음)
     index_path = "public_data/archive_index.json"
     existing_editions = []
+
+    try:
+        req = urllib.request.Request(
+            f"https://faith-walk-together.github.io/headline-briefing/archive_index.json?t={int(time.time())}",
+            headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"},
+        )
+        with urllib.request.urlopen(req, timeout=8.0) as resp:
+            if resp.status == 200:
+                existing_editions.extend(json.loads(resp.read().decode("utf-8")).get("editions", []))
+    except Exception as e:
+        print(f"[Warn] Failed to fetch remote archive_index.json: {e}")
+
     if os.path.exists(index_path):
         try:
             with open(index_path, "r", encoding="utf-8") as f:
-                idx_data = json.load(f)
-                existing_editions = idx_data.get("editions", [])
+                existing_editions.extend(json.load(f).get("editions", []))
         except Exception as e:
             print(f"[Warn] Failed to read local archive_index.json: {e}")
-
-    if not existing_editions:
-        try:
-            req = urllib.request.Request(
-                "https://faith-walk-together.github.io/headline-briefing/archive_index.json",
-                headers={"User-Agent": "Mozilla/5.0"},
-            )
-            with urllib.request.urlopen(req, timeout=8.0) as resp:
-                if resp.status == 200:
-                    existing_editions = json.loads(resp.read().decode("utf-8")).get("editions", [])
-        except Exception:
-            pass
 
     new_entry = {
         "id": edition_id,
@@ -1131,10 +1133,13 @@ if __name__ == "__main__":
         "report_count": len(stock_reports),
     }
 
-    merged_editions = [new_entry] + [
-        item for item in existing_editions if item.get("id") != edition_id
-    ]
-    merged_editions = merged_editions[:180]
+    # 회차 id 기준 중복 제거 (현재 회차가 우선), id(YY-MM-DD-AM/PM) 내림차순 정렬
+    merged_by_id = {}
+    for item in [new_entry] + existing_editions:
+        item_id = item.get("id")
+        if item_id and item_id not in merged_by_id:
+            merged_by_id[item_id] = item
+    merged_editions = sorted(merged_by_id.values(), key=lambda x: x["id"], reverse=True)[:180]
 
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump({"editions": merged_editions}, f, ensure_ascii=False, indent=2)
