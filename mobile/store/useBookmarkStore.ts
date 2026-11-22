@@ -15,6 +15,7 @@ export interface Article {
   category: string;
   outlet: string;
   is_foreign?: boolean;
+  is_reused?: boolean;
   original_title?: string;
   title: string;
   link: string;

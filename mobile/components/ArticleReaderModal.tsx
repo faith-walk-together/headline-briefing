@@ -187,12 +187,15 @@ export function ArticleReaderModal() {
               />
             ) : null}
 
-            {/* 실제 뉴스 본문 단락 */}
+            {/* 실제 뉴스 본문 단락 (이전 회차 재활용 본문인 경우 보조 텍스트 색상으로 구분) */}
             <View style={styles.bodySection}>
               {bodyParagraphs.map((paragraph, index) => (
                 <Text
                   key={index}
-                  style={[styles.bodyParagraph, { color: textColor }]}
+                  style={[
+                    styles.bodyParagraph,
+                    { color: selectedArticle.is_reused ? subtextColor : textColor },
+                  ]}
                 >
                   {paragraph}
                 </Text>

@@ -953,6 +953,7 @@ export default function ReportScreen() {
                     /^[🔴🔵]\s*/,
                     ''
                   );
+                  const isReused = Boolean(article.is_reused);
 
                   return (
                     <TouchableOpacity
@@ -971,10 +972,14 @@ export default function ReportScreen() {
                           </Text>
                           <Text style={[styles.relatedOutletText, { color: subtextColor }]}>
                             {article.outlet}
+                            {isReused ? ' · 이전 브리핑' : ''}
                           </Text>
                         </View>
                         <Text
-                          style={[styles.relatedNewsTitle, { color: textColor }]}
+                          style={[
+                            styles.relatedNewsTitle,
+                            { color: isReused ? subtextColor : textColor },
+                          ]}
                           numberOfLines={2}
                         >
                           {article.title}

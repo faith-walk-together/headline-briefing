@@ -133,7 +133,9 @@ class CuratedArticle(BaseModel):
         description="모바일 화면 한 줄(공백 포함 18~22자 이내)에 들어오도록 핵심만 압축한 100% 한국어 한 줄 헤드라인 제목"
     )
     summary_lines: list[str] = Field(description="기사의 핵심 팩트를 정리한 한국어 3줄 요약 배열 (반드시 3개 문장)")
-    body_paragraphs: list[str] = Field(description="상세보기 리더 모달에 표시할 한국어 뉴스 기사 본문 단락 배열 (3~4개 단락, 상세하고 자연스러운 기사문 형태)")
+    body_paragraphs: list[str] = Field(
+        description="해외 외신 기사인 경우 상세보기 모달용 한국어 뉴스 본문 단락 배열(3~4개 단락)을 작성하고, 국내 언론사 한국어 기사인 경우 원문 스크래핑 본문을 사용하므로 반드시 빈 배열 [] 로 반환하여 출력 토큰을 절약하십시오."
+    )
     signal: str = Field(description="stock 기사인 경우 'BULL'(호재) 또는 'BEAR'(악재), 일반 news 기사인 경우 빈 문자열 ''")
     signal_label: str = Field(description="stock 기사인 경우 '호재 · AI 반도체' 또는 '악재 · 이차전지' 형식의 라벨, 일반 news는 ''")
 
@@ -141,12 +143,16 @@ class CuratedArticle(BaseModel):
 class CuratedRelatedArticle(BaseModel):
     article_id: int = Field(description="해당 종목 뉴스 후보군 내부의 기사 ID 번호")
     translated_title: str = Field(
-        description="모바일 화면 한 줄(공백 포함 18~24자 이내)에 들어오는 핵심 한국어 뉴스 헤드라인 제목"
+        description="[신규] 기사는 모바일 한 줄(공백 포함 18~24자 이내) 한국어 헤드라인 제목을 작성하고, [캐시됨] 기사는 빈 문자열 ''로 반환하십시오."
     )
-    summary_lines: list[str] = Field(description="기사의 핵심 팩트를 정리한 한국어 3줄 요약 배열 (3개 문장)")
-    body_paragraphs: list[str] = Field(description="뉴스 상세 팝업(ArticleReaderModal)에 표시할 한국어 뉴스 기사 본문 단락 배열 (3~4개 단락)")
-    signal: str = Field(description="'BULL'(호재) 또는 'BEAR'(악재)")
-    signal_label: str = Field(description="'호재 · 삼성전자' 또는 '악재 · 테슬라' 형식의 라벨")
+    summary_lines: list[str] = Field(
+        description="[신규] 기사는 핵심 팩트 한국어 3줄 요약 배열(3개 문장)을 작성하고, [캐시됨] 기사는 빈 배열 []로 반환하십시오."
+    )
+    body_paragraphs: list[str] = Field(
+        description="[신규] 기사는 뉴스 상세 팝업용 한국어 뉴스 기사 본문 단락 배열(3~4개 단락)을 작성하고, [캐시됨] 기사는 반드시 빈 배열 []로 반환하여 출력 토큰을 절약하십시오."
+    )
+    signal: str = Field(description="[신규] 기사는 'BULL'(호재) 또는 'BEAR'(악재), [캐시됨] 기사는 빈 문자열 ''")
+    signal_label: str = Field(description="[신규] 기사는 '호재 · 삼성전자' 또는 '악재 · 테슬라' 형식의 라벨, [캐시됨] 기사는 빈 문자열 ''")
 
 
 class CuratedStockReport(BaseModel):
@@ -663,8 +669,37 @@ def parse_rss_feed(url: str):
         return feedparser.parse(url)
 
 
-def collect_candidates(feed_list: list[dict], cutoff_utc: datetime) -> list[list]:
-    """직전 12시간 이내 기사를 우선 수집하고, 부족할 경우 최신 기사로 보충"""
+def load_previous_briefing() -> dict:
+    """직전 회차(gh-pages 배포본 우선, 실패 시 로컬 latest_news.json) 데이터를 로드하여 중복 제거 및 캐시 재사용에 활용"""
+    try:
+        req = urllib.request.Request(
+            f"https://faith-walk-together.github.io/headline-briefing/latest_news.json?t={int(time.time())}",
+            headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"},
+        )
+        with urllib.request.urlopen(req, timeout=8.0) as resp:
+            if resp.status == 200:
+                return json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        print(f"[Info] Remote previous briefing fetch skipped/failed: {e}")
+
+    if os.path.exists("public_data/latest_news.json"):
+        try:
+            with open("public_data/latest_news.json", "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
+
+def collect_candidates(
+    feed_list: list[dict],
+    cutoff_utc: datetime,
+    excluded_links: set[str] | None = None,
+    excluded_titles: set[str] | None = None,
+) -> list[list]:
+    """직전 회차에 이미 노출된 기사를 제외하고 신규 기사만 수집 (직전 12시간 이내 우선)"""
+    excluded_links = excluded_links or set()
+    excluded_titles = excluded_titles or set()
     all_candidates = []
     for idx, feed in enumerate(feed_list):
         print(f"[{idx}] Fetching {feed['category']} from {feed['outlet']}...")
@@ -673,8 +708,11 @@ def collect_candidates(feed_list: list[dict], cutoff_utc: datetime) -> list[list
         older_entries = []
 
         for entry in parsed.entries:
-            title = getattr(entry, "title", "")
+            title = getattr(entry, "title", "").strip()
+            link = getattr(entry, "link", "").strip()
             if not title or any(kw in title for kw in SKIP_KEYWORDS):
+                continue
+            if (link and link in excluded_links) or (title in excluded_titles):
                 continue
             dt = parse_entry_datetime(entry)
             if dt >= cutoff_utc:
@@ -731,50 +769,130 @@ def fetch_all_briefing_data(watchlist: list[dict]):
     now_utc = datetime.now(pytz.utc)
     cutoff_12h = now_utc - timedelta(hours=12)
 
-    # 1. 일반 뉴스 & 증시 뉴스 & 관심종목 뉴스 후보군 적재
-    news_candidates = collect_candidates(RSS_FEEDS, cutoff_12h)
-    stock_candidates = collect_candidates(STOCK_RSS_FEEDS, cutoff_12h)
+    # 0. 직전 회차 데이터 로드 (중복 제외 및 캐시 재활용)
+    prev_data = load_previous_briefing()
+    prev_main_stock_links: set[str] = set()
+    prev_main_stock_titles: set[str] = set()
+    for art in prev_data.get("articles", []) + prev_data.get("stock_articles", []):
+        if art.get("link"):
+            prev_main_stock_links.add(art["link"].strip())
+        if art.get("title"):
+            prev_main_stock_titles.add(art["title"].strip())
+        if art.get("original_title"):
+            prev_main_stock_titles.add(art["original_title"].strip())
+
+    prev_related_by_link: dict[str, dict] = {}
+    prev_related_by_title: dict[str, dict] = {}
+    prev_reports_by_symbol: dict[str, dict] = {}
+    for rep in prev_data.get("stock_reports", []):
+        sym_key = (rep.get("symbol") or "").upper()
+        if sym_key:
+            prev_reports_by_symbol[sym_key] = rep
+        for rel_art in rep.get("related_articles", []):
+            r_link = (rel_art.get("link") or "").strip()
+            r_title = (rel_art.get("title") or "").strip()
+            r_orig = (rel_art.get("original_title") or "").strip()
+            if r_link:
+                prev_related_by_link[r_link] = rel_art
+            if r_title:
+                prev_related_by_title[r_title] = rel_art
+            if r_orig:
+                prev_related_by_title[r_orig] = rel_art
+
+    print(
+        f"[Cache] Loaded previous briefing: {len(prev_main_stock_links)} main/stock links excluded, "
+        f"{len(prev_related_by_link)} watchlist related articles cached, "
+        f"{len(prev_reports_by_symbol)} stock reports cached."
+    )
+
+    # 1. 일반 뉴스 & 증시 뉴스(직전 회차 중복 제외 신규만) & 관심종목 뉴스 후보군 적재
+    news_candidates = collect_candidates(RSS_FEEDS, cutoff_12h, prev_main_stock_links, prev_main_stock_titles)
+    stock_candidates = collect_candidates(STOCK_RSS_FEEDS, cutoff_12h, prev_main_stock_links, prev_main_stock_titles)
     watchlist_quotes = [fetch_watchlist_quote(s) for s in watchlist]
     watchlist_candidates = collect_watchlist_candidates(watchlist, cutoff_12h)
 
-    # 2. 단 1회의 Gemini API 호출을 위한 통합 프롬프트 구성
+    # 관심종목별 후보 기사 캐시 매칭 및 종목 리포트 통째 캐시 재사용 여부 판별 (방안 ②)
+    reused_stock_indices: set[int] = set()
+    watchlist_entry_cache: list[list[dict | None]] = []
+    for s_idx, stock in enumerate(watchlist):
+        q_info = watchlist_quotes[s_idx]
+        sym_key = q_info["symbol"].upper()
+        entries = watchlist_candidates[s_idx]
+        entry_caches: list[dict | None] = []
+        new_recent_count = 0
+
+        for entry in entries:
+            e_link = getattr(entry, "link", "").strip()
+            clean_orig_title, _ = extract_outlet_from_google_title(getattr(entry, "title", ""))
+            cached_art = prev_related_by_link.get(e_link) or prev_related_by_title.get(clean_orig_title)
+            entry_caches.append(cached_art)
+            if not cached_art and parse_entry_datetime(entry) >= cutoff_12h:
+                new_recent_count += 1
+
+        watchlist_entry_cache.append(entry_caches)
+        prev_rep = prev_reports_by_symbol.get(sym_key)
+        if (
+            prev_rep
+            and prev_rep.get("value") == q_info["value"]
+            and prev_rep.get("change") == q_info["change"]
+            and new_recent_count == 0
+            and len(prev_rep.get("related_articles", [])) >= 3
+        ):
+            reused_stock_indices.add(s_idx)
+
+    print(
+        f"[Cache] Watchlist stocks reusing full report (unchanged quote & no new 12h news): "
+        f"{len(reused_stock_indices)} / {len(watchlist)}"
+    )
+
+    # 2. 단 1회의 Gemini API 호출을 위한 통합 프롬프트 구성 (출력 토큰 최적화 ①·②·③ 반영)
     prompt_lines = [
         "당신은 글로벌 뉴스 매거진 및 증시 브리핑 편집장입니다.",
-        "아래에는 (A) 일반 매거진 뉴스 후보군, (B) 지난 12시간 동안 발생한 국내외 증시 뉴스 후보군, (C) 사용자 관심종목별 시세 및 뉴스 후보군이 주어집니다.",
+        "아래에는 (A) 일반 매거진 신규 뉴스 후보군, (B) 국내외 증시 신규 뉴스 후보군, (C) 사용자 관심종목별 시세 및 뉴스 후보군이 주어집니다.",
         "단 한 번의 응답으로 모든 섹션을 엄선·분석하여 JSON(all_curated_articles, stock_reports)으로 반환하십시오.\n",
-        "[작성 규칙 - all_curated_articles]",
+        "[작성 규칙 - all_curated_articles (출력 토큰 절약 규칙 필수 준수)]",
         "1. feed_type은 일반 뉴스면 'news', 증시 뉴스면 'stock'으로 지정하십시오.",
-        "2. translated_title은 모바일 화면에서 반드시 '한 줄(공백 포함 18~22자 이내)'로 표시될 수 있도록 불필요한 수식어를 덜어내고 핵심만 강렬하게 압축한 100% 한국어 헤드라인으로 작성하십시오.",
+        "2. translated_title은 모바일 화면에서 반드시 '한 줄(공백 포함 18~22자 이내)'로 표시될 수 있도록 핵심만 압축한 100% 한국어 헤드라인으로 작성하십시오.",
         "3. summary_lines는 메인 웹진 지면에 노출될 핵심 3줄 요약(문장 3개 배열)입니다.",
-        "4. body_paragraphs는 사용자가 상세보기 모달을 열었을 때 읽을 수 있는 한국어 뉴스 본문(3~4개 단락 배열)입니다. 해외 기사도 반드시 격조 있는 한국어 뉴스 기사체 본문(3~4단락)으로 풍부하게 작성하십시오.",
-        "5. 증시 뉴스(feed_type='stock')는 시장이나 특정 섹터/종목에 미치는 영향을 분석해 signal을 'BULL'(호재) 또는 'BEAR'(악재)로 분류하고, signal_label에 '호재 · AI 반도체', '악재 · 이차전지'처럼 직관적인 라벨을 부여하십시오. (일반 뉴스는 signal='', signal_label='')\n",
-        "[작성 규칙 - stock_reports (관심종목 등락 분석 리포트)]",
-        "1. 각 관심종목(stock_index, symbol)마다 현재 주가 등락률과 후보 뉴스들을 종합 분석하여 stock_reports 배열에 빠짐없이 작성하십시오.",
+        "4. body_paragraphs 작성 규칙 (토큰 절약): 피드 헤더에 [해외외신]으로 표시된 해외 영문/일문 기사만 한국어 뉴스 기사체 본문(3~4단락)으로 작성하고, [국내언론]으로 표시된 한국어 기사는 원문 스크래핑 본문을 사용하므로 body_paragraphs를 반드시 빈 배열 [] 로 반환하십시오.",
+        "5. 증시 뉴스(feed_type='stock')는 signal을 'BULL'(호재) 또는 'BEAR'(악재)로 분류하고, signal_label에 '호재 · AI 반도체', '악재 · 이차전지'처럼 직관적인 라벨을 부여하십시오. (일반 뉴스는 signal='', signal_label='')\n",
+        "[작성 규칙 - stock_reports (관심종목 등락 분석 리포트 및 캐시 재활용)]",
+        "1. 아래 (C) 섹션에 나열된 관심종목(stock_index, symbol)마다 현재 주가 등락률과 후보 뉴스들을 종합 분석하여 stock_reports 배열에 작성하십시오.",
         "2. analysis_headline은 해당 종목의 당일 등락 원인과 핵심 모멘텀을 한 줄(22~32자 이내)로 명확히 요약한 한국어 제목입니다.",
         "3. key_points는 주가 등락을 이끈 핵심 요인 3가지를 한국어 문장 3개로 정리한 배열입니다.",
         "4. analysis_paragraphs는 주가 등락 배경, 수급·실적·산업 동향, 향후 관전 포인트를 깊이 있게 서술한 2~3개 한국어 단락 배열입니다.",
-        "5. related_articles는 해당 종목 후보군 중 가장 관련도가 높은 뉴스 3~5건을 선별하여 article_id, 한국어 한 줄 제목(translated_title), 3줄 요약(summary_lines), 상세 한국어 본문 단락(body_paragraphs, 3~4단락), signal('BULL' 또는 'BEAR'), signal_label('호재 · 종목명' 또는 '악재 · 종목명')을 작성하십시오.\n",
-        "================ (A) 일반 매거진 뉴스 후보군 (feed_type: 'news') ================",
+        "5. related_articles는 후보군 중 관련도가 높은 뉴스 3~5건을 선별하되, [신규] 기사를 우선 선택하고 부족할 때만 [캐시됨] 기사를 선택하십시오.",
+        "   - [신규] 기사를 선택한 경우: article_id, translated_title, summary_lines(3문장), body_paragraphs(3~4단락), signal, signal_label을 모두 작성하십시오.",
+        "   - [캐시됨] 기사를 선택한 경우: 이미 이전 브리핑에 본문과 요약이 저장되어 있으므로 article_id만 지정하고 translated_title='', summary_lines=[], body_paragraphs=[], signal='', signal_label='' 로 비워서 출력 토큰을 절약하십시오.\n",
+        "================ (A) 일반 매거진 신규 뉴스 후보군 (feed_type: 'news') ================",
     ]
 
     for f_idx, feed in enumerate(RSS_FEEDS):
         entries = news_candidates[f_idx]
         if not entries:
             continue
+        is_foreign = feed["outlet"] in FOREIGN_OUTLETS
+        body_mode_tag = "[해외외신 - body_paragraphs 3~4단락 작성 필수]" if is_foreign else "[국내언론 - body_paragraphs 빈 배열 [] 반환]"
         target_count = min(feed["limit"], len(entries))
-        prompt_lines.append(f"=== [feed_type: news | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) | 선택 개수: {target_count}개 ===")
+        prompt_lines.append(
+            f"=== [feed_type: news | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) {body_mode_tag} | 선택 개수: {target_count}개 ==="
+        )
         for a_idx, entry in enumerate(entries):
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
             prompt_lines.append(f"ID: {a_idx} | Title: {entry.title} | Snippet: {snippet}")
         prompt_lines.append("")
 
-    prompt_lines.append("================ (B) 직전 12시간 증시 호재/악재 뉴스 후보군 (feed_type: 'stock') ================")
+    prompt_lines.append("================ (B) 증시 호재/악재 신규 뉴스 후보군 (feed_type: 'stock') ================")
     for f_idx, feed in enumerate(STOCK_RSS_FEEDS):
         entries = stock_candidates[f_idx]
         if not entries:
             continue
+        is_foreign = feed["outlet"] in FOREIGN_OUTLETS
+        body_mode_tag = "[해외외신 - body_paragraphs 3~4단락 작성 필수]" if is_foreign else "[국내언론 - body_paragraphs 빈 배열 [] 반환]"
         target_count = min(feed["limit"], len(entries))
-        prompt_lines.append(f"=== [feed_type: stock | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) | 선택 개수: {target_count}개 ===")
+        prompt_lines.append(
+            f"=== [feed_type: stock | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) {body_mode_tag} | 선택 개수: {target_count}개 ==="
+        )
         for a_idx, entry in enumerate(entries):
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
             prompt_lines.append(f"ID: {a_idx} | Title: {entry.title} | Snippet: {snippet}")
@@ -782,14 +900,19 @@ def fetch_all_briefing_data(watchlist: list[dict]):
 
     prompt_lines.append("================ (C) 관심종목별 시세 및 관련 뉴스 후보군 (stock_reports) ================")
     for s_idx, stock in enumerate(watchlist):
+        if s_idx in reused_stock_indices:
+            continue
         q_info = watchlist_quotes[s_idx]
         entries = watchlist_candidates[s_idx]
+        entry_caches = watchlist_entry_cache[s_idx]
         prompt_lines.append(
             f"=== [Stock Index: {s_idx}] 종목명: {q_info['name']} | Symbol: {q_info['symbol']} | 현재가: {q_info['value']} ({q_info['change']}) | 관련 뉴스 3~5개 선택 ==="
         )
         for a_idx, entry in enumerate(entries):
+            is_cached = entry_caches[a_idx] is not None
+            cache_tag = "[캐시됨 - 제목/요약/본문 빈 값 반환]" if is_cached else "[신규]"
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
-            prompt_lines.append(f"ID: {a_idx} | Title: {entry.title} | Snippet: {snippet}")
+            prompt_lines.append(f"ID: {a_idx} | {cache_tag} | Title: {entry.title} | Snippet: {snippet}")
         prompt_lines.append("")
 
     prompt_text = "\n".join(prompt_lines)
@@ -843,19 +966,21 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                     final_img = scraped_img or CATEGORY_FALLBACK_IMAGES.get(feed["category"], CATEGORY_FALLBACK_IMAGES["세계"])
 
                     ai_paras = [p.strip() for p in item.get("body_paragraphs", []) if p.strip()]
-                    full_body = ai_paras if ai_paras else scraped_paras
-
                     summary_lines = [s.strip() for s in item.get("summary_lines", []) if s.strip()][:3]
                     if not summary_lines:
                         summary_lines = ["핵심 요약 정보를 불러왔습니다."]
 
-                    if not full_body:
-                        full_body = summary_lines
+                    # 해외 외신은 Gemini 번역 본문 우선, 국내 언론은 스크래핑 원문 단락 우선 (방안 ③)
+                    if is_foreign:
+                        full_body = ai_paras if ai_paras else (scraped_paras if scraped_paras else summary_lines)
+                    else:
+                        full_body = scraped_paras if len(scraped_paras) >= 2 else (ai_paras if ai_paras else (scraped_paras + summary_lines))
 
                     article_obj = {
                         "category": item.get("signal_label") if (f_type == "stock" and item.get("signal_label")) else feed["category"],
                         "outlet": feed["outlet"],
                         "is_foreign": is_foreign,
+                        "is_reused": False,
                         "original_title": entry.title if is_foreign else "",
                         "title": item.get("translated_title") or entry.title,
                         "link": entry.link,
@@ -873,11 +998,38 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                     else:
                         curated_news.append(article_obj)
 
-                # 관심종목별 등락 분석 리포트 구성
+                # 관심종목별 등락 분석 리포트 구성 (방안 ①·② 캐시 병합 및 is_reused 플래그 부여)
                 report_by_idx = {r.get("stock_index"): r for r in report_items if r.get("stock_index") is not None}
                 for s_idx, q_info in enumerate(watchlist_quotes):
-                    r_item = report_by_idx.get(s_idx, {})
                     entries = watchlist_candidates[s_idx]
+                    entry_caches = watchlist_entry_cache[s_idx]
+                    fundamentals = fetch_stock_fundamentals(watchlist[s_idx], q_info["value"], entries)
+
+                    # 방안 ②: 주가 및 신규 뉴스 변동이 없어 통째로 캐시 재사용하는 종목
+                    if s_idx in reused_stock_indices:
+                        prev_rep = prev_reports_by_symbol[q_info["symbol"].upper()]
+                        reused_rel_list = []
+                        for prev_rel in prev_rep.get("related_articles", []):
+                            copied_rel = dict(prev_rel)
+                            copied_rel["is_reused"] = True
+                            reused_rel_list.append(copied_rel)
+                        curated_reports.append({
+                            "symbol": q_info["symbol"],
+                            "name": q_info["name"],
+                            "market": q_info["market"],
+                            "value": q_info["value"],
+                            "change": q_info["change"],
+                            "up": q_info["up"],
+                            "signal": prev_rep.get("signal") or ("BULL" if q_info["up"] else "BEAR"),
+                            "analysis_headline": prev_rep.get("analysis_headline") or f"{q_info['name']}, {q_info['change']} 변동 핵심 모멘텀 분석",
+                            "key_points": prev_rep.get("key_points", [])[:3],
+                            "analysis_paragraphs": prev_rep.get("analysis_paragraphs", []),
+                            "fundamentals": fundamentals,
+                            "related_articles": reused_rel_list,
+                        })
+                        continue
+
+                    r_item = report_by_idx.get(s_idx, {})
                     fallback_cat = "국내증시" if q_info["market"] == "KR" else "해외증시"
                     related_articles_out = []
 
@@ -886,6 +1038,15 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                         if a_idx is None or not (0 <= a_idx < len(entries)):
                             continue
                         entry = entries[a_idx]
+                        cached_art = entry_caches[a_idx]
+
+                        # 방안 ①: 이전 회차에 이미 생성된 관련 뉴스는 캐시된 본문·요약을 재사용하고 is_reused=True 표시
+                        if cached_art:
+                            reused_obj = dict(cached_art)
+                            reused_obj["is_reused"] = True
+                            related_articles_out.append(reused_obj)
+                            continue
+
                         clean_orig_title, outlet_name = extract_outlet_from_google_title(
                             entry.title, "한국경제" if q_info["market"] == "KR" else "Yahoo Finance"
                         )
@@ -909,6 +1070,7 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                             "category": sig_label,
                             "outlet": outlet_name,
                             "is_foreign": is_foreign,
+                            "is_reused": False,
                             "original_title": clean_orig_title if is_foreign else "",
                             "title": rel.get("translated_title") or clean_orig_title,
                             "link": entry.link,
@@ -922,7 +1084,6 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                         })
 
                     sig_main = r_item.get("signal") or ("BULL" if q_info["up"] else "BEAR")
-                    fundamentals = fetch_stock_fundamentals(watchlist[s_idx], q_info["value"], entries)
                     if r_item.get("earnings_date_note") and not fundamentals.get("earnings_is_confirmed"):
                         fundamentals["earnings_date"] = r_item["earnings_date_note"].strip()
                     curated_reports.append({
