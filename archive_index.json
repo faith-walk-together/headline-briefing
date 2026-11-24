@@ -1,6 +1,15 @@
 {
   "editions": [
     {
+      "id": "26-11-25-AM",
+      "edition": "26-11-25 AM",
+      "last_updated": "2026-11-24T21:09:30.574037+00:00",
+      "file": "archive/26-11-25-AM.json",
+      "article_count": 46,
+      "stock_count": 20,
+      "report_count": 15
+    },
+    {
       "id": "26-11-24-PM",
       "edition": "26-11-24 PM",
       "last_updated": "2026-11-24T09:08:00.799283+00:00",
