@@ -67,8 +67,8 @@ STOCK_RSS_FEEDS = [
     {"category": "국내증시", "outlet": "매일경제", "url": "https://www.mk.co.kr/rss/50200011/", "limit": 3},
     {"category": "국내증시", "outlet": "서울경제", "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C+%EC%A6%9D%EC%8B%9C+OR+%EC%BD%94%EC%8A%A4%ED%94%BC+when:1d&hl=ko&gl=KR&ceid=KR:ko", "limit": 2},
     {"category": "국내증시", "outlet": "조선비즈", "url": "https://biz.chosun.com/arc/outboundfeeds/rss/category/stock/?outputType=xml", "limit": 2},
-    {"category": "해외증시", "outlet": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "limit": 3},
-    {"category": "해외증시", "outlet": "WSJ", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "limit": 3},
+    {"category": "해외증시", "outlet": "CNBC", "url": "https://news.google.com/rss/search?q=stocks+OR+market+OR+earnings+site:cnbc.com+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 3},
+    {"category": "해외증시", "outlet": "WSJ", "url": "https://news.google.com/rss/search?q=stocks+OR+market+OR+earnings+site:wsj.com+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 3},
     {"category": "해외증시", "outlet": "Yahoo Finance", "url": "https://news.google.com/rss/search?q=Yahoo+Finance+stock+market+earnings+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 2},
     {"category": "해외증시", "outlet": "Reuters", "url": "https://news.google.com/rss/search?q=stocks+market+earnings+source:%22Reuters%22+when:1d&hl=en-US&gl=US&ceid=US:en", "limit": 2},
 ]
@@ -697,7 +697,7 @@ def collect_candidates(
     excluded_links: set[str] | None = None,
     excluded_titles: set[str] | None = None,
 ) -> list[list]:
-    """직전 회차에 이미 노출된 기사를 제외하고 신규 기사만 수집 (직전 12시간 이내 우선)"""
+    """직전 회차에 이미 노출된 기사를 제외하고 최근 12시간 이내(cutoff_utc 이후) 신규 기사만 수집"""
     excluded_links = excluded_links or set()
     excluded_titles = excluded_titles or set()
     all_candidates = []
@@ -705,7 +705,6 @@ def collect_candidates(
         print(f"[{idx}] Fetching {feed['category']} from {feed['outlet']}...")
         parsed = parse_rss_feed(feed["url"])
         recent_entries = []
-        older_entries = []
 
         for entry in parsed.entries:
             title = getattr(entry, "title", "").strip()
@@ -717,11 +716,8 @@ def collect_candidates(
             dt = parse_entry_datetime(entry)
             if dt >= cutoff_utc:
                 recent_entries.append(entry)
-            else:
-                older_entries.append(entry)
 
-        combined = recent_entries + older_entries
-        all_candidates.append(combined[:20])
+        all_candidates.append(recent_entries[:20])
     return all_candidates
 
 
@@ -845,12 +841,14 @@ def fetch_all_briefing_data(watchlist: list[dict]):
         f"{len(reused_stock_indices)} / {len(watchlist)}"
     )
 
-    # 2. 단 1회의 Gemini API 호출을 위한 통합 프롬프트 구성 (출력 토큰 최적화 ①·②·③ 반영)
+    # 2. 단 1회의 Gemini API 호출을 위한 통합 프롬프트 구성 (출력 토큰 최적화 ①·②·③ 및 최근 12시간 이내 엄격 제한 반영)
     prompt_lines = [
         "당신은 글로벌 뉴스 매거진 및 증시 브리핑 편집장입니다.",
-        "아래에는 (A) 일반 매거진 신규 뉴스 후보군, (B) 국내외 증시 신규 뉴스 후보군, (C) 사용자 관심종목별 시세 및 뉴스 후보군이 주어집니다.",
+        f"현재 기준 시각(UTC): {now_utc.strftime('%Y-%m-%d %H:%M UTC')} | 집계 허용 기준 시각(최근 12시간 이내): {cutoff_12h.strftime('%Y-%m-%d %H:%M UTC')} 이후",
+        "아래에는 (A) 최근 12시간 이내 발행된 일반 매거진 신규 뉴스 후보군, (B) 최근 12시간 이내 발행된 국내외 증시 신규 뉴스 후보군, (C) 사용자 관심종목별 시세 및 뉴스 후보군이 주어집니다.",
         "단 한 번의 응답으로 모든 섹션을 엄선·분석하여 JSON(all_curated_articles, stock_reports)으로 반환하십시오.\n",
-        "[작성 규칙 - all_curated_articles (출력 토큰 절약 규칙 필수 준수)]",
+        "[작성 규칙 - all_curated_articles (출력 토큰 절약 및 최근 12시간 이내 뉴스 엄선 필수)]",
+        f"0. 반드시 최근 12시간 이내({cutoff_12h.strftime('%Y-%m-%d %H:%M UTC')} 이후)에 발행된 최신 뉴스만 엄선하여 집계하십시오. 12시간이 지난 과거 기사나 이미 지나간 옛날 이슈는 절대 선택하지 마십시오.",
         "1. feed_type은 일반 뉴스면 'news', 증시 뉴스면 'stock'으로 지정하십시오.",
         "2. translated_title은 모바일 화면에서 반드시 '한 줄(공백 포함 18~22자 이내)'로 표시될 수 있도록 핵심만 압축한 100% 한국어 헤드라인으로 작성하십시오.",
         "3. summary_lines는 메인 웹진 지면에 노출될 핵심 3줄 요약(문장 3개 배열)입니다.",
@@ -878,8 +876,9 @@ def fetch_all_briefing_data(watchlist: list[dict]):
             f"=== [feed_type: news | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) {body_mode_tag} | 선택 개수: {target_count}개 ==="
         )
         for a_idx, entry in enumerate(entries):
+            pub_str = parse_entry_datetime(entry).strftime("%Y-%m-%d %H:%M UTC")
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
-            prompt_lines.append(f"ID: {a_idx} | Title: {entry.title} | Snippet: {snippet}")
+            prompt_lines.append(f"ID: {a_idx} | PubUTC: {pub_str} | Title: {entry.title} | Snippet: {snippet}")
         prompt_lines.append("")
 
     prompt_lines.append("================ (B) 증시 호재/악재 신규 뉴스 후보군 (feed_type: 'stock') ================")
@@ -894,8 +893,9 @@ def fetch_all_briefing_data(watchlist: list[dict]):
             f"=== [feed_type: stock | Feed Index: {f_idx}] {feed['outlet']} ({feed['category']}) {body_mode_tag} | 선택 개수: {target_count}개 ==="
         )
         for a_idx, entry in enumerate(entries):
+            pub_str = parse_entry_datetime(entry).strftime("%Y-%m-%d %H:%M UTC")
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
-            prompt_lines.append(f"ID: {a_idx} | Title: {entry.title} | Snippet: {snippet}")
+            prompt_lines.append(f"ID: {a_idx} | PubUTC: {pub_str} | Title: {entry.title} | Snippet: {snippet}")
         prompt_lines.append("")
 
     prompt_lines.append("================ (C) 관심종목별 시세 및 관련 뉴스 후보군 (stock_reports) ================")
