@@ -170,7 +170,7 @@ class CuratedStockReport(BaseModel):
         description="주가 등락 배경, 수급·실적·산업 모멘텀, 향후 투자 관전 포인트를 정리한 한국어 상세 등락 분석 단락 배열 (2~3개 단락)"
     )
     related_articles: list[CuratedRelatedArticle] = Field(
-        description="해당 종목의 등락 분석 근거가 된 핵심 관련 뉴스 3~5건"
+        description="해당 종목의 최근 12시간 이내 등락 분석 근거가 된 핵심 관련 뉴스 0~5건 (12시간 이내 후보 기사가 없으면 빈 배열 [], 있으면 최대 5개)"
     )
 
 
@@ -733,18 +733,17 @@ def extract_outlet_from_google_title(raw_title: str, default_outlet: str = " 증
 
 
 def collect_watchlist_candidates(watchlist: list[dict], cutoff_utc: datetime) -> list[list]:
-    """설정된 관심종목별 관련 뉴스를 Google News RSS에서 수집"""
+    """설정된 관심종목별 관련 뉴스를 Google News RSS에서 수집 (최근 12시간 이내 기사만 최대 5개 수집, 없으면 빈 배열)"""
     stock_entries_list = []
     for s_idx, stock in enumerate(watchlist):
         name = stock.get("name", "")
         symbol = stock.get("symbol", "")
         query = stock.get("query") or f"{name} 주가 OR 실적"
-        encoded_q = urllib.parse.quote(f"{query} when:2d")
+        encoded_q = urllib.parse.quote(f"{query} when:1d")
         rss_url = f"https://news.google.com/rss/search?q={encoded_q}&hl=ko&gl=KR&ceid=KR:ko"
         print(f"[Watchlist {s_idx}] Fetching news for {name} ({symbol})...")
         parsed = feedparser.parse(rss_url)
         recent_entries = []
-        older_entries = []
 
         for entry in parsed.entries:
             title = getattr(entry, "title", "")
@@ -753,11 +752,8 @@ def collect_watchlist_candidates(watchlist: list[dict], cutoff_utc: datetime) ->
             dt = parse_entry_datetime(entry)
             if dt >= cutoff_utc:
                 recent_entries.append(entry)
-            else:
-                older_entries.append(entry)
 
-        combined = (recent_entries + older_entries)[:8]
-        stock_entries_list.append(combined)
+        stock_entries_list.append(recent_entries[:5])
     return stock_entries_list
 
 
@@ -832,7 +828,6 @@ def fetch_all_briefing_data(watchlist: list[dict]):
             and prev_rep.get("value") == q_info["value"]
             and prev_rep.get("change") == q_info["change"]
             and new_recent_count == 0
-            and len(prev_rep.get("related_articles", [])) >= 3
         ):
             reused_stock_indices.add(s_idx)
 
@@ -845,7 +840,7 @@ def fetch_all_briefing_data(watchlist: list[dict]):
     prompt_lines = [
         "당신은 글로벌 뉴스 매거진 및 증시 브리핑 편집장입니다.",
         f"현재 기준 시각(UTC): {now_utc.strftime('%Y-%m-%d %H:%M UTC')} | 집계 허용 기준 시각(최근 12시간 이내): {cutoff_12h.strftime('%Y-%m-%d %H:%M UTC')} 이후",
-        "아래에는 (A) 최근 12시간 이내 발행된 일반 매거진 신규 뉴스 후보군, (B) 최근 12시간 이내 발행된 국내외 증시 신규 뉴스 후보군, (C) 사용자 관심종목별 시세 및 뉴스 후보군이 주어집니다.",
+        "아래에는 (A) 최근 12시간 이내 발행된 일반 매거진 신규 뉴스 후보군, (B) 최근 12시간 이내 발행된 국내외 증시 신규 뉴스 후보군, (C) 사용자 관심종목별 시세 및 최근 12시간 이내 뉴스 후보군이 주어집니다.",
         "단 한 번의 응답으로 모든 섹션을 엄선·분석하여 JSON(all_curated_articles, stock_reports)으로 반환하십시오.\n",
         "[작성 규칙 - all_curated_articles (출력 토큰 절약 및 최근 12시간 이내 뉴스 엄선 필수)]",
         f"0. 반드시 최근 12시간 이내({cutoff_12h.strftime('%Y-%m-%d %H:%M UTC')} 이후)에 발행된 최신 뉴스만 엄선하여 집계하십시오. 12시간이 지난 과거 기사나 이미 지나간 옛날 이슈는 절대 선택하지 마십시오.",
@@ -854,12 +849,13 @@ def fetch_all_briefing_data(watchlist: list[dict]):
         "3. summary_lines는 메인 웹진 지면에 노출될 핵심 3줄 요약(문장 3개 배열)입니다.",
         "4. body_paragraphs 작성 규칙 (토큰 절약): 피드 헤더에 [해외외신]으로 표시된 해외 영문/일문 기사만 한국어 뉴스 기사체 본문(3~4단락)으로 작성하고, [국내언론]으로 표시된 한국어 기사는 원문 스크래핑 본문을 사용하므로 body_paragraphs를 반드시 빈 배열 [] 로 반환하십시오.",
         "5. 증시 뉴스(feed_type='stock')는 signal을 'BULL'(호재) 또는 'BEAR'(악재)로 분류하고, signal_label에 '호재 · AI 반도체', '악재 · 이차전지'처럼 직관적인 라벨을 부여하십시오. (일반 뉴스는 signal='', signal_label='')\n",
-        "[작성 규칙 - stock_reports (관심종목 등락 분석 리포트 및 캐시 재활용)]",
+        "[작성 규칙 - stock_reports (관심종목 등락 분석 리포트 및 최근 12시간 관련 뉴스 0~5건)]",
         "1. 아래 (C) 섹션에 나열된 관심종목(stock_index, symbol)마다 현재 주가 등락률과 후보 뉴스들을 종합 분석하여 stock_reports 배열에 작성하십시오.",
         "2. analysis_headline은 해당 종목의 당일 등락 원인과 핵심 모멘텀을 한 줄(22~32자 이내)로 명확히 요약한 한국어 제목입니다.",
         "3. key_points는 주가 등락을 이끈 핵심 요인 3가지를 한국어 문장 3개로 정리한 배열입니다.",
         "4. analysis_paragraphs는 주가 등락 배경, 수급·실적·산업 동향, 향후 관전 포인트를 깊이 있게 서술한 2~3개 한국어 단락 배열입니다.",
-        "5. related_articles는 후보군 중 관련도가 높은 뉴스 3~5건을 선별하되, [신규] 기사를 우선 선택하고 부족할 때만 [캐시됨] 기사를 선택하십시오.",
+        f"5. related_articles는 최근 12시간 이내({cutoff_12h.strftime('%Y-%m-%d %H:%M UTC')} 이후) 발행된 후보 기사 중에서만 최대 5개(0~5건)를 선별하십시오. 후보 기사가 0건이면 빈 배열 [] 로 반환하고, 억지로 개수를 채우려고 12시간이 지난 오래된 기사를 포함하지 마십시오.",
+        "   - 또한 주가가 상승(+)한 종목은 상승 동력이 된 호재('BULL', '호재 · 종목명') 기사를 우선 선별하고, 하락(-)한 종목은 하락 원인이 된 악재('BEAR', '악재 · 종목명') 기사를 우선 선별하되 각 기사의 실제 논조에 맞게 signal과 signal_label을 정확히 지정하십시오.",
         "   - [신규] 기사를 선택한 경우: article_id, translated_title, summary_lines(3문장), body_paragraphs(3~4단락), signal, signal_label을 모두 작성하십시오.",
         "   - [캐시됨] 기사를 선택한 경우: 이미 이전 브리핑에 본문과 요약이 저장되어 있으므로 article_id만 지정하고 translated_title='', summary_lines=[], body_paragraphs=[], signal='', signal_label='' 로 비워서 출력 토큰을 절약하십시오.\n",
         "================ (A) 일반 매거진 신규 뉴스 후보군 (feed_type: 'news') ================",
@@ -905,14 +901,16 @@ def fetch_all_briefing_data(watchlist: list[dict]):
         q_info = watchlist_quotes[s_idx]
         entries = watchlist_candidates[s_idx]
         entry_caches = watchlist_entry_cache[s_idx]
+        target_rel_max = min(5, len(entries))
         prompt_lines.append(
-            f"=== [Stock Index: {s_idx}] 종목명: {q_info['name']} | Symbol: {q_info['symbol']} | 현재가: {q_info['value']} ({q_info['change']}) | 관련 뉴스 3~5개 선택 ==="
+            f"=== [Stock Index: {s_idx}] 종목명: {q_info['name']} | Symbol: {q_info['symbol']} | 현재가: {q_info['value']} ({q_info['change']}) | 관련 뉴스 0~{target_rel_max}개 선택 ==="
         )
         for a_idx, entry in enumerate(entries):
             is_cached = entry_caches[a_idx] is not None
             cache_tag = "[캐시됨 - 제목/요약/본문 빈 값 반환]" if is_cached else "[신규]"
+            pub_str = parse_entry_datetime(entry).strftime("%Y-%m-%d %H:%M UTC")
             snippet = clean_html_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))[:220]
-            prompt_lines.append(f"ID: {a_idx} | {cache_tag} | Title: {entry.title} | Snippet: {snippet}")
+            prompt_lines.append(f"ID: {a_idx} | PubUTC: {pub_str} | {cache_tag} | Title: {entry.title} | Snippet: {snippet}")
         prompt_lines.append("")
 
     prompt_text = "\n".join(prompt_lines)
@@ -1005,14 +1003,16 @@ def fetch_all_briefing_data(watchlist: list[dict]):
                     entry_caches = watchlist_entry_cache[s_idx]
                     fundamentals = fetch_stock_fundamentals(watchlist[s_idx], q_info["value"], entries)
 
-                    # 방안 ②: 주가 및 신규 뉴스 변동이 없어 통째로 캐시 재사용하는 종목
+                    # 방안 ②: 주가 및 신규 뉴스 변동이 없어 통째로 캐시 재사용하는 종목 (단, 관련 뉴스는 최근 12시간 이내 기사만 유지)
                     if s_idx in reused_stock_indices:
                         prev_rep = prev_reports_by_symbol[q_info["symbol"].upper()]
                         reused_rel_list = []
+                        cutoff_iso = cutoff_12h.isoformat()
                         for prev_rel in prev_rep.get("related_articles", []):
-                            copied_rel = dict(prev_rel)
-                            copied_rel["is_reused"] = True
-                            reused_rel_list.append(copied_rel)
+                            if (prev_rel.get("pub_date") or "") >= cutoff_iso:
+                                copied_rel = dict(prev_rel)
+                                copied_rel["is_reused"] = True
+                                reused_rel_list.append(copied_rel)
                         curated_reports.append({
                             "symbol": q_info["symbol"],
                             "name": q_info["name"],

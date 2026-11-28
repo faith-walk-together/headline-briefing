@@ -939,55 +939,68 @@ export default function ReportScreen() {
               </View>
 
               <View style={styles.relatedLinksList}>
-                {activeReport.related_articles.map((article, idx) => {
-                  const artBull =
-                    article.signal === 'BULL' || article.category.startsWith('호재');
-                  const artBear =
-                    article.signal === 'BEAR' || article.category.startsWith('악재');
-                  const tagColor = artBull
-                    ? bullColor
-                    : artBear
-                      ? bearColor
-                      : accentColor;
-                  const cleanLabel = (article.signal_label || article.category).replace(
-                    /^[🔴🔵]\s*/,
-                    ''
-                  );
-                  const isReused = Boolean(article.is_reused);
+                {activeReport.related_articles.length === 0 ? (
+                  <View
+                    style={[
+                      styles.relatedNewsLinkCard,
+                      { backgroundColor: cardColor, borderColor },
+                    ]}
+                  >
+                    <Text style={[styles.relatedOutletText, { color: subtextColor }]}>
+                      최근 12시간 이내 보도된 관련 주요 뉴스가 없습니다. 상단 날짜 버튼에서 이전 브리핑 회차를 조회하실 수 있습니다.
+                    </Text>
+                  </View>
+                ) : (
+                  activeReport.related_articles.map((article, idx) => {
+                    const artBull =
+                      article.signal === 'BULL' || article.category.startsWith('호재');
+                    const artBear =
+                      article.signal === 'BEAR' || article.category.startsWith('악재');
+                    const tagColor = artBull
+                      ? bullColor
+                      : artBear
+                        ? bearColor
+                        : accentColor;
+                    const cleanLabel = (article.signal_label || article.category).replace(
+                      /^[🔴🔵]\s*/,
+                      ''
+                    );
+                    const isReused = Boolean(article.is_reused);
 
-                  return (
-                    <TouchableOpacity
-                      key={`${article.link}-${idx}`}
-                      activeOpacity={0.78}
-                      onPress={() => setSelectedArticle(article)}
-                      style={[
-                        styles.relatedNewsLinkCard,
-                        { backgroundColor: cardColor, borderColor },
-                      ]}
-                    >
-                      <View style={styles.relatedNewsLeft}>
-                        <View style={styles.relatedMetaRow}>
-                          <Text style={[styles.relatedSignalText, { color: tagColor }]}>
-                            {cleanLabel}
-                          </Text>
-                          <Text style={[styles.relatedOutletText, { color: subtextColor }]}>
-                            {article.outlet}
-                            {isReused ? ' · 이전 브리핑' : ''}
+                    return (
+                      <TouchableOpacity
+                        key={`${article.link}-${idx}`}
+                        activeOpacity={0.78}
+                        onPress={() => setSelectedArticle(article)}
+                        style={[
+                          styles.relatedNewsLinkCard,
+                          { backgroundColor: cardColor, borderColor },
+                        ]}
+                      >
+                        <View style={styles.relatedNewsLeft}>
+                          <View style={styles.relatedMetaRow}>
+                            <Text style={[styles.relatedSignalText, { color: tagColor }]}>
+                              {cleanLabel}
+                            </Text>
+                            <Text style={[styles.relatedOutletText, { color: subtextColor }]}>
+                              {article.outlet}
+                              {isReused ? ' · 이전 브리핑' : ''}
+                            </Text>
+                          </View>
+                          <Text
+                            style={[
+                              styles.relatedNewsTitle,
+                              { color: isReused ? subtextColor : textColor },
+                            ]}
+                            numberOfLines={2}
+                          >
+                            {article.title}
                           </Text>
                         </View>
-                        <Text
-                          style={[
-                            styles.relatedNewsTitle,
-                            { color: isReused ? subtextColor : textColor },
-                          ]}
-                          numberOfLines={2}
-                        >
-                          {article.title}
-                        </Text>
-                      </View>
-                    </TouchableOpacity>
-                  );
-                })}
+                      </TouchableOpacity>
+                    );
+                  })
+                )}
               </View>
             </View>
           </ScrollView>

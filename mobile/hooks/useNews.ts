@@ -107,31 +107,18 @@ export function useNews() {
           for (const r of data.stock_reports ?? []) {
             const symKey = r.symbol.toUpperCase();
             const localR = mergedReportsMap.get(symKey);
-            const remoteRel = r.related_articles ?? [];
-            const localRel = localR?.related_articles ?? [];
             mergedReportsMap.set(symKey, {
               ...localR,
               ...r,
               fundamentals: r.fundamentals ?? localR?.fundamentals,
-              related_articles:
-                remoteRel.length >= localRel.length ? remoteRel : localRel,
+              related_articles: r.related_articles ?? [],
             });
           }
           const remoteStockArticles: Article[] = data.stock_articles ?? [];
           const localStockArticles: Article[] = localNewsData.stock_articles ?? [];
-          let finalStockArticles = remoteStockArticles.length
+          const finalStockArticles = remoteStockArticles.length
             ? [...remoteStockArticles]
             : [...localStockArticles];
-          if (finalStockArticles.length < 20 && localStockArticles.length > 0) {
-            const seenLinks = new Set(finalStockArticles.map((a) => a.link));
-            for (const item of localStockArticles) {
-              if (!seenLinks.has(item.link)) {
-                finalStockArticles.push(item);
-                seenLinks.add(item.link);
-              }
-              if (finalStockArticles.length >= 20) break;
-            }
-          }
 
           return {
             ...localNewsData,
